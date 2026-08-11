@@ -242,7 +242,8 @@
       "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
       "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
       "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
+      "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -356,7 +357,8 @@
       "108347621",
       "108347385",
       "108347979",
-      "108347991"
+      "108347991",
+      "108347971"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -453,7 +455,8 @@
       "https://canaltech.com.br/inteligencia-artificial/claude-comeca-a-inserir-marca-invisivel-em-textos-escritos-e-revisados-por-ia/",
       "https://canaltech.com.br/carros/nissan-usa-ia-em-fabrica-e-economiza-uma-fortuna/",
       "https://canaltech.com.br/produtos/projeto-secreto-samsung-desenvolve-robo-humanoide-que-ja-supera-rivais-sul-coreanos/",
-      "https://canaltech.com.br/inteligencia-artificial/o-dever-de-agir-da-inteligencia-artificial-quem-responde-diante-de-uma-ameaca/"
+      "https://canaltech.com.br/inteligencia-artificial/o-dever-de-agir-da-inteligencia-artificial-quem-responde-diante-de-uma-ameaca/",
+      "https://canaltech.com.br/ciencia-e-espaco/por-que-as-grandes-empresas-querem-levar-data-centers-de-ia-para-o-espaco/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -498,7 +501,8 @@
       "https://startups.com.br/?p=339318",
       "https://startups.com.br/?p=339370",
       "https://startups.com.br/?p=339583",
-      "https://startups.com.br/?p=339598"
+      "https://startups.com.br/?p=339598",
+      "https://startups.com.br/?p=339630"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -514,30 +518,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agent",
-      "anyone",
-      "build",
-      "guide",
-      "simple"
-    ],
-    [
-      "builds",
-      "centers",
-      "data",
-      "meta"
-    ],
-    [
-      "abbott",
-      "center",
-      "data",
-      "governor",
-      "greg",
-      "meta",
-      "standards",
-      "texas",
-      "upholds"
-    ],
     [
       "demands",
       "increases",
@@ -2308,6 +2288,33 @@
       "meio",
       "meteorologica",
       "previsao"
+    ],
+    [
+      "accelerating",
+      "coreweave",
+      "demand",
+      "doubles",
+      "infrastructure",
+      "pops",
+      "revenue",
+      "stock"
+    ],
+    [
+      "centers",
+      "data",
+      "empresas",
+      "espaco",
+      "grandes",
+      "levar",
+      "querem"
+    ],
+    [
+      "apenas",
+      "levanta",
+      "mercado",
+      "meses",
+      "river",
+      "seed"
     ]
   ]
 }
