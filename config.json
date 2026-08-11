@@ -1,0 +1,394 @@
+{
+  "_comentario_modo": "\"digest\" = uma mensagem por execucao com tudo que apareceu. \"individual\" = uma mensagem por noticia, igual ao radar de futebol.",
+  "modo_notificacao": "digest",
+  "_comentario_listas": "Listas reutilizaveis de palavras. Uma fonte usa com \"filter_keywords_ref\": \"ia\". O casamento e por palavra inteira, sem acento: \"ia\" pega \"IA generativa\" mas nao \"familia\".",
+  "listas_de_palavras": {
+    "ia": [
+      "ia",
+      "ai",
+      "inteligencia artificial",
+      "artificial intelligence",
+      "openai",
+      "chatgpt",
+      "gpt",
+      "anthropic",
+      "claude",
+      "gemini",
+      "deepmind",
+      "copilot",
+      "nvidia",
+      "llm",
+      "llms",
+      "machine learning",
+      "aprendizado de maquina",
+      "generative ai",
+      "deepseek",
+      "grok",
+      "midjourney",
+      "sora",
+      "modelo de linguagem",
+      "agentes",
+      "agente",
+      "ai agent",
+      "chatbot",
+      "algoritmo",
+      "automacao",
+      "robotica",
+      "robotics",
+      "humanoide",
+      "data center",
+      "datacenter",
+      "mistral",
+      "hugging face",
+      "perplexity",
+      "palantir",
+      "big tech",
+      "superinteligencia",
+      "agi"
+    ]
+  },
+  "_comentario_exclude": "Assuntos que nunca viram pauta. Vale para todas as fontes de todos os grupos, e olha titulo e link (por isso pega \"/guia-de-compras/\" na URL).",
+  "exclude_keywords_global": [
+    "cupom",
+    "cupons",
+    "oferta",
+    "ofertas",
+    "promocao",
+    "desconto",
+    "black friday",
+    "guia de compras",
+    "unboxing",
+    "aspirador",
+    "gameplay",
+    "geforce now",
+    "horoscopo",
+    "signo",
+    "novela",
+    "bbb"
+  ],
+  "_comentario_resgate": "Se o item casar com uma palavra acima MAS tambem com uma destas, ele passa mesmo assim.",
+  "exclude_except_global": [
+    "openai",
+    "anthropic",
+    "nvidia",
+    "inteligencia artificial"
+  ],
+  "grupos": {
+    "labs": {
+      "name": "Laboratorios e Big Tech (primeira mao)",
+      "emoji": "🧪",
+      "_comentario": "Anuncio oficial, direto da fonte. Chega antes da imprensa e sem intermediario.",
+      "sources": [
+        {
+          "id": "openai_news",
+          "type": "rss",
+          "name": "OpenAI",
+          "url": "https://openai.com/news/rss.xml"
+        },
+        {
+          "id": "anthropic_news",
+          "type": "scrape_list",
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news",
+          "base_url": "https://www.anthropic.com",
+          "url_pattern": "/news/[a-z0-9-]{8,}",
+          "_comentario": "sem RSS publico; lemos a pagina de noticias direto"
+        },
+        {
+          "id": "google_deepmind",
+          "type": "rss",
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/rss.xml"
+        },
+        {
+          "id": "google_ai_blog",
+          "type": "rss",
+          "name": "Google (blog de IA)",
+          "url": "https://blog.google/technology/ai/rss/",
+          "filter_keywords_ref": "ia",
+          "match_in": "titulo",
+          "_comentario": "o feed mistura produto e eventos (Galaxy Unpacked, dicas de Search)"
+        },
+        {
+          "id": "microsoft_ai",
+          "type": "rss",
+          "name": "Microsoft AI",
+          "url": "https://news.microsoft.com/source/topics/ai/feed/",
+          "filter_keywords_ref": "ia",
+          "match_in": "titulo"
+        },
+        {
+          "id": "meta_newsroom",
+          "type": "rss",
+          "name": "Meta (newsroom)",
+          "url": "https://about.fb.com/news/feed/",
+          "filter_keywords_ref": "ia",
+          "match_in": "titulo",
+          "_comentario": "newsroom cobre tudo da Meta; filtramos so o que e IA"
+        },
+        {
+          "id": "nvidia_blog",
+          "type": "rss",
+          "name": "Nvidia",
+          "url": "https://blogs.nvidia.com/feed/",
+          "filter_keywords_ref": "ia",
+          "match_in": "titulo",
+          "_comentario": "sem match_in titulo, o proprio dominio blogs.nvidia.com faria tudo passar"
+        },
+        {
+          "id": "xai_news",
+          "type": "scrape_list",
+          "name": "xAI (Grok)",
+          "url": "https://x.ai/news",
+          "base_url": "https://x.ai",
+          "url_pattern": "/news/(?!opengraph)[a-z0-9-]{5,}",
+          "title_window": 2500
+        },
+        {
+          "id": "mistral_news",
+          "type": "scrape_list",
+          "name": "Mistral AI",
+          "url": "https://mistral.ai/news",
+          "base_url": "https://mistral.ai",
+          "url_pattern": "/news/[a-z0-9-]{5,}",
+          "title_window": 2500,
+          "_comentario": "a pagina nao expoe o titulo no HTML; chega so o link, cujo endereco ja diz o assunto"
+        }
+      ],
+      "sources_nao_automatizadas": [
+        {
+          "name": "Meta AI (blog tecnico)",
+          "url": "https://ai.meta.com/blog/",
+          "motivo": "servidor devolve 400 para acesso automatizado; o newsroom da Meta cobre os anuncios principais"
+        }
+      ]
+    },
+    "imprensa": {
+      "name": "Imprensa de IA (internacional)",
+      "emoji": "📰",
+      "_comentario": "Cobertura em ingles, normalmente horas antes da imprensa brasileira.",
+      "sources": [
+        {
+          "id": "techcrunch_ai",
+          "type": "rss",
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+        },
+        {
+          "id": "the_verge_ai",
+          "type": "rss",
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+        },
+        {
+          "id": "the_decoder",
+          "type": "rss",
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/feed/"
+        },
+        {
+          "id": "ars_technica_ai",
+          "type": "rss",
+          "name": "Ars Technica AI",
+          "url": "https://arstechnica.com/ai/feed/"
+        },
+        {
+          "id": "venturebeat",
+          "type": "rss",
+          "name": "VentureBeat",
+          "url": "https://venturebeat.com/feed/"
+        },
+        {
+          "id": "mit_tech_review_ai",
+          "type": "rss",
+          "name": "MIT Tech Review (IA)",
+          "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+        },
+        {
+          "id": "wired_ai",
+          "type": "rss",
+          "name": "Wired AI",
+          "url": "https://www.wired.com/feed/tag/ai/latest/rss"
+        },
+        {
+          "id": "platformer",
+          "type": "rss",
+          "name": "Platformer (Casey Newton)",
+          "url": "https://www.platformer.news/rss/"
+        },
+        {
+          "id": "hacker_news_top",
+          "type": "rss",
+          "name": "Hacker News (300+ pontos)",
+          "url": "https://hnrss.org/frontpage?points=300",
+          "filter_keywords_ref": "ia",
+          "_comentario": "so o que virou destaque grande na comunidade tecnica"
+        },
+        {
+          "id": "the_register_ai",
+          "type": "rss",
+          "name": "The Register (IA)",
+          "url": "https://www.theregister.com/software/ai_ml/headlines.atom",
+          "enabled": false,
+          "_comentario": "volume alto e tom sarcastico/critico; ligue mudando enabled para true"
+        }
+      ],
+      "sources_nao_automatizadas": [
+        {
+          "name": "Reuters Technology",
+          "url": "https://www.reuters.com/technology/",
+          "motivo": "feed devolve 401 para acesso automatizado"
+        },
+        {
+          "name": "Bloomberg / The Information",
+          "url": "https://www.bloomberg.com/technology",
+          "motivo": "conteudo pago e bloqueio a leitura automatizada"
+        }
+      ]
+    },
+    "mercado": {
+      "name": "Mercado e negocios",
+      "emoji": "💰",
+      "_comentario": "Dinheiro: rodadas, aquisicoes, resultados, movimento de mercado.",
+      "sources": [
+        {
+          "id": "cnbc_tech",
+          "type": "rss",
+          "name": "CNBC Technology",
+          "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "techcrunch_startups",
+          "type": "rss",
+          "name": "TechCrunch Startups",
+          "url": "https://techcrunch.com/category/startups/feed/",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "crunchbase_news",
+          "type": "rss",
+          "name": "Crunchbase News",
+          "url": "https://news.crunchbase.com/feed/",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "siliconangle",
+          "type": "rss",
+          "name": "SiliconANGLE",
+          "url": "https://siliconangle.com/feed/",
+          "filter_keywords_ref": "ia",
+          "enabled": false,
+          "_comentario": "publica muito por dia; ligue se quiser cobertura corporativa densa"
+        }
+      ]
+    },
+    "brasil": {
+      "name": "Brasil",
+      "emoji": "🇧🇷",
+      "_comentario": "Contexto e linguagem em portugues; chega depois, mas pronto pra usar.",
+      "sources": [
+        {
+          "id": "mit_tech_review_br",
+          "type": "rss",
+          "name": "MIT Tech Review Brasil",
+          "url": "https://mittechreview.com.br/feed/",
+          "filter_keywords_ref": "ia",
+          "_comentario": "a revista cobre ciencia em geral (medicina, energia); so IA/tech interessa aqui"
+        },
+        {
+          "id": "olhar_digital",
+          "type": "rss",
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/feed/",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "tecnoblog",
+          "type": "rss",
+          "name": "Tecnoblog",
+          "url": "https://tecnoblog.net/feed/",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "canaltech",
+          "type": "rss",
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/rss/",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "tecmundo",
+          "type": "rss",
+          "name": "Tecmundo",
+          "url": "https://rss.tecmundo.com.br/feed",
+          "filter_keywords_ref": "ia",
+          "enabled": false,
+          "_comentario": "no teste veio muito review de celular e materia de games com 'IA' no titulo; Tecnoblog e Canaltech cobrem o mesmo com menos ruido"
+        },
+        {
+          "id": "tilt_uol",
+          "type": "rss",
+          "name": "Tilt (UOL)",
+          "url": "https://rss.uol.com.br/feed/tecnologia.xml",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "neofeed",
+          "type": "rss",
+          "name": "NeoFeed",
+          "url": "https://neofeed.com.br/feed/",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "brazil_journal",
+          "type": "rss",
+          "name": "Brazil Journal",
+          "url": "https://braziljournal.com/feed/",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "startups_com_br",
+          "type": "rss",
+          "name": "Startups.com.br",
+          "url": "https://startups.com.br/feed/",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "mobile_time",
+          "type": "rss",
+          "name": "Mobile Time",
+          "url": "https://www.mobiletime.com.br/feed/",
+          "filter_keywords_ref": "ia"
+        },
+        {
+          "id": "it_forum",
+          "type": "rss",
+          "name": "IT Forum",
+          "url": "https://itforum.com.br/feed/",
+          "filter_keywords_ref": "ia",
+          "enabled": false,
+          "_comentario": "TI corporativa, muito anuncio de executivo; ligue se quiser esse angulo"
+        },
+        {
+          "id": "infomoney",
+          "type": "rss",
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/feed/",
+          "filter_keywords_ref": "ia",
+          "enabled": false,
+          "_comentario": "volume enorme de mercado financeiro; ligue se quiser o angulo de bolsa"
+        },
+        {
+          "id": "exame",
+          "type": "rss",
+          "name": "Exame",
+          "url": "https://exame.com/feed/",
+          "filter_keywords_ref": "ia",
+          "enabled": false,
+          "_comentario": "volume alto e generalista; ligue se sentir falta de cobertura de negocios BR"
+        }
+      ]
+    }
+  }
+}

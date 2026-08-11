@@ -1,0 +1,44 @@
+name: Radar de IA
+
+on:
+  schedule:
+    # a cada 30 minutos. Noticia de IA nao tem a urgencia de escalacao de time,
+    # e intervalo maior gasta menos minutos do GitHub Actions.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+# evita que duas execucoes rodem ao mesmo tempo e briguem pelo state.json
+concurrency:
+  group: radar-de-ia
+  cancel-in-progress: false
+
+# necessario para o job conseguir dar "git push" do state.json atualizado
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Rodar monitor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor.py
+
+      - name: Salvar estado atualizado
+        run: |
+          git config user.name "radar-ia-bot"
+          git config user.email "radar-ia-bot@users.noreply.github.com"
+          git add state/state.json
+          git diff --staged --quiet || git commit -m "Atualiza estado do radar de IA [skip ci]"
+          git push
