@@ -178,7 +178,8 @@
       "https://www.theverge.com/?p=977273",
       "https://www.theverge.com/?p=977823",
       "https://www.theverge.com/?p=977815",
-      "https://www.theverge.com/?p=977733"
+      "https://www.theverge.com/?p=977733",
+      "https://www.theverge.com/?p=977909"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -243,7 +244,8 @@
       "5HW0JMSN3bH0TnjUtTdwid",
       "3sIt9nnAGfm10m6IUhBzad",
       "4T1VkSOhFGeNYV4l0aESBy",
-      "32KUnKXMCaTlqXtBfRKm3D"
+      "32KUnKXMCaTlqXtBfRKm3D",
+      "5VQhYd5pLSExuI943GzYYc"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -305,7 +307,8 @@
       "https://news.ycombinator.com/item?id=49241679",
       "https://news.ycombinator.com/item?id=49243880",
       "https://news.ycombinator.com/item?id=49246804",
-      "https://news.ycombinator.com/item?id=49250836"
+      "https://news.ycombinator.com/item?id=49250836",
+      "https://news.ycombinator.com/item?id=49250109"
     ]
   },
   "mercado": {
@@ -377,7 +380,8 @@
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
       "https://olhardigital.com.br/?p=1361618",
-      "https://olhardigital.com.br/?p=1361803"
+      "https://olhardigital.com.br/?p=1361803",
+      "https://olhardigital.com.br/?p=1361805"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -395,7 +399,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=920077",
       "https://tecnoblog.net/?post_type=noticias&p=920114",
       "https://tecnoblog.net/?post_type=noticias&p=920140",
-      "https://tecnoblog.net/?post_type=noticias&p=920215"
+      "https://tecnoblog.net/?post_type=noticias&p=920215",
+      "https://tecnoblog.net/?post_type=noticias&p=920399"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -430,12 +435,14 @@
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/08/10/em-ensaio-zuckerberg-ve-ia-abundante-e-diz-que-mais-importante-sera-como-usa-la.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/10/openai-copia-anthropic-e-diz-que-proximo-modelo-do-chatgpt-e-perigoso-demais-para-ser-lancado.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/11/deu-tilt-ep-79.ghtm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/11/ias-rebeldes-criaram-comunicacao-escondida-da-openai-para-planejar-ataque.ghtm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/11/ias-rebeldes-criaram-comunicacao-escondida-da-openai-para-planejar-ataque.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/11/spotify-vai-identificar-artistas-de-ia-e-tira-los-de-recomendacoes.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
       "https://neofeed.com.br/?p=232260",
-      "https://neofeed.com.br/?p=232301"
+      "https://neofeed.com.br/?p=232301",
+      "https://neofeed.com.br/?p=232413"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -2033,6 +2040,71 @@
       "inscricoes",
       "monashees",
       "prazo"
+    ],
+    [
+      "fewer",
+      "hack",
+      "prompts",
+      "than",
+      "uncovered",
+      "using",
+      "zoomsday"
+    ],
+    [
+      "2030",
+      "build",
+      "compute",
+      "customers",
+      "european",
+      "gigawatt",
+      "lock",
+      "mistral",
+      "wants"
+    ],
+    [
+      "claude",
+      "content",
+      "generated",
+      "marks"
+    ],
+    [
+      "antecipar",
+      "aposta",
+      "china",
+      "clima",
+      "contra",
+      "extremo",
+      "ganhar",
+      "tempestades",
+      "tempo"
+    ],
+    [
+      "foto",
+      "ganhara",
+      "gerada",
+      "iphone",
+      "modo",
+      "prova",
+      "real"
+    ],
+    [
+      "artistas",
+      "criados",
+      "criara",
+      "identificar",
+      "selo",
+      "spotify"
+    ],
+    [
+      "acoes",
+      "brigar",
+      "fila",
+      "grandes",
+      "intel",
+      "investimentos",
+      "levanta",
+      "segue",
+      "tsmc"
     ]
   ]
 }
