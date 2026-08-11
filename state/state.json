@@ -20,7 +20,8 @@
       "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
       "https://openai.com/index/building-an-ai-native-finance-function",
       "https://openai.com/index/model-ml",
-      "https://openai.com/index/responsible-ai-infrastructure-texas"
+      "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "https://openai.com/index/testing-ads-in-chatgpt"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -60,7 +61,8 @@
       "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
       "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+      "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
     ],
     "microsoft_ai": [
       "https://news.microsoft.com/source/?p=24749",
@@ -114,7 +116,9 @@
       "https://x.ai/news/grok-build-mode",
       "https://x.ai/news/grok-voice-think-fast-2",
       "https://x.ai/news/grok-imagine-video-1-5-references",
-      "https://x.ai/news/grok-imagine-image-2"
+      "https://x.ai/news/grok-imagine-image-2",
+      "https://x.ai/news/introducing-grok-bot",
+      "https://x.ai/news/introducing-grok-bot-og"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -155,7 +159,8 @@
       "https://techcrunch.com/?p=3151655",
       "https://techcrunch.com/?p=3151767",
       "https://techcrunch.com/?p=3151799",
-      "https://techcrunch.com/?p=3151643"
+      "https://techcrunch.com/?p=3151643",
+      "https://techcrunch.com/?p=3151819"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -181,7 +186,9 @@
       "https://www.theverge.com/?p=977823",
       "https://www.theverge.com/?p=977815",
       "https://www.theverge.com/?p=977733",
-      "https://www.theverge.com/?p=977909"
+      "https://www.theverge.com/?p=977909",
+      "https://www.theverge.com/?p=977921",
+      "https://www.theverge.com/?post_type=vm_stream&p=977561"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -338,7 +345,8 @@
       "108347567",
       "108347586",
       "108347621",
-      "108347385"
+      "108347385",
+      "108347979"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -387,7 +395,8 @@
       "https://olhardigital.com.br/?p=1361803",
       "https://olhardigital.com.br/?p=1361805",
       "https://olhardigital.com.br/?p=1361822",
-      "https://olhardigital.com.br/?p=1361852"
+      "https://olhardigital.com.br/?p=1361852",
+      "https://olhardigital.com.br/?p=1361903"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -426,7 +435,8 @@
       "https://canaltech.com.br/seguranca/invasor-invisivel-o-que-o-ataque-da-open-ai-ensina-sobre-a-nova-era-da-ciberseguranca/",
       "https://canaltech.com.br/inteligencia-artificial/sessoes-do-claude-code-agora-conversam-entre-si-para-resolver-erros-de-programacao/",
       "https://canaltech.com.br/inteligencia-artificial/recurso-do-gemini-busca-e-conecta-dados-esquecidos-no-google/",
-      "https://canaltech.com.br/eletro/tcl-lanca-ar-condicionado-ultrafino-que-usa-ia-para-gastar-menos-energia/"
+      "https://canaltech.com.br/eletro/tcl-lanca-ar-condicionado-ultrafino-que-usa-ia-para-gastar-menos-energia/",
+      "https://canaltech.com.br/inteligencia-artificial/claude-comeca-a-inserir-marca-invisivel-em-textos-escritos-e-revisados-por-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -446,7 +456,9 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/11/deu-tilt-ep-79.ghtm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/11/ias-rebeldes-criaram-comunicacao-escondida-da-openai-para-planejar-ataque.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/11/spotify-vai-identificar-artistas-de-ia-e-tira-los-de-recomendacoes.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/11/imprensa-francesa-pede-que-orgao-de-defesa-da-concorrencia-acione-google-por-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/11/imprensa-francesa-pede-que-orgao-de-defesa-da-concorrencia-acione-google-por-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/11/nvidia-desenvolve-familia-de-modelos-de-ia-de-codigo-aberto-nemotron-4-diz-the-information.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/11/river-ai-startup-do-cofundador-da-xai-levanta-us11-bi-para-expandir-ferramentas-personalizadas-de-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -481,51 +493,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "mistral"
-    ],
-    [
-      "apple",
-      "confidential",
-      "data",
-      "employees",
-      "have",
-      "more",
-      "openai",
-      "taken"
-    ],
-    [
-      "about",
-      "commerce",
-      "measurement",
-      "problem",
-      "talking"
-    ],
-    [
-      "blog",
-      "discourage",
-      "generated",
-      "images",
-      "reading",
-      "your"
-    ],
-    [
-      "apertam",
-      "artificial",
-      "cerco",
-      "china",
-      "infraestrutura",
-      "inteligencia",
-      "miram"
-    ],
-    [
-      "corta",
-      "deepseek",
-      "dominar",
-      "mercado",
-      "planos",
-      "preco"
-    ],
     [
       "aeroportos",
       "assumem",
@@ -2199,6 +2166,112 @@
       "imprensa",
       "orgao",
       "pede"
+    ],
+    [
+      "chatgpt",
+      "testing"
+    ],
+    [
+      "amie",
+      "capabilities",
+      "clinical",
+      "consultation",
+      "demonstrates",
+      "first",
+      "kind",
+      "medical",
+      "real",
+      "research",
+      "study",
+      "system",
+      "time",
+      "video"
+    ],
+    [
+      "grok",
+      "introducing"
+    ],
+    [
+      "grok"
+    ],
+    [
+      "anthropic",
+      "biggest",
+      "made",
+      "math",
+      "model",
+      "problems",
+      "progress",
+      "unreleased",
+      "unsolved"
+    ],
+    [
+      "apple",
+      "aren",
+      "could",
+      "deepfakes",
+      "help",
+      "iphone",
+      "photos",
+      "prove",
+      "your"
+    ],
+    [
+      "2026",
+      "announcements",
+      "google",
+      "made",
+      "news",
+      "pixel"
+    ],
+    [
+      "brad",
+      "continues",
+      "executive",
+      "leaves",
+      "lightcap",
+      "longtime",
+      "openai",
+      "shakeup"
+    ],
+    [
+      "atalho",
+      "deixar",
+      "google",
+      "jornais",
+      "leitores",
+      "pode",
+      "resumo",
+      "virar"
+    ],
+    [
+      "claude",
+      "comeca",
+      "escritos",
+      "inserir",
+      "invisivel",
+      "marca",
+      "revisados",
+      "textos"
+    ],
+    [
+      "aberto",
+      "codigo",
+      "desenvolve",
+      "familia",
+      "information",
+      "modelos",
+      "nemotron",
+      "nvidia"
+    ],
+    [
+      "cofundador",
+      "expandir",
+      "ferramentas",
+      "levanta",
+      "personalizadas",
+      "river",
+      "startup"
     ]
   ]
 }
