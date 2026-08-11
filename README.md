@@ -70,7 +70,7 @@ conversa no Telegram.
 O workflow roda sozinho a cada 30 minutos. Dá pra disparar na mão em
 **Actions → Radar de IA → Run workflow** pra testar.
 
-O `state/state.json` já vem preenchido com o que estava no ar em 04/08/2026, ou
+O `state/state.json` já vem preenchido com o que estava no ar em 11/08/2026, ou
 seja: ao subir, ele não te manda uma enxurrada de notícia velha — só o que sair
 daí em diante. (Fonte que ainda não tem estado registrado também não notifica na
 primeira execução; só grava o que existe.)
