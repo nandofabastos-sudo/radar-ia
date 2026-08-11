@@ -98,7 +98,9 @@
       "https://blogs.nvidia.com/?p=97170",
       "https://blogs.nvidia.com/?p=95626",
       "https://blogs.nvidia.com/?p=97234&preview=true&preview_id=97234",
-      "https://blogs.nvidia.com/?p=97258"
+      "https://blogs.nvidia.com/?p=97258",
+      "https://blogs.nvidia.com/?p=97256",
+      "https://blogs.nvidia.com/?p=97373"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -149,7 +151,9 @@
       "https://techcrunch.com/?p=3151503",
       "https://techcrunch.com/?p=3151570",
       "https://techcrunch.com/?p=3151655",
-      "https://techcrunch.com/?p=3151767"
+      "https://techcrunch.com/?p=3151767",
+      "https://techcrunch.com/?p=3151799",
+      "https://techcrunch.com/?p=3151643"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -171,7 +175,10 @@
       "https://www.theverge.com/?p=975732",
       "https://www.theverge.com/?p=977395",
       "https://www.theverge.com/?p=977623",
-      "https://www.theverge.com/?p=977273"
+      "https://www.theverge.com/?p=977273",
+      "https://www.theverge.com/?p=977823",
+      "https://www.theverge.com/?p=977815",
+      "https://www.theverge.com/?p=977733"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -193,7 +200,8 @@
       "https://the-decoder.com/?p=38864",
       "https://the-decoder.com/?p=38869",
       "https://the-decoder.com/?p=38873",
-      "https://the-decoder.com/?p=38876"
+      "https://the-decoder.com/?p=38876",
+      "https://the-decoder.com/?p=38880"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -232,7 +240,10 @@
       "55V1YXcjIMj6XreQQtZh2t",
       "4GeYPq6OSgis3jt5h3z4AQ",
       "7AQYSv3042F8nKBd7ZAjYh",
-      "5HW0JMSN3bH0TnjUtTdwid"
+      "5HW0JMSN3bH0TnjUtTdwid",
+      "3sIt9nnAGfm10m6IUhBzad",
+      "4T1VkSOhFGeNYV4l0aESBy",
+      "32KUnKXMCaTlqXtBfRKm3D"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -269,7 +280,8 @@
       "6a7267a652cbcac31bc24d69",
       "6a74f6a1acdf56f645ad2243",
       "69c6b4bc1e74f0a0c774a978",
-      "6a74a62bf37f16f349bca346"
+      "6a74a62bf37f16f349bca346",
+      "6a79e1a5df07565eeae29719"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -317,7 +329,9 @@
       "108347395",
       "108347394",
       "108347567",
-      "108347586"
+      "108347586",
+      "108347621",
+      "108347385"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -362,7 +376,8 @@
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
-      "https://olhardigital.com.br/?p=1361618"
+      "https://olhardigital.com.br/?p=1361618",
+      "https://olhardigital.com.br/?p=1361803"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -396,7 +411,8 @@
       "https://canaltech.com.br/mercado/enquanto-o-mundo-debate-ia-o-brasil-constroi-a-infraestrutura-dela/",
       "https://canaltech.com.br/inteligencia-artificial/meta-lanca-ia-que-roda-sem-internet-no-pc-de-qualquer-pessoa/",
       "https://canaltech.com.br/apps/novo-app-da-caixa-vem-ai-confira-visual-servicos-e-quem-ja-pode-testa-lo/",
-      "https://canaltech.com.br/seguranca/invasor-invisivel-o-que-o-ataque-da-open-ai-ensina-sobre-a-nova-era-da-ciberseguranca/"
+      "https://canaltech.com.br/seguranca/invasor-invisivel-o-que-o-ataque-da-open-ai-ensina-sobre-a-nova-era-da-ciberseguranca/",
+      "https://canaltech.com.br/inteligencia-artificial/sessoes-do-claude-code-agora-conversam-entre-si-para-resolver-erros-de-programacao/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -431,7 +447,8 @@
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
       "https://startups.com.br/?p=339370",
-      "https://startups.com.br/?p=339583"
+      "https://startups.com.br/?p=339583",
+      "https://startups.com.br/?p=339598"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1835,6 +1852,187 @@
       "impressoes",
       "julho",
       "milhoes"
+    ],
+    [
+      "agentic",
+      "deliver",
+      "efficient",
+      "faster",
+      "lightning",
+      "more",
+      "nemo",
+      "nemotron",
+      "nvidia",
+      "smarter",
+      "switchyard"
+    ],
+    [
+      "agents",
+      "community",
+      "fuel",
+      "intelligent",
+      "local",
+      "models",
+      "nvidia",
+      "open",
+      "source"
+    ],
+    [
+      "anthropic",
+      "generated",
+      "models",
+      "text",
+      "watermark",
+      "will"
+    ],
+    [
+      "exclude",
+      "label",
+      "music",
+      "persona",
+      "profiles",
+      "recommendations",
+      "spotify",
+      "their",
+      "will"
+    ],
+    [
+      "apply",
+      "claude",
+      "images",
+      "invisible",
+      "text",
+      "watermarks",
+      "will"
+    ],
+    [
+      "8216",
+      "8217",
+      "music",
+      "personas",
+      "recommend",
+      "spotify"
+    ],
+    [
+      "amazon",
+      "become",
+      "confirmation",
+      "emails",
+      "have",
+      "order",
+      "unhelpful",
+      "your"
+    ],
+    [
+      "anthropic",
+      "chinese",
+      "faces",
+      "headwinds",
+      "investor",
+      "mega",
+      "over",
+      "planned",
+      "political",
+      "rivals",
+      "skepticism"
+    ],
+    [
+      "generate",
+      "image",
+      "just",
+      "nvidia",
+      "open",
+      "second",
+      "seconds",
+      "superchips",
+      "video",
+      "weights"
+    ],
+    [
+      "agent",
+      "motion",
+      "probably",
+      "ready",
+      "sales",
+      "your"
+    ],
+    [
+      "costs",
+      "cutting",
+      "models",
+      "nvidia",
+      "reshuffles",
+      "router",
+      "switchyard",
+      "task",
+      "tests",
+      "third"
+    ],
+    [
+      "anyone",
+      "call",
+      "devices",
+      "other",
+      "over",
+      "screen",
+      "sharing",
+      "take",
+      "zoom"
+    ],
+    [
+      "asset",
+      "investible",
+      "more",
+      "morning",
+      "nvidia",
+      "order",
+      "reserve",
+      "shrinks",
+      "squawk",
+      "trump",
+      "vaccine"
+    ],
+    [
+      "chat",
+      "entered",
+      "first",
+      "huang",
+      "jensen",
+      "model",
+      "nvidia",
+      "open",
+      "since",
+      "source",
+      "unveils"
+    ],
+    [
+      "comum",
+      "instrumento",
+      "robo",
+      "sozinho",
+      "toca",
+      "transforma",
+      "violao"
+    ],
+    [
+      "agora",
+      "claude",
+      "code",
+      "conversam",
+      "entre",
+      "erros",
+      "programacao",
+      "resolver",
+      "sessoes"
+    ],
+    [
+      "estende",
+      "fund",
+      "gama",
+      "google",
+      "inscricoes",
+      "monashees",
+      "prazo"
     ]
   ]
 }
