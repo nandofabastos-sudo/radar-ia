@@ -271,7 +271,12 @@
       "32KUnKXMCaTlqXtBfRKm3D",
       "5VQhYd5pLSExuI943GzYYc",
       "7JO0BbYYiSUAjmkaWOje1c",
-      "4Rq5PLcM0fUB9Gqv8wnUuP"
+      "4Rq5PLcM0fUB9Gqv8wnUuP",
+      "6TlXV1q216cTaQNNldUgw2",
+      "26DkFP2SUmxtYMj1nxS2Kf",
+      "5DLHuH5GazRPZOio8lf31u",
+      "2PovxFJlnj14xoRkmcPwAX",
+      "2le85EAeynlfLmZUbMQI1a"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -369,7 +374,8 @@
       "108347991",
       "108347971",
       "108347984",
-      "108346476"
+      "108346476",
+      "108348233"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -536,60 +542,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "billion",
-      "completed",
-      "employee",
-      "offer",
-      "openai",
-      "reportedly",
-      "tender"
-    ],
-    [
-      "8217",
-      "because",
-      "brakes",
-      "model",
-      "openai",
-      "powerful",
-      "puts",
-      "supposedly"
-    ],
-    [
-      "channel",
-      "eating",
-      "like",
-      "roku",
-      "trough",
-      "watching"
-    ],
-    [
-      "anymore",
-      "denying",
-      "even",
-      "fenix",
-      "flexin",
-      "make",
-      "rubberz",
-      "using"
-    ],
-    [
-      "amazon",
-      "center",
-      "could",
-      "country",
-      "data",
-      "have",
-      "plant",
-      "polluting",
-      "power",
-      "worst"
-    ],
-    [
-      "creating",
-      "detectors",
-      "distrust"
-    ],
     [
       "assistant",
       "check",
@@ -2331,6 +2283,94 @@
       "inherits",
       "openai",
       "race"
+    ],
+    [
+      "agentic",
+      "agents",
+      "cost",
+      "enterprise",
+      "govern",
+      "know",
+      "meter",
+      "orchestration",
+      "organizations",
+      "still",
+      "they",
+      "what"
+    ],
+    [
+      "agent",
+      "answers",
+      "aren",
+      "catching",
+      "context",
+      "data",
+      "enterprises",
+      "governing",
+      "layers",
+      "many",
+      "ones",
+      "their",
+      "twice"
+    ],
+    [
+      "agentic",
+      "burned",
+      "enterprises",
+      "eval",
+      "evaluations",
+      "humans",
+      "least",
+      "likely",
+      "loop",
+      "most",
+      "reliability",
+      "remove"
+    ],
+    [
+      "agent",
+      "agentic",
+      "agents",
+      "enforce",
+      "enterprises",
+      "five",
+      "high",
+      "isolate",
+      "less",
+      "permissions",
+      "risk",
+      "security",
+      "than",
+      "thirds",
+      "time"
+    ],
+    [
+      "blind",
+      "buying",
+      "compute",
+      "costs",
+      "enterprises",
+      "flying",
+      "infrastructure",
+      "speed",
+      "what",
+      "while"
+    ],
+    [
+      "billion",
+      "first",
+      "fund",
+      "largest",
+      "posts",
+      "profit",
+      "record",
+      "reveals",
+      "sovereign",
+      "spacex",
+      "stake",
+      "time",
+      "wealth",
+      "world"
     ]
   ]
 }
