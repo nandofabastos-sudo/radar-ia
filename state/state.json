@@ -168,7 +168,8 @@
       "https://techcrunch.com/?p=3151968",
       "https://techcrunch.com/?p=3152071",
       "https://techcrunch.com/?p=3152063",
-      "https://techcrunch.com/?p=3151839"
+      "https://techcrunch.com/?p=3151839",
+      "https://techcrunch.com/?p=3151847"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -278,7 +279,8 @@
       "26DkFP2SUmxtYMj1nxS2Kf",
       "5DLHuH5GazRPZOio8lf31u",
       "2PovxFJlnj14xoRkmcPwAX",
-      "2le85EAeynlfLmZUbMQI1a"
+      "2le85EAeynlfLmZUbMQI1a",
+      "7r8IBdT0iOvfNCe2cw1yM"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -317,7 +319,9 @@
       "69c6b4bc1e74f0a0c774a978",
       "6a74a62bf37f16f349bca346",
       "6a79e1a5df07565eeae29719",
-      "6a70ce132c2386859193fdee"
+      "6a70ce132c2386859193fdee",
+      "6a763bc7d223b2324a2eae1c",
+      "6a6b8204429e149eff9adc15"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -346,7 +350,8 @@
       "https://news.ycombinator.com/item?id=49257876",
       "https://news.ycombinator.com/item?id=49255710",
       "https://news.ycombinator.com/item?id=49257160",
-      "https://news.ycombinator.com/item?id=49261133"
+      "https://news.ycombinator.com/item?id=49261133",
+      "https://news.ycombinator.com/item?id=49261514"
     ]
   },
   "mercado": {
@@ -380,7 +385,8 @@
       "108346476",
       "108348233",
       "108348265",
-      "108348270"
+      "108348270",
+      "108348166"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -397,7 +403,8 @@
       "https://techcrunch.com/?p=3149757",
       "https://techcrunch.com/?p=3151410",
       "https://techcrunch.com/?p=3151503",
-      "https://techcrunch.com/?p=3151907"
+      "https://techcrunch.com/?p=3151907",
+      "https://techcrunch.com/?p=3151847"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -409,7 +416,8 @@
       "https://news.crunchbase.com/?p=93958",
       "https://news.crunchbase.com/?p=93952",
       "https://news.crunchbase.com/?p=93956",
-      "https://news.crunchbase.com/?p=93957"
+      "https://news.crunchbase.com/?p=93957",
+      "https://news.crunchbase.com/?p=93954"
     ]
   },
   "brasil": {
@@ -440,7 +448,8 @@
       "https://olhardigital.com.br/?p=1361844",
       "https://olhardigital.com.br/?p=1362053",
       "https://olhardigital.com.br/?p=1362130",
-      "https://olhardigital.com.br/?p=1362149"
+      "https://olhardigital.com.br/?p=1362149",
+      "https://olhardigital.com.br/?p=1362164"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -534,7 +543,8 @@
       "https://startups.com.br/?p=339370",
       "https://startups.com.br/?p=339583",
       "https://startups.com.br/?p=339598",
-      "https://startups.com.br/?p=339630"
+      "https://startups.com.br/?p=339630",
+      "https://startups.com.br/?p=339616"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -551,93 +561,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "attackers",
-      "before",
-      "cyber",
-      "defenders",
-      "find",
-      "help",
-      "launches",
-      "openai",
-      "vulnerabilities"
-    ],
-    [
-      "cripples",
-      "finebooks",
-      "language",
-      "model",
-      "scale",
-      "text",
-      "training",
-      "wants"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "editing",
-      "globally",
-      "marks",
-      "outputs",
-      "persist",
-      "some",
-      "through",
-      "watermarks"
-    ],
-    [
-      "billion",
-      "chips",
-      "financing",
-      "guarantees",
-      "infrastructure",
-      "nvidia",
-      "unlock",
-      "value"
-    ],
-    [
-      "anthropic",
-      "billion",
-      "bitcoin",
-      "center",
-      "data",
-      "deal",
-      "miner",
-      "platforms",
-      "riot",
-      "signs"
-    ],
-    [
-      "design",
-      "genome",
-      "large",
-      "models",
-      "used",
-      "viruses"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "design",
-      "hardware",
-      "power",
-      "will"
-    ],
-    [
-      "generated",
-      "hopes",
-      "legit",
-      "music",
-      "suno",
-      "watermarks"
-    ],
-    [
-      "anthropic",
-      "bytedance",
-      "massive",
-      "model",
-      "rival",
-      "trains"
-    ],
     [
       "chatbots",
       "crisis",
@@ -2379,6 +2302,86 @@
       "modelo",
       "openai",
       "super"
+    ],
+    [
+      "almost",
+      "blacksmith",
+      "code",
+      "jumps",
+      "less",
+      "startup",
+      "testing",
+      "than",
+      "valuation",
+      "year"
+    ],
+    [
+      "actually",
+      "betting",
+      "employees",
+      "enterprise",
+      "layer",
+      "million",
+      "missing",
+      "raises",
+      "skan",
+      "watching",
+      "work"
+    ],
+    [
+      "actually",
+      "breaking",
+      "lord",
+      "news",
+      "reporters"
+    ],
+    [
+      "everyone",
+      "explains",
+      "finally",
+      "himself",
+      "interview",
+      "tattoo"
+    ],
+    [
+      "grok"
+    ],
+    [
+      "buildout",
+      "complicates",
+      "costly",
+      "fight",
+      "inflation"
+    ],
+    [
+      "data",
+      "fitness",
+      "funding",
+      "investors",
+      "rebounding",
+      "sector",
+      "snapshot",
+      "startup",
+      "treadmills",
+      "want"
+    ],
+    [
+      "alcanca",
+      "bilhao",
+      "chatbots",
+      "gemini",
+      "jogo",
+      "muda",
+      "usuarios"
+    ],
+    [
+      "agent",
+      "apocalipse",
+      "aposta",
+      "fugir",
+      "result",
+      "service",
+      "shop"
     ]
   ]
 }
