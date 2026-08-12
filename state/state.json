@@ -225,7 +225,9 @@
       "https://the-decoder.com/?p=38880",
       "https://the-decoder.com/?p=38883",
       "https://the-decoder.com/?p=38892",
-      "https://the-decoder.com/?p=38901"
+      "https://the-decoder.com/?p=38901",
+      "https://the-decoder.com/?p=38905",
+      "https://the-decoder.com/?p=38904"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -314,7 +316,8 @@
       "6a74f6a1acdf56f645ad2243",
       "69c6b4bc1e74f0a0c774a978",
       "6a74a62bf37f16f349bca346",
-      "6a79e1a5df07565eeae29719"
+      "6a79e1a5df07565eeae29719",
+      "6a70ce132c2386859193fdee"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -376,7 +379,8 @@
       "108347984",
       "108346476",
       "108348233",
-      "108348265"
+      "108348265",
+      "108348270"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -419,7 +423,8 @@
       "https://mittechreview.com.br/?p=257030",
       "https://mittechreview.com.br/?p=256824",
       "https://mittechreview.com.br/?p=258183",
-      "https://mittechreview.com.br/?p=258548"
+      "https://mittechreview.com.br/?p=258548",
+      "https://mittechreview.com.br/?p=258509"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -546,58 +551,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "begun",
-      "mathematics",
-      "takeover"
-    ],
-    [
-      "agent",
-      "atlassian",
-      "data",
-      "enough",
-      "hidden",
-      "rovo",
-      "sensitive",
-      "steal",
-      "text",
-      "through"
-    ],
-    [
-      "acquires",
-      "bring",
-      "chatgpt",
-      "generated",
-      "into",
-      "nextslide",
-      "openai",
-      "presentations"
-    ],
-    [
-      "agent",
-      "book",
-      "class",
-      "hacked",
-      "instead",
-      "move",
-      "site",
-      "told",
-      "user",
-      "waitlist"
-    ],
-    [
-      "auction",
-      "china",
-      "compute",
-      "copy",
-      "meta",
-      "models",
-      "open",
-      "plan",
-      "returns",
-      "sell",
-      "zuckerberg"
-    ],
     [
       "attackers",
       "before",
@@ -2378,6 +2331,54 @@
       "quer",
       "realmente",
       "zuckerberg"
+    ],
+    [
+      "access",
+      "both",
+      "come",
+      "data",
+      "important",
+      "limits",
+      "mistral",
+      "offers",
+      "priority",
+      "processing"
+    ],
+    [
+      "both",
+      "code",
+      "crushed",
+      "deepseek",
+      "flash",
+      "gets",
+      "microsoft",
+      "performance",
+      "price"
+    ],
+    [
+      "about",
+      "online",
+      "thinking",
+      "trends",
+      "wrong"
+    ],
+    [
+      "after",
+      "cleaner",
+      "coreweave",
+      "happening",
+      "here",
+      "premarket",
+      "quarter",
+      "surges",
+      "what"
+    ],
+    [
+      "atua",
+      "hacker",
+      "modelo",
+      "openai",
+      "super"
     ]
   ]
 }
