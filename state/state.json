@@ -375,7 +375,8 @@
       "108347971",
       "108347984",
       "108346476",
-      "108348233"
+      "108348233",
+      "108348265"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -417,7 +418,8 @@
       "https://mittechreview.com.br/?p=257075",
       "https://mittechreview.com.br/?p=257030",
       "https://mittechreview.com.br/?p=256824",
-      "https://mittechreview.com.br/?p=258183"
+      "https://mittechreview.com.br/?p=258183",
+      "https://mittechreview.com.br/?p=258548"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -432,7 +434,8 @@
       "https://olhardigital.com.br/?p=1361991",
       "https://olhardigital.com.br/?p=1361844",
       "https://olhardigital.com.br/?p=1362053",
-      "https://olhardigital.com.br/?p=1362130"
+      "https://olhardigital.com.br/?p=1362130",
+      "https://olhardigital.com.br/?p=1362149"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -504,7 +507,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/11/ibm-e-together-ai-fecham-acordo-de-us240-mi-para-cluster-de-inferencia-de-ia-com-tecnologia-nvidia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/11/modelo-da-anthropic-avanca-em-problema-de-150-anos-da-matematica.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/11/claude-tera-marca-dagua-que-indica-se-texto-ou-arquivo-foi-criado-com-ia.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/11/china-aposta-na-previsao-meteorologica-com-ia-em-meio-a-eventos-extremos.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/11/china-aposta-na-previsao-meteorologica-com-ia-em-meio-a-eventos-extremos.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/12/o-que-mark-zuckerberg-realmente-quer-com-seu-mega-manifesto-sobre-futuro-da-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -542,40 +546,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "assistant",
-      "check",
-      "ford",
-      "fuel",
-      "levels",
-      "pressure",
-      "tire",
-      "your"
-    ],
-    [
-      "become",
-      "bose",
-      "happens",
-      "headphones",
-      "what",
-      "when"
-    ],
-    [
-      "8217",
-      "four",
-      "manifesto",
-      "mark",
-      "massive",
-      "takeaways",
-      "zuckerberg"
-    ],
-    [
-      "doesn",
-      "live",
-      "mark",
-      "understand",
-      "zuckerberg"
-    ],
     [
       "begun",
       "mathematics",
@@ -2371,6 +2341,43 @@
       "time",
       "wealth",
       "world"
+    ],
+    [
+      "accelerating",
+      "beat",
+      "chinese",
+      "driven",
+      "games",
+      "giant",
+      "posts",
+      "revenue",
+      "sales",
+      "tech",
+      "tencent"
+    ],
+    [
+      "busca",
+      "estao",
+      "estas",
+      "grande",
+      "inovacao",
+      "proxima",
+      "startups"
+    ],
+    [
+      "anthropic",
+      "cena",
+      "resumo",
+      "roubou"
+    ],
+    [
+      "futuro",
+      "manifesto",
+      "mark",
+      "mega",
+      "quer",
+      "realmente",
+      "zuckerberg"
     ]
   ]
 }
