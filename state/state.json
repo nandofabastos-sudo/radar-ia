@@ -23,7 +23,8 @@
       "https://openai.com/index/responsible-ai-infrastructure-texas",
       "https://openai.com/index/testing-ads-in-chatgpt",
       "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "https://openai.com/index/how-enterprises-put-ai-to-work"
+      "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "https://openai.com/index/ringcentral"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -183,7 +184,8 @@
       "https://techcrunch.com/?p=3152358",
       "https://techcrunch.com/?p=3152464",
       "https://techcrunch.com/?p=3152082",
-      "https://techcrunch.com/?p=3152463"
+      "https://techcrunch.com/?p=3152463",
+      "https://techcrunch.com/?p=3152544"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -278,7 +280,9 @@
       "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
       "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
       "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/"
+      "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+      "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -353,7 +357,8 @@
       "6a763bc7d223b2324a2eae1c",
       "6a6b8204429e149eff9adc15",
       "6a7a5bf4e8bb799c3501e527",
-      "6a763a712f828e528da6c06f"
+      "6a763a712f828e528da6c06f",
+      "6a7b7aabe4e29f02b8c0d64f"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -494,7 +499,8 @@
       "https://olhardigital.com.br/?p=1362149",
       "https://olhardigital.com.br/?p=1362164",
       "https://olhardigital.com.br/?p=1362247",
-      "https://olhardigital.com.br/?p=1362419"
+      "https://olhardigital.com.br/?p=1362419",
+      "https://olhardigital.com.br/?p=1362492"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -550,7 +556,8 @@
       "https://canaltech.com.br/mercado/banco-central-estuda-barrar-ameacas-via-pix-com-ajuda-de-ia/",
       "https://canaltech.com.br/mercado/anpd-amplia-estrutura-para-fiscalizar-ia-biometria-e-protecao-de-criancas/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-bate-1-bilhao-de-usuarios-e-quebra-recorde-historico-do-google/",
-      "https://canaltech.com.br/games/estudo-revela-dado-assustador-sobre-jogos-que-usam-ia-no-steam/"
+      "https://canaltech.com.br/games/estudo-revela-dado-assustador-sobre-jogos-que-usam-ia-no-steam/",
+      "https://canaltech.com.br/inteligencia-artificial/o-que-torna-a-ia-local-particularmente-relevante-no-brasil/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -629,61 +636,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "asimov",
-      "certo",
-      "ciberseguranca",
-      "diretor",
-      "estava",
-      "regras"
-    ],
-    [
-      "bugs",
-      "encontrar",
-      "linus",
-      "linux",
-      "normal",
-      "torvalds",
-      "usando"
-    ],
-    [
-      "centralizacao",
-      "critica",
-      "problema",
-      "regulacao",
-      "zuckerberg"
-    ],
-    [
-      "autonomos",
-      "ciberataques",
-      "freia",
-      "openai",
-      "risco"
-    ],
-    [
-      "botoes",
-      "google",
-      "inicial",
-      "novos",
-      "pagina",
-      "testa"
-    ],
-    [
-      "ajudar",
-      "assistir",
-      "copia",
-      "decidir",
-      "disney",
-      "lanca",
-      "netflix"
-    ],
-    [
-      "medo",
-      "openai",
-      "pausa",
-      "rebelar",
-      "testes"
-    ],
     [
       "editor",
       "grok",
@@ -2458,6 +2410,64 @@
       "investimento",
       "milhoes",
       "processos"
+    ],
+    [
+      "builds",
+      "engineering",
+      "native",
+      "ringcentral",
+      "work"
+    ],
+    [
+      "amazon",
+      "content",
+      "default",
+      "streamers",
+      "they",
+      "train",
+      "twitch",
+      "unless",
+      "will"
+    ],
+    [
+      "amazon",
+      "content",
+      "trained",
+      "twitch",
+      "users",
+      "years"
+    ],
+    [
+      "attack",
+      "chain",
+      "credentials",
+      "leaked",
+      "massive",
+      "supply",
+      "terabytes"
+    ],
+    [
+      "expand",
+      "going",
+      "house",
+      "policy",
+      "white"
+    ],
+    [
+      "area",
+      "controle",
+      "desenvolvimento",
+      "gemini",
+      "google",
+      "reforca",
+      "reorganiza"
+    ],
+    [
+      "brasil",
+      "local",
+      "particularmente",
+      "relevante",
+      "torna"
     ]
   ]
 }
