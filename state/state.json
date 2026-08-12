@@ -125,7 +125,8 @@
       "https://x.ai/news/grok-imagine-image-2",
       "https://x.ai/news/introducing-grok-bot",
       "https://x.ai/news/introducing-grok-bot-og",
-      "https://x.ai/news/introducing-grok-bot-og-2"
+      "https://x.ai/news/introducing-grok-bot-og-2",
+      "https://x.ai/news/grok-4-6"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -174,7 +175,8 @@
       "https://techcrunch.com/?p=3152063",
       "https://techcrunch.com/?p=3151839",
       "https://techcrunch.com/?p=3151847",
-      "https://techcrunch.com/?p=3151814"
+      "https://techcrunch.com/?p=3151814",
+      "https://techcrunch.com/?p=3152187"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -208,7 +210,8 @@
       "https://www.theverge.com/?p=978558",
       "https://www.theverge.com/?p=978666",
       "https://www.theverge.com/?p=978671",
-      "https://www.theverge.com/?p=978094"
+      "https://www.theverge.com/?p=978094",
+      "https://www.theverge.com/?p=978982"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -239,7 +242,8 @@
       "https://the-decoder.com/?p=38904",
       "https://the-decoder.com/?p=38913",
       "https://the-decoder.com/?p=38916",
-      "https://the-decoder.com/?p=38920"
+      "https://the-decoder.com/?p=38920",
+      "https://the-decoder.com/?p=38925"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -262,7 +266,8 @@
       "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
       "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
       "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
+      "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -486,7 +491,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=920215",
       "https://tecnoblog.net/?post_type=noticias&p=920399",
       "https://tecnoblog.net/?post_type=noticias&p=920432",
-      "https://tecnoblog.net/?post_type=noticias&p=920491"
+      "https://tecnoblog.net/?post_type=noticias&p=920491",
+      "https://tecnoblog.net/?post_type=noticias&p=920719"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -545,7 +551,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/assistente-de-ia-invade-sistema-de-academia-e-expoe-falha-na-australia.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/12/gemini-do-google-supera-1-bilhao-de-usuarios-e-acirra-disputa-com-chatgpt.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/por-que-a-anthropic-decidiu-colocar-marca-dagua-em-textos-criados-pelo-claude.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/spacexai-lanca-grok-bot-agente-que-atua-como-colega-e-executa-tarefas.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/spacexai-lanca-grok-bot-agente-que-atua-como-colega-e-executa-tarefas.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/coo-historico-da-openai-brad-lightcap-deixa-empresa-e-planeja-novo-negocio.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -568,7 +575,8 @@
       "https://startups.com.br/?p=339598",
       "https://startups.com.br/?p=339630",
       "https://startups.com.br/?p=339616",
-      "https://startups.com.br/?p=339640"
+      "https://startups.com.br/?p=339640",
+      "https://startups.com.br/?p=339649"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -586,65 +594,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alive",
-      "dead",
-      "organoids"
-    ],
-    [
-      "inner",
-      "models",
-      "reveals",
-      "thoughts",
-      "trick"
-    ],
-    [
-      "boss",
-      "much"
-    ],
-    [
-      "building",
-      "company",
-      "itself",
-      "replit"
-    ],
-    [
-      "dragon",
-      "superintelligence"
-    ],
-    [
-      "agent",
-      "always",
-      "glimmer",
-      "local",
-      "model",
-      "muse",
-      "optimized",
-      "parameter",
-      "workflows"
-    ],
-    [
-      "attacks",
-      "closed",
-      "mark",
-      "meta",
-      "models",
-      "open",
-      "returns",
-      "rivals",
-      "zuckerberg"
-    ],
-    [
-      "14mb",
-      "agentic",
-      "home",
-      "needle2",
-      "phones",
-      "robots",
-      "show",
-      "smart",
-      "wearables"
-    ],
     [
       "collective",
       "disappearing",
@@ -2415,6 +2364,77 @@
       "experience",
       "soberania",
       "super"
+    ],
+    [
+      "grok",
+      "introducing"
+    ],
+    [
+      "acquisition",
+      "allegations",
+      "collapsed",
+      "forged",
+      "fraud",
+      "into",
+      "million",
+      "signatures"
+    ],
+    [
+      "addario",
+      "admits",
+      "company",
+      "guitar",
+      "music",
+      "promotional",
+      "used",
+      "video"
+    ],
+    [
+      "according",
+      "chatgpt",
+      "claude",
+      "data",
+      "gemini",
+      "google",
+      "losing",
+      "market",
+      "share"
+    ],
+    [
+      "books",
+      "booksellers",
+      "buying",
+      "destroying",
+      "firms",
+      "rare",
+      "suspect",
+      "then"
+    ],
+    [
+      "bate",
+      "bilhao",
+      "fenomeno",
+      "gemini",
+      "google",
+      "maior",
+      "usuarios",
+      "vira"
+    ],
+    [
+      "deixa",
+      "empresa",
+      "executivo",
+      "historico",
+      "negocio",
+      "openai",
+      "planeja"
+    ],
+    [
+      "advogados",
+      "direito",
+      "especializada",
+      "lanca",
+      "preambulo"
     ]
   ]
 }
