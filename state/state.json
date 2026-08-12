@@ -22,7 +22,8 @@
       "https://openai.com/index/model-ml",
       "https://openai.com/index/responsible-ai-infrastructure-texas",
       "https://openai.com/index/testing-ads-in-chatgpt",
-      "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+      "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "https://openai.com/index/how-enterprises-put-ai-to-work"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -200,7 +201,9 @@
       "https://www.theverge.com/?post_type=vm_stream&p=977561",
       "https://www.theverge.com/?p=978048",
       "https://www.theverge.com/?p=978113",
-      "https://www.theverge.com/?p=978558"
+      "https://www.theverge.com/?p=978558",
+      "https://www.theverge.com/?p=978666",
+      "https://www.theverge.com/?p=978671"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -228,7 +231,9 @@
       "https://the-decoder.com/?p=38892",
       "https://the-decoder.com/?p=38901",
       "https://the-decoder.com/?p=38905",
-      "https://the-decoder.com/?p=38904"
+      "https://the-decoder.com/?p=38904",
+      "https://the-decoder.com/?p=38913",
+      "https://the-decoder.com/?p=38916"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -386,7 +391,8 @@
       "108348233",
       "108348265",
       "108348270",
-      "108348166"
+      "108348166",
+      "108348072"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -417,7 +423,8 @@
       "https://news.crunchbase.com/?p=93952",
       "https://news.crunchbase.com/?p=93956",
       "https://news.crunchbase.com/?p=93957",
-      "https://news.crunchbase.com/?p=93954"
+      "https://news.crunchbase.com/?p=93954",
+      "https://news.crunchbase.com/?p=93970"
     ]
   },
   "brasil": {
@@ -495,7 +502,9 @@
       "https://canaltech.com.br/produtos/projeto-secreto-samsung-desenvolve-robo-humanoide-que-ja-supera-rivais-sul-coreanos/",
       "https://canaltech.com.br/inteligencia-artificial/o-dever-de-agir-da-inteligencia-artificial-quem-responde-diante-de-uma-ameaca/",
       "https://canaltech.com.br/ciencia-e-espaco/por-que-as-grandes-empresas-querem-levar-data-centers-de-ia-para-o-espaco/",
-      "https://canaltech.com.br/inteligencia-artificial/openai-deixa-de-ter-profissional-responsavel-pela-parte-etica-das-ias/"
+      "https://canaltech.com.br/inteligencia-artificial/openai-deixa-de-ter-profissional-responsavel-pela-parte-etica-das-ias/",
+      "https://canaltech.com.br/apps/apple-testa-selo-de-foto-real-para-provar-que-imagem-nao-e-feita-por-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/spotify-vai-rotular-artistas-de-ia-e-barrar-recomendacoes/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -522,7 +531,10 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/11/modelo-da-anthropic-avanca-em-problema-de-150-anos-da-matematica.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/11/claude-tera-marca-dagua-que-indica-se-texto-ou-arquivo-foi-criado-com-ia.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/11/china-aposta-na-previsao-meteorologica-com-ia-em-meio-a-eventos-extremos.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/12/o-que-mark-zuckerberg-realmente-quer-com-seu-mega-manifesto-sobre-futuro-da-ia.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/12/o-que-mark-zuckerberg-realmente-quer-com-seu-mega-manifesto-sobre-futuro-da-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/assistente-de-ia-invade-sistema-de-academia-e-expoe-falha-na-australia.ghtm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/12/gemini-do-google-supera-1-bilhao-de-usuarios-e-acirra-disputa-com-chatgpt.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/por-que-a-anthropic-decidiu-colocar-marca-dagua-em-textos-criados-pelo-claude.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -544,7 +556,8 @@
       "https://startups.com.br/?p=339583",
       "https://startups.com.br/?p=339598",
       "https://startups.com.br/?p=339630",
-      "https://startups.com.br/?p=339616"
+      "https://startups.com.br/?p=339616",
+      "https://startups.com.br/?p=339640"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -561,128 +574,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "chatbots",
-      "crisis",
-      "failed",
-      "fixed",
-      "have",
-      "people"
-    ],
-    [
-      "alive",
-      "expensive",
-      "more",
-      "moving",
-      "openai",
-      "parts",
-      "seem",
-      "smart",
-      "speaker",
-      "will"
-    ],
-    [
-      "breakthrough",
-      "deepmind",
-      "hurricane",
-      "scientists",
-      "surprised",
-      "weather"
-    ],
-    [
-      "overwhelmed",
-      "peer",
-      "review",
-      "survive"
-    ],
-    [
-      "amazon",
-      "backs",
-      "become",
-      "climate",
-      "plant",
-      "pollution",
-      "power",
-      "source"
-    ],
-    [
-      "another",
-      "meta",
-      "models",
-      "open",
-      "pitches",
-      "reboot",
-      "strategy",
-      "struggling"
-    ],
-    [
-      "agents",
-      "claude",
-      "coding",
-      "coordinating",
-      "enterprise",
-      "four",
-      "opus",
-      "outperformed",
-      "real",
-      "tasks",
-      "time"
-    ],
-    [
-      "agent",
-      "authority",
-      "didn",
-      "exceeded",
-      "hallucinate",
-      "your"
-    ],
-    [
-      "agentic",
-      "comes",
-      "dead",
-      "maxxing",
-      "memory",
-      "next",
-      "token",
-      "what"
-    ],
-    [
-      "agents",
-      "apache",
-      "available",
-      "glimmer",
-      "licensed",
-      "meta",
-      "model",
-      "muse",
-      "open",
-      "optimized",
-      "parameter",
-      "returns",
-      "source"
-    ],
-    [
-      "agents",
-      "anything",
-      "assumes",
-      "brex",
-      "code",
-      "could",
-      "network",
-      "watches"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "code",
-      "codex",
-      "continuum",
-      "integrates",
-      "major",
-      "openai",
-      "push",
-      "security"
-    ],
     [
       "advanced",
       "completion",
@@ -2382,6 +2273,114 @@
       "result",
       "service",
       "shop"
+    ],
+    [
+      "assistance",
+      "enterprises",
+      "execution",
+      "work"
+    ],
+    [
+      "assign",
+      "grok",
+      "teammate",
+      "work"
+    ],
+    [
+      "cancer",
+      "chatgpt",
+      "course",
+      "spawned",
+      "startup",
+      "vaccine"
+    ],
+    [
+      "aims",
+      "already",
+      "chinese",
+      "labs",
+      "nemotron",
+      "nvidia",
+      "parameters",
+      "scale",
+      "surpassed",
+      "trillion"
+    ],
+    [
+      "chinese",
+      "firm",
+      "flag",
+      "labs",
+      "meta",
+      "nvidia",
+      "open",
+      "plant",
+      "race",
+      "very",
+      "weight"
+    ],
+    [
+      "build",
+      "cargo",
+      "clearjet",
+      "exclusive",
+      "raises",
+      "uber"
+    ],
+    [
+      "apple",
+      "feita",
+      "foto",
+      "imagem",
+      "provar",
+      "real",
+      "selo",
+      "testa"
+    ],
+    [
+      "artistas",
+      "barrar",
+      "recomendacoes",
+      "rotular",
+      "spotify"
+    ],
+    [
+      "academia",
+      "agente",
+      "aluno",
+      "cancela",
+      "fila",
+      "fura",
+      "invade",
+      "sistema",
+      "vaga"
+    ],
+    [
+      "acirra",
+      "bilhao",
+      "chatgpt",
+      "disputa",
+      "gemini",
+      "google",
+      "supera",
+      "usuarios"
+    ],
+    [
+      "agua",
+      "arquivos",
+      "claude",
+      "criados",
+      "marca",
+      "tera",
+      "textos"
+    ],
+    [
+      "canal",
+      "futuro",
+      "lanca",
+      "programacao",
+      "roku",
+      "slop"
     ]
   ]
 }
