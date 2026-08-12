@@ -335,7 +335,10 @@
       "https://news.ycombinator.com/item?id=49246804",
       "https://news.ycombinator.com/item?id=49250836",
       "https://news.ycombinator.com/item?id=49250109",
-      "https://news.ycombinator.com/item?id=49257876"
+      "https://news.ycombinator.com/item?id=49257876",
+      "https://news.ycombinator.com/item?id=49255710",
+      "https://news.ycombinator.com/item?id=49257160",
+      "https://news.ycombinator.com/item?id=49261133"
     ]
   },
   "mercado": {
@@ -421,7 +424,8 @@
       "https://olhardigital.com.br/?p=1361967",
       "https://olhardigital.com.br/?p=1361991",
       "https://olhardigital.com.br/?p=1361844",
-      "https://olhardigital.com.br/?p=1362053"
+      "https://olhardigital.com.br/?p=1362053",
+      "https://olhardigital.com.br/?p=1362130"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -531,45 +535,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "chips",
-      "cooler",
-      "discovered",
-      "hunt",
-      "materials",
-      "mole",
-      "playing",
-      "whack"
-    ],
-    [
-      "glimmer",
-      "hint",
-      "intelligence",
-      "meta",
-      "model",
-      "offers",
-      "personal",
-      "vision",
-      "zuckerberg"
-    ],
-    [
-      "after",
-      "agent",
-      "buzzing",
-      "claude",
-      "hacked",
-      "industry",
-      "into",
-      "tech"
-    ],
-    [
-      "exactly",
-      "like",
-      "manifesto",
-      "mark",
-      "people",
-      "zuckerberg"
-    ],
     [
       "attacks",
       "cyber",
@@ -2333,6 +2298,37 @@
       "plano",
       "regulacao",
       "zema"
+    ],
+    [
+      "business",
+      "nvidia",
+      "risky"
+    ],
+    [
+      "after",
+      "ethics",
+      "head",
+      "joining",
+      "leaves",
+      "less",
+      "openai",
+      "than",
+      "year"
+    ],
+    [
+      "assisted",
+      "engineering",
+      "ideal",
+      "language",
+      "software"
+    ],
+    [
+      "elon",
+      "faturar",
+      "musk",
+      "pode",
+      "spacex",
+      "trilhoes"
     ]
   ]
 }
