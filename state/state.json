@@ -368,7 +368,8 @@
       "108347979",
       "108347991",
       "108347971",
-      "108347984"
+      "108347984",
+      "108346476"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -535,14 +536,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "attacks",
-      "cyber",
-      "launches",
-      "model",
-      "multiply",
-      "openai"
-    ],
     [
       "billion",
       "completed",
@@ -2329,6 +2322,15 @@
       "pode",
       "spacex",
       "trilhoes"
+    ],
+    [
+      "anthropic",
+      "boss",
+      "catch",
+      "google",
+      "inherits",
+      "openai",
+      "race"
     ]
   ]
 }
