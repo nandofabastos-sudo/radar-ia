@@ -474,7 +474,8 @@
       "https://mittechreview.com.br/?p=258183",
       "https://mittechreview.com.br/?p=258548",
       "https://mittechreview.com.br/?p=258509",
-      "https://mittechreview.com.br/?p=258526"
+      "https://mittechreview.com.br/?p=258526",
+      "https://mittechreview.com.br/?p=259004"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -516,7 +517,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=920432",
       "https://tecnoblog.net/?post_type=noticias&p=920491",
       "https://tecnoblog.net/?post_type=noticias&p=920719",
-      "https://tecnoblog.net/?post_type=noticias&p=920839"
+      "https://tecnoblog.net/?post_type=noticias&p=920839",
+      "https://tecnoblog.net/?post_type=noticias&p=920843"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -607,7 +609,8 @@
       "https://startups.com.br/?p=339616",
       "https://startups.com.br/?p=339640",
       "https://startups.com.br/?p=339649",
-      "https://startups.com.br/?p=339655"
+      "https://startups.com.br/?p=339655",
+      "https://startups.com.br/?p=339670"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -621,40 +624,11 @@
       "https://www.mobiletime.com.br/?p=860856",
       "https://www.mobiletime.com.br/?p=860902",
       "https://www.mobiletime.com.br/?p=860991",
-      "https://www.mobiletime.com.br/?p=861062"
+      "https://www.mobiletime.com.br/?p=861062",
+      "https://www.mobiletime.com.br/?p=861114"
     ]
   },
   "_titulos_recentes": [
-    [
-      "focada",
-      "games",
-      "lanca",
-      "meta",
-      "programacao"
-    ],
-    [
-      "adobe",
-      "chatgpt",
-      "edicao",
-      "ferramentas",
-      "lanca",
-      "plugin"
-    ],
-    [
-      "brasil",
-      "google",
-      "libera",
-      "modelos",
-      "veja"
-    ],
-    [
-      "antigo",
-      "codigo",
-      "curiosa",
-      "historia",
-      "linux",
-      "removido"
-    ],
     [
       "asimov",
       "certo",
@@ -2451,6 +2425,39 @@
       "entrar",
       "quando",
       "veste"
+    ],
+    [
+      "algoritmos",
+      "chega",
+      "entre",
+      "evidencias",
+      "justica",
+      "saude"
+    ],
+    [
+      "alunos",
+      "artificial",
+      "brasil",
+      "estudar",
+      "inteligencia",
+      "quase",
+      "usam"
+    ],
+    [
+      "500m",
+      "ampliar",
+      "credito",
+      "fidcs",
+      "levanta"
+    ],
+    [
+      "agentes",
+      "aposta",
+      "benner",
+      "criticos",
+      "investimento",
+      "milhoes",
+      "processos"
     ]
   ]
 }
