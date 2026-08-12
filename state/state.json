@@ -176,7 +176,11 @@
       "https://techcrunch.com/?p=3151839",
       "https://techcrunch.com/?p=3151847",
       "https://techcrunch.com/?p=3151814",
-      "https://techcrunch.com/?p=3152187"
+      "https://techcrunch.com/?p=3152187",
+      "https://techcrunch.com/?post_type=tc_podcast&p=3152426",
+      "https://techcrunch.com/?p=3152347",
+      "https://techcrunch.com/?post_type=tc_video&p=3152427",
+      "https://techcrunch.com/?p=3152358"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -243,7 +247,8 @@
       "https://the-decoder.com/?p=38913",
       "https://the-decoder.com/?p=38916",
       "https://the-decoder.com/?p=38920",
-      "https://the-decoder.com/?p=38925"
+      "https://the-decoder.com/?p=38925",
+      "https://the-decoder.com/?p=38931"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -368,7 +373,8 @@
       "https://news.ycombinator.com/item?id=49255710",
       "https://news.ycombinator.com/item?id=49257160",
       "https://news.ycombinator.com/item?id=49261133",
-      "https://news.ycombinator.com/item?id=49261514"
+      "https://news.ycombinator.com/item?id=49261514",
+      "https://news.ycombinator.com/item?id=49271994"
     ]
   },
   "mercado": {
@@ -405,7 +411,8 @@
       "108348270",
       "108348166",
       "108348072",
-      "108348335"
+      "108348335",
+      "108348465"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -423,7 +430,9 @@
       "https://techcrunch.com/?p=3151410",
       "https://techcrunch.com/?p=3151503",
       "https://techcrunch.com/?p=3151907",
-      "https://techcrunch.com/?p=3151847"
+      "https://techcrunch.com/?p=3151847",
+      "https://techcrunch.com/?post_type=tc_podcast&p=3152426",
+      "https://techcrunch.com/?post_type=tc_video&p=3152427"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -452,7 +461,8 @@
       "https://mittechreview.com.br/?p=256824",
       "https://mittechreview.com.br/?p=258183",
       "https://mittechreview.com.br/?p=258548",
-      "https://mittechreview.com.br/?p=258509"
+      "https://mittechreview.com.br/?p=258509",
+      "https://mittechreview.com.br/?p=258526"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -520,7 +530,8 @@
       "https://canaltech.com.br/inteligencia-artificial/openai-deixa-de-ter-profissional-responsavel-pela-parte-etica-das-ias/",
       "https://canaltech.com.br/apps/apple-testa-selo-de-foto-real-para-provar-que-imagem-nao-e-feita-por-ia/",
       "https://canaltech.com.br/inteligencia-artificial/spotify-vai-rotular-artistas-de-ia-e-barrar-recomendacoes/",
-      "https://canaltech.com.br/inteligencia-artificial/manus-ai-volta-a-operar-independente-e-vai-excluir-dados-de-usuarios-da-meta/"
+      "https://canaltech.com.br/inteligencia-artificial/manus-ai-volta-a-operar-independente-e-vai-excluir-dados-de-usuarios-da-meta/",
+      "https://canaltech.com.br/mercado/banco-central-estuda-barrar-ameacas-via-pix-com-ajuda-de-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -552,7 +563,8 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/12/gemini-do-google-supera-1-bilhao-de-usuarios-e-acirra-disputa-com-chatgpt.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/por-que-a-anthropic-decidiu-colocar-marca-dagua-em-textos-criados-pelo-claude.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/spacexai-lanca-grok-bot-agente-que-atua-como-colega-e-executa-tarefas.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/coo-historico-da-openai-brad-lightcap-deixa-empresa-e-planeja-novo-negocio.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/coo-historico-da-openai-brad-lightcap-deixa-empresa-e-planeja-novo-negocio.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/12/grupo-de-defesa-alemao-apresenta-queixa-criminal-contra-oculos-de-ia-da-meta.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -576,7 +588,8 @@
       "https://startups.com.br/?p=339630",
       "https://startups.com.br/?p=339616",
       "https://startups.com.br/?p=339640",
-      "https://startups.com.br/?p=339649"
+      "https://startups.com.br/?p=339649",
+      "https://startups.com.br/?p=339655"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -594,125 +607,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "collective",
-      "disappearing",
-      "eats",
-      "internet",
-      "memory"
-    ],
-    [
-      "amid",
-      "biggest",
-      "buoyant",
-      "chipmaker",
-      "demand",
-      "sales",
-      "surge",
-      "tsmc",
-      "world"
-    ],
-    [
-      "controls",
-      "cybersecurity",
-      "debate",
-      "intensifies",
-      "model",
-      "openai",
-      "over",
-      "risks",
-      "security",
-      "tightens"
-    ],
-    [
-      "call",
-      "clear",
-      "companies",
-      "dems",
-      "hacks",
-      "house",
-      "recent",
-      "risk",
-      "safety",
-      "testify"
-    ],
-    [
-      "anthropic",
-      "meta",
-      "model",
-      "most",
-      "open",
-      "openai",
-      "powerful",
-      "source",
-      "swipe",
-      "takes"
-    ],
-    [
-      "accelerates",
-      "billion",
-      "demand",
-      "intel",
-      "offering",
-      "share",
-      "stock",
-      "upsizes"
-    ],
-    [
-      "after",
-      "alto",
-      "black",
-      "conference",
-      "crowdstrike",
-      "cyber",
-      "illuminates",
-      "palo",
-      "records",
-      "rising",
-      "threat"
-    ],
-    [
-      "agent",
-      "cybersecurity",
-      "daybreak",
-      "evolve",
-      "expands",
-      "initiative",
-      "openai",
-      "threats"
-    ],
-    [
-      "asset",
-      "billion",
-      "chips",
-      "cnbc",
-      "financing",
-      "huang",
-      "investable",
-      "jensen",
-      "lines",
-      "nvidia",
-      "tells"
-    ],
-    [
-      "ahead",
-      "billion",
-      "openai",
-      "potential",
-      "sale",
-      "share",
-      "wraps"
-    ],
-    [
-      "concept",
-      "endorsed",
-      "huang",
-      "jensen",
-      "just",
-      "street",
-      "wall",
-      "what"
-    ],
     [
       "better",
       "lucrative",
@@ -2435,6 +2329,103 @@
       "especializada",
       "lanca",
       "preambulo"
+    ],
+    [
+      "avoid",
+      "enabled",
+      "graveyard",
+      "hardware",
+      "ring",
+      "sandbar",
+      "thinks",
+      "voice"
+    ],
+    [
+      "400m",
+      "another",
+      "confirms",
+      "lovable",
+      "raises",
+      "valuation"
+    ],
+    [
+      "future",
+      "maker",
+      "ring",
+      "sandbar",
+      "stream",
+      "voice",
+      "wearables"
+    ],
+    [
+      "android",
+      "automattic",
+      "comes",
+      "everyone",
+      "mesh"
+    ],
+    [
+      "breast",
+      "cancer",
+      "detection",
+      "expectations",
+      "fall",
+      "radiologists",
+      "short",
+      "tools"
+    ],
+    [
+      "class",
+      "engineering",
+      "middle",
+      "removing",
+      "software"
+    ],
+    [
+      "benign",
+      "data",
+      "earnings",
+      "encouraged",
+      "inflation",
+      "neocloud",
+      "strong",
+      "wednesday"
+    ],
+    [
+      "artificial",
+      "decidiu",
+      "errar",
+      "inteligencia",
+      "maior",
+      "ninguem",
+      "quem",
+      "risco",
+      "saber"
+    ],
+    [
+      "ajuda",
+      "ameacas",
+      "banco",
+      "barrar",
+      "central",
+      "estuda"
+    ],
+    [
+      "alemao",
+      "apresenta",
+      "contra",
+      "criminal",
+      "defesa",
+      "grupo",
+      "meta",
+      "oculos",
+      "queixa"
+    ],
+    [
+      "dizem",
+      "especialistas",
+      "falha",
+      "feature"
     ]
   ]
 }
