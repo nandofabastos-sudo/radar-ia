@@ -104,7 +104,8 @@
       "https://blogs.nvidia.com/?p=97258",
       "https://blogs.nvidia.com/?p=97256",
       "https://blogs.nvidia.com/?p=97373",
-      "https://blogs.nvidia.com/?p=97323"
+      "https://blogs.nvidia.com/?p=97323",
+      "https://blogs.nvidia.com/?p=97441"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -197,7 +198,8 @@
       "https://www.theverge.com/?p=977921",
       "https://www.theverge.com/?post_type=vm_stream&p=977561",
       "https://www.theverge.com/?p=978048",
-      "https://www.theverge.com/?p=978113"
+      "https://www.theverge.com/?p=978113",
+      "https://www.theverge.com/?p=978558"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -417,7 +419,9 @@
       "https://olhardigital.com.br/?p=1361903",
       "https://olhardigital.com.br/?p=1361943",
       "https://olhardigital.com.br/?p=1361967",
-      "https://olhardigital.com.br/?p=1361991"
+      "https://olhardigital.com.br/?p=1361991",
+      "https://olhardigital.com.br/?p=1361844",
+      "https://olhardigital.com.br/?p=1362053"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -522,53 +526,11 @@
       "https://www.mobiletime.com.br/?p=860381",
       "https://www.mobiletime.com.br/?p=860831",
       "https://www.mobiletime.com.br/?p=860856",
-      "https://www.mobiletime.com.br/?p=860902"
+      "https://www.mobiletime.com.br/?p=860902",
+      "https://www.mobiletime.com.br/?p=860991"
     ]
   },
   "_titulos_recentes": [
-    [
-      "grok"
-    ],
-    [
-      "becoming",
-      "risk",
-      "safety",
-      "test"
-    ],
-    [
-      "democracy",
-      "fiction",
-      "historian",
-      "jill",
-      "lepore",
-      "misreads",
-      "science",
-      "silicon",
-      "undermines",
-      "valley"
-    ],
-    [
-      "anthropic",
-      "auto",
-      "claude",
-      "code",
-      "default",
-      "mode",
-      "turning"
-    ],
-    [
-      "400m",
-      "awareness",
-      "chip",
-      "embattled",
-      "foundry",
-      "fund",
-      "hedge",
-      "invests",
-      "situational",
-      "source",
-      "startup"
-    ],
     [
       "chips",
       "cooler",
@@ -2326,6 +2288,51 @@
       "pela",
       "profissional",
       "responsavel"
+    ],
+    [
+      "asset",
+      "becoming",
+      "class",
+      "compute",
+      "factory",
+      "investable",
+      "nvidia"
+    ],
+    [
+      "8217",
+      "chatgpt",
+      "denies",
+      "replacing",
+      "rideshare",
+      "saber",
+      "stimulator",
+      "writers"
+    ],
+    [
+      "anthropic",
+      "busca",
+      "demais",
+      "especialistas",
+      "fiquem",
+      "impedir",
+      "perigosas",
+      "suas"
+    ],
+    [
+      "casos",
+      "fala",
+      "hackeando",
+      "multiplicam",
+      "seguir",
+      "sistemas"
+    ],
+    [
+      "defende",
+      "flexivel",
+      "governo",
+      "plano",
+      "regulacao",
+      "zema"
     ]
   ]
 }
