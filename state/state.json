@@ -180,7 +180,10 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3152426",
       "https://techcrunch.com/?p=3152347",
       "https://techcrunch.com/?post_type=tc_video&p=3152427",
-      "https://techcrunch.com/?p=3152358"
+      "https://techcrunch.com/?p=3152358",
+      "https://techcrunch.com/?p=3152464",
+      "https://techcrunch.com/?p=3152082",
+      "https://techcrunch.com/?p=3152463"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -215,7 +218,8 @@
       "https://www.theverge.com/?p=978666",
       "https://www.theverge.com/?p=978671",
       "https://www.theverge.com/?p=978094",
-      "https://www.theverge.com/?p=978982"
+      "https://www.theverge.com/?p=978982",
+      "https://www.theverge.com/?p=979112"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -248,7 +252,8 @@
       "https://the-decoder.com/?p=38916",
       "https://the-decoder.com/?p=38920",
       "https://the-decoder.com/?p=38925",
-      "https://the-decoder.com/?p=38931"
+      "https://the-decoder.com/?p=38931",
+      "https://the-decoder.com/?p=38935"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -301,7 +306,8 @@
       "5DLHuH5GazRPZOio8lf31u",
       "2PovxFJlnj14xoRkmcPwAX",
       "2le85EAeynlfLmZUbMQI1a",
-      "7r8IBdT0iOvfNCe2cw1yM"
+      "7r8IBdT0iOvfNCe2cw1yM",
+      "20h3oQUu5AOXtHvAJsXUsA"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -316,7 +322,8 @@
       "https://www.technologyreview.com/?p=1141056",
       "https://www.technologyreview.com/?p=1141511",
       "https://www.technologyreview.com/?p=1141384",
-      "https://www.technologyreview.com/?p=1141597"
+      "https://www.technologyreview.com/?p=1141597",
+      "https://www.technologyreview.com/?p=1141032"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -374,7 +381,8 @@
       "https://news.ycombinator.com/item?id=49257160",
       "https://news.ycombinator.com/item?id=49261133",
       "https://news.ycombinator.com/item?id=49261514",
-      "https://news.ycombinator.com/item?id=49271994"
+      "https://news.ycombinator.com/item?id=49271994",
+      "https://news.ycombinator.com/item?id=49274600"
     ]
   },
   "mercado": {
@@ -432,7 +440,8 @@
       "https://techcrunch.com/?p=3151907",
       "https://techcrunch.com/?p=3151847",
       "https://techcrunch.com/?post_type=tc_podcast&p=3152426",
-      "https://techcrunch.com/?post_type=tc_video&p=3152427"
+      "https://techcrunch.com/?post_type=tc_video&p=3152427",
+      "https://techcrunch.com/?p=3152463"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -607,80 +616,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "better",
-      "lucrative",
-      "make",
-      "makes",
-      "prediction",
-      "weather",
-      "windborne"
-    ],
-    [
-      "card",
-      "employee",
-      "gains",
-      "green",
-      "openai",
-      "oversight",
-      "sponsorships",
-      "trump"
-    ],
-    [
-      "district",
-      "former",
-      "hubs",
-      "light",
-      "notorious",
-      "world"
-    ],
-    [
-      "destroying",
-      "exit",
-      "strategy",
-      "value",
-      "your"
-    ],
-    [
-      "built",
-      "edtech",
-      "educator",
-      "former",
-      "give",
-      "money",
-      "nobody",
-      "principal",
-      "startup",
-      "wanted"
-    ],
-    [
-      "biggest",
-      "checks",
-      "funding",
-      "rounds",
-      "week"
-    ],
-    [
-      "afterward",
-      "biggest",
-      "consequence",
-      "happens",
-      "itself",
-      "what"
-    ],
-    [
-      "2025",
-      "2026",
-      "already",
-      "counts",
-      "first",
-      "global",
-      "half",
-      "have",
-      "surpassed",
-      "totals",
-      "unicorn"
-    ],
     [
       "business",
       "change",
@@ -2426,6 +2361,77 @@
       "especialistas",
       "falha",
       "feature"
+    ],
+    [
+      "backed",
+      "bring",
+      "enterprise",
+      "holdings",
+      "openai",
+      "raises",
+      "thrive"
+    ],
+    [
+      "case",
+      "concerns",
+      "make",
+      "mount",
+      "open",
+      "pioneers",
+      "safety",
+      "staying",
+      "three"
+    ],
+    [
+      "already",
+      "coding",
+      "cognition",
+      "raise",
+      "reportedly",
+      "startup",
+      "talks",
+      "valuation"
+    ],
+    [
+      "amazon",
+      "streamers",
+      "training",
+      "twitch"
+    ],
+    [
+      "accuracy",
+      "engineer",
+      "near",
+      "output",
+      "perfect",
+      "prompts",
+      "researchers",
+      "reverse",
+      "text"
+    ],
+    [
+      "analysis",
+      "artificial",
+      "best",
+      "debuts",
+      "grok",
+      "kimi",
+      "matching",
+      "overtaking",
+      "performance",
+      "spacexai",
+      "third",
+      "world"
+    ],
+    [
+      "agents",
+      "data",
+      "scaling",
+      "trustworthy"
+    ],
+    [
+      "0813",
+      "deepseek"
     ]
   ]
 }
