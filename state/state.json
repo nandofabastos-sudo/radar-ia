@@ -50,7 +50,8 @@
       "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
       "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+      "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
     ],
     "google_ai_blog": [
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -84,7 +85,8 @@
       "https://about.fb.com/?p=49743",
       "https://about.fb.com/?p=49771",
       "https://about.fb.com/?p=49845",
-      "https://about.fb.com/?p=49871"
+      "https://about.fb.com/?p=49871",
+      "https://about.fb.com/?p=49900"
     ],
     "nvidia_blog": [
       "https://blogs.nvidia.com/?p=96644",
@@ -106,7 +108,8 @@
       "https://blogs.nvidia.com/?p=97256",
       "https://blogs.nvidia.com/?p=97373",
       "https://blogs.nvidia.com/?p=97323",
-      "https://blogs.nvidia.com/?p=97441"
+      "https://blogs.nvidia.com/?p=97441",
+      "https://blogs.nvidia.com/?p=97450"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -170,7 +173,8 @@
       "https://techcrunch.com/?p=3152071",
       "https://techcrunch.com/?p=3152063",
       "https://techcrunch.com/?p=3151839",
-      "https://techcrunch.com/?p=3151847"
+      "https://techcrunch.com/?p=3151847",
+      "https://techcrunch.com/?p=3151814"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -203,7 +207,8 @@
       "https://www.theverge.com/?p=978113",
       "https://www.theverge.com/?p=978558",
       "https://www.theverge.com/?p=978666",
-      "https://www.theverge.com/?p=978671"
+      "https://www.theverge.com/?p=978671",
+      "https://www.theverge.com/?p=978094"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -233,7 +238,8 @@
       "https://the-decoder.com/?p=38905",
       "https://the-decoder.com/?p=38904",
       "https://the-decoder.com/?p=38913",
-      "https://the-decoder.com/?p=38916"
+      "https://the-decoder.com/?p=38916",
+      "https://the-decoder.com/?p=38920"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -326,7 +332,8 @@
       "6a79e1a5df07565eeae29719",
       "6a70ce132c2386859193fdee",
       "6a763bc7d223b2324a2eae1c",
-      "6a6b8204429e149eff9adc15"
+      "6a6b8204429e149eff9adc15",
+      "6a7a5bf4e8bb799c3501e527"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -392,7 +399,8 @@
       "108348265",
       "108348270",
       "108348166",
-      "108348072"
+      "108348072",
+      "108348335"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -456,7 +464,8 @@
       "https://olhardigital.com.br/?p=1362053",
       "https://olhardigital.com.br/?p=1362130",
       "https://olhardigital.com.br/?p=1362149",
-      "https://olhardigital.com.br/?p=1362164"
+      "https://olhardigital.com.br/?p=1362164",
+      "https://olhardigital.com.br/?p=1362247"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -504,7 +513,8 @@
       "https://canaltech.com.br/ciencia-e-espaco/por-que-as-grandes-empresas-querem-levar-data-centers-de-ia-para-o-espaco/",
       "https://canaltech.com.br/inteligencia-artificial/openai-deixa-de-ter-profissional-responsavel-pela-parte-etica-das-ias/",
       "https://canaltech.com.br/apps/apple-testa-selo-de-foto-real-para-provar-que-imagem-nao-e-feita-por-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/spotify-vai-rotular-artistas-de-ia-e-barrar-recomendacoes/"
+      "https://canaltech.com.br/inteligencia-artificial/spotify-vai-rotular-artistas-de-ia-e-barrar-recomendacoes/",
+      "https://canaltech.com.br/inteligencia-artificial/manus-ai-volta-a-operar-independente-e-vai-excluir-dados-de-usuarios-da-meta/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -534,7 +544,8 @@
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/12/o-que-mark-zuckerberg-realmente-quer-com-seu-mega-manifesto-sobre-futuro-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/assistente-de-ia-invade-sistema-de-academia-e-expoe-falha-na-australia.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/12/gemini-do-google-supera-1-bilhao-de-usuarios-e-acirra-disputa-com-chatgpt.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/por-que-a-anthropic-decidiu-colocar-marca-dagua-em-textos-criados-pelo-claude.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/por-que-a-anthropic-decidiu-colocar-marca-dagua-em-textos-criados-pelo-claude.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/spacexai-lanca-grok-bot-agente-que-atua-como-colega-e-executa-tarefas.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -570,102 +581,11 @@
       "https://www.mobiletime.com.br/?p=860831",
       "https://www.mobiletime.com.br/?p=860856",
       "https://www.mobiletime.com.br/?p=860902",
-      "https://www.mobiletime.com.br/?p=860991"
+      "https://www.mobiletime.com.br/?p=860991",
+      "https://www.mobiletime.com.br/?p=861062"
     ]
   },
   "_titulos_recentes": [
-    [
-      "advanced",
-      "completion",
-      "cyber",
-      "cybersecurity",
-      "launches",
-      "openai",
-      "reduced",
-      "refusals",
-      "tasks"
-    ],
-    [
-      "chasing",
-      "llms",
-      "next",
-      "startups",
-      "these",
-      "thing"
-    ],
-    [
-      "data",
-      "just",
-      "needs",
-      "reasoning",
-      "science"
-    ],
-    [
-      "academic",
-      "negotiating",
-      "professors",
-      "realities",
-      "research"
-    ],
-    [
-      "answering",
-      "chatbot",
-      "hottest",
-      "just",
-      "questions",
-      "your"
-    ],
-    [
-      "create",
-      "scientists",
-      "used",
-      "viruses"
-    ],
-    [
-      "disable",
-      "docs",
-      "gemini",
-      "gmail",
-      "google"
-    ],
-    [
-      "away",
-      "barons",
-      "fortunes",
-      "give",
-      "ready",
-      "their",
-      "these"
-    ],
-    [
-      "here",
-      "lets",
-      "meetily",
-      "meetings",
-      "subscription",
-      "summarize",
-      "transcribe",
-      "without"
-    ],
-    [
-      "interview",
-      "rise"
-    ],
-    [
-      "actually",
-      "backlash",
-      "having",
-      "impact",
-      "slop"
-    ],
-    [
-      "genetic",
-      "helping",
-      "intricate",
-      "puzzle",
-      "schizophrenia",
-      "solve"
-    ],
     [
       "alive",
       "dead",
@@ -2381,6 +2301,120 @@
       "programacao",
       "roku",
       "slop"
+    ],
+    [
+      "hands",
+      "into",
+      "language",
+      "putting",
+      "sign",
+      "users"
+    ],
+    [
+      "announce",
+      "invest",
+      "meta",
+      "nabtu",
+      "partnership",
+      "skilled",
+      "trades"
+    ],
+    [
+      "2026",
+      "best",
+      "ceos",
+      "glassdoor",
+      "list",
+      "nvidia",
+      "tops"
+    ],
+    [
+      "announced",
+      "everything",
+      "features",
+      "gemini",
+      "google",
+      "made",
+      "pixel",
+      "tons",
+      "watch"
+    ],
+    [
+      "deeper",
+      "dives",
+      "google",
+      "health",
+      "into",
+      "pixel",
+      "watch"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "founder",
+      "into",
+      "joins",
+      "lead",
+      "legal",
+      "mahari",
+      "practices",
+      "push",
+      "robert",
+      "startup"
+    ],
+    [
+      "camera",
+      "google",
+      "latest",
+      "pixel",
+      "smartphones",
+      "tricks"
+    ],
+    [
+      "apple",
+      "battle",
+      "center",
+      "gemini",
+      "google",
+      "phone",
+      "pixel",
+      "puts"
+    ],
+    [
+      "autonomo",
+      "aviao",
+      "comandado",
+      "militar",
+      "primeiros",
+      "seus",
+      "testes"
+    ],
+    [
+      "dados",
+      "excluir",
+      "independente",
+      "manus",
+      "meta",
+      "operar",
+      "usuarios",
+      "volta"
+    ],
+    [
+      "agente",
+      "grok",
+      "lanca",
+      "sozinho",
+      "spacexai",
+      "tarefas",
+      "trabalho"
+    ],
+    [
+      "2026",
+      "bots",
+      "debate",
+      "experience",
+      "soberania",
+      "super"
     ]
   ]
 }
