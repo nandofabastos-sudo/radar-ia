@@ -400,7 +400,8 @@
       "6a763a712f828e528da6c06f",
       "6a7b7aabe4e29f02b8c0d64f",
       "6a7a2a8913d9a5bbede86a45",
-      "6a7ccb31f8503d5e8d3678fc"
+      "6a7ccb31f8503d5e8d3678fc",
+      "6a7cfc8e45debd0b63663f75"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -437,7 +438,8 @@
       "https://news.ycombinator.com/item?id=49275385",
       "https://news.ycombinator.com/item?id=49281916",
       "https://news.ycombinator.com/item?id=49285244",
-      "https://news.ycombinator.com/item?id=49289112"
+      "https://news.ycombinator.com/item?id=49289112",
+      "https://news.ycombinator.com/item?id=49289844"
     ]
   },
   "mercado": {
@@ -679,7 +681,8 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/13/videntes-cegos-na-coreia-do-sul-perdem-clientes-para-inteligencia-artificial.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/13/a-semana-em-que-zuckerberg-e-musk-sairam-do-z4-da-ia-e-botaram-medo-nos-lideres.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/whatsapp-testa-alerta-com-ia-no-celular-para-identificar-golpes.ghtm",
-      "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/13/adolescente-e-acusado-de-matar-mae-e-irmao-apos-buscas-no-chatgpt.ghtm"
+      "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/13/adolescente-e-acusado-de-matar-mae-e-irmao-apos-buscas-no-chatgpt.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/chatgpt-passa-a-lembrar-atividades-em-apps-e-sites-no-mac.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -728,55 +731,11 @@
       "https://www.mobiletime.com.br/?p=861126",
       "https://www.mobiletime.com.br/?p=861131",
       "https://www.mobiletime.com.br/?p=861187",
-      "https://www.mobiletime.com.br/?p=861185"
+      "https://www.mobiletime.com.br/?p=861185",
+      "https://www.mobiletime.com.br/?p=861216"
     ]
   },
   "_titulos_recentes": [
-    [
-      "550m",
-      "accel",
-      "after",
-      "closes",
-      "fund",
-      "india",
-      "last",
-      "months",
-      "oversubscribed",
-      "weeks",
-      "within"
-    ],
-    [
-      "agents",
-      "apps",
-      "coworkers",
-      "digital",
-      "grok",
-      "into",
-      "month",
-      "operate",
-      "persistent",
-      "spacexai",
-      "turns",
-      "your"
-    ],
-    [
-      "billion",
-      "china",
-      "faces",
-      "financing",
-      "huang",
-      "jensen",
-      "plan",
-      "risk"
-    ],
-    [
-      "celulares",
-      "descobre",
-      "falha",
-      "invadir",
-      "permitia",
-      "zoom"
-    ],
     [
       "deixa",
       "etica",
@@ -2582,6 +2541,33 @@
       "operacao",
       "precisam",
       "preparar"
+    ],
+    [
+      "inside",
+      "openai",
+      "reckoning",
+      "safety"
+    ],
+    [
+      "accelerating",
+      "ultrafast"
+    ],
+    [
+      "apps",
+      "atividade",
+      "chatgpt",
+      "computador",
+      "memorizar",
+      "sites",
+      "todos"
+    ],
+    [
+      "acesso",
+      "chatgpt",
+      "conta",
+      "dados",
+      "oferece",
+      "picpay"
     ]
   ]
 }
