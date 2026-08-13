@@ -361,7 +361,8 @@
       "6a6b8204429e149eff9adc15",
       "6a7a5bf4e8bb799c3501e527",
       "6a763a712f828e528da6c06f",
-      "6a7b7aabe4e29f02b8c0d64f"
+      "6a7b7aabe4e29f02b8c0d64f",
+      "6a7a2a8913d9a5bbede86a45"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -435,7 +436,8 @@
       "108348335",
       "108348465",
       "108348717",
-      "108348858"
+      "108348858",
+      "108346172"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -600,7 +602,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/por-que-a-anthropic-decidiu-colocar-marca-dagua-em-textos-criados-pelo-claude.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/spacexai-lanca-grok-bot-agente-que-atua-como-colega-e-executa-tarefas.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/coo-historico-da-openai-brad-lightcap-deixa-empresa-e-planeja-novo-negocio.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/12/grupo-de-defesa-alemao-apresenta-queixa-criminal-contra-oculos-de-ia-da-meta.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/12/grupo-de-defesa-alemao-apresenta-queixa-criminal-contra-oculos-de-ia-da-meta.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/com-ia-para-robo-humanos-pensarao-duas-vezes-antes-de-bullying-com-maquina.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -648,30 +651,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alem",
-      "boom",
-      "economia",
-      "espelha",
-      "lucros",
-      "techs",
-      "velha"
-    ],
-    [
-      "bilhoes",
-      "compra",
-      "financiar",
-      "negocio",
-      "nvidia",
-      "proximo",
-      "quem"
-    ],
-    [
-      "1997",
-      "esta",
-      "opiniao",
-      "vivendo"
-    ],
     [
       "apertar",
       "garante",
@@ -2486,6 +2465,37 @@
       "supports",
       "vision",
       "visually"
+    ],
+    [
+      "ahead",
+      "could",
+      "epidemic",
+      "fatty",
+      "help",
+      "liver",
+      "there"
+    ],
+    [
+      "billion",
+      "buildout",
+      "fueled",
+      "hynix",
+      "inside",
+      "korea",
+      "look",
+      "over",
+      "south",
+      "taking"
+    ],
+    [
+      "antes",
+      "bullying",
+      "duas",
+      "humanos",
+      "maquina",
+      "pensarao",
+      "robo",
+      "vezes"
     ]
   ]
 }
