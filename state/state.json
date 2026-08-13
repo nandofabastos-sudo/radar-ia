@@ -198,7 +198,8 @@
       "https://techcrunch.com/?p=3152844",
       "https://techcrunch.com/?p=3152849",
       "https://techcrunch.com/?p=3152914",
-      "https://techcrunch.com/?p=3152875"
+      "https://techcrunch.com/?p=3152875",
+      "https://techcrunch.com/?p=3152870"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -280,7 +281,8 @@
       "https://the-decoder.com/?p=38969",
       "https://the-decoder.com/?p=38979",
       "https://the-decoder.com/?p=39017",
-      "https://the-decoder.com/?p=39024"
+      "https://the-decoder.com/?p=39024",
+      "https://the-decoder.com/?p=39031"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -346,7 +348,8 @@
       "JlKOtZAw1CsCNB4LriHOm",
       "4n9mkJEYB9mXPbd19CqSRA",
       "Mg5d6r5JkyqbXcJfDURku",
-      "017W5EU8WmUPzADxzKpTLI"
+      "017W5EU8WmUPzADxzKpTLI",
+      "5s4nliRe8aMQl0oAyHkrg3"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -529,7 +532,8 @@
       "https://mittechreview.com.br/?p=258509",
       "https://mittechreview.com.br/?p=258526",
       "https://mittechreview.com.br/?p=259004",
-      "https://mittechreview.com.br/?p=259042"
+      "https://mittechreview.com.br/?p=259042",
+      "https://mittechreview.com.br/?p=259325"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -560,7 +564,9 @@
       "https://olhardigital.com.br/?p=1362770",
       "https://olhardigital.com.br/?p=1362775",
       "https://olhardigital.com.br/?p=1362799",
-      "https://olhardigital.com.br/?p=1362838"
+      "https://olhardigital.com.br/?p=1362838",
+      "https://olhardigital.com.br/?p=1362854",
+      "https://olhardigital.com.br/?p=1362879"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -584,7 +590,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=920491",
       "https://tecnoblog.net/?post_type=noticias&p=920719",
       "https://tecnoblog.net/?post_type=noticias&p=920839",
-      "https://tecnoblog.net/?post_type=noticias&p=920843"
+      "https://tecnoblog.net/?post_type=noticias&p=920843",
+      "https://tecnoblog.net/?post_type=noticias&p=921363"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -719,54 +726,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "another",
-      "executive",
-      "openai",
-      "takes"
-    ],
-    [
-      "apis",
-      "proprietary",
-      "reasoning",
-      "stealing",
-      "traces"
-    ],
-    [
-      "anos",
-      "atacar",
-      "ideias",
-      "matematico",
-      "misterio",
-      "testa"
-    ],
-    [
-      "cria",
-      "dorme",
-      "enquanto",
-      "equipe",
-      "spacexai",
-      "trabalha",
-      "voce"
-    ],
-    [
-      "agir",
-      "ameaca",
-      "artificial",
-      "dever",
-      "diante",
-      "inteligencia",
-      "quem",
-      "responde"
-    ],
-    [
-      "anos",
-      "anthropic",
-      "avanca",
-      "matematica",
-      "modelo",
-      "problema"
-    ],
     [
       "agua",
       "arquivo",
@@ -2548,6 +2507,72 @@
       "rodada",
       "sueca",
       "valuation"
+    ],
+    [
+      "190b",
+      "databricks",
+      "investors",
+      "raise",
+      "settled",
+      "valuation",
+      "wanted"
+    ],
+    [
+      "bandmate",
+      "chat",
+      "feature",
+      "lets",
+      "like",
+      "studio",
+      "suno",
+      "talk",
+      "your"
+    ],
+    [
+      "agents",
+      "claude",
+      "conflicting",
+      "didn",
+      "done",
+      "each",
+      "given",
+      "orders",
+      "other",
+      "sabotaged",
+      "server",
+      "shared",
+      "tell",
+      "then",
+      "they",
+      "three",
+      "users",
+      "what"
+    ],
+    [
+      "agir",
+      "caos",
+      "entre",
+      "onde",
+      "ordem",
+      "pode"
+    ],
+    [
+      "cade",
+      "caso",
+      "conteudo",
+      "envolve",
+      "google",
+      "jornais",
+      "pedido",
+      "rejeita"
+    ],
+    [
+      "ficar",
+      "modo",
+      "openai",
+      "pode",
+      "rapido",
+      "vezes"
     ]
   ]
 }
