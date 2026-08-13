@@ -24,7 +24,9 @@
       "https://openai.com/index/testing-ads-in-chatgpt",
       "https://openai.com/index/daybreak-models-are-now-available-on-aws",
       "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "https://openai.com/index/ringcentral"
+      "https://openai.com/index/ringcentral",
+      "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "https://openai.com/index/previewing-ultrafast"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -52,7 +54,8 @@
       "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
       "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
       "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+      "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
     ],
     "google_ai_blog": [
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -229,7 +232,8 @@
       "https://www.theverge.com/?p=979112",
       "https://www.theverge.com/?p=979466",
       "https://www.theverge.com/?p=979370",
-      "https://www.theverge.com/?p=977994"
+      "https://www.theverge.com/?p=977994",
+      "https://www.theverge.com/?p=979345"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -268,7 +272,8 @@
       "https://the-decoder.com/?p=38965",
       "https://the-decoder.com/?p=38966",
       "https://the-decoder.com/?p=38969",
-      "https://the-decoder.com/?p=38979"
+      "https://the-decoder.com/?p=38979",
+      "https://the-decoder.com/?p=39017"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -297,7 +302,8 @@
       "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
       "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
       "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
+      "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -330,7 +336,8 @@
       "20h3oQUu5AOXtHvAJsXUsA",
       "25BzNNF98R8oyiUSeHNY5l",
       "JlKOtZAw1CsCNB4LriHOm",
-      "4n9mkJEYB9mXPbd19CqSRA"
+      "4n9mkJEYB9mXPbd19CqSRA",
+      "Mg5d6r5JkyqbXcJfDURku"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -456,7 +463,8 @@
       "108348717",
       "108348858",
       "108346172",
-      "108348502"
+      "108348502",
+      "108349234"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -536,7 +544,9 @@
       "https://olhardigital.com.br/?p=1362588",
       "https://olhardigital.com.br/?p=1362591",
       "https://olhardigital.com.br/?p=1362706",
-      "https://olhardigital.com.br/?p=1362746"
+      "https://olhardigital.com.br/?p=1362746",
+      "https://olhardigital.com.br/?p=1362750",
+      "https://olhardigital.com.br/?p=1362770"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -635,7 +645,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/12/grupo-de-defesa-alemao-apresenta-queixa-criminal-contra-oculos-de-ia-da-meta.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/com-ia-para-robo-humanos-pensarao-duas-vezes-antes-de-bullying-com-maquina.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/apple-negocia-acordos-com-jornais-para-dar-noticias-atuais-a-siri-com-ia.ghtm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/08/13/videntes-cegos-na-coreia-do-sul-perdem-clientes-para-inteligencia-artificial.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/13/videntes-cegos-na-coreia-do-sul-perdem-clientes-para-inteligencia-artificial.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/13/a-semana-em-que-zuckerberg-e-musk-sairam-do-z4-da-ia-e-botaram-medo-nos-lideres.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/whatsapp-testa-alerta-com-ia-no-celular-para-identificar-golpes.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -681,109 +693,11 @@
       "https://www.mobiletime.com.br/?p=861114",
       "https://www.mobiletime.com.br/?p=861126",
       "https://www.mobiletime.com.br/?p=861131",
-      "https://www.mobiletime.com.br/?p=861187"
+      "https://www.mobiletime.com.br/?p=861187",
+      "https://www.mobiletime.com.br/?p=861185"
     ]
   },
   "_titulos_recentes": [
-    [
-      "becomes",
-      "completed",
-      "driven",
-      "intent",
-      "purchase",
-      "rarely",
-      "sale"
-    ],
-    [
-      "aberto",
-      "aplicacoes",
-      "empresariais",
-      "lanca",
-      "modelo",
-      "nvidia"
-    ],
-    [
-      "carregar",
-      "conteudo",
-      "feito",
-      "marca",
-      "ninguem",
-      "podera"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "gerados",
-      "identificar",
-      "imagens",
-      "pelo",
-      "textos"
-    ],
-    [
-      "busca",
-      "conecta",
-      "dados",
-      "esquecidos",
-      "gemini",
-      "google",
-      "recurso"
-    ],
-    [
-      "condicionado",
-      "energia",
-      "gastar",
-      "lanca",
-      "menos",
-      "ultrafino"
-    ],
-    [
-      "acione",
-      "concorrencia",
-      "defesa",
-      "francesa",
-      "google",
-      "imprensa",
-      "orgao",
-      "pede"
-    ],
-    [
-      "chatgpt",
-      "testing"
-    ],
-    [
-      "amie",
-      "capabilities",
-      "clinical",
-      "consultation",
-      "demonstrates",
-      "first",
-      "kind",
-      "medical",
-      "real",
-      "research",
-      "study",
-      "system",
-      "time",
-      "video"
-    ],
-    [
-      "grok",
-      "introducing"
-    ],
-    [
-      "grok"
-    ],
-    [
-      "anthropic",
-      "biggest",
-      "made",
-      "math",
-      "model",
-      "problems",
-      "progress",
-      "unreleased",
-      "unsolved"
-    ],
     [
       "apple",
       "aren",
@@ -2504,6 +2418,122 @@
       "superar",
       "trilhoes",
       "valuation"
+    ],
+    [
+      "appoints",
+      "chief",
+      "dali",
+      "officer",
+      "openai",
+      "rajic",
+      "revenue"
+    ],
+    [
+      "mode",
+      "previewing",
+      "speed",
+      "ultrafast"
+    ],
+    [
+      "flash",
+      "gemini",
+      "introducing"
+    ],
+    [
+      "like",
+      "look",
+      "more",
+      "music",
+      "production",
+      "real",
+      "suno",
+      "tool",
+      "trying"
+    ],
+    [
+      "agent",
+      "deepseek",
+      "improved",
+      "open",
+      "prices",
+      "raises",
+      "ships",
+      "software",
+      "sources"
+    ],
+    [
+      "after",
+      "announces",
+      "flash",
+      "gemini",
+      "google",
+      "just",
+      "previous",
+      "release",
+      "three",
+      "weeks"
+    ],
+    [
+      "alongside",
+      "claude",
+      "code",
+      "deepseek",
+      "harness",
+      "higher",
+      "launches",
+      "open",
+      "prices",
+      "rival",
+      "source"
+    ],
+    [
+      "chief",
+      "days",
+      "denise",
+      "departure",
+      "dresser",
+      "executive",
+      "leaving",
+      "major",
+      "openai",
+      "revenue",
+      "second"
+    ],
+    [
+      "anthropic",
+      "bilhoes",
+      "israelense",
+      "pagar",
+      "pode",
+      "startup"
+    ],
+    [
+      "adia",
+      "debate",
+      "deepfakes",
+      "deste",
+      "eleicao",
+      "endurecer",
+      "pode",
+      "regras"
+    ],
+    [
+      "botam",
+      "finalmente",
+      "lideres",
+      "musk",
+      "pressao",
+      "saem",
+      "zuckerberg"
+    ],
+    [
+      "agentes",
+      "commerce",
+      "preve",
+      "sites",
+      "terao",
+      "versao",
+      "visa"
     ]
   ]
 }
