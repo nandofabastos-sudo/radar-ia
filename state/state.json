@@ -691,7 +691,8 @@
       "https://neofeed.com.br/?p=232413",
       "https://neofeed.com.br/?p=232586",
       "https://neofeed.com.br/?p=232748",
-      "https://neofeed.com.br/?p=232802"
+      "https://neofeed.com.br/?p=232802",
+      "https://neofeed.com.br/?p=232969"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -736,15 +737,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "deixa",
-      "etica",
-      "openai",
-      "parte",
-      "pela",
-      "profissional",
-      "responsavel"
-    ],
     [
       "asset",
       "becoming",
@@ -2568,6 +2560,15 @@
       "dados",
       "oferece",
       "picpay"
+    ],
+    [
+      "ataques",
+      "custo",
+      "despenca",
+      "golpes",
+      "lado",
+      "multiplicam",
+      "sofisticados"
     ]
   ]
 }
