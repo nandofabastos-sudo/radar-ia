@@ -259,7 +259,9 @@
       "https://the-decoder.com/?p=38931",
       "https://the-decoder.com/?p=38935",
       "https://the-decoder.com/?p=38956",
-      "https://the-decoder.com/?p=38965"
+      "https://the-decoder.com/?p=38965",
+      "https://the-decoder.com/?p=38966",
+      "https://the-decoder.com/?p=38969"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -286,7 +288,8 @@
       "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
       "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
       "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
+      "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -474,7 +477,8 @@
       "https://news.crunchbase.com/?p=93956",
       "https://news.crunchbase.com/?p=93957",
       "https://news.crunchbase.com/?p=93954",
-      "https://news.crunchbase.com/?p=93970"
+      "https://news.crunchbase.com/?p=93970",
+      "https://news.crunchbase.com/?p=93972"
     ]
   },
   "brasil": {
@@ -513,7 +517,9 @@
       "https://olhardigital.com.br/?p=1362419",
       "https://olhardigital.com.br/?p=1362492",
       "https://olhardigital.com.br/?p=1362273",
-      "https://olhardigital.com.br/?p=1362548"
+      "https://olhardigital.com.br/?p=1362548",
+      "https://olhardigital.com.br/?p=1362588",
+      "https://olhardigital.com.br/?p=1362591"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -571,7 +577,8 @@
       "https://canaltech.com.br/inteligencia-artificial/gemini-bate-1-bilhao-de-usuarios-e-quebra-recorde-historico-do-google/",
       "https://canaltech.com.br/games/estudo-revela-dado-assustador-sobre-jogos-que-usam-ia-no-steam/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-torna-a-ia-local-particularmente-relevante-no-brasil/",
-      "https://canaltech.com.br/mercado/skyone-lanca-ia-que-promete-criar-apps-corporativos-em-poucos-minutos/"
+      "https://canaltech.com.br/mercado/skyone-lanca-ia-que-promete-criar-apps-corporativos-em-poucos-minutos/",
+      "https://canaltech.com.br/mercado/factorial-aposta-em-agente-de-ia-para-assumir-tarefas-repetitivas-de-rhs/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -653,69 +660,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "500b",
-      "infraestrutura",
-      "negocia",
-      "nvidia",
-      "pacote"
-    ],
-    [
-      "controle",
-      "falta",
-      "maior",
-      "pode",
-      "risco",
-      "shadow"
-    ],
-    [
-      "adotar",
-      "aumenta",
-      "base",
-      "bradesco",
-      "generativa",
-      "sete",
-      "vezes"
-    ],
-    [
-      "booking",
-      "chatgpt",
-      "impressoes",
-      "julho",
-      "milhoes"
-    ],
-    [
-      "agentic",
-      "deliver",
-      "efficient",
-      "faster",
-      "lightning",
-      "more",
-      "nemo",
-      "nemotron",
-      "nvidia",
-      "smarter",
-      "switchyard"
-    ],
-    [
-      "agents",
-      "community",
-      "fuel",
-      "intelligent",
-      "local",
-      "models",
-      "nvidia",
-      "open",
-      "source"
-    ],
-    [
-      "anthropic",
-      "generated",
-      "models",
-      "text",
-      "watermark",
-      "will"
-    ],
     [
       "exclude",
       "label",
@@ -2501,6 +2445,71 @@
       "kids",
       "their",
       "words"
+    ],
+    [
+      "about",
+      "already",
+      "automated",
+      "fallen",
+      "have",
+      "milestones",
+      "predicted",
+      "research",
+      "researchers",
+      "several",
+      "their",
+      "warned"
+    ],
+    [
+      "adoption",
+      "ceiling",
+      "corporate",
+      "fable",
+      "frontier",
+      "slow",
+      "suggests",
+      "willingness"
+    ],
+    [
+      "claude",
+      "invisible",
+      "letter",
+      "scarlet",
+      "watermark"
+    ],
+    [
+      "became",
+      "carpenter",
+      "construction",
+      "founder",
+      "startup",
+      "teenage",
+      "tools",
+      "trunk"
+    ],
+    [
+      "barrar",
+      "filtro",
+      "menores",
+      "meta",
+      "redes",
+      "sociais"
+    ],
+    [
+      "2026",
+      "deepfakes",
+      "definir",
+      "eleicoes",
+      "limite",
+      "pode"
+    ],
+    [
+      "agente",
+      "aposta",
+      "assumir",
+      "factorial",
+      "repetitivas",
+      "tarefas"
     ]
   ]
 }
