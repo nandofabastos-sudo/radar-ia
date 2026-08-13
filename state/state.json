@@ -433,7 +433,8 @@
       "108348072",
       "108348335",
       "108348465",
-      "108348717"
+      "108348717",
+      "108348858"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -505,7 +506,9 @@
       "https://olhardigital.com.br/?p=1362164",
       "https://olhardigital.com.br/?p=1362247",
       "https://olhardigital.com.br/?p=1362419",
-      "https://olhardigital.com.br/?p=1362492"
+      "https://olhardigital.com.br/?p=1362492",
+      "https://olhardigital.com.br/?p=1362273",
+      "https://olhardigital.com.br/?p=1362548"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -639,45 +642,11 @@
       "https://www.mobiletime.com.br/?p=860991",
       "https://www.mobiletime.com.br/?p=861062",
       "https://www.mobiletime.com.br/?p=861114",
-      "https://www.mobiletime.com.br/?p=861126"
+      "https://www.mobiletime.com.br/?p=861126",
+      "https://www.mobiletime.com.br/?p=861131"
     ]
   },
   "_titulos_recentes": [
-    [
-      "automacao",
-      "deve",
-      "focar",
-      "invencao",
-      "superinteligencia",
-      "zuckerberg"
-    ],
-    [
-      "chatgpt",
-      "copiou",
-      "demais",
-      "openai",
-      "pausou",
-      "perigosa",
-      "rival"
-    ],
-    [
-      "china",
-      "cidade",
-      "cria",
-      "demais",
-      "enfrenta",
-      "problema",
-      "robos"
-    ],
-    [
-      "ataque",
-      "comunicacao",
-      "criaram",
-      "escondida",
-      "openai",
-      "planejar",
-      "rebeldes"
-    ],
     [
       "contra",
       "disparar",
@@ -2476,6 +2445,42 @@
       "outros",
       "pixel",
       "recursos"
+    ],
+    [
+      "about",
+      "back",
+      "bull",
+      "entered",
+      "have",
+      "korea",
+      "market",
+      "month",
+      "roars",
+      "south",
+      "stocks",
+      "trade"
+    ],
+    [
+      "brasil",
+      "chega",
+      "cinema",
+      "festival",
+      "meio",
+      "resistencia",
+      "setor"
+    ],
+    [
+      "apple",
+      "conteudos",
+      "jornalisticos",
+      "quer",
+      "siri"
+    ],
+    [
+      "humano",
+      "luiza",
+      "preponderante",
+      "trajano"
     ]
   ]
 }
