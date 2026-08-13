@@ -258,7 +258,8 @@
       "https://the-decoder.com/?p=38925",
       "https://the-decoder.com/?p=38931",
       "https://the-decoder.com/?p=38935",
-      "https://the-decoder.com/?p=38956"
+      "https://the-decoder.com/?p=38956",
+      "https://the-decoder.com/?p=38965"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -332,7 +333,8 @@
       "https://www.technologyreview.com/?p=1141511",
       "https://www.technologyreview.com/?p=1141384",
       "https://www.technologyreview.com/?p=1141597",
-      "https://www.technologyreview.com/?p=1141032"
+      "https://www.technologyreview.com/?p=1141032",
+      "https://www.technologyreview.com/?p=1141410"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -651,22 +653,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "apertar",
-      "garante",
-      "inflacao",
-      "louis",
-      "menor",
-      "precisa"
-    ],
-    [
-      "ambicao",
-      "ampliando",
-      "esta",
-      "global",
-      "local",
-      "startups"
-    ],
     [
       "500b",
       "infraestrutura",
@@ -2496,6 +2482,25 @@
       "pensarao",
       "robo",
       "vezes"
+    ],
+    [
+      "adding",
+      "anthropic",
+      "brings",
+      "browser",
+      "chrome",
+      "claude",
+      "cowork",
+      "extension",
+      "plugins",
+      "skills"
+    ],
+    [
+      "about",
+      "feel",
+      "kids",
+      "their",
+      "words"
     ]
   ]
 }
