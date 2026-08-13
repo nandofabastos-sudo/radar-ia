@@ -195,7 +195,10 @@
       "https://techcrunch.com/?p=3152741",
       "https://techcrunch.com/?p=3152223",
       "https://techcrunch.com/?p=3152748",
-      "https://techcrunch.com/?p=3152844"
+      "https://techcrunch.com/?p=3152844",
+      "https://techcrunch.com/?p=3152849",
+      "https://techcrunch.com/?p=3152914",
+      "https://techcrunch.com/?p=3152875"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -235,7 +238,8 @@
       "https://www.theverge.com/?p=979466",
       "https://www.theverge.com/?p=979370",
       "https://www.theverge.com/?p=977994",
-      "https://www.theverge.com/?p=979345"
+      "https://www.theverge.com/?p=979345",
+      "https://www.theverge.com/?p=979815"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -275,7 +279,8 @@
       "https://the-decoder.com/?p=38966",
       "https://the-decoder.com/?p=38969",
       "https://the-decoder.com/?p=38979",
-      "https://the-decoder.com/?p=39017"
+      "https://the-decoder.com/?p=39017",
+      "https://the-decoder.com/?p=39024"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -425,7 +430,8 @@
       "https://news.ycombinator.com/item?id=49274027",
       "https://news.ycombinator.com/item?id=49275385",
       "https://news.ycombinator.com/item?id=49281916",
-      "https://news.ycombinator.com/item?id=49285244"
+      "https://news.ycombinator.com/item?id=49285244",
+      "https://news.ycombinator.com/item?id=49289112"
     ]
   },
   "mercado": {
@@ -553,7 +559,8 @@
       "https://olhardigital.com.br/?p=1362750",
       "https://olhardigital.com.br/?p=1362770",
       "https://olhardigital.com.br/?p=1362775",
-      "https://olhardigital.com.br/?p=1362799"
+      "https://olhardigital.com.br/?p=1362799",
+      "https://olhardigital.com.br/?p=1362838"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -688,7 +695,8 @@
       "https://startups.com.br/?p=339640",
       "https://startups.com.br/?p=339649",
       "https://startups.com.br/?p=339655",
-      "https://startups.com.br/?p=339670"
+      "https://startups.com.br/?p=339670",
+      "https://startups.com.br/?p=339711"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -711,57 +719,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "banco",
-      "barrar",
-      "central",
-      "envolve",
-      "fraudes",
-      "plano"
-    ],
-    [
-      "economiza",
-      "fabrica",
-      "fortuna",
-      "nissan"
-    ],
-    [
-      "coreanos",
-      "desenvolve",
-      "humanoide",
-      "projeto",
-      "rivais",
-      "robo",
-      "samsung",
-      "secreto",
-      "supera"
-    ],
-    [
-      "acordo",
-      "cluster",
-      "fecham",
-      "inferencia",
-      "nvidia",
-      "tecnologia",
-      "together"
-    ],
-    [
-      "grok"
-    ],
-    [
-      "billion",
-      "gemini",
-      "google",
-      "surges",
-      "users"
-    ],
-    [
-      "chatgpt",
-      "desktop",
-      "launches",
-      "linux",
-      "openai"
-    ],
     [
       "another",
       "executive",
@@ -2533,6 +2490,64 @@
       "neil",
       "redding",
       "segundo"
+    ],
+    [
+      "agents",
+      "anthropic",
+      "loose",
+      "same",
+      "started",
+      "task",
+      "they",
+      "turf"
+    ],
+    [
+      "bolster",
+      "enterprise",
+      "openai",
+      "partners",
+      "push"
+    ],
+    [
+      "introduces",
+      "makes",
+      "mode",
+      "openai",
+      "speed",
+      "ultrafast",
+      "work"
+    ],
+    [
+      "coding",
+      "flash",
+      "gains",
+      "gemini",
+      "lands",
+      "predecessor",
+      "price",
+      "three",
+      "undercuts",
+      "week"
+    ],
+    [
+      "flash",
+      "gemini"
+    ],
+    [
+      "canivete",
+      "chega",
+      "flash",
+      "gemini",
+      "programar",
+      "suico"
+    ],
+    [
+      "legora",
+      "mira",
+      "prepara",
+      "rodada",
+      "sueca",
+      "valuation"
     ]
   ]
 }
