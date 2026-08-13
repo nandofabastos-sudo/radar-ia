@@ -320,7 +320,8 @@
       "2le85EAeynlfLmZUbMQI1a",
       "7r8IBdT0iOvfNCe2cw1yM",
       "20h3oQUu5AOXtHvAJsXUsA",
-      "25BzNNF98R8oyiUSeHNY5l"
+      "25BzNNF98R8oyiUSeHNY5l",
+      "JlKOtZAw1CsCNB4LriHOm"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -495,7 +496,8 @@
       "https://mittechreview.com.br/?p=258548",
       "https://mittechreview.com.br/?p=258509",
       "https://mittechreview.com.br/?p=258526",
-      "https://mittechreview.com.br/?p=259004"
+      "https://mittechreview.com.br/?p=259004",
+      "https://mittechreview.com.br/?p=259042"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -578,7 +580,9 @@
       "https://canaltech.com.br/games/estudo-revela-dado-assustador-sobre-jogos-que-usam-ia-no-steam/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-torna-a-ia-local-particularmente-relevante-no-brasil/",
       "https://canaltech.com.br/mercado/skyone-lanca-ia-que-promete-criar-apps-corporativos-em-poucos-minutos/",
-      "https://canaltech.com.br/mercado/factorial-aposta-em-agente-de-ia-para-assumir-tarefas-repetitivas-de-rhs/"
+      "https://canaltech.com.br/mercado/factorial-aposta-em-agente-de-ia-para-assumir-tarefas-repetitivas-de-rhs/",
+      "https://canaltech.com.br/seguranca/o-maior-risco-da-ia-nao-e-a-intencao-mas-a-imprevisibilidade/",
+      "https://canaltech.com.br/inteligencia-artificial/whatsapp-quer-usar-ia-para-barrar-golpes-e-proteger-usuarios/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -660,44 +664,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "exclude",
-      "label",
-      "music",
-      "persona",
-      "profiles",
-      "recommendations",
-      "spotify",
-      "their",
-      "will"
-    ],
-    [
-      "apply",
-      "claude",
-      "images",
-      "invisible",
-      "text",
-      "watermarks",
-      "will"
-    ],
-    [
-      "8216",
-      "8217",
-      "music",
-      "personas",
-      "recommend",
-      "spotify"
-    ],
-    [
-      "amazon",
-      "become",
-      "confirmation",
-      "emails",
-      "have",
-      "order",
-      "unhelpful",
-      "your"
-    ],
     [
       "anthropic",
       "chinese",
@@ -2510,6 +2476,36 @@
       "factorial",
       "repetitivas",
       "tarefas"
+    ],
+    [
+      "agent",
+      "costs",
+      "cuts",
+      "model",
+      "palmyra",
+      "spending",
+      "surges",
+      "token",
+      "writer"
+    ],
+    [
+      "algoritmo",
+      "ritmo"
+    ],
+    [
+      "imprevisibilidade",
+      "intencao",
+      "maior",
+      "risco"
+    ],
+    [
+      "barrar",
+      "golpes",
+      "proteger",
+      "quer",
+      "usar",
+      "usuarios",
+      "whatsapp"
     ]
   ]
 }
