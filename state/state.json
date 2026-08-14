@@ -41,7 +41,8 @@
       "https://www.anthropic.com/news/hard-questions",
       "https://www.anthropic.com/news/claude-opus-5",
       "https://www.anthropic.com/news/tino-cuellar",
-      "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+      "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "https://www.anthropic.com/news/claude-text-watermark"
     ],
     "google_deepmind": [
       "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -513,7 +514,8 @@
       "108349491",
       "108349014",
       "108349445",
-      "108349502"
+      "108349502",
+      "108349929"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -551,7 +553,8 @@
       "https://news.crunchbase.com/?p=93954",
       "https://news.crunchbase.com/?p=93970",
       "https://news.crunchbase.com/?p=93972",
-      "https://news.crunchbase.com/?p=93975"
+      "https://news.crunchbase.com/?p=93975",
+      "https://news.crunchbase.com/?p=93980"
     ]
   },
   "brasil": {
@@ -613,7 +616,10 @@
       "https://olhardigital.com.br/?p=1363145",
       "https://olhardigital.com.br/?p=1363189",
       "https://olhardigital.com.br/?p=1363223",
-      "https://olhardigital.com.br/?p=1363210"
+      "https://olhardigital.com.br/?p=1363210",
+      "https://olhardigital.com.br/?p=1363280",
+      "https://olhardigital.com.br/?p=1363305",
+      "https://olhardigital.com.br/?p=1363293"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -690,7 +696,9 @@
       "https://canaltech.com.br/internet-e-redes-sociais/o-que-e-chatfishing-entenda-o-fenomeno-do-uso-de-ia-nos-apps-de-namoro/",
       "https://canaltech.com.br/mercado/como-a-ia-esta-definindo-um-novo-ponto-de-partida-para-o-inicio-de-carreira/",
       "https://canaltech.com.br/inteligencia-artificial/chega-de-formulas-gemini-transforma-planilhas-do-google-em-miniapps-interativos/",
-      "https://canaltech.com.br/inteligencia-artificial/claude-como-funciona-sistema-que-dedura-quem-cria-texto-com-ia/"
+      "https://canaltech.com.br/inteligencia-artificial/claude-como-funciona-sistema-que-dedura-quem-cria-texto-com-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/historico-do-chatgpt-entregou-adolescente-envolvido-em-duplo-homicidio-familiar/",
+      "https://canaltech.com.br/inteligencia-artificial/google-acaba-com-marca-dagua-de-estrela-em-imagens-e-videos-feitos-por-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -735,7 +743,8 @@
       "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/08/14/todo-mundo-ja-usa-ia-o-que-acontece-agora.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/apple-treina-modelo-proprio-de-ia-para-mercado-chines-com-apoio-do-alibaba-dizem-fontes.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/14/como-os-novos-oculos-inteligentes-com-ia-ajudam-pessoas-com-deficiencia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/chinesa-zai-diz-que-novo-modelo-se-aproxima-do-mythos-5-da-anthropic.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/chinesa-zai-diz-que-novo-modelo-se-aproxima-do-mythos-5-da-anthropic.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/nvidia-faz-parcerias-de-meio-trilhao-para-financinanciamento-de-chips.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -795,87 +804,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agente",
-      "grok",
-      "lanca",
-      "sozinho",
-      "spacexai",
-      "tarefas",
-      "trabalho"
-    ],
-    [
-      "2026",
-      "bots",
-      "debate",
-      "experience",
-      "soberania",
-      "super"
-    ],
-    [
-      "grok",
-      "introducing"
-    ],
-    [
-      "acquisition",
-      "allegations",
-      "collapsed",
-      "forged",
-      "fraud",
-      "into",
-      "million",
-      "signatures"
-    ],
-    [
-      "addario",
-      "admits",
-      "company",
-      "guitar",
-      "music",
-      "promotional",
-      "used",
-      "video"
-    ],
-    [
-      "according",
-      "chatgpt",
-      "claude",
-      "data",
-      "gemini",
-      "google",
-      "losing",
-      "market",
-      "share"
-    ],
-    [
-      "books",
-      "booksellers",
-      "buying",
-      "destroying",
-      "firms",
-      "rare",
-      "suspect",
-      "then"
-    ],
-    [
-      "bate",
-      "bilhao",
-      "fenomeno",
-      "gemini",
-      "google",
-      "maior",
-      "usuarios",
-      "vira"
-    ],
-    [
-      "deixa",
-      "empresa",
-      "executivo",
-      "historico",
-      "negocio",
-      "openai",
-      "planeja"
-    ],
     [
       "advogados",
       "direito",
@@ -2568,6 +2496,89 @@
       "entre",
       "tensao",
       "unem"
+    ],
+    [
+      "anthropic"
+    ],
+    [
+      "bigger",
+      "business",
+      "consumer",
+      "enterprise",
+      "friar",
+      "investors",
+      "openai",
+      "revenue",
+      "tells",
+      "than"
+    ],
+    [
+      "biggest",
+      "coding",
+      "data",
+      "defense",
+      "funding",
+      "infrastructure",
+      "lead",
+      "neolab",
+      "rounds",
+      "week"
+    ],
+    [
+      "amazon",
+      "feitos",
+      "inundam",
+      "livros",
+      "lojas",
+      "minutos",
+      "outras"
+    ],
+    [
+      "antes",
+      "coloca",
+      "executivos",
+      "openai",
+      "pressao",
+      "saida"
+    ],
+    [
+      "agora",
+      "agua",
+      "conteudos",
+      "google",
+      "marca",
+      "pode",
+      "remover",
+      "visivel",
+      "voce"
+    ],
+    [
+      "adolescente",
+      "chatgpt",
+      "duplo",
+      "entregou",
+      "envolvido",
+      "familiar",
+      "historico",
+      "homicidio"
+    ],
+    [
+      "acaba",
+      "agua",
+      "estrela",
+      "feitos",
+      "google",
+      "imagens",
+      "marca",
+      "videos"
+    ],
+    [
+      "chips",
+      "financinanciamento",
+      "meio",
+      "nvidia",
+      "parcerias",
+      "trilhao"
     ]
   ]
 }
