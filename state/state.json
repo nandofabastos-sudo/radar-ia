@@ -424,7 +424,8 @@
       "6a7cfc8e45debd0b63663f75",
       "6a74b89762c67abb9111bd59",
       "6a4be2ba909d7a6775643680",
-      "6a7df60ff868b5c7ca33c338"
+      "6a7df60ff868b5c7ca33c338",
+      "6a7e0f9c0f200c034ba14931"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -620,7 +621,8 @@
       "https://olhardigital.com.br/?p=1363280",
       "https://olhardigital.com.br/?p=1363305",
       "https://olhardigital.com.br/?p=1363293",
-      "https://olhardigital.com.br/?p=1363304"
+      "https://olhardigital.com.br/?p=1363304",
+      "https://olhardigital.com.br/?p=1363354"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -648,7 +650,9 @@
       "https://tecnoblog.net/?post_type=noticias&p=921363",
       "https://tecnoblog.net/?post_type=noticias&p=921376",
       "https://tecnoblog.net/?post_type=noticias&p=921537",
-      "https://tecnoblog.net/?post_type=noticias&p=921671"
+      "https://tecnoblog.net/?post_type=noticias&p=921671",
+      "https://tecnoblog.net/?post_type=noticias&p=921694",
+      "https://tecnoblog.net/?post_type=noticias&p=921753"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -808,40 +812,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "android",
-      "automattic",
-      "comes",
-      "everyone",
-      "mesh"
-    ],
-    [
-      "breast",
-      "cancer",
-      "detection",
-      "expectations",
-      "fall",
-      "radiologists",
-      "short",
-      "tools"
-    ],
-    [
-      "class",
-      "engineering",
-      "middle",
-      "removing",
-      "software"
-    ],
-    [
-      "benign",
-      "data",
-      "earnings",
-      "encouraged",
-      "inflation",
-      "neocloud",
-      "strong",
-      "wednesday"
-    ],
     [
       "artificial",
       "decidiu",
@@ -2586,6 +2556,40 @@
       "gpuaas",
       "nvidia",
       "parceria"
+    ],
+    [
+      "china",
+      "foot",
+      "influencer",
+      "next",
+      "robot",
+      "tall"
+    ],
+    [
+      "comeco",
+      "conhecemos",
+      "multiplayer",
+      "mundos",
+      "npcs",
+      "verdade",
+      "vivos"
+    ],
+    [
+      "agua",
+      "decide",
+      "entenda",
+      "google",
+      "marca",
+      "opcional"
+    ],
+    [
+      "caiu",
+      "chatgpt",
+      "desgraca",
+      "ferramenta",
+      "lembra",
+      "recurso",
+      "windows"
     ]
   ]
 }
