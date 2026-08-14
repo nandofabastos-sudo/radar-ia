@@ -115,7 +115,8 @@
       "https://blogs.nvidia.com/?p=97373",
       "https://blogs.nvidia.com/?p=97323",
       "https://blogs.nvidia.com/?p=97441",
-      "https://blogs.nvidia.com/?p=97450"
+      "https://blogs.nvidia.com/?p=97450",
+      "https://blogs.nvidia.com/?p=97549"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -132,7 +133,9 @@
       "https://x.ai/news/introducing-grok-bot",
       "https://x.ai/news/introducing-grok-bot-og",
       "https://x.ai/news/introducing-grok-bot-og-2",
-      "https://x.ai/news/grok-4-6"
+      "https://x.ai/news/grok-4-6",
+      "https://x.ai/news/og-4-6-in-github-copilot",
+      "https://x.ai/news/grok-4-6-github-copilot"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -248,7 +251,9 @@
       "https://www.theverge.com/?p=979345",
       "https://www.theverge.com/?p=979815",
       "https://www.theverge.com/?p=979871",
-      "https://www.theverge.com/?p=980160"
+      "https://www.theverge.com/?p=980160",
+      "https://www.theverge.com/?p=980416",
+      "https://www.theverge.com/?p=980367"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -295,7 +300,8 @@
       "https://the-decoder.com/?p=39041",
       "https://the-decoder.com/?p=39052",
       "https://the-decoder.com/?p=39061",
-      "https://the-decoder.com/?p=39071"
+      "https://the-decoder.com/?p=39071",
+      "https://the-decoder.com/?p=39076"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -327,7 +333,8 @@
       "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
       "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
       "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-      "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+      "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -604,7 +611,9 @@
       "https://olhardigital.com.br/?p=1362850",
       "https://olhardigital.com.br/?p=1363101",
       "https://olhardigital.com.br/?p=1363145",
-      "https://olhardigital.com.br/?p=1363189"
+      "https://olhardigital.com.br/?p=1363189",
+      "https://olhardigital.com.br/?p=1363223",
+      "https://olhardigital.com.br/?p=1363210"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -630,7 +639,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=920839",
       "https://tecnoblog.net/?post_type=noticias&p=920843",
       "https://tecnoblog.net/?post_type=noticias&p=921363",
-      "https://tecnoblog.net/?post_type=noticias&p=921376"
+      "https://tecnoblog.net/?post_type=noticias&p=921376",
+      "https://tecnoblog.net/?post_type=noticias&p=921537"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -723,7 +733,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/14/o-que-e-a-iai-itau-adota-ia-pra-cativar-cliente-e-fazer-pix-para-ele.ghtm",
       "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/08/14/todo-mundo-ja-usa-ia-o-que-acontece-agora.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/apple-treina-modelo-proprio-de-ia-para-mercado-chines-com-apoio-do-alibaba-dizem-fontes.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/08/14/como-os-novos-oculos-inteligentes-com-ia-ajudam-pessoas-com-deficiencia.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/14/como-os-novos-oculos-inteligentes-com-ia-ajudam-pessoas-com-deficiencia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/chinesa-zai-diz-que-novo-modelo-se-aproxima-do-mythos-5-da-anthropic.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -782,111 +793,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acirra",
-      "bilhao",
-      "chatgpt",
-      "disputa",
-      "gemini",
-      "google",
-      "supera",
-      "usuarios"
-    ],
-    [
-      "agua",
-      "arquivos",
-      "claude",
-      "criados",
-      "marca",
-      "tera",
-      "textos"
-    ],
-    [
-      "canal",
-      "futuro",
-      "lanca",
-      "programacao",
-      "roku",
-      "slop"
-    ],
-    [
-      "hands",
-      "into",
-      "language",
-      "putting",
-      "sign",
-      "users"
-    ],
-    [
-      "announce",
-      "invest",
-      "meta",
-      "nabtu",
-      "partnership",
-      "skilled",
-      "trades"
-    ],
-    [
-      "2026",
-      "best",
-      "ceos",
-      "glassdoor",
-      "list",
-      "nvidia",
-      "tops"
-    ],
-    [
-      "announced",
-      "everything",
-      "features",
-      "gemini",
-      "google",
-      "made",
-      "pixel",
-      "tons",
-      "watch"
-    ],
-    [
-      "deeper",
-      "dives",
-      "google",
-      "health",
-      "into",
-      "pixel",
-      "watch"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "founder",
-      "into",
-      "joins",
-      "lead",
-      "legal",
-      "mahari",
-      "practices",
-      "push",
-      "robert",
-      "startup"
-    ],
-    [
-      "camera",
-      "google",
-      "latest",
-      "pixel",
-      "smartphones",
-      "tricks"
-    ],
-    [
-      "apple",
-      "battle",
-      "center",
-      "gemini",
-      "google",
-      "phone",
-      "pixel",
-      "puts"
-    ],
     [
       "autonomo",
       "aviao",
@@ -2573,6 +2479,94 @@
       "lanca",
       "micron",
       "startups"
+    ],
+    [
+      "center",
+      "develop",
+      "first",
+      "gadjah",
+      "indonesia",
+      "indosat",
+      "local",
+      "mada",
+      "nvidia",
+      "open",
+      "talent",
+      "universitas",
+      "university"
+    ],
+    [
+      "copilot",
+      "github",
+      "grok"
+    ],
+    [
+      "copilot",
+      "github",
+      "grok"
+    ],
+    [
+      "8217",
+      "gemini",
+      "google",
+      "turn",
+      "visible",
+      "watermarks"
+    ],
+    [
+      "instagzam",
+      "mark",
+      "zuckerberg"
+    ],
+    [
+      "alibaba",
+      "apache",
+      "license",
+      "models",
+      "open",
+      "qwen",
+      "releases",
+      "team",
+      "under",
+      "weights"
+    ],
+    [
+      "case",
+      "court",
+      "filings",
+      "injected",
+      "prompts",
+      "suspecting",
+      "using"
+    ],
+    [
+      "brasil",
+      "desafios",
+      "mundo",
+      "regulamentar"
+    ],
+    [
+      "ajuda",
+      "caries",
+      "dentistas",
+      "desenvolve",
+      "detectar",
+      "radiografias"
+    ],
+    [
+      "apps",
+      "chega",
+      "confusao",
+      "copilot",
+      "microsoft",
+      "unifica"
+    ],
+    [
+      "anthropic",
+      "aproxima",
+      "chinesa",
+      "modelo",
+      "mythos"
     ]
   ]
 }
