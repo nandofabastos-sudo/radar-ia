@@ -441,7 +441,8 @@
       "https://news.ycombinator.com/item?id=49285244",
       "https://news.ycombinator.com/item?id=49289112",
       "https://news.ycombinator.com/item?id=49289844",
-      "https://news.ycombinator.com/item?id=49288889"
+      "https://news.ycombinator.com/item?id=49288889",
+      "https://news.ycombinator.com/item?id=49294997"
     ]
   },
   "mercado": {
@@ -689,7 +690,8 @@
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/13/a-semana-em-que-zuckerberg-e-musk-sairam-do-z4-da-ia-e-botaram-medo-nos-lideres.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/whatsapp-testa-alerta-com-ia-no-celular-para-identificar-golpes.ghtm",
       "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/13/adolescente-e-acusado-de-matar-mae-e-irmao-apos-buscas-no-chatgpt.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/chatgpt-passa-a-lembrar-atividades-em-apps-e-sites-no-mac.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/chatgpt-passa-a-lembrar-atividades-em-apps-e-sites-no-mac.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/14/o-que-e-a-iai-itau-adota-ia-pra-cativar-cliente-e-fazer-pix-para-ele.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -746,23 +748,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "elon",
-      "faturar",
-      "musk",
-      "pode",
-      "spacex",
-      "trilhoes"
-    ],
-    [
-      "anthropic",
-      "boss",
-      "catch",
-      "google",
-      "inherits",
-      "openai",
-      "race"
-    ],
     [
       "agentic",
       "agents",
@@ -2577,6 +2562,20 @@
     ],
     [
       "mistral"
+    ],
+    [
+      "capabilities",
+      "coding",
+      "cyber",
+      "emergent",
+      "frontier"
+    ],
+    [
+      "adota",
+      "cativar",
+      "cliente",
+      "fazer",
+      "itau"
     ]
   ]
 }
