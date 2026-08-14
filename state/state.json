@@ -287,7 +287,8 @@
       "https://the-decoder.com/?p=39024",
       "https://the-decoder.com/?p=39031",
       "https://the-decoder.com/?p=39035",
-      "https://the-decoder.com/?p=39041"
+      "https://the-decoder.com/?p=39041",
+      "https://the-decoder.com/?p=39052"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -589,7 +590,8 @@
       "https://olhardigital.com.br/?p=1362955",
       "https://olhardigital.com.br/?p=1362957",
       "https://olhardigital.com.br/?p=1362984",
-      "https://olhardigital.com.br/?p=1362850"
+      "https://olhardigital.com.br/?p=1362850",
+      "https://olhardigital.com.br/?p=1363101"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -661,7 +663,8 @@
       "https://canaltech.com.br/inteligencia-artificial/ia-do-youtube-agora-esta-disponivel-para-todos-os-usuarios/",
       "https://canaltech.com.br/inteligencia-artificial/mais-do-que-implantar-ia-cscs-precisam-preparar-a-operacao/",
       "https://canaltech.com.br/inteligencia-artificial/ia-nas-empresas-por-que-o-metodo-passou-a-ser-mais-importante-que-a-ferramenta/",
-      "https://canaltech.com.br/inteligencia-artificial/dicas-como-usar-novo-modo-de-voz-chatgpt/"
+      "https://canaltech.com.br/inteligencia-artificial/dicas-como-usar-novo-modo-de-voz-chatgpt/",
+      "https://canaltech.com.br/internet-e-redes-sociais/o-que-e-chatfishing-entenda-o-fenomeno-do-uso-de-ia-nos-apps-de-namoro/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -703,7 +706,9 @@
       "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/13/adolescente-e-acusado-de-matar-mae-e-irmao-apos-buscas-no-chatgpt.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/chatgpt-passa-a-lembrar-atividades-em-apps-e-sites-no-mac.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/14/o-que-e-a-iai-itau-adota-ia-pra-cativar-cliente-e-fazer-pix-para-ele.ghtm",
-      "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/08/14/todo-mundo-ja-usa-ia-o-que-acontece-agora.ghtm"
+      "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/08/14/todo-mundo-ja-usa-ia-o-que-acontece-agora.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/apple-treina-modelo-proprio-de-ia-para-mercado-chines-com-apoio-do-alibaba-dizem-fontes.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/14/como-os-novos-oculos-inteligentes-com-ia-ajudam-pessoas-com-deficiencia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -713,7 +718,8 @@
       "https://neofeed.com.br/?p=232586",
       "https://neofeed.com.br/?p=232748",
       "https://neofeed.com.br/?p=232802",
-      "https://neofeed.com.br/?p=232969"
+      "https://neofeed.com.br/?p=232969",
+      "https://neofeed.com.br/?p=232952"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -760,63 +766,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "about",
-      "online",
-      "thinking",
-      "trends",
-      "wrong"
-    ],
-    [
-      "after",
-      "cleaner",
-      "coreweave",
-      "happening",
-      "here",
-      "premarket",
-      "quarter",
-      "surges",
-      "what"
-    ],
-    [
-      "atua",
-      "hacker",
-      "modelo",
-      "openai",
-      "super"
-    ],
-    [
-      "almost",
-      "blacksmith",
-      "code",
-      "jumps",
-      "less",
-      "startup",
-      "testing",
-      "than",
-      "valuation",
-      "year"
-    ],
-    [
-      "actually",
-      "betting",
-      "employees",
-      "enterprise",
-      "layer",
-      "million",
-      "missing",
-      "raises",
-      "skan",
-      "watching",
-      "work"
-    ],
-    [
-      "actually",
-      "breaking",
-      "lord",
-      "news",
-      "reporters"
-    ],
     [
       "everyone",
       "explains",
@@ -2549,6 +2498,56 @@
       "agora",
       "mundo",
       "todo"
+    ],
+    [
+      "cerebras",
+      "faster",
+      "goes",
+      "launches",
+      "mode",
+      "openai",
+      "powered",
+      "ultrafast"
+    ],
+    [
+      "adocao",
+      "agentes",
+      "brasil",
+      "empresas",
+      "pelas",
+      "supera"
+    ],
+    [
+      "apps",
+      "chatfishing",
+      "entenda",
+      "fenomeno",
+      "namoro"
+    ],
+    [
+      "apple",
+      "china",
+      "mercado",
+      "modelo",
+      "proprio",
+      "treina"
+    ],
+    [
+      "ajudam",
+      "deficiencia",
+      "inteligentes",
+      "novos",
+      "oculos",
+      "pessoas"
+    ],
+    [
+      "artificial",
+      "brasil",
+      "caminho",
+      "inteligencia",
+      "made",
+      "pais",
+      "sinuoso"
     ]
   ]
 }
