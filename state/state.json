@@ -302,7 +302,8 @@
       "https://the-decoder.com/?p=39052",
       "https://the-decoder.com/?p=39061",
       "https://the-decoder.com/?p=39071",
-      "https://the-decoder.com/?p=39076"
+      "https://the-decoder.com/?p=39076",
+      "https://the-decoder.com/?p=39093"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -516,7 +517,8 @@
       "108349014",
       "108349445",
       "108349502",
-      "108349929"
+      "108349929",
+      "108350008"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -812,25 +814,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "artificial",
-      "decidiu",
-      "errar",
-      "inteligencia",
-      "maior",
-      "ninguem",
-      "quem",
-      "risco",
-      "saber"
-    ],
-    [
-      "ajuda",
-      "ameacas",
-      "banco",
-      "barrar",
-      "central",
-      "estuda"
-    ],
     [
       "alemao",
       "apresenta",
@@ -2590,6 +2573,27 @@
       "lembra",
       "recurso",
       "windows"
+    ],
+    [
+      "announces",
+      "anthropic",
+      "claude",
+      "detect",
+      "detection",
+      "parties",
+      "texts",
+      "third",
+      "watermark",
+      "will"
+    ],
+    [
+      "billion",
+      "discloses",
+      "nvidia",
+      "quarter",
+      "second",
+      "spacex",
+      "stake"
     ]
   ]
 }
