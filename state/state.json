@@ -416,7 +416,8 @@
       "6a713055fca5010001824d21",
       "6a725343f6384900019c7219",
       "6a75192264e8c50001f04867",
-      "6a7a61788e92710001af630a"
+      "6a7a61788e92710001af630a",
+      "6a734eb4a62f5900019974d1"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -483,7 +484,9 @@
       "108346172",
       "108348502",
       "108349234",
-      "108349090"
+      "108349090",
+      "108348852",
+      "108349491"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -572,7 +575,9 @@
       "https://olhardigital.com.br/?p=1362838",
       "https://olhardigital.com.br/?p=1362854",
       "https://olhardigital.com.br/?p=1362879",
-      "https://olhardigital.com.br/?p=1362880"
+      "https://olhardigital.com.br/?p=1362880",
+      "https://olhardigital.com.br/?p=1362955",
+      "https://olhardigital.com.br/?p=1362957"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -737,51 +742,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "asset",
-      "becoming",
-      "class",
-      "compute",
-      "factory",
-      "investable",
-      "nvidia"
-    ],
-    [
-      "8217",
-      "chatgpt",
-      "denies",
-      "replacing",
-      "rideshare",
-      "saber",
-      "stimulator",
-      "writers"
-    ],
-    [
-      "anthropic",
-      "busca",
-      "demais",
-      "especialistas",
-      "fiquem",
-      "impedir",
-      "perigosas",
-      "suas"
-    ],
-    [
-      "casos",
-      "fala",
-      "hackeando",
-      "multiplicam",
-      "seguir",
-      "sistemas"
-    ],
-    [
-      "defende",
-      "flexivel",
-      "governo",
-      "plano",
-      "regulacao",
-      "zema"
-    ],
     [
       "business",
       "nvidia",
@@ -2569,6 +2529,51 @@
       "lado",
       "multiplicam",
       "sofisticados"
+    ],
+    [
+      "company",
+      "organizing",
+      "self",
+      "town"
+    ],
+    [
+      "apple",
+      "becoming",
+      "chinese",
+      "companies",
+      "ford",
+      "global",
+      "harder",
+      "ignore",
+      "tech"
+    ],
+    [
+      "china",
+      "europe",
+      "partners",
+      "pony",
+      "robotaxis",
+      "uber"
+    ],
+    [
+      "antes",
+      "caia",
+      "celular",
+      "golpes",
+      "identificar",
+      "neles",
+      "testa",
+      "voce",
+      "whatsapp"
+    ],
+    [
+      "anualizada",
+      "aponta",
+      "bilhoes",
+      "openai",
+      "receita",
+      "site",
+      "supera"
     ]
   ]
 }
