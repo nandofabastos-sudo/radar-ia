@@ -204,7 +204,8 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3153152",
       "https://techcrunch.com/?p=3152944",
       "https://techcrunch.com/?p=3153090",
-      "https://techcrunch.com/?post_type=tc_video&p=3153153"
+      "https://techcrunch.com/?post_type=tc_video&p=3153153",
+      "https://techcrunch.com/?p=3153145"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -292,7 +293,9 @@
       "https://the-decoder.com/?p=39031",
       "https://the-decoder.com/?p=39035",
       "https://the-decoder.com/?p=39041",
-      "https://the-decoder.com/?p=39052"
+      "https://the-decoder.com/?p=39052",
+      "https://the-decoder.com/?p=39061",
+      "https://the-decoder.com/?p=39071"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -752,7 +755,8 @@
       "https://startups.com.br/?p=339649",
       "https://startups.com.br/?p=339655",
       "https://startups.com.br/?p=339670",
-      "https://startups.com.br/?p=339711"
+      "https://startups.com.br/?p=339711",
+      "https://startups.com.br/?p=339738"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -778,42 +782,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "build",
-      "cargo",
-      "clearjet",
-      "exclusive",
-      "raises",
-      "uber"
-    ],
-    [
-      "apple",
-      "feita",
-      "foto",
-      "imagem",
-      "provar",
-      "real",
-      "selo",
-      "testa"
-    ],
-    [
-      "artistas",
-      "barrar",
-      "recomendacoes",
-      "rotular",
-      "spotify"
-    ],
-    [
-      "academia",
-      "agente",
-      "aluno",
-      "cancela",
-      "fila",
-      "fura",
-      "invade",
-      "sistema",
-      "vaga"
-    ],
     [
       "acirra",
       "bilhao",
@@ -2562,6 +2530,49 @@
       "miniapps",
       "planilhas",
       "transforma"
+    ],
+    [
+      "allow",
+      "generations",
+      "google",
+      "remove",
+      "users",
+      "visible",
+      "watermark",
+      "will"
+    ],
+    [
+      "anthropic",
+      "autonomous",
+      "claims",
+      "contradicts",
+      "openai",
+      "reach",
+      "research",
+      "study",
+      "within"
+    ],
+    [
+      "chatgpt",
+      "clicks",
+      "computer",
+      "history",
+      "into",
+      "keystrokes",
+      "memory",
+      "openai",
+      "searchable",
+      "timeline",
+      "turns",
+      "your"
+    ],
+    [
+      "250m",
+      "fundo",
+      "investir",
+      "lanca",
+      "micron",
+      "startups"
     ]
   ]
 }
