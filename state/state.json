@@ -440,7 +440,8 @@
       "https://news.ycombinator.com/item?id=49281916",
       "https://news.ycombinator.com/item?id=49285244",
       "https://news.ycombinator.com/item?id=49289112",
-      "https://news.ycombinator.com/item?id=49289844"
+      "https://news.ycombinator.com/item?id=49289844",
+      "https://news.ycombinator.com/item?id=49288889"
     ]
   },
   "mercado": {
@@ -745,13 +746,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "assisted",
-      "engineering",
-      "ideal",
-      "language",
-      "software"
-    ],
     [
       "elon",
       "faturar",
@@ -2580,6 +2574,9 @@
       "reduz",
       "sumarizacao",
       "tempo"
+    ],
+    [
+      "mistral"
     ]
   ]
 }
