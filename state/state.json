@@ -284,7 +284,8 @@
       "https://the-decoder.com/?p=38979",
       "https://the-decoder.com/?p=39017",
       "https://the-decoder.com/?p=39024",
-      "https://the-decoder.com/?p=39031"
+      "https://the-decoder.com/?p=39031",
+      "https://the-decoder.com/?p=39035"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -401,7 +402,8 @@
       "6a7b7aabe4e29f02b8c0d64f",
       "6a7a2a8913d9a5bbede86a45",
       "6a7ccb31f8503d5e8d3678fc",
-      "6a7cfc8e45debd0b63663f75"
+      "6a7cfc8e45debd0b63663f75",
+      "6a74b89762c67abb9111bd59"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -580,7 +582,8 @@
       "https://olhardigital.com.br/?p=1362880",
       "https://olhardigital.com.br/?p=1362955",
       "https://olhardigital.com.br/?p=1362957",
-      "https://olhardigital.com.br/?p=1362984"
+      "https://olhardigital.com.br/?p=1362984",
+      "https://olhardigital.com.br/?p=1362850"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -748,49 +751,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agentic",
-      "agents",
-      "cost",
-      "enterprise",
-      "govern",
-      "know",
-      "meter",
-      "orchestration",
-      "organizations",
-      "still",
-      "they",
-      "what"
-    ],
-    [
-      "agent",
-      "answers",
-      "aren",
-      "catching",
-      "context",
-      "data",
-      "enterprises",
-      "governing",
-      "layers",
-      "many",
-      "ones",
-      "their",
-      "twice"
-    ],
-    [
-      "agentic",
-      "burned",
-      "enterprises",
-      "eval",
-      "evaluations",
-      "humans",
-      "least",
-      "likely",
-      "loop",
-      "most",
-      "reliability",
-      "remove"
-    ],
     [
       "agent",
       "agentic",
@@ -2576,6 +2536,32 @@
       "cliente",
       "fazer",
       "itau"
+    ],
+    [
+      "claims",
+      "coding",
+      "model",
+      "open",
+      "releases",
+      "strongest",
+      "weights",
+      "zhipu"
+    ],
+    [
+      "chatbots",
+      "lawmakers",
+      "marrying",
+      "people",
+      "stop",
+      "them",
+      "these",
+      "want"
+    ],
+    [
+      "armadilha",
+      "concorda",
+      "escondida",
+      "voce"
     ]
   ]
 }
