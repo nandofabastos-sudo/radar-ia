@@ -286,7 +286,8 @@
       "https://the-decoder.com/?p=39017",
       "https://the-decoder.com/?p=39024",
       "https://the-decoder.com/?p=39031",
-      "https://the-decoder.com/?p=39035"
+      "https://the-decoder.com/?p=39035",
+      "https://the-decoder.com/?p=39041"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -493,7 +494,8 @@
       "108349090",
       "108348852",
       "108349491",
-      "108349014"
+      "108349014",
+      "108349445"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -700,7 +702,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/whatsapp-testa-alerta-com-ia-no-celular-para-identificar-golpes.ghtm",
       "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/13/adolescente-e-acusado-de-matar-mae-e-irmao-apos-buscas-no-chatgpt.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/chatgpt-passa-a-lembrar-atividades-em-apps-e-sites-no-mac.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/14/o-que-e-a-iai-itau-adota-ia-pra-cativar-cliente-e-fazer-pix-para-ele.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/14/o-que-e-a-iai-itau-adota-ia-pra-cativar-cliente-e-fazer-pix-para-ele.ghtm",
+      "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/08/14/todo-mundo-ja-usa-ia-o-que-acontece-agora.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -757,38 +760,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "futuro",
-      "manifesto",
-      "mark",
-      "mega",
-      "quer",
-      "realmente",
-      "zuckerberg"
-    ],
-    [
-      "access",
-      "both",
-      "come",
-      "data",
-      "important",
-      "limits",
-      "mistral",
-      "offers",
-      "priority",
-      "processing"
-    ],
-    [
-      "both",
-      "code",
-      "crushed",
-      "deepseek",
-      "flash",
-      "gets",
-      "microsoft",
-      "performance",
-      "price"
-    ],
     [
       "about",
       "online",
@@ -2547,6 +2518,37 @@
       "modo",
       "realista",
       "usar"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "code",
+      "daily",
+      "maintenance",
+      "merge",
+      "percent",
+      "rate",
+      "runs",
+      "software"
+    ],
+    [
+      "anthropic",
+      "apple",
+      "facility",
+      "investor",
+      "more",
+      "morning",
+      "squawk",
+      "stock",
+      "surge",
+      "talks",
+      "workday"
+    ],
+    [
+      "acontece",
+      "agora",
+      "mundo",
+      "todo"
     ]
   ]
 }
