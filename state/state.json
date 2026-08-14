@@ -200,7 +200,11 @@
       "https://techcrunch.com/?p=3152914",
       "https://techcrunch.com/?p=3152875",
       "https://techcrunch.com/?p=3152870",
-      "https://techcrunch.com/?p=3152760"
+      "https://techcrunch.com/?p=3152760",
+      "https://techcrunch.com/?post_type=tc_podcast&p=3153152",
+      "https://techcrunch.com/?p=3152944",
+      "https://techcrunch.com/?p=3153090",
+      "https://techcrunch.com/?post_type=tc_video&p=3153153"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -319,7 +323,8 @@
       "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
       "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
       "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/"
+      "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -407,7 +412,8 @@
       "6a7ccb31f8503d5e8d3678fc",
       "6a7cfc8e45debd0b63663f75",
       "6a74b89762c67abb9111bd59",
-      "6a4be2ba909d7a6775643680"
+      "6a4be2ba909d7a6775643680",
+      "6a7df60ff868b5c7ca33c338"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -496,7 +502,8 @@
       "108348852",
       "108349491",
       "108349014",
-      "108349445"
+      "108349445",
+      "108349502"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -517,7 +524,8 @@
       "https://techcrunch.com/?p=3151847",
       "https://techcrunch.com/?post_type=tc_podcast&p=3152426",
       "https://techcrunch.com/?post_type=tc_video&p=3152427",
-      "https://techcrunch.com/?p=3152463"
+      "https://techcrunch.com/?p=3152463",
+      "https://techcrunch.com/?post_type=tc_podcast&p=3153152"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -591,7 +599,9 @@
       "https://olhardigital.com.br/?p=1362957",
       "https://olhardigital.com.br/?p=1362984",
       "https://olhardigital.com.br/?p=1362850",
-      "https://olhardigital.com.br/?p=1363101"
+      "https://olhardigital.com.br/?p=1363101",
+      "https://olhardigital.com.br/?p=1363145",
+      "https://olhardigital.com.br/?p=1363189"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -664,7 +674,9 @@
       "https://canaltech.com.br/inteligencia-artificial/mais-do-que-implantar-ia-cscs-precisam-preparar-a-operacao/",
       "https://canaltech.com.br/inteligencia-artificial/ia-nas-empresas-por-que-o-metodo-passou-a-ser-mais-importante-que-a-ferramenta/",
       "https://canaltech.com.br/inteligencia-artificial/dicas-como-usar-novo-modo-de-voz-chatgpt/",
-      "https://canaltech.com.br/internet-e-redes-sociais/o-que-e-chatfishing-entenda-o-fenomeno-do-uso-de-ia-nos-apps-de-namoro/"
+      "https://canaltech.com.br/internet-e-redes-sociais/o-que-e-chatfishing-entenda-o-fenomeno-do-uso-de-ia-nos-apps-de-namoro/",
+      "https://canaltech.com.br/mercado/como-a-ia-esta-definindo-um-novo-ponto-de-partida-para-o-inicio-de-carreira/",
+      "https://canaltech.com.br/inteligencia-artificial/chega-de-formulas-gemini-transforma-planilhas-do-google-em-miniapps-interativos/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -766,99 +778,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "everyone",
-      "explains",
-      "finally",
-      "himself",
-      "interview",
-      "tattoo"
-    ],
-    [
-      "grok"
-    ],
-    [
-      "buildout",
-      "complicates",
-      "costly",
-      "fight",
-      "inflation"
-    ],
-    [
-      "data",
-      "fitness",
-      "funding",
-      "investors",
-      "rebounding",
-      "sector",
-      "snapshot",
-      "startup",
-      "treadmills",
-      "want"
-    ],
-    [
-      "alcanca",
-      "bilhao",
-      "chatbots",
-      "gemini",
-      "jogo",
-      "muda",
-      "usuarios"
-    ],
-    [
-      "agent",
-      "apocalipse",
-      "aposta",
-      "fugir",
-      "result",
-      "service",
-      "shop"
-    ],
-    [
-      "assistance",
-      "enterprises",
-      "execution",
-      "work"
-    ],
-    [
-      "assign",
-      "grok",
-      "teammate",
-      "work"
-    ],
-    [
-      "cancer",
-      "chatgpt",
-      "course",
-      "spawned",
-      "startup",
-      "vaccine"
-    ],
-    [
-      "aims",
-      "already",
-      "chinese",
-      "labs",
-      "nemotron",
-      "nvidia",
-      "parameters",
-      "scale",
-      "surpassed",
-      "trillion"
-    ],
-    [
-      "chinese",
-      "firm",
-      "flag",
-      "labs",
-      "meta",
-      "nvidia",
-      "open",
-      "plant",
-      "race",
-      "very",
-      "weight"
-    ],
     [
       "build",
       "cargo",
@@ -2548,6 +2467,101 @@
       "made",
       "pais",
       "sinuoso"
+    ],
+    [
+      "250m",
+      "deal",
+      "gone",
+      "meta",
+      "open",
+      "very",
+      "wrong"
+    ],
+    [
+      "correct",
+      "embracing",
+      "forecast",
+      "hyperscalers",
+      "might",
+      "natural",
+      "proves",
+      "regret"
+    ],
+    [
+      "deeper",
+      "going",
+      "gpus",
+      "inference",
+      "more",
+      "squeeze"
+    ],
+    [
+      "believe",
+      "does",
+      "everyone",
+      "mark",
+      "really",
+      "zuckerberg"
+    ],
+    [
+      "anthropic",
+      "chinese",
+      "gain",
+      "ground",
+      "openai",
+      "price",
+      "rivals"
+    ],
+    [
+      "labs",
+      "people",
+      "tech",
+      "visionary",
+      "want",
+      "what"
+    ],
+    [
+      "ahead",
+      "exodus",
+      "flag",
+      "huge",
+      "openai",
+      "raises",
+      "talent"
+    ],
+    [
+      "assim",
+      "meta",
+      "pensamentos",
+      "pode"
+    ],
+    [
+      "bilionaria",
+      "centros",
+      "criam",
+      "dados",
+      "mercado",
+      "oportunidade",
+      "orbitais",
+      "seguros"
+    ],
+    [
+      "carreira",
+      "definindo",
+      "esta",
+      "inicio",
+      "partida",
+      "ponto"
+    ],
+    [
+      "chega",
+      "formulas",
+      "gemini",
+      "google",
+      "interativos",
+      "miniapps",
+      "planilhas",
+      "transforma"
     ]
   ]
 }
