@@ -576,7 +576,8 @@
       "https://mittechreview.com.br/?p=258526",
       "https://mittechreview.com.br/?p=259004",
       "https://mittechreview.com.br/?p=259042",
-      "https://mittechreview.com.br/?p=259325"
+      "https://mittechreview.com.br/?p=259325",
+      "https://mittechreview.com.br/?p=259626"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -624,7 +625,8 @@
       "https://olhardigital.com.br/?p=1363305",
       "https://olhardigital.com.br/?p=1363293",
       "https://olhardigital.com.br/?p=1363304",
-      "https://olhardigital.com.br/?p=1363354"
+      "https://olhardigital.com.br/?p=1363354",
+      "https://olhardigital.com.br/?p=1363355"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -707,7 +709,8 @@
       "https://canaltech.com.br/inteligencia-artificial/claude-como-funciona-sistema-que-dedura-quem-cria-texto-com-ia/",
       "https://canaltech.com.br/inteligencia-artificial/historico-do-chatgpt-entregou-adolescente-envolvido-em-duplo-homicidio-familiar/",
       "https://canaltech.com.br/inteligencia-artificial/google-acaba-com-marca-dagua-de-estrela-em-imagens-e-videos-feitos-por-ia/",
-      "https://canaltech.com.br/mercado/openai-preve-que-ia-pode-injetar-r-1-trilhao-no-brasil-ate-2030-mas-como/"
+      "https://canaltech.com.br/mercado/openai-preve-que-ia-pode-injetar-r-1-trilhao-no-brasil-ate-2030-mas-como/",
+      "https://canaltech.com.br/inteligencia-artificial/nova-funcao-do-chatgpt-registra-tudo-que-voce-faz-no-pc-sem-criptografia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -810,47 +813,11 @@
       "https://www.mobiletime.com.br/?p=861216",
       "https://www.mobiletime.com.br/?p=861212",
       "https://www.mobiletime.com.br/?p=861206",
-      "https://www.mobiletime.com.br/?p=861239"
+      "https://www.mobiletime.com.br/?p=861239",
+      "https://www.mobiletime.com.br/?p=861344"
     ]
   },
   "_titulos_recentes": [
-    [
-      "alemao",
-      "apresenta",
-      "contra",
-      "criminal",
-      "defesa",
-      "grupo",
-      "meta",
-      "oculos",
-      "queixa"
-    ],
-    [
-      "dizem",
-      "especialistas",
-      "falha",
-      "feature"
-    ],
-    [
-      "backed",
-      "bring",
-      "enterprise",
-      "holdings",
-      "openai",
-      "raises",
-      "thrive"
-    ],
-    [
-      "case",
-      "concerns",
-      "make",
-      "mount",
-      "open",
-      "pioneers",
-      "safety",
-      "staying",
-      "three"
-    ],
     [
       "already",
       "coding",
@@ -2594,6 +2561,40 @@
       "second",
       "spacex",
       "stake"
+    ],
+    [
+      "confiaveis",
+      "dados",
+      "juridico",
+      "opiniao",
+      "precisa"
+    ],
+    [
+      "anthropic",
+      "chinesa",
+      "cibernetica",
+      "pode",
+      "seguranca",
+      "superado",
+      "teste"
+    ],
+    [
+      "chatgpt",
+      "criptografia",
+      "funcao",
+      "registra",
+      "tudo",
+      "voce"
+    ],
+    [
+      "bolsonaro",
+      "chave",
+      "economia",
+      "ferramenta",
+      "flavio",
+      "plano",
+      "publico",
+      "servico"
     ]
   ]
 }
