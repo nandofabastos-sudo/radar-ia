@@ -689,7 +689,8 @@
       "https://canaltech.com.br/inteligencia-artificial/dicas-como-usar-novo-modo-de-voz-chatgpt/",
       "https://canaltech.com.br/internet-e-redes-sociais/o-que-e-chatfishing-entenda-o-fenomeno-do-uso-de-ia-nos-apps-de-namoro/",
       "https://canaltech.com.br/mercado/como-a-ia-esta-definindo-um-novo-ponto-de-partida-para-o-inicio-de-carreira/",
-      "https://canaltech.com.br/inteligencia-artificial/chega-de-formulas-gemini-transforma-planilhas-do-google-em-miniapps-interativos/"
+      "https://canaltech.com.br/inteligencia-artificial/chega-de-formulas-gemini-transforma-planilhas-do-google-em-miniapps-interativos/",
+      "https://canaltech.com.br/inteligencia-artificial/claude-como-funciona-sistema-que-dedura-quem-cria-texto-com-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -745,7 +746,8 @@
       "https://neofeed.com.br/?p=232748",
       "https://neofeed.com.br/?p=232802",
       "https://neofeed.com.br/?p=232969",
-      "https://neofeed.com.br/?p=232952"
+      "https://neofeed.com.br/?p=232952",
+      "https://neofeed.com.br/?p=233052"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -793,25 +795,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "autonomo",
-      "aviao",
-      "comandado",
-      "militar",
-      "primeiros",
-      "seus",
-      "testes"
-    ],
-    [
-      "dados",
-      "excluir",
-      "independente",
-      "manus",
-      "meta",
-      "operar",
-      "usuarios",
-      "volta"
-    ],
     [
       "agente",
       "grok",
@@ -2567,6 +2550,24 @@
       "chinesa",
       "modelo",
       "mythos"
+    ],
+    [
+      "claude",
+      "cria",
+      "dedura",
+      "funcionar",
+      "quem",
+      "sistema",
+      "texto"
+    ],
+    [
+      "alibaba",
+      "apple",
+      "china",
+      "desafiam",
+      "entre",
+      "tensao",
+      "unem"
     ]
   ]
 }
