@@ -242,7 +242,8 @@
       "https://www.theverge.com/?p=977994",
       "https://www.theverge.com/?p=979345",
       "https://www.theverge.com/?p=979815",
-      "https://www.theverge.com/?p=979871"
+      "https://www.theverge.com/?p=979871",
+      "https://www.theverge.com/?p=980160"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -403,7 +404,8 @@
       "6a7a2a8913d9a5bbede86a45",
       "6a7ccb31f8503d5e8d3678fc",
       "6a7cfc8e45debd0b63663f75",
-      "6a74b89762c67abb9111bd59"
+      "6a74b89762c67abb9111bd59",
+      "6a4be2ba909d7a6775643680"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -490,7 +492,8 @@
       "108349234",
       "108349090",
       "108348852",
-      "108349491"
+      "108349491",
+      "108349014"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -526,7 +529,8 @@
       "https://news.crunchbase.com/?p=93957",
       "https://news.crunchbase.com/?p=93954",
       "https://news.crunchbase.com/?p=93970",
-      "https://news.crunchbase.com/?p=93972"
+      "https://news.crunchbase.com/?p=93972",
+      "https://news.crunchbase.com/?p=93975"
     ]
   },
   "brasil": {
@@ -653,7 +657,9 @@
       "https://canaltech.com.br/inteligencia-artificial/adotar-ia-ficou-facil-dificil-e-faze-la-gerar-resultado-com-orquestracao/",
       "https://canaltech.com.br/games/hogwarts-legacy-2-vem-ai-warner-bros-confirma-producao-da-sequencia/",
       "https://canaltech.com.br/inteligencia-artificial/ia-do-youtube-agora-esta-disponivel-para-todos-os-usuarios/",
-      "https://canaltech.com.br/inteligencia-artificial/mais-do-que-implantar-ia-cscs-precisam-preparar-a-operacao/"
+      "https://canaltech.com.br/inteligencia-artificial/mais-do-que-implantar-ia-cscs-precisam-preparar-a-operacao/",
+      "https://canaltech.com.br/inteligencia-artificial/ia-nas-empresas-por-que-o-metodo-passou-a-ser-mais-importante-que-a-ferramenta/",
+      "https://canaltech.com.br/inteligencia-artificial/dicas-como-usar-novo-modo-de-voz-chatgpt/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -751,79 +757,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agent",
-      "agentic",
-      "agents",
-      "enforce",
-      "enterprises",
-      "five",
-      "high",
-      "isolate",
-      "less",
-      "permissions",
-      "risk",
-      "security",
-      "than",
-      "thirds",
-      "time"
-    ],
-    [
-      "blind",
-      "buying",
-      "compute",
-      "costs",
-      "enterprises",
-      "flying",
-      "infrastructure",
-      "speed",
-      "what",
-      "while"
-    ],
-    [
-      "billion",
-      "first",
-      "fund",
-      "largest",
-      "posts",
-      "profit",
-      "record",
-      "reveals",
-      "sovereign",
-      "spacex",
-      "stake",
-      "time",
-      "wealth",
-      "world"
-    ],
-    [
-      "accelerating",
-      "beat",
-      "chinese",
-      "driven",
-      "games",
-      "giant",
-      "posts",
-      "revenue",
-      "sales",
-      "tech",
-      "tencent"
-    ],
-    [
-      "busca",
-      "estao",
-      "estas",
-      "grande",
-      "inovacao",
-      "proxima",
-      "startups"
-    ],
-    [
-      "anthropic",
-      "cena",
-      "resumo",
-      "roubou"
-    ],
     [
       "futuro",
       "manifesto",
@@ -2562,6 +2495,58 @@
       "concorda",
       "escondida",
       "voce"
+    ],
+    [
+      "alibaba",
+      "apple",
+      "china",
+      "help",
+      "model",
+      "trained"
+    ],
+    [
+      "consultants",
+      "hired",
+      "masturbation",
+      "pleasure",
+      "themselves",
+      "these",
+      "were"
+    ],
+    [
+      "bubble",
+      "founder",
+      "hauser",
+      "hermann",
+      "real",
+      "revolution",
+      "risk",
+      "warning"
+    ],
+    [
+      "board",
+      "companies",
+      "count",
+      "highest",
+      "joined",
+      "july",
+      "unicorn",
+      "years"
+    ],
+    [
+      "empresas",
+      "ferramenta",
+      "importante",
+      "metodo",
+      "passou"
+    ],
+    [
+      "chatgpt",
+      "dicas",
+      "hiper",
+      "modo",
+      "realista",
+      "usar"
     ]
   ]
 }
