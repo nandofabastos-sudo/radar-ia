@@ -619,7 +619,8 @@
       "https://olhardigital.com.br/?p=1363210",
       "https://olhardigital.com.br/?p=1363280",
       "https://olhardigital.com.br/?p=1363305",
-      "https://olhardigital.com.br/?p=1363293"
+      "https://olhardigital.com.br/?p=1363293",
+      "https://olhardigital.com.br/?p=1363304"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -646,7 +647,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=920843",
       "https://tecnoblog.net/?post_type=noticias&p=921363",
       "https://tecnoblog.net/?post_type=noticias&p=921376",
-      "https://tecnoblog.net/?post_type=noticias&p=921537"
+      "https://tecnoblog.net/?post_type=noticias&p=921537",
+      "https://tecnoblog.net/?post_type=noticias&p=921671"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -698,7 +700,8 @@
       "https://canaltech.com.br/inteligencia-artificial/chega-de-formulas-gemini-transforma-planilhas-do-google-em-miniapps-interativos/",
       "https://canaltech.com.br/inteligencia-artificial/claude-como-funciona-sistema-que-dedura-quem-cria-texto-com-ia/",
       "https://canaltech.com.br/inteligencia-artificial/historico-do-chatgpt-entregou-adolescente-envolvido-em-duplo-homicidio-familiar/",
-      "https://canaltech.com.br/inteligencia-artificial/google-acaba-com-marca-dagua-de-estrela-em-imagens-e-videos-feitos-por-ia/"
+      "https://canaltech.com.br/inteligencia-artificial/google-acaba-com-marca-dagua-de-estrela-em-imagens-e-videos-feitos-por-ia/",
+      "https://canaltech.com.br/mercado/openai-preve-que-ia-pode-injetar-r-1-trilhao-no-brasil-ate-2030-mas-como/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -800,44 +803,11 @@
       "https://www.mobiletime.com.br/?p=861185",
       "https://www.mobiletime.com.br/?p=861216",
       "https://www.mobiletime.com.br/?p=861212",
-      "https://www.mobiletime.com.br/?p=861206"
+      "https://www.mobiletime.com.br/?p=861206",
+      "https://www.mobiletime.com.br/?p=861239"
     ]
   },
   "_titulos_recentes": [
-    [
-      "advogados",
-      "direito",
-      "especializada",
-      "lanca",
-      "preambulo"
-    ],
-    [
-      "avoid",
-      "enabled",
-      "graveyard",
-      "hardware",
-      "ring",
-      "sandbar",
-      "thinks",
-      "voice"
-    ],
-    [
-      "400m",
-      "another",
-      "confirms",
-      "lovable",
-      "raises",
-      "valuation"
-    ],
-    [
-      "future",
-      "maker",
-      "ring",
-      "sandbar",
-      "stream",
-      "voice",
-      "wearables"
-    ],
     [
       "android",
       "automattic",
@@ -2579,6 +2549,43 @@
       "nvidia",
       "parcerias",
       "trilhao"
+    ],
+    [
+      "amplia",
+      "bilhoes",
+      "compra",
+      "conclui",
+      "cursor",
+      "forte",
+      "parceria",
+      "spacex"
+    ],
+    [
+      "confiam",
+      "jovens",
+      "lideres",
+      "mostra",
+      "pesquisa"
+    ],
+    [
+      "2030",
+      "brasil",
+      "injetar",
+      "openai",
+      "pode",
+      "preve",
+      "trilhao"
+    ],
+    [
+      "atendimento",
+      "baseado",
+      "claro",
+      "empacotar",
+      "estuda",
+      "feito",
+      "gpuaas",
+      "nvidia",
+      "parceria"
     ]
   ]
 }
