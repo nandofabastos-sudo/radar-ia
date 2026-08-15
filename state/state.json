@@ -468,7 +468,8 @@
       "https://news.ycombinator.com/item?id=49289112",
       "https://news.ycombinator.com/item?id=49289844",
       "https://news.ycombinator.com/item?id=49288889",
-      "https://news.ycombinator.com/item?id=49294997"
+      "https://news.ycombinator.com/item?id=49294997",
+      "https://news.ycombinator.com/item?id=49300314"
     ]
   },
   "mercado": {
@@ -821,20 +822,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "analysis",
-      "artificial",
-      "best",
-      "debuts",
-      "grok",
-      "kimi",
-      "matching",
-      "overtaking",
-      "performance",
-      "spacexai",
-      "third",
-      "world"
-    ],
     [
       "agents",
       "data",
@@ -2598,6 +2585,14 @@
       "nvidia",
       "openai",
       "reduz"
+    ],
+    [
+      "encryption",
+      "google",
+      "homomorphic",
+      "making",
+      "practical",
+      "private"
     ]
   ]
 }
