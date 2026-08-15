@@ -627,7 +627,9 @@
       "https://olhardigital.com.br/?p=1363293",
       "https://olhardigital.com.br/?p=1363304",
       "https://olhardigital.com.br/?p=1363354",
-      "https://olhardigital.com.br/?p=1363355"
+      "https://olhardigital.com.br/?p=1363355",
+      "https://olhardigital.com.br/?p=1363396",
+      "https://olhardigital.com.br/?p=1363425"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -819,23 +821,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "amazon",
-      "streamers",
-      "training",
-      "twitch"
-    ],
-    [
-      "accuracy",
-      "engineer",
-      "near",
-      "output",
-      "perfect",
-      "prompts",
-      "researchers",
-      "reverse",
-      "text"
-    ],
     [
       "analysis",
       "artificial",
@@ -2598,6 +2583,21 @@
       "reportedly",
       "serious",
       "vulnerability"
+    ],
+    [
+      "bilionaria",
+      "nvidia",
+      "participacao",
+      "spacex"
+    ],
+    [
+      "center",
+      "data",
+      "financiamento",
+      "garantia",
+      "nvidia",
+      "openai",
+      "reduz"
     ]
   ]
 }
