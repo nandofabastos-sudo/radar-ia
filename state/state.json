@@ -308,7 +308,8 @@
       "https://the-decoder.com/?p=39083",
       "https://the-decoder.com/?p=38836",
       "https://the-decoder.com/?p=39046",
-      "https://the-decoder.com/?p=38942"
+      "https://the-decoder.com/?p=38942",
+      "https://the-decoder.com/?p=39098"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -641,7 +642,8 @@
       "https://olhardigital.com.br/?p=1363355",
       "https://olhardigital.com.br/?p=1363396",
       "https://olhardigital.com.br/?p=1363425",
-      "https://olhardigital.com.br/?p=1363089"
+      "https://olhardigital.com.br/?p=1363089",
+      "https://olhardigital.com.br/?p=1363086"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -837,24 +839,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "builds",
-      "engineering",
-      "native",
-      "ringcentral",
-      "work"
-    ],
-    [
-      "amazon",
-      "content",
-      "default",
-      "streamers",
-      "they",
-      "train",
-      "twitch",
-      "unless",
-      "will"
-    ],
     [
       "amazon",
       "content",
@@ -2610,6 +2594,29 @@
       "anuncios",
       "chatgpt",
       "livrar"
+    ],
+    [
+      "anthropic",
+      "bubble",
+      "defy",
+      "forces",
+      "investor",
+      "just",
+      "numbers",
+      "nvidia",
+      "openai",
+      "pressure",
+      "shrink",
+      "warnings"
+    ],
+    [
+      "artificial",
+      "compras",
+      "confianca",
+      "delegar",
+      "exige",
+      "inteligencia",
+      "regras"
     ]
   ]
 }
