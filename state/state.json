@@ -307,7 +307,8 @@
       "https://the-decoder.com/?p=38813",
       "https://the-decoder.com/?p=39083",
       "https://the-decoder.com/?p=38836",
-      "https://the-decoder.com/?p=39046"
+      "https://the-decoder.com/?p=39046",
+      "https://the-decoder.com/?p=38942"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -721,7 +722,8 @@
       "https://canaltech.com.br/inteligencia-artificial/historico-do-chatgpt-entregou-adolescente-envolvido-em-duplo-homicidio-familiar/",
       "https://canaltech.com.br/inteligencia-artificial/google-acaba-com-marca-dagua-de-estrela-em-imagens-e-videos-feitos-por-ia/",
       "https://canaltech.com.br/mercado/openai-preve-que-ia-pode-injetar-r-1-trilhao-no-brasil-ate-2030-mas-como/",
-      "https://canaltech.com.br/inteligencia-artificial/nova-funcao-do-chatgpt-registra-tudo-que-voce-faz-no-pc-sem-criptografia/"
+      "https://canaltech.com.br/inteligencia-artificial/nova-funcao-do-chatgpt-registra-tudo-que-voce-faz-no-pc-sem-criptografia/",
+      "https://canaltech.com.br/inteligencia-artificial/aplicacoes-praticas-chatgpt-work/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -830,24 +832,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "amplia",
-      "anpd",
-      "biometria",
-      "estrutura",
-      "fiscalizar",
-      "jovens",
-      "protecao"
-    ],
-    [
-      "assustador",
-      "dado",
-      "estudo",
-      "jogos",
-      "revela",
-      "steam",
-      "usam"
-    ],
     [
       "agente",
       "amazon",
@@ -2608,6 +2592,22 @@
     ],
     [
       "hand"
+    ],
+    [
+      "amazon",
+      "authors",
+      "books",
+      "flooding",
+      "generated",
+      "human",
+      "sales",
+      "tanking"
+    ],
+    [
+      "aplicacoes",
+      "chatgpt",
+      "praticas",
+      "work"
     ]
   ]
 }
