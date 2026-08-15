@@ -431,7 +431,8 @@
       "6a74b89762c67abb9111bd59",
       "6a4be2ba909d7a6775643680",
       "6a7df60ff868b5c7ca33c338",
-      "6a7e0f9c0f200c034ba14931"
+      "6a7e0f9c0f200c034ba14931",
+      "6a7f35587f588ccda7affc4f"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -583,7 +584,8 @@
       "https://mittechreview.com.br/?p=259004",
       "https://mittechreview.com.br/?p=259042",
       "https://mittechreview.com.br/?p=259325",
-      "https://mittechreview.com.br/?p=259626"
+      "https://mittechreview.com.br/?p=259626",
+      "https://mittechreview.com.br/?p=259505"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -764,7 +766,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/apple-treina-modelo-proprio-de-ia-para-mercado-chines-com-apoio-do-alibaba-dizem-fontes.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/14/como-os-novos-oculos-inteligentes-com-ia-ajudam-pessoas-com-deficiencia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/chinesa-zai-diz-que-novo-modelo-se-aproxima-do-mythos-5-da-anthropic.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/nvidia-faz-parcerias-de-meio-trilhao-para-financinanciamento-de-chips.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/nvidia-faz-parcerias-de-meio-trilhao-para-financinanciamento-de-chips.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/15/kimi-k3-nova-ia-chinesa-da-carteirada-ao-mundo-diz-diogo-cortiz.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -826,23 +829,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agents",
-      "aren",
-      "eager",
-      "evil",
-      "just",
-      "please",
-      "rogue",
-      "they"
-    ],
-    [
-      "ajuda",
-      "criadores",
-      "entender",
-      "facebook",
-      "publico"
-    ],
     [
       "agendamento",
       "descobre",
@@ -2612,6 +2598,21 @@
       "plaintiff",
       "review",
       "secretly"
+    ],
+    [
+      "apenas",
+      "ciencia",
+      "dados",
+      "precisa",
+      "raciocinio"
+    ],
+    [
+      "carteirada",
+      "chinesa",
+      "cortiz",
+      "diogo",
+      "kimi",
+      "mundo"
     ]
   ]
 }
