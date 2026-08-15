@@ -304,7 +304,8 @@
       "https://the-decoder.com/?p=39071",
       "https://the-decoder.com/?p=39076",
       "https://the-decoder.com/?p=39093",
-      "https://the-decoder.com/?p=38813"
+      "https://the-decoder.com/?p=38813",
+      "https://the-decoder.com/?p=39083"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -823,10 +824,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "0813",
-      "deepseek"
-    ],
     [
       "best",
       "grok",
@@ -2598,6 +2595,19 @@
       "poorly",
       "still",
       "visual"
+    ],
+    [
+      "adoption",
+      "cognitive",
+      "commons",
+      "could",
+      "destroy",
+      "entire",
+      "expertise",
+      "explains",
+      "professions",
+      "rational",
+      "tragedy"
     ]
   ]
 }
