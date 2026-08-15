@@ -638,7 +638,8 @@
       "https://olhardigital.com.br/?p=1363354",
       "https://olhardigital.com.br/?p=1363355",
       "https://olhardigital.com.br/?p=1363396",
-      "https://olhardigital.com.br/?p=1363425"
+      "https://olhardigital.com.br/?p=1363425",
+      "https://olhardigital.com.br/?p=1363089"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -832,15 +833,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agente",
-      "amazon",
-      "artigo",
-      "chrome",
-      "entrar",
-      "quando",
-      "veste"
-    ],
     [
       "algoritmos",
       "chega",
@@ -2608,6 +2600,11 @@
       "chatgpt",
       "praticas",
       "work"
+    ],
+    [
+      "automacao",
+      "processos",
+      "tecnologia"
     ]
   ]
 }
