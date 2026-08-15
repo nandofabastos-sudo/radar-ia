@@ -528,7 +528,8 @@
       "108349502",
       "108349929",
       "108350008",
-      "108349811"
+      "108349811",
+      "108350071"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -726,7 +727,8 @@
       "https://canaltech.com.br/mercado/openai-preve-que-ia-pode-injetar-r-1-trilhao-no-brasil-ate-2030-mas-como/",
       "https://canaltech.com.br/inteligencia-artificial/nova-funcao-do-chatgpt-registra-tudo-que-voce-faz-no-pc-sem-criptografia/",
       "https://canaltech.com.br/inteligencia-artificial/aplicacoes-praticas-chatgpt-work/",
-      "https://canaltech.com.br/hardware/placas-de-video-nvidia-que-envelheceram-mal/"
+      "https://canaltech.com.br/hardware/placas-de-video-nvidia-que-envelheceram-mal/",
+      "https://canaltech.com.br/apps/como-se-livrar-de-anuncios-no-chatgpt/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -835,22 +837,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "500m",
-      "ampliar",
-      "credito",
-      "fidcs",
-      "levanta"
-    ],
-    [
-      "agentes",
-      "aposta",
-      "benner",
-      "criticos",
-      "investimento",
-      "milhoes",
-      "processos"
-    ],
     [
       "builds",
       "engineering",
@@ -2608,6 +2594,22 @@
       "nvidia",
       "trade",
       "week"
+    ],
+    [
+      "anthropic",
+      "billion",
+      "jumps",
+      "more",
+      "quarter",
+      "reportedly",
+      "revenue",
+      "second",
+      "than"
+    ],
+    [
+      "anuncios",
+      "chatgpt",
+      "livrar"
     ]
   ]
 }
