@@ -482,7 +482,8 @@
       "https://news.ycombinator.com/item?id=49288889",
       "https://news.ycombinator.com/item?id=49294997",
       "https://news.ycombinator.com/item?id=49300314",
-      "https://news.ycombinator.com/item?id=49300568"
+      "https://news.ycombinator.com/item?id=49300568",
+      "https://news.ycombinator.com/item?id=49312845"
     ]
   },
   "mercado": {
@@ -845,13 +846,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "against",
-      "font",
-      "newest",
-      "scrapers",
-      "weapon"
-    ],
     [
       "back",
       "center",
@@ -2633,6 +2627,16 @@
       "transform",
       "used",
       "woman"
+    ],
+    [
+      "access",
+      "brain",
+      "human",
+      "larger",
+      "memory",
+      "than",
+      "vastly",
+      "working"
     ]
   ]
 }
