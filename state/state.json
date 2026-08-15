@@ -256,7 +256,8 @@
       "https://www.theverge.com/?p=979871",
       "https://www.theverge.com/?p=980160",
       "https://www.theverge.com/?p=980416",
-      "https://www.theverge.com/?p=980367"
+      "https://www.theverge.com/?p=980367",
+      "https://www.theverge.com/?p=980502"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -843,13 +844,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "brasil",
-      "local",
-      "particularmente",
-      "relevante",
-      "torna"
-    ],
     [
       "anthropic",
       "catch",
@@ -2632,6 +2626,13 @@
       "what",
       "when",
       "wrong"
+    ],
+    [
+      "chatbot",
+      "expense",
+      "have",
+      "laugh",
+      "roleplaying"
     ]
   ]
 }
