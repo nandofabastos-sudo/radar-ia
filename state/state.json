@@ -474,7 +474,8 @@
       "https://news.ycombinator.com/item?id=49289844",
       "https://news.ycombinator.com/item?id=49288889",
       "https://news.ycombinator.com/item?id=49294997",
-      "https://news.ycombinator.com/item?id=49300314"
+      "https://news.ycombinator.com/item?id=49300314",
+      "https://news.ycombinator.com/item?id=49300568"
     ]
   },
   "mercado": {
@@ -829,15 +830,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agendamento",
-      "descobre",
-      "falha",
-      "fila",
-      "fura",
-      "sistema",
-      "usuario"
-    ],
     [
       "amplia",
       "anpd",
@@ -2613,6 +2605,9 @@
       "diogo",
       "kimi",
       "mundo"
+    ],
+    [
+      "hand"
     ]
   ]
 }
