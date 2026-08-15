@@ -210,7 +210,8 @@
       "https://techcrunch.com/?p=3153090",
       "https://techcrunch.com/?post_type=tc_video&p=3153153",
       "https://techcrunch.com/?p=3153145",
-      "https://techcrunch.com/?p=3153306"
+      "https://techcrunch.com/?p=3153306",
+      "https://techcrunch.com/?p=3153310"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -380,7 +381,8 @@
       "Mg5d6r5JkyqbXcJfDURku",
       "017W5EU8WmUPzADxzKpTLI",
       "5s4nliRe8aMQl0oAyHkrg3",
-      "65fLrIS0quprLcAMRZ04SD"
+      "65fLrIS0quprLcAMRZ04SD",
+      "3aqFAE5idF5OcZ4SA8CJIT"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -841,22 +843,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "expand",
-      "going",
-      "house",
-      "policy",
-      "white"
-    ],
-    [
-      "area",
-      "controle",
-      "desenvolvimento",
-      "gemini",
-      "google",
-      "reforca",
-      "reorganiza"
-    ],
     [
       "brasil",
       "local",
@@ -2621,6 +2607,31 @@
       "cursor",
       "officially",
       "spacex"
+    ],
+    [
+      "about",
+      "anthropic",
+      "claude",
+      "details",
+      "more",
+      "shares",
+      "watermarks",
+      "will",
+      "work"
+    ],
+    [
+      "confident",
+      "couldn",
+      "eval",
+      "found",
+      "harness",
+      "models",
+      "most",
+      "qualitative",
+      "review",
+      "what",
+      "when",
+      "wrong"
     ]
   ]
 }
