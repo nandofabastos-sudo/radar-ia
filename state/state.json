@@ -209,7 +209,8 @@
       "https://techcrunch.com/?p=3152944",
       "https://techcrunch.com/?p=3153090",
       "https://techcrunch.com/?post_type=tc_video&p=3153153",
-      "https://techcrunch.com/?p=3153145"
+      "https://techcrunch.com/?p=3153145",
+      "https://techcrunch.com/?p=3153306"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -840,15 +841,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "attack",
-      "chain",
-      "credentials",
-      "leaked",
-      "massive",
-      "supply",
-      "terabytes"
-    ],
     [
       "expand",
       "going",
@@ -2622,6 +2614,13 @@
       "quando",
       "toda",
       "washing"
+    ],
+    [
+      "acquisition",
+      "closes",
+      "cursor",
+      "officially",
+      "spacex"
     ]
   ]
 }
