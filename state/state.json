@@ -654,7 +654,8 @@
       "https://olhardigital.com.br/?p=1363425",
       "https://olhardigital.com.br/?p=1363089",
       "https://olhardigital.com.br/?p=1363086",
-      "https://olhardigital.com.br/?p=1363088"
+      "https://olhardigital.com.br/?p=1363088",
+      "https://olhardigital.com.br/?p=1363087"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -851,20 +852,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "about",
-      "back",
-      "bull",
-      "entered",
-      "have",
-      "korea",
-      "market",
-      "month",
-      "roars",
-      "south",
-      "stocks",
-      "trade"
-    ],
     [
       "brasil",
       "chega",
@@ -2659,6 +2646,12 @@
       "risks",
       "team",
       "work"
+    ],
+    [
+      "agentes",
+      "commerce",
+      "estao",
+      "revolucionando"
     ]
   ]
 }
