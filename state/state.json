@@ -314,7 +314,8 @@
       "https://the-decoder.com/?p=39046",
       "https://the-decoder.com/?p=38942",
       "https://the-decoder.com/?p=39098",
-      "https://the-decoder.com/?p=38699"
+      "https://the-decoder.com/?p=38699",
+      "https://the-decoder.com/?p=39057"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -848,9 +849,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "grok"
-    ],
     [
       "analysis",
       "artificial",
@@ -2639,6 +2637,20 @@
       "survey",
       "tasks",
       "workers"
+    ],
+    [
+      "against",
+      "benchmarking",
+      "biggest",
+      "data",
+      "flaw",
+      "letting",
+      "models",
+      "optima",
+      "tackles",
+      "test",
+      "their",
+      "users"
     ]
   ]
 }
