@@ -814,7 +814,8 @@
       "https://neofeed.com.br/?p=232802",
       "https://neofeed.com.br/?p=232969",
       "https://neofeed.com.br/?p=232952",
-      "https://neofeed.com.br/?p=233052"
+      "https://neofeed.com.br/?p=233052",
+      "https://neofeed.com.br/?p=232783"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -864,13 +865,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "claude",
-      "invisible",
-      "letter",
-      "scarlet",
-      "watermark"
-    ],
     [
       "became",
       "carpenter",
@@ -2643,6 +2637,14 @@
       "nenhum",
       "popular",
       "qual"
+    ],
+    [
+      "afeta",
+      "crise",
+      "diagnostico",
+      "mistral",
+      "produtores",
+      "vinho"
     ]
   ]
 }
