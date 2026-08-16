@@ -214,7 +214,8 @@
       "https://techcrunch.com/?p=3153310",
       "https://techcrunch.com/?p=3153313",
       "https://techcrunch.com/?p=3153318",
-      "https://techcrunch.com/?p=3153329"
+      "https://techcrunch.com/?p=3153329",
+      "https://techcrunch.com/?p=3153332"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -571,7 +572,8 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3152426",
       "https://techcrunch.com/?post_type=tc_video&p=3152427",
       "https://techcrunch.com/?p=3152463",
-      "https://techcrunch.com/?post_type=tc_podcast&p=3153152"
+      "https://techcrunch.com/?post_type=tc_podcast&p=3153152",
+      "https://techcrunch.com/?p=3153332"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -867,14 +869,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "2026",
-      "deepfakes",
-      "definir",
-      "eleicoes",
-      "limite",
-      "pode"
-    ],
     [
       "agente",
       "aposta",
@@ -2647,6 +2641,15 @@
       "reaches",
       "starts",
       "what"
+    ],
+    [
+      "acquire",
+      "gateway",
+      "openrouter",
+      "reportedly",
+      "startup",
+      "stripe",
+      "will"
     ]
   ]
 }
