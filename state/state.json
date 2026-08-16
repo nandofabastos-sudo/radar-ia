@@ -258,7 +258,8 @@
       "https://www.theverge.com/?p=980160",
       "https://www.theverge.com/?p=980416",
       "https://www.theverge.com/?p=980367",
-      "https://www.theverge.com/?p=980502"
+      "https://www.theverge.com/?p=980502",
+      "https://www.theverge.com/?p=980337"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -854,12 +855,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "humano",
-      "luiza",
-      "preponderante",
-      "trajano"
-    ],
     [
       "adult",
       "blind",
@@ -2656,6 +2651,13 @@
       "themselves",
       "when",
       "worldview"
+    ],
+    [
+      "anymore",
+      "aren",
+      "fiction",
+      "rogue",
+      "science"
     ]
   ]
 }
