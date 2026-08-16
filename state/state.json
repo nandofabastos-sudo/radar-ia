@@ -212,7 +212,8 @@
       "https://techcrunch.com/?p=3153145",
       "https://techcrunch.com/?p=3153306",
       "https://techcrunch.com/?p=3153310",
-      "https://techcrunch.com/?p=3153313"
+      "https://techcrunch.com/?p=3153313",
+      "https://techcrunch.com/?p=3153318"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -861,13 +862,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "about",
-      "feel",
-      "kids",
-      "their",
-      "words"
-    ],
     [
       "about",
       "already",
@@ -2650,6 +2644,13 @@
       "poor",
       "strong",
       "thinkers"
+    ],
+    [
+      "anthropic",
+      "backlash",
+      "crisis",
+      "fundamentally",
+      "trust"
     ]
   ]
 }
