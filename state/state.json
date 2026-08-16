@@ -259,7 +259,8 @@
       "https://www.theverge.com/?p=980416",
       "https://www.theverge.com/?p=980367",
       "https://www.theverge.com/?p=980502",
-      "https://www.theverge.com/?p=980337"
+      "https://www.theverge.com/?p=980337",
+      "https://www.theverge.com/?p=980742"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -659,7 +660,8 @@
       "https://olhardigital.com.br/?p=1363086",
       "https://olhardigital.com.br/?p=1363088",
       "https://olhardigital.com.br/?p=1363087",
-      "https://olhardigital.com.br/?p=1363633"
+      "https://olhardigital.com.br/?p=1363633",
+      "https://olhardigital.com.br/?p=1363647"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -747,7 +749,8 @@
       "https://canaltech.com.br/inteligencia-artificial/aplicacoes-praticas-chatgpt-work/",
       "https://canaltech.com.br/hardware/placas-de-video-nvidia-que-envelheceram-mal/",
       "https://canaltech.com.br/apps/como-se-livrar-de-anuncios-no-chatgpt/",
-      "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-chatgpt/"
+      "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-chatgpt/",
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-spark/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -857,28 +860,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "billion",
-      "buildout",
-      "fueled",
-      "hynix",
-      "inside",
-      "korea",
-      "look",
-      "over",
-      "south",
-      "taking"
-    ],
-    [
-      "antes",
-      "bullying",
-      "duas",
-      "humanos",
-      "maquina",
-      "pensarao",
-      "robo",
-      "vezes"
-    ],
     [
       "adding",
       "anthropic",
@@ -2657,6 +2638,20 @@
       "marcar",
       "textos",
       "uniao"
+    ],
+    [
+      "acao",
+      "antigas",
+      "grok",
+      "imagens",
+      "judicial",
+      "pornografia",
+      "transformou"
+    ],
+    [
+      "gemini",
+      "spark",
+      "usar"
     ]
   ]
 }
