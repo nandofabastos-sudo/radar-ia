@@ -320,7 +320,8 @@
       "https://the-decoder.com/?p=39057",
       "https://the-decoder.com/?p=39104",
       "https://the-decoder.com/?p=39110",
-      "https://the-decoder.com/?p=39012"
+      "https://the-decoder.com/?p=39012",
+      "https://the-decoder.com/?p=39113"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -860,18 +861,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "adding",
-      "anthropic",
-      "brings",
-      "browser",
-      "chrome",
-      "claude",
-      "cowork",
-      "extension",
-      "plugins",
-      "skills"
-    ],
     [
       "about",
       "feel",
@@ -2652,6 +2641,15 @@
       "gemini",
       "spark",
       "usar"
+    ],
+    [
+      "calculators",
+      "creative",
+      "llms",
+      "mathematicians",
+      "poor",
+      "strong",
+      "thinkers"
     ]
   ]
 }
