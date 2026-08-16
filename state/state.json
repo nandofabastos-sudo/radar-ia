@@ -263,7 +263,8 @@
       "https://www.theverge.com/?p=980367",
       "https://www.theverge.com/?p=980502",
       "https://www.theverge.com/?p=980337",
-      "https://www.theverge.com/?p=980742"
+      "https://www.theverge.com/?p=980742",
+      "https://www.theverge.com/?p=980817"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -669,7 +670,8 @@
       "https://olhardigital.com.br/?p=1363087",
       "https://olhardigital.com.br/?p=1363633",
       "https://olhardigital.com.br/?p=1363647",
-      "https://olhardigital.com.br/?p=1363677"
+      "https://olhardigital.com.br/?p=1363677",
+      "https://olhardigital.com.br/?p=1363693"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -869,25 +871,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agente",
-      "aposta",
-      "assumir",
-      "factorial",
-      "repetitivas",
-      "tarefas"
-    ],
-    [
-      "agent",
-      "costs",
-      "cuts",
-      "model",
-      "palmyra",
-      "spending",
-      "surges",
-      "token",
-      "writer"
-    ],
     [
       "algoritmo",
       "ritmo"
@@ -2650,6 +2633,20 @@
       "startup",
       "stripe",
       "will"
+    ],
+    [
+      "disbanded",
+      "openai",
+      "preparedness",
+      "reportedly",
+      "team"
+    ],
+    [
+      "anthropic",
+      "confianca",
+      "crise",
+      "rejeicao",
+      "setor"
     ]
   ]
 }
