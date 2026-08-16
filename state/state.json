@@ -493,7 +493,8 @@
       "https://news.ycombinator.com/item?id=49294997",
       "https://news.ycombinator.com/item?id=49300314",
       "https://news.ycombinator.com/item?id=49300568",
-      "https://news.ycombinator.com/item?id=49312845"
+      "https://news.ycombinator.com/item?id=49312845",
+      "https://news.ycombinator.com/item?id=49319556"
     ]
   },
   "mercado": {
@@ -663,7 +664,8 @@
       "https://olhardigital.com.br/?p=1363088",
       "https://olhardigital.com.br/?p=1363087",
       "https://olhardigital.com.br/?p=1363633",
-      "https://olhardigital.com.br/?p=1363647"
+      "https://olhardigital.com.br/?p=1363647",
+      "https://olhardigital.com.br/?p=1363677"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -862,30 +864,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "about",
-      "already",
-      "automated",
-      "fallen",
-      "have",
-      "milestones",
-      "predicted",
-      "research",
-      "researchers",
-      "several",
-      "their",
-      "warned"
-    ],
-    [
-      "adoption",
-      "ceiling",
-      "corporate",
-      "fable",
-      "frontier",
-      "slow",
-      "suggests",
-      "willingness"
-    ],
     [
       "claude",
       "invisible",
@@ -2651,6 +2629,20 @@
       "crisis",
       "fundamentally",
       "trust"
+    ],
+    [
+      "claude",
+      "prompts",
+      "system"
+    ],
+    [
+      "aberto",
+      "feito",
+      "modelo",
+      "mundo",
+      "nenhum",
+      "popular",
+      "qual"
     ]
   ]
 }
