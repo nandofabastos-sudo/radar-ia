@@ -580,7 +580,8 @@
       "108350192",
       "108350294",
       "108350286",
-      "108350493"
+      "108350493",
+      "108350607"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -707,7 +708,8 @@
       "https://olhardigital.com.br/?p=1363701",
       "https://olhardigital.com.br/?p=1363815",
       "https://olhardigital.com.br/?p=1363848",
-      "https://olhardigital.com.br/?p=1363887"
+      "https://olhardigital.com.br/?p=1363887",
+      "https://olhardigital.com.br/?p=1363980"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -807,7 +809,8 @@
       "https://canaltech.com.br/mercado/openai-desmancha-equipe-responsavel-por-conter-rebeliao-de-ias/",
       "https://canaltech.com.br/inteligencia-artificial/padrasto-usava-o-grok-para-criar-mais-de-7-mil-imagens-criminosas-da-enteada/",
       "https://canaltech.com.br/inteligencia-artificial/hollywood-fecha-acordo-com-tiktok-para-impedir-clones-de-atores-por-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/chatgpt-invade-o-google-drive-e-passa-a-editar-documentos-no-lugar-do-gemini/"
+      "https://canaltech.com.br/inteligencia-artificial/chatgpt-invade-o-google-drive-e-passa-a-editar-documentos-no-lugar-do-gemini/",
+      "https://canaltech.com.br/mercado/criadora-do-chatgpt-defende-semana-de-4-dias-mas-impoe-70-horas-a-funcionarios/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -924,46 +927,11 @@
       "https://www.mobiletime.com.br/?p=861206",
       "https://www.mobiletime.com.br/?p=861239",
       "https://www.mobiletime.com.br/?p=861344",
-      "https://www.mobiletime.com.br/?p=861435"
+      "https://www.mobiletime.com.br/?p=861435",
+      "https://www.mobiletime.com.br/?p=861488"
     ]
   },
   "_titulos_recentes": [
-    [
-      "canivete",
-      "chega",
-      "flash",
-      "gemini",
-      "programar",
-      "suico"
-    ],
-    [
-      "legora",
-      "mira",
-      "prepara",
-      "rodada",
-      "sueca",
-      "valuation"
-    ],
-    [
-      "190b",
-      "databricks",
-      "investors",
-      "raise",
-      "settled",
-      "valuation",
-      "wanted"
-    ],
-    [
-      "bandmate",
-      "chat",
-      "feature",
-      "lets",
-      "like",
-      "studio",
-      "suno",
-      "talk",
-      "your"
-    ],
     [
       "agents",
       "claude",
@@ -2709,6 +2677,43 @@
       "invade",
       "lugar",
       "passa"
+    ],
+    [
+      "annualized",
+      "anthropic",
+      "billion",
+      "climbed",
+      "investors",
+      "july",
+      "rate",
+      "revenue",
+      "tells"
+    ],
+    [
+      "acordo",
+      "autorais",
+      "bytedance",
+      "direitos",
+      "hollywood",
+      "pressao"
+    ],
+    [
+      "chatgpt",
+      "criadora",
+      "defende",
+      "dias",
+      "funcionarios",
+      "horas",
+      "impoe",
+      "semana"
+    ],
+    [
+      "agentes",
+      "cobranca",
+      "cria",
+      "goatable",
+      "solucao",
+      "vendas"
     ]
   ]
 }
