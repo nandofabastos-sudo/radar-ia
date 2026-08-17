@@ -373,7 +373,8 @@
       "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
       "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
       "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
+      "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -854,7 +855,8 @@
       "https://economia.uol.com.br/noticias/reuters/2026/08/17/correcao-no-mercado-de-ia-esta-por-vir-preve-blog-do-bce.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/17/anthropic-detalha-como-vai-marcar-textos-do-claude-com-marca-dagua.ghtm",
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/17/discord-assume-falha-de-ia-mas-diz-que-derrubou-live-antes-de-suicidio.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/17/marca-dagua-em-textos-feitos-pelo-claude-gera-revolta-e-abre-margem-para-ia-mais-burra.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/17/marca-dagua-em-textos-feitos-pelo-claude-gera-revolta-e-abre-margem-para-ia-mais-burra.htm",
+      "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/08/17/inteligencia-artificial-pode-revelar-aquilo-que-nem-sabemos-que-nao-sabemos.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -919,14 +921,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acusado",
-      "adolescente",
-      "buscas",
-      "chatgpt",
-      "irmao",
-      "matar"
-    ],
     [
       "agentes",
       "ceos",
@@ -2699,6 +2693,14 @@
       "gains",
       "module",
       "pipeline"
+    ],
+    [
+      "aquilo",
+      "artificial",
+      "inteligencia",
+      "pode",
+      "revelar",
+      "sabemos"
     ]
   ]
 }
