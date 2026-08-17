@@ -330,7 +330,8 @@
       "https://the-decoder.com/?p=39012",
       "https://the-decoder.com/?p=39113",
       "https://the-decoder.com/?p=39116",
-      "https://the-decoder.com/?p=39120"
+      "https://the-decoder.com/?p=39120",
+      "https://the-decoder.com/?p=39125"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -506,7 +507,8 @@
       "https://news.ycombinator.com/item?id=49312845",
       "https://news.ycombinator.com/item?id=49319556",
       "https://news.ycombinator.com/item?id=49323381",
-      "https://news.ycombinator.com/item?id=49324087"
+      "https://news.ycombinator.com/item?id=49324087",
+      "https://news.ycombinator.com/item?id=49320611"
     ]
   },
   "mercado": {
@@ -559,7 +561,8 @@
       "108349929",
       "108350008",
       "108349811",
-      "108350071"
+      "108350071",
+      "108350192"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -884,25 +887,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "backlash",
-      "flock",
-      "growing",
-      "response",
-      "rules",
-      "surveillance",
-      "tightening"
-    ],
-    [
-      "chatgpt",
-      "codex",
-      "desktop",
-      "linux"
-    ],
-    [
-      "deepseek",
-      "harness"
-    ],
     [
       "back",
       "came",
@@ -2659,6 +2643,29 @@
       "olho",
       "resumo",
       "tech"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "critics",
+      "output",
+      "question",
+      "tradeoffs",
+      "watermarks"
+    ],
+    [
+      "credit",
+      "economy",
+      "resale"
+    ],
+    [
+      "alibaba",
+      "answers",
+      "challenge",
+      "laptop",
+      "meta",
+      "model",
+      "ready"
     ]
   ]
 }
