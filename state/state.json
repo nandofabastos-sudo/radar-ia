@@ -716,7 +716,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=921671",
       "https://tecnoblog.net/?post_type=noticias&p=921694",
       "https://tecnoblog.net/?post_type=noticias&p=921753",
-      "https://tecnoblog.net/?post_type=noticias&p=921692"
+      "https://tecnoblog.net/?post_type=noticias&p=921692",
+      "https://tecnoblog.net/?post_type=noticias&p=922311"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -776,7 +777,8 @@
       "https://canaltech.com.br/apps/como-se-livrar-de-anuncios-no-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-spark/",
-      "https://canaltech.com.br/inteligencia-artificial/como-assinar-claude-mais-barato/"
+      "https://canaltech.com.br/inteligencia-artificial/como-assinar-claude-mais-barato/",
+      "https://canaltech.com.br/carros/carros-mais-vendidos-ranking-da-china-indica-o-que-vem-ai-no-brasil/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -824,7 +826,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/chinesa-zai-diz-que-novo-modelo-se-aproxima-do-mythos-5-da-anthropic.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/nvidia-faz-parcerias-de-meio-trilhao-para-financinanciamento-de-chips.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/15/kimi-k3-nova-ia-chinesa-da-carteirada-ao-mundo-diz-diogo-cortiz.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/15/nvidia-planeja-investir-us3-bi-na-sb-energy-em-acordopara-centro-de-dados-da-openai-diz-the-information.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/15/nvidia-planeja-investir-us3-bi-na-sb-energy-em-acordopara-centro-de-dados-da-openai-diz-the-information.htm",
+      "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/08/15/eua-dirao-a-parceiros-que-terao-de-escolher-um-lado-na-corrida-da-ia-com-a-china.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -887,31 +890,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "back",
-      "came",
-      "others",
-      "stocks",
-      "stumbled",
-      "surged",
-      "trade"
-    ],
-    [
-      "acelera",
-      "chinesa",
-      "corrida",
-      "deepseek",
-      "lanca"
-    ],
-    [
-      "aposta",
-      "china",
-      "escritorios",
-      "fecha",
-      "fichas",
-      "microsoft",
-      "suas"
-    ],
     [
       "ameacar",
       "chatgpt",
@@ -2666,6 +2644,29 @@
       "meta",
       "model",
       "ready"
+    ],
+    [
+      "acaba",
+      "excel",
+      "funcao",
+      "microsoft"
+    ],
+    [
+      "brasil",
+      "carros",
+      "china",
+      "indica",
+      "ranking",
+      "vendidos"
+    ],
+    [
+      "china",
+      "corrida",
+      "dirao",
+      "escolher",
+      "lado",
+      "parceiros",
+      "terao"
     ]
   ]
 }
