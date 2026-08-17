@@ -222,7 +222,8 @@
       "https://techcrunch.com/?p=3153332",
       "https://techcrunch.com/?p=3153341",
       "https://techcrunch.com/?p=3153419",
-      "https://techcrunch.com/?p=3153443"
+      "https://techcrunch.com/?p=3153443",
+      "https://techcrunch.com/?p=3153430"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -733,7 +734,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=921753",
       "https://tecnoblog.net/?post_type=noticias&p=921692",
       "https://tecnoblog.net/?post_type=noticias&p=922311",
-      "https://tecnoblog.net/?post_type=noticias&p=922476"
+      "https://tecnoblog.net/?post_type=noticias&p=922476",
+      "https://tecnoblog.net/?post_type=achados&p=922485"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -915,25 +917,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "adotar",
-      "dificil",
-      "facil",
-      "faze",
-      "ficou",
-      "gerar",
-      "orquestracao",
-      "resultado"
-    ],
-    [
-      "bros",
-      "confirma",
-      "hogwarts",
-      "legacy",
-      "producao",
-      "sequencia",
-      "warner"
-    ],
     [
       "agora",
       "disponivel",
@@ -2692,6 +2675,26 @@
       "invisiveis",
       "techs",
       "trilhoes"
+    ],
+    [
+      "amazon",
+      "books",
+      "bookseller",
+      "destroying",
+      "models",
+      "once",
+      "online",
+      "rare",
+      "train"
+    ],
+    [
+      "artificial",
+      "cupom",
+      "galaxy",
+      "historica",
+      "inteligencia",
+      "queda",
+      "watch"
     ]
   ]
 }
