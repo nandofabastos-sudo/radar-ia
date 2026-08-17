@@ -27,7 +27,8 @@
       "https://openai.com/index/ringcentral",
       "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "https://openai.com/index/previewing-ultrafast",
-      "https://openai.com/index/builders-guide-to-gpt-5-6"
+      "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -265,7 +266,8 @@
       "https://www.theverge.com/?p=980502",
       "https://www.theverge.com/?p=980337",
       "https://www.theverge.com/?p=980742",
-      "https://www.theverge.com/?p=980817"
+      "https://www.theverge.com/?p=980817",
+      "https://www.theverge.com/?p=980869"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -503,7 +505,8 @@
       "https://news.ycombinator.com/item?id=49300568",
       "https://news.ycombinator.com/item?id=49312845",
       "https://news.ycombinator.com/item?id=49319556",
-      "https://news.ycombinator.com/item?id=49323381"
+      "https://news.ycombinator.com/item?id=49323381",
+      "https://news.ycombinator.com/item?id=49324087"
     ]
   },
   "mercado": {
@@ -596,7 +599,8 @@
       "https://news.crunchbase.com/?p=93970",
       "https://news.crunchbase.com/?p=93972",
       "https://news.crunchbase.com/?p=93975",
-      "https://news.crunchbase.com/?p=93980"
+      "https://news.crunchbase.com/?p=93980",
+      "https://news.crunchbase.com/?p=93977"
     ]
   },
   "brasil": {
@@ -677,7 +681,8 @@
       "https://olhardigital.com.br/?p=1363633",
       "https://olhardigital.com.br/?p=1363647",
       "https://olhardigital.com.br/?p=1363677",
-      "https://olhardigital.com.br/?p=1363693"
+      "https://olhardigital.com.br/?p=1363693",
+      "https://olhardigital.com.br/?p=1363701"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -879,50 +884,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "does",
-      "even",
-      "google",
-      "want"
-    ],
-    [
-      "best",
-      "generated",
-      "human",
-      "inside",
-      "looked",
-      "movie",
-      "parts",
-      "were"
-    ],
-    [
-      "flash",
-      "ling",
-      "model",
-      "open",
-      "size",
-      "smartest"
-    ],
-    [
-      "anthropic",
-      "could",
-      "goes",
-      "public",
-      "trillion",
-      "when",
-      "worth"
-    ],
-    [
-      "agent",
-      "around",
-      "built",
-      "capital",
-      "models",
-      "multi",
-      "open",
-      "platform",
-      "weight"
-    ],
     [
       "backlash",
       "flock",
@@ -2655,6 +2616,49 @@
       "inteligencia",
       "precisar",
       "quando"
+    ],
+    [
+      "ideas",
+      "intelligence",
+      "policy"
+    ],
+    [
+      "8217",
+      "anthropic",
+      "claude",
+      "explains",
+      "invisible",
+      "text",
+      "watermarks",
+      "will",
+      "work"
+    ],
+    [
+      "adulteration",
+      "anthropic",
+      "claude",
+      "perversion",
+      "text",
+      "watermark",
+      "writing"
+    ],
+    [
+      "backing",
+      "busy",
+      "giants",
+      "semiconductor",
+      "startups",
+      "year"
+    ],
+    [
+      "criados",
+      "livros",
+      "mistico",
+      "movimento",
+      "nasa",
+      "olho",
+      "resumo",
+      "tech"
     ]
   ]
 }
