@@ -335,7 +335,8 @@
       "https://the-decoder.com/?p=39116",
       "https://the-decoder.com/?p=39120",
       "https://the-decoder.com/?p=39125",
-      "https://the-decoder.com/?p=39129"
+      "https://the-decoder.com/?p=39129",
+      "https://the-decoder.com/?p=39132"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -567,7 +568,8 @@
       "108349811",
       "108350071",
       "108350192",
-      "108350294"
+      "108350294",
+      "108350286"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -783,7 +785,8 @@
       "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-spark/",
       "https://canaltech.com.br/inteligencia-artificial/como-assinar-claude-mais-barato/",
-      "https://canaltech.com.br/carros/carros-mais-vendidos-ranking-da-china-indica-o-que-vem-ai-no-brasil/"
+      "https://canaltech.com.br/carros/carros-mais-vendidos-ranking-da-china-indica-o-que-vem-ai-no-brasil/",
+      "https://canaltech.com.br/inteligencia-artificial/anthropic-mostra-como-claude-insere-marca-dagua-invisivel-em-textos-feitos-por-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -833,7 +836,9 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/15/kimi-k3-nova-ia-chinesa-da-carteirada-ao-mundo-diz-diogo-cortiz.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/15/nvidia-planeja-investir-us3-bi-na-sb-energy-em-acordopara-centro-de-dados-da-openai-diz-the-information.htm",
       "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/08/15/eua-dirao-a-parceiros-que-terao-de-escolher-um-lado-na-corrida-da-ia-com-a-china.htm",
-      "https://economia.uol.com.br/noticias/reuters/2026/08/17/correcao-no-mercado-de-ia-esta-por-vir-preve-blog-do-bce.htm"
+      "https://economia.uol.com.br/noticias/reuters/2026/08/17/correcao-no-mercado-de-ia-esta-por-vir-preve-blog-do-bce.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/17/anthropic-detalha-como-vai-marcar-textos-do-claude-com-marca-dagua.ghtm",
+      "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/17/discord-assume-falha-de-ia-mas-diz-que-derrubou-live-antes-de-suicidio.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -897,45 +902,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "flash",
-      "gemini",
-      "introducing"
-    ],
-    [
-      "like",
-      "look",
-      "more",
-      "music",
-      "production",
-      "real",
-      "suno",
-      "tool",
-      "trying"
-    ],
-    [
-      "agent",
-      "deepseek",
-      "improved",
-      "open",
-      "prices",
-      "raises",
-      "ships",
-      "software",
-      "sources"
-    ],
-    [
-      "after",
-      "announces",
-      "flash",
-      "gemini",
-      "google",
-      "just",
-      "previous",
-      "release",
-      "three",
-      "weeks"
-    ],
     [
       "alongside",
       "claude",
@@ -2667,6 +2633,47 @@
       "pesquisadora",
       "precisa",
       "propoe"
+    ],
+    [
+      "backing",
+      "billion",
+      "center",
+      "data",
+      "lease",
+      "nvidia",
+      "ohio",
+      "openai",
+      "record",
+      "signs"
+    ],
+    [
+      "agua",
+      "anthropic",
+      "claude",
+      "feitos",
+      "insere",
+      "invisivel",
+      "marca",
+      "mostra",
+      "textos"
+    ],
+    [
+      "agua",
+      "anthropic",
+      "detalha",
+      "feito",
+      "marca",
+      "saber",
+      "texto"
+    ],
+    [
+      "antes",
+      "assume",
+      "derrubou",
+      "discord",
+      "falha",
+      "live",
+      "suicidio"
     ]
   ]
 }
