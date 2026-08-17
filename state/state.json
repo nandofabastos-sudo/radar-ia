@@ -579,7 +579,8 @@
       "108350071",
       "108350192",
       "108350294",
-      "108350286"
+      "108350286",
+      "108350493"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -642,7 +643,8 @@
       "https://mittechreview.com.br/?p=259325",
       "https://mittechreview.com.br/?p=259626",
       "https://mittechreview.com.br/?p=259505",
-      "https://mittechreview.com.br/?p=259435"
+      "https://mittechreview.com.br/?p=259435",
+      "https://mittechreview.com.br/?p=260592"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -804,7 +806,8 @@
       "https://canaltech.com.br/inteligencia-artificial/anthropic-mostra-como-claude-insere-marca-dagua-invisivel-em-textos-feitos-por-ia/",
       "https://canaltech.com.br/mercado/openai-desmancha-equipe-responsavel-por-conter-rebeliao-de-ias/",
       "https://canaltech.com.br/inteligencia-artificial/padrasto-usava-o-grok-para-criar-mais-de-7-mil-imagens-criminosas-da-enteada/",
-      "https://canaltech.com.br/inteligencia-artificial/hollywood-fecha-acordo-com-tiktok-para-impedir-clones-de-atores-por-ia/"
+      "https://canaltech.com.br/inteligencia-artificial/hollywood-fecha-acordo-com-tiktok-para-impedir-clones-de-atores-por-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/chatgpt-invade-o-google-drive-e-passa-a-editar-documentos-no-lugar-do-gemini/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -925,31 +928,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "introduces",
-      "makes",
-      "mode",
-      "openai",
-      "speed",
-      "ultrafast",
-      "work"
-    ],
-    [
-      "coding",
-      "flash",
-      "gains",
-      "gemini",
-      "lands",
-      "predecessor",
-      "price",
-      "three",
-      "undercuts",
-      "week"
-    ],
-    [
-      "flash",
-      "gemini"
-    ],
     [
       "canivete",
       "chega",
@@ -2702,6 +2680,35 @@
       "groq",
       "neoclouds",
       "serie"
+    ],
+    [
+      "alive",
+      "come",
+      "continue",
+      "here",
+      "nvidia",
+      "reasons",
+      "started",
+      "stock"
+    ],
+    [
+      "democracia",
+      "diante",
+      "estufa",
+      "liberal",
+      "liberdade",
+      "opiniao"
+    ],
+    [
+      "chatgpt",
+      "documentos",
+      "drive",
+      "editar",
+      "gemini",
+      "google",
+      "invade",
+      "lugar",
+      "passa"
     ]
   ]
 }
