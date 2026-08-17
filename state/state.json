@@ -28,7 +28,9 @@
       "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "https://openai.com/index/previewing-ultrafast",
       "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+      "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "https://openai.com/index/openai-joins-ports-pike-project",
+      "https://openai.com/index/the-defenders-window"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -217,7 +219,8 @@
       "https://techcrunch.com/?p=3153313",
       "https://techcrunch.com/?p=3153318",
       "https://techcrunch.com/?p=3153329",
-      "https://techcrunch.com/?p=3153332"
+      "https://techcrunch.com/?p=3153332",
+      "https://techcrunch.com/?p=3153341"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -331,7 +334,8 @@
       "https://the-decoder.com/?p=39113",
       "https://the-decoder.com/?p=39116",
       "https://the-decoder.com/?p=39120",
-      "https://the-decoder.com/?p=39125"
+      "https://the-decoder.com/?p=39125",
+      "https://the-decoder.com/?p=39129"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -562,7 +566,8 @@
       "108350008",
       "108349811",
       "108350071",
-      "108350192"
+      "108350192",
+      "108350294"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -827,7 +832,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/14/nvidia-faz-parcerias-de-meio-trilhao-para-financinanciamento-de-chips.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/15/kimi-k3-nova-ia-chinesa-da-carteirada-ao-mundo-diz-diogo-cortiz.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/15/nvidia-planeja-investir-us3-bi-na-sb-energy-em-acordopara-centro-de-dados-da-openai-diz-the-information.htm",
-      "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/08/15/eua-dirao-a-parceiros-que-terao-de-escolher-um-lado-na-corrida-da-ia-com-a-china.htm"
+      "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/08/15/eua-dirao-a-parceiros-que-terao-de-escolher-um-lado-na-corrida-da-ia-com-a-china.htm",
+      "https://economia.uol.com.br/noticias/reuters/2026/08/17/correcao-no-mercado-de-ia-esta-por-vir-preve-blog-do-bce.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -886,74 +892,11 @@
       "https://www.mobiletime.com.br/?p=861212",
       "https://www.mobiletime.com.br/?p=861206",
       "https://www.mobiletime.com.br/?p=861239",
-      "https://www.mobiletime.com.br/?p=861344"
+      "https://www.mobiletime.com.br/?p=861344",
+      "https://www.mobiletime.com.br/?p=861435"
     ]
   },
   "_titulos_recentes": [
-    [
-      "ameacar",
-      "chatgpt",
-      "claude",
-      "cresce",
-      "deepseek",
-      "lanca",
-      "mercado"
-    ],
-    [
-      "chamar",
-      "cotidiano",
-      "encanador",
-      "fazer",
-      "gemini",
-      "marcar",
-      "medico",
-      "passa",
-      "tarefas"
-    ],
-    [
-      "apple",
-      "assistente",
-      "atualizar",
-      "informada",
-      "jornais",
-      "negocia",
-      "siri"
-    ],
-    [
-      "artificial",
-      "cegos",
-      "clientes",
-      "coreia",
-      "inteligencia",
-      "perdem",
-      "videntes"
-    ],
-    [
-      "anthropic",
-      "boom",
-      "megateste",
-      "mira",
-      "pode",
-      "spacex",
-      "superar",
-      "trilhoes",
-      "valuation"
-    ],
-    [
-      "appoints",
-      "chief",
-      "dali",
-      "officer",
-      "openai",
-      "rajic",
-      "revenue"
-    ],
-    [
-      "mode",
-      "previewing",
-      "speed",
-      "ultrafast"
-    ],
     [
       "flash",
       "gemini",
@@ -2667,6 +2610,63 @@
       "lado",
       "parceiros",
       "terao"
+    ],
+    [
+      "joins",
+      "openai",
+      "pike",
+      "ports",
+      "project"
+    ],
+    [
+      "defender",
+      "window"
+    ],
+    [
+      "280m",
+      "beyond",
+      "dictation",
+      "looks",
+      "raises",
+      "valuation",
+      "wispr"
+    ],
+    [
+      "back",
+      "bounced",
+      "false",
+      "market",
+      "sora",
+      "start",
+      "video"
+    ],
+    [
+      "about",
+      "brockman",
+      "brushes",
+      "changes",
+      "cnbc",
+      "concerns",
+      "exclusive",
+      "leadership",
+      "openai"
+    ],
+    [
+      "acoes",
+      "banco",
+      "central",
+      "europeu",
+      "preve",
+      "queda",
+      "risco"
+    ],
+    [
+      "brasil",
+      "digital",
+      "letramento",
+      "pesquisadora",
+      "precisa",
+      "propoe"
     ]
   ]
 }
