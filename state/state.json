@@ -802,7 +802,8 @@
       "https://canaltech.com.br/carros/carros-mais-vendidos-ranking-da-china-indica-o-que-vem-ai-no-brasil/",
       "https://canaltech.com.br/inteligencia-artificial/anthropic-mostra-como-claude-insere-marca-dagua-invisivel-em-textos-feitos-por-ia/",
       "https://canaltech.com.br/mercado/openai-desmancha-equipe-responsavel-por-conter-rebeliao-de-ias/",
-      "https://canaltech.com.br/inteligencia-artificial/padrasto-usava-o-grok-para-criar-mais-de-7-mil-imagens-criminosas-da-enteada/"
+      "https://canaltech.com.br/inteligencia-artificial/padrasto-usava-o-grok-para-criar-mais-de-7-mil-imagens-criminosas-da-enteada/",
+      "https://canaltech.com.br/inteligencia-artificial/hollywood-fecha-acordo-com-tiktok-para-impedir-clones-de-atores-por-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -856,7 +857,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/17/anthropic-detalha-como-vai-marcar-textos-do-claude-com-marca-dagua.ghtm",
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/17/discord-assume-falha-de-ia-mas-diz-que-derrubou-live-antes-de-suicidio.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/17/marca-dagua-em-textos-feitos-pelo-claude-gera-revolta-e-abre-margem-para-ia-mais-burra.htm",
-      "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/08/17/inteligencia-artificial-pode-revelar-aquilo-que-nem-sabemos-que-nao-sabemos.htm"
+      "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/08/17/inteligencia-artificial-pode-revelar-aquilo-que-nem-sabemos-que-nao-sabemos.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/17/nvidia-fornecera-ate-us105-bi-em-garantias-para-data-center-da-openai-nos-eua.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -921,16 +923,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agentes",
-      "ceos",
-      "futurista",
-      "maestro",
-      "missao",
-      "neil",
-      "redding",
-      "segundo"
-    ],
     [
       "agents",
       "anthropic",
@@ -2701,6 +2693,15 @@
       "pode",
       "revelar",
       "sabemos"
+    ],
+    [
+      "acordo",
+      "atores",
+      "clones",
+      "fecha",
+      "hollywood",
+      "impedir",
+      "tiktok"
     ]
   ]
 }
