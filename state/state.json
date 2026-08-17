@@ -336,7 +336,8 @@
       "https://the-decoder.com/?p=39120",
       "https://the-decoder.com/?p=39125",
       "https://the-decoder.com/?p=39129",
-      "https://the-decoder.com/?p=39132"
+      "https://the-decoder.com/?p=39132",
+      "https://the-decoder.com/?p=39136"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -409,7 +410,9 @@
       "65fLrIS0quprLcAMRZ04SD",
       "3aqFAE5idF5OcZ4SA8CJIT",
       "30TtKMdIkDcC2xBxuqAjKE",
-      "2l9E2PbTL1ON7PGJM32oiE"
+      "2l9E2PbTL1ON7PGJM32oiE",
+      "6NEBoASYWLjNNoFtG0dUJ5",
+      "5qvzuHXsG1vMec64sNtG75"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -692,7 +695,8 @@
       "https://olhardigital.com.br/?p=1363647",
       "https://olhardigital.com.br/?p=1363677",
       "https://olhardigital.com.br/?p=1363693",
-      "https://olhardigital.com.br/?p=1363701"
+      "https://olhardigital.com.br/?p=1363701",
+      "https://olhardigital.com.br/?p=1363815"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -902,50 +906,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alongside",
-      "claude",
-      "code",
-      "deepseek",
-      "harness",
-      "higher",
-      "launches",
-      "open",
-      "prices",
-      "rival",
-      "source"
-    ],
-    [
-      "chief",
-      "days",
-      "denise",
-      "departure",
-      "dresser",
-      "executive",
-      "leaving",
-      "major",
-      "openai",
-      "revenue",
-      "second"
-    ],
-    [
-      "anthropic",
-      "bilhoes",
-      "israelense",
-      "pagar",
-      "pode",
-      "startup"
-    ],
-    [
-      "adia",
-      "debate",
-      "deepfakes",
-      "deste",
-      "eleicao",
-      "endurecer",
-      "pode",
-      "regras"
-    ],
     [
       "botam",
       "finalmente",
@@ -2674,6 +2634,47 @@
       "falha",
       "live",
       "suicidio"
+    ],
+    [
+      "airtag",
+      "amazon",
+      "books",
+      "destroys",
+      "rare",
+      "reveals",
+      "training"
+    ],
+    [
+      "built",
+      "global",
+      "healthcare",
+      "heidi",
+      "production",
+      "ready",
+      "scale"
+    ],
+    [
+      "agent",
+      "confront",
+      "context",
+      "control",
+      "enterprises",
+      "layer",
+      "sprawl",
+      "their",
+      "them",
+      "wants",
+      "xpander"
+    ],
+    [
+      "avaliava",
+      "desativa",
+      "equipe",
+      "graves",
+      "modelos",
+      "openai",
+      "riscos",
+      "seus"
     ]
   ]
 }
