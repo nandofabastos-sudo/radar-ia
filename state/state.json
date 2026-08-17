@@ -274,7 +274,8 @@
       "https://www.theverge.com/?p=980337",
       "https://www.theverge.com/?p=980742",
       "https://www.theverge.com/?p=980817",
-      "https://www.theverge.com/?p=980869"
+      "https://www.theverge.com/?p=980869",
+      "https://www.theverge.com/?p=978323"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -420,7 +421,8 @@
       "6NEBoASYWLjNNoFtG0dUJ5",
       "5qvzuHXsG1vMec64sNtG75",
       "4SAhFZrUBptZZDf5KuFHEU",
-      "4nI4fvd5mLP8PxO3dmgwOc"
+      "4nI4fvd5mLP8PxO3dmgwOc",
+      "5LHIDSIGYHf9qFfovJHkqu"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -526,7 +528,8 @@
       "https://news.ycombinator.com/item?id=49323381",
       "https://news.ycombinator.com/item?id=49324087",
       "https://news.ycombinator.com/item?id=49320611",
-      "https://news.ycombinator.com/item?id=49336573"
+      "https://news.ycombinator.com/item?id=49336573",
+      "https://news.ycombinator.com/item?id=49331423"
     ]
   },
   "mercado": {
@@ -937,32 +940,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "character",
-      "clippy",
-      "copilot",
-      "face",
-      "like",
-      "longer",
-      "mico",
-      "microsoft"
-    ],
-    [
-      "anything",
-      "barely",
-      "manifesto",
-      "mark",
-      "words",
-      "zuckerberg"
-    ],
-    [
-      "2030",
-      "adicionar",
-      "brasil",
-      "estudo",
-      "pode",
-      "quase"
-    ],
     [
       "anterior",
       "apenas",
@@ -2706,6 +2683,40 @@
       "fonte",
       "receita",
       "ultrapassa"
+    ],
+    [
+      "bodies",
+      "cats",
+      "litter",
+      "powered",
+      "robot",
+      "swapped",
+      "thinks",
+      "whisker"
+    ],
+    [
+      "code",
+      "coding",
+      "cursor",
+      "exposes",
+      "github",
+      "hosting",
+      "launches",
+      "opening",
+      "origin",
+      "outage",
+      "platform",
+      "race"
+    ],
+    [
+      "allowed",
+      "autofix",
+      "compromise",
+      "copilot",
+      "generated",
+      "github",
+      "jira",
+      "snowflake"
     ]
   ]
 }
