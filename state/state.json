@@ -869,7 +869,8 @@
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/17/discord-assume-falha-de-ia-mas-diz-que-derrubou-live-antes-de-suicidio.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/17/marca-dagua-em-textos-feitos-pelo-claude-gera-revolta-e-abre-margem-para-ia-mais-burra.htm",
       "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/08/17/inteligencia-artificial-pode-revelar-aquilo-que-nem-sabemos-que-nao-sabemos.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/17/nvidia-fornecera-ate-us105-bi-em-garantias-para-data-center-da-openai-nos-eua.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/17/nvidia-fornecera-ate-us105-bi-em-garantias-para-data-center-da-openai-nos-eua.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/17/receita-anualizada-da-anthropic-ultrapassa-us65-bilhoes-diz-fonte.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -936,16 +937,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "contain",
-      "costs",
-      "harness",
-      "introduces",
-      "model",
-      "token",
-      "upgraded",
-      "writer"
-    ],
     [
       "character",
       "clippy",
@@ -2707,6 +2698,14 @@
       "pequim",
       "ultimato",
       "washington"
+    ],
+    [
+      "anthropic",
+      "anualizada",
+      "bilhoes",
+      "fonte",
+      "receita",
+      "ultrapassa"
     ]
   ]
 }
