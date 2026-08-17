@@ -223,7 +223,8 @@
       "https://techcrunch.com/?p=3153341",
       "https://techcrunch.com/?p=3153419",
       "https://techcrunch.com/?p=3153443",
-      "https://techcrunch.com/?p=3153430"
+      "https://techcrunch.com/?p=3153430",
+      "https://techcrunch.com/?p=3153653"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -374,7 +375,8 @@
       "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
       "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
+      "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -523,7 +525,8 @@
       "https://news.ycombinator.com/item?id=49319556",
       "https://news.ycombinator.com/item?id=49323381",
       "https://news.ycombinator.com/item?id=49324087",
-      "https://news.ycombinator.com/item?id=49320611"
+      "https://news.ycombinator.com/item?id=49320611",
+      "https://news.ycombinator.com/item?id=49336573"
     ]
   },
   "mercado": {
@@ -709,7 +712,8 @@
       "https://olhardigital.com.br/?p=1363815",
       "https://olhardigital.com.br/?p=1363848",
       "https://olhardigital.com.br/?p=1363887",
-      "https://olhardigital.com.br/?p=1363980"
+      "https://olhardigital.com.br/?p=1363980",
+      "https://olhardigital.com.br/?p=1364015"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -932,52 +936,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agents",
-      "claude",
-      "conflicting",
-      "didn",
-      "done",
-      "each",
-      "given",
-      "orders",
-      "other",
-      "sabotaged",
-      "server",
-      "shared",
-      "tell",
-      "then",
-      "they",
-      "three",
-      "users",
-      "what"
-    ],
-    [
-      "agir",
-      "caos",
-      "entre",
-      "onde",
-      "ordem",
-      "pode"
-    ],
-    [
-      "cade",
-      "caso",
-      "conteudo",
-      "envolve",
-      "google",
-      "jornais",
-      "pedido",
-      "rejeita"
-    ],
-    [
-      "ficar",
-      "modo",
-      "openai",
-      "pode",
-      "rapido",
-      "vezes"
-    ],
     [
       "contain",
       "costs",
@@ -2714,6 +2672,41 @@
       "goatable",
       "solucao",
       "vendas"
+    ],
+    [
+      "automation",
+      "chrome",
+      "down",
+      "google",
+      "joins",
+      "relay",
+      "shuts",
+      "staff",
+      "startup",
+      "team"
+    ],
+    [
+      "building",
+      "engineers",
+      "factory",
+      "former",
+      "making",
+      "parts",
+      "robotic",
+      "spacex",
+      "steel"
+    ],
+    [
+      "didn",
+      "read"
+    ],
+    [
+      "corrida",
+      "escolher",
+      "paises",
+      "pequim",
+      "ultimato",
+      "washington"
     ]
   ]
 }
