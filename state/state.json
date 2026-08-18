@@ -237,7 +237,8 @@
       "https://techcrunch.com/?p=3153863",
       "https://techcrunch.com/?p=3153909",
       "https://techcrunch.com/?p=3153956",
-      "https://techcrunch.com/?p=3154044"
+      "https://techcrunch.com/?p=3154044",
+      "https://techcrunch.com/?p=3154081"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -888,7 +889,8 @@
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-exclusivo-para-jovens-tem-travas-de-seguranca-e-modo-estudo/",
       "https://canaltech.com.br/mercado/nubank-abre-50-vagas-de-estagio-com-foco-em-inteligencia-artificial/",
       "https://canaltech.com.br/mercado/openai-oficializa-operacoes-no-brasil-e-revela-numeros-de-crescimento/",
-      "https://canaltech.com.br/apps/gemini-notebook-libera-copia-de-cadernos-inteiros-com-um-unico-clique/"
+      "https://canaltech.com.br/apps/gemini-notebook-libera-copia-de-cadernos-inteiros-com-um-unico-clique/",
+      "https://canaltech.com.br/produtos/olimpiadas-dos-robos-revela-qual-time-tem-melhor-humanoide-em-tarefas-realistas/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1035,12 +1037,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bilionaria",
-      "nvidia",
-      "participacao",
-      "spacex"
-    ],
     [
       "center",
       "data",
@@ -2828,6 +2824,17 @@
       "levanta",
       "levou",
       "startup"
+    ],
+    [
+      "humanoide",
+      "melhor",
+      "olimpiadas",
+      "qual",
+      "realistas",
+      "revela",
+      "robos",
+      "tarefas",
+      "time"
     ]
   ]
 }
