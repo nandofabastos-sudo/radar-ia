@@ -34,7 +34,8 @@
       "https://openai.com/index/chatgpt-for-teens",
       "https://openai.com/index/partnering-with-codeai",
       "https://openai.com/index/introducing-chatgpt-for-teens",
-      "https://openai.com/index/asana"
+      "https://openai.com/index/asana",
+      "https://openai.com/index/pacing-model-development-cyber-capabilities"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -234,7 +235,8 @@
       "https://techcrunch.com/?p=3153830",
       "https://techcrunch.com/?p=3153863",
       "https://techcrunch.com/?p=3153909",
-      "https://techcrunch.com/?p=3153956"
+      "https://techcrunch.com/?p=3153956",
+      "https://techcrunch.com/?p=3154044"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -365,7 +367,9 @@
       "https://the-decoder.com/?p=39164",
       "https://the-decoder.com/?p=39160",
       "https://the-decoder.com/?p=39161",
-      "https://the-decoder.com/?p=39163"
+      "https://the-decoder.com/?p=39163",
+      "https://the-decoder.com/?p=39175",
+      "https://the-decoder.com/?p=39181"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -510,7 +514,8 @@
       "6a7df60ff868b5c7ca33c338",
       "6a7e0f9c0f200c034ba14931",
       "6a7f35587f588ccda7affc4f",
-      "6a832c872b72af022841792b"
+      "6a832c872b72af022841792b",
+      "6a848674f787031f677590ed"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -693,7 +698,8 @@
       "https://mittechreview.com.br/?p=259505",
       "https://mittechreview.com.br/?p=259435",
       "https://mittechreview.com.br/?p=260592",
-      "https://mittechreview.com.br/?p=260620"
+      "https://mittechreview.com.br/?p=260620",
+      "https://mittechreview.com.br/?p=260843"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -944,7 +950,8 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/18/ia-cria-novos-empregos-em-mais-da-metade-das-empresas-britanicas-diz-estudo.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/empresa-de-design-de-chips-velaura-ai-e-avaliada-em-mais-de-us1-bi-apos-captacao.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/chinesa-ponyai-planeja-ativar-mais-de-4000-robotaxis-no-exterior.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/chinesa-lumos-robotics-busca-novo-financiamento-e-possivel-ipo.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/chinesa-lumos-robotics-busca-novo-financiamento-e-possivel-ipo.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/openai-reduz-ritmo-de-treinamento-de-ia-para-reforcar-seguranca-apos-ataque.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1016,71 +1023,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "adolescente",
-      "chatgpt",
-      "duplo",
-      "entregou",
-      "envolvido",
-      "familiar",
-      "historico",
-      "homicidio"
-    ],
-    [
-      "acaba",
-      "agua",
-      "estrela",
-      "feitos",
-      "google",
-      "imagens",
-      "marca",
-      "videos"
-    ],
-    [
-      "chips",
-      "financinanciamento",
-      "meio",
-      "nvidia",
-      "parcerias",
-      "trilhao"
-    ],
-    [
-      "amplia",
-      "bilhoes",
-      "compra",
-      "conclui",
-      "cursor",
-      "forte",
-      "parceria",
-      "spacex"
-    ],
-    [
-      "confiam",
-      "jovens",
-      "lideres",
-      "mostra",
-      "pesquisa"
-    ],
-    [
-      "2030",
-      "brasil",
-      "injetar",
-      "openai",
-      "pode",
-      "preve",
-      "trilhao"
-    ],
-    [
-      "atendimento",
-      "baseado",
-      "claro",
-      "empacotar",
-      "estuda",
-      "feito",
-      "gpuaas",
-      "nvidia",
-      "parceria"
-    ],
     [
       "china",
       "foot",
@@ -2819,6 +2761,66 @@
       "fora",
       "nesta",
       "terca"
+    ],
+    [
+      "capabilities",
+      "critical",
+      "cyber",
+      "development",
+      "model",
+      "pacing"
+    ],
+    [
+      "after",
+      "breach",
+      "face",
+      "hugging",
+      "institutes",
+      "openai",
+      "safeguards"
+    ],
+    [
+      "agents",
+      "apis",
+      "benchmark",
+      "cost",
+      "quality",
+      "ranks",
+      "search",
+      "speed"
+    ],
+    [
+      "cybersecurity",
+      "dangerous",
+      "development",
+      "grow",
+      "model",
+      "openai",
+      "pacing",
+      "risks"
+    ],
+    [
+      "after",
+      "agents",
+      "openai",
+      "overhauls",
+      "protocols",
+      "rogue",
+      "safety",
+      "went"
+    ],
+    [
+      "jovens",
+      "pensam"
+    ],
+    [
+      "ataque",
+      "openai",
+      "reduz",
+      "reforcar",
+      "ritmo",
+      "seguranca",
+      "treinamento"
     ]
   ]
 }
