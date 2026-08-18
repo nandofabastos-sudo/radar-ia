@@ -633,7 +633,8 @@
       "108350493",
       "108350607",
       "108350537",
-      "108350769"
+      "108350769",
+      "108351130"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -958,7 +959,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/chinesa-lumos-robotics-busca-novo-financiamento-e-possivel-ipo.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/openai-reduz-ritmo-de-treinamento-de-ia-para-reforcar-seguranca-apos-ataque.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/estudo-aponta-que-algoritmo-do-x-aprende-com-raiva-e-reforca-ragebait.ghtm",
-      "https://www3.uol.com.br/redirect-flash/o-que-ta-rolando-no-mundo-openai-abre-escritorio-no-brasil-meta-no-tribunal-e-mais.htm"
+      "https://www3.uol.com.br/redirect-flash/o-que-ta-rolando-no-mundo-openai-abre-escritorio-no-brasil-meta-no-tribunal-e-mais.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/anthropic-prepara-poder-de-voto-especial-para-fundadores-antes-de-ipo-dizthe-information.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -997,7 +999,8 @@
       "https://startups.com.br/?p=339711",
       "https://startups.com.br/?p=339738",
       "https://startups.com.br/?p=339814",
-      "https://startups.com.br/?p=339840"
+      "https://startups.com.br/?p=339840",
+      "https://startups.com.br/?p=339857"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1032,28 +1035,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bolsonaro",
-      "chave",
-      "economia",
-      "ferramenta",
-      "flavio",
-      "plano",
-      "publico",
-      "servico"
-    ],
-    [
-      "advanced",
-      "already",
-      "capabilities",
-      "cursor",
-      "cyber",
-      "found",
-      "here",
-      "reportedly",
-      "serious",
-      "vulnerability"
-    ],
     [
       "bilionaria",
       "nvidia",
@@ -2829,6 +2810,24 @@
       "chatgpt",
       "lanca",
       "openai"
+    ],
+    [
+      "antes",
+      "anthropic",
+      "especial",
+      "fundadores",
+      "information",
+      "poder",
+      "prepara",
+      "voto"
+    ],
+    [
+      "400m",
+      "cannes",
+      "filme",
+      "levanta",
+      "levou",
+      "startup"
     ]
   ]
 }
