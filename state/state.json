@@ -35,7 +35,8 @@
       "https://openai.com/index/partnering-with-codeai",
       "https://openai.com/index/introducing-chatgpt-for-teens",
       "https://openai.com/index/asana",
-      "https://openai.com/index/pacing-model-development-cyber-capabilities"
+      "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -811,7 +812,8 @@
       "https://tecnoblog.net/?post_type=achados&p=922485",
       "https://tecnoblog.net/?post_type=noticias&p=922682",
       "https://tecnoblog.net/?post_type=noticias&p=922848",
-      "https://tecnoblog.net/?post_type=noticias&p=922988"
+      "https://tecnoblog.net/?post_type=noticias&p=922988",
+      "https://tecnoblog.net/?post_type=noticias&p=923125"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -955,7 +957,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/chinesa-ponyai-planeja-ativar-mais-de-4000-robotaxis-no-exterior.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/chinesa-lumos-robotics-busca-novo-financiamento-e-possivel-ipo.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/openai-reduz-ritmo-de-treinamento-de-ia-para-reforcar-seguranca-apos-ataque.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/estudo-aponta-que-algoritmo-do-x-aprende-com-raiva-e-reforca-ragebait.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/estudo-aponta-que-algoritmo-do-x-aprende-com-raiva-e-reforca-ragebait.ghtm",
+      "https://www3.uol.com.br/redirect-flash/o-que-ta-rolando-no-mundo-openai-abre-escritorio-no-brasil-meta-no-tribunal-e-mais.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1024,43 +1027,11 @@
       "https://www.mobiletime.com.br/?p=861484",
       "https://www.mobiletime.com.br/?p=861520",
       "https://www.mobiletime.com.br/?p=861526",
-      "https://www.mobiletime.com.br/?p=861532"
+      "https://www.mobiletime.com.br/?p=861532",
+      "https://www.mobiletime.com.br/?p=861600"
     ]
   },
   "_titulos_recentes": [
-    [
-      "billion",
-      "discloses",
-      "nvidia",
-      "quarter",
-      "second",
-      "spacex",
-      "stake"
-    ],
-    [
-      "confiaveis",
-      "dados",
-      "juridico",
-      "opiniao",
-      "precisa"
-    ],
-    [
-      "anthropic",
-      "chinesa",
-      "cibernetica",
-      "pode",
-      "seguranca",
-      "superado",
-      "teste"
-    ],
-    [
-      "chatgpt",
-      "criptografia",
-      "funcao",
-      "registra",
-      "tudo",
-      "voce"
-    ],
     [
       "bolsonaro",
       "chave",
@@ -2827,6 +2798,37 @@
       "instagram",
       "robin",
       "williams"
+    ],
+    [
+      "democratic",
+      "national",
+      "oversight",
+      "security",
+      "strengthening"
+    ],
+    [
+      "calma",
+      "eles",
+      "firefox",
+      "ganha",
+      "opcionais",
+      "recursos"
+    ],
+    [
+      "abre",
+      "brasil",
+      "escritorio",
+      "meta",
+      "mundo",
+      "openai",
+      "risco",
+      "rolando"
+    ],
+    [
+      "adolescentes",
+      "chatgpt",
+      "lanca",
+      "openai"
     ]
   ]
 }
