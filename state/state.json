@@ -228,7 +228,10 @@
       "https://techcrunch.com/?p=3153443",
       "https://techcrunch.com/?p=3153430",
       "https://techcrunch.com/?p=3153653",
-      "https://techcrunch.com/?p=3153733"
+      "https://techcrunch.com/?p=3153733",
+      "https://techcrunch.com/?p=3153831",
+      "https://techcrunch.com/?p=3153830",
+      "https://techcrunch.com/?p=3153863"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -283,7 +286,8 @@
       "https://www.theverge.com/?p=981326",
       "https://www.theverge.com/?p=981333",
       "https://www.theverge.com/?p=981194",
-      "https://www.theverge.com/?p=981269"
+      "https://www.theverge.com/?p=981269",
+      "https://www.theverge.com/?p=981283"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -441,7 +445,8 @@
       "4nI4fvd5mLP8PxO3dmgwOc",
       "5LHIDSIGYHf9qFfovJHkqu",
       "1opZh1LWLZwmN1dyqk3dqj",
-      "7AAjgw7ustuI3M5hhUuPgJ"
+      "7AAjgw7ustuI3M5hhUuPgJ",
+      "5C2nrJWbnJkTZW3xPkMGnu"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -555,7 +560,8 @@
       "https://news.ycombinator.com/item?id=49329575",
       "https://news.ycombinator.com/item?id=49337392",
       "https://news.ycombinator.com/item?id=49337602",
-      "https://news.ycombinator.com/item?id=49331220"
+      "https://news.ycombinator.com/item?id=49331220",
+      "https://news.ycombinator.com/item?id=49343559"
     ]
   },
   "mercado": {
@@ -639,7 +645,8 @@
       "https://techcrunch.com/?p=3152463",
       "https://techcrunch.com/?post_type=tc_podcast&p=3153152",
       "https://techcrunch.com/?p=3153332",
-      "https://techcrunch.com/?p=3153447"
+      "https://techcrunch.com/?p=3153447",
+      "https://techcrunch.com/?p=3153831"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -860,7 +867,8 @@
       "https://canaltech.com.br/software/photoshop-ganha-area-dedicada-a-ia-para-simplificar-edicao-de-imagens/",
       "https://canaltech.com.br/inteligencia-artificial/amazon-cria-divisao-secreta-que-compra-e-destroi-livros-raros-para-treinar-ia/",
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-exclusivo-para-jovens-tem-travas-de-seguranca-e-modo-estudo/",
-      "https://canaltech.com.br/mercado/nubank-abre-50-vagas-de-estagio-com-foco-em-inteligencia-artificial/"
+      "https://canaltech.com.br/mercado/nubank-abre-50-vagas-de-estagio-com-foco-em-inteligencia-artificial/",
+      "https://canaltech.com.br/mercado/openai-oficializa-operacoes-no-brasil-e-revela-numeros-de-crescimento/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -922,7 +930,10 @@
       "https://www3.uol.com.br/redirect-flash/discord-assume-falha-de-ia-mas-diz-que-derrubou-live-antes-de-suicidio.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/18/trabalhadores-ja-treinam-robos-com-ia-a-substituir-seus-proprios-empregos.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/openai-lanca-chatgpt-para-adolescentes-com-medidas-de-protecao-mais-rigorosas-e-controles-parentais.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/openai-cria-modo-chatgpt-para-adolescentes-com-pausas-e-controle-de-horarios.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/openai-cria-modo-chatgpt-para-adolescentes-com-pausas-e-controle-de-horarios.ghtm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/18/openai-contrata-novo-centro-de-dados-nos-eua-com-respaldo-da-nvidia.htm",
+      "https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/08/18/ceo-da-nvidia-diz-que-data-center-da-openai-pode-gerar-us-600-bilhoes-em-receita.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/18/ia-cria-novos-empregos-em-mais-da-metade-das-empresas-britanicas-diz-estudo.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -993,71 +1004,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "center",
-      "develop",
-      "first",
-      "gadjah",
-      "indonesia",
-      "indosat",
-      "local",
-      "mada",
-      "nvidia",
-      "open",
-      "talent",
-      "universitas",
-      "university"
-    ],
-    [
-      "copilot",
-      "github",
-      "grok"
-    ],
-    [
-      "copilot",
-      "github",
-      "grok"
-    ],
-    [
-      "8217",
-      "gemini",
-      "google",
-      "turn",
-      "visible",
-      "watermarks"
-    ],
-    [
-      "instagzam",
-      "mark",
-      "zuckerberg"
-    ],
-    [
-      "alibaba",
-      "apache",
-      "license",
-      "models",
-      "open",
-      "qwen",
-      "releases",
-      "team",
-      "under",
-      "weights"
-    ],
-    [
-      "case",
-      "court",
-      "filings",
-      "injected",
-      "prompts",
-      "suspecting",
-      "using"
-    ],
-    [
-      "brasil",
-      "desafios",
-      "mundo",
-      "regulamentar"
-    ],
     [
       "ajuda",
       "caries",
@@ -2794,6 +2740,76 @@
       "novos",
       "silencio",
       "tera"
+    ],
+    [
+      "free",
+      "india",
+      "left",
+      "millions",
+      "more",
+      "offer",
+      "perplexity",
+      "users"
+    ],
+    [
+      "development",
+      "factory",
+      "software",
+      "system",
+      "warp"
+    ],
+    [
+      "8217",
+      "better",
+      "browser",
+      "firefox",
+      "promises",
+      "smart",
+      "window"
+    ],
+    [
+      "commerce",
+      "fragmenting",
+      "here",
+      "matters"
+    ],
+    [
+      "airline",
+      "auction",
+      "because",
+      "buys",
+      "crashed",
+      "data",
+      "google",
+      "spirit"
+    ],
+    [
+      "brasil",
+      "crescimento",
+      "numeros",
+      "oficializa",
+      "openai",
+      "operacoes",
+      "revela"
+    ],
+    [
+      "bilhoes",
+      "center",
+      "data",
+      "gerar",
+      "nvidia",
+      "openai",
+      "pode",
+      "receita"
+    ],
+    [
+      "britanicas",
+      "cria",
+      "empregos",
+      "empresas",
+      "estudo",
+      "metade",
+      "novos"
     ]
   ]
 }
