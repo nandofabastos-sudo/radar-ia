@@ -344,7 +344,8 @@
       "https://the-decoder.com/?p=39129",
       "https://the-decoder.com/?p=39132",
       "https://the-decoder.com/?p=39136",
-      "https://the-decoder.com/?p=39140"
+      "https://the-decoder.com/?p=39140",
+      "https://the-decoder.com/?p=39145"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -758,7 +759,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=921692",
       "https://tecnoblog.net/?post_type=noticias&p=922311",
       "https://tecnoblog.net/?post_type=noticias&p=922476",
-      "https://tecnoblog.net/?post_type=achados&p=922485"
+      "https://tecnoblog.net/?post_type=achados&p=922485",
+      "https://tecnoblog.net/?post_type=noticias&p=922682"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -881,7 +883,9 @@
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/17/marca-dagua-em-textos-feitos-pelo-claude-gera-revolta-e-abre-margem-para-ia-mais-burra.htm",
       "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/08/17/inteligencia-artificial-pode-revelar-aquilo-que-nem-sabemos-que-nao-sabemos.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/17/nvidia-fornecera-ate-us105-bi-em-garantias-para-data-center-da-openai-nos-eua.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/17/receita-anualizada-da-anthropic-ultrapassa-us65-bilhoes-diz-fonte.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/17/receita-anualizada-da-anthropic-ultrapassa-us65-bilhoes-diz-fonte.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/openai-operacao-brasil.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/deu-tilt-ep-80.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -952,35 +956,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "aproveita",
-      "avaliar",
-      "chineses",
-      "modelos",
-      "waic"
-    ],
-    [
-      "analise",
-      "ferramenta",
-      "inrad",
-      "laudos",
-      "minutos",
-      "prontuarios",
-      "quase",
-      "reduz",
-      "sumarizacao",
-      "tempo"
-    ],
-    [
-      "mistral"
-    ],
-    [
-      "capabilities",
-      "coding",
-      "cyber",
-      "emergent",
-      "frontier"
-    ],
     [
       "adota",
       "cativar",
@@ -2729,6 +2704,38 @@
       "rate",
       "revenue",
       "sevenfold"
+    ],
+    [
+      "compress",
+      "context",
+      "drop",
+      "instructions",
+      "quietly",
+      "systems",
+      "they",
+      "user",
+      "when"
+    ],
+    [
+      "brasil",
+      "busca",
+      "estreita",
+      "lacos",
+      "openai",
+      "parceiros"
+    ],
+    [
+      "america",
+      "brasil",
+      "escolheu",
+      "escritorio",
+      "fora",
+      "openai"
+    ],
+    [
+      "barato",
+      "production",
+      "rapido"
     ]
   ]
 }
