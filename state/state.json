@@ -30,7 +30,9 @@
       "https://openai.com/index/builders-guide-to-gpt-5-6",
       "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
       "https://openai.com/index/openai-joins-ports-pike-project",
-      "https://openai.com/index/the-defenders-window"
+      "https://openai.com/index/the-defenders-window",
+      "https://openai.com/index/chatgpt-for-teens",
+      "https://openai.com/index/partnering-with-codeai"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -277,7 +279,9 @@
       "https://www.theverge.com/?p=980817",
       "https://www.theverge.com/?p=980869",
       "https://www.theverge.com/?p=978323",
-      "https://www.theverge.com/?p=981326"
+      "https://www.theverge.com/?p=981326",
+      "https://www.theverge.com/?p=981333",
+      "https://www.theverge.com/?p=981194"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -347,7 +351,8 @@
       "https://the-decoder.com/?p=39136",
       "https://the-decoder.com/?p=39140",
       "https://the-decoder.com/?p=39145",
-      "https://the-decoder.com/?p=39151"
+      "https://the-decoder.com/?p=39151",
+      "https://the-decoder.com/?p=39155"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -600,7 +605,8 @@
       "108350294",
       "108350286",
       "108350493",
-      "108350607"
+      "108350607",
+      "108350537"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -623,7 +629,8 @@
       "https://techcrunch.com/?post_type=tc_video&p=3152427",
       "https://techcrunch.com/?p=3152463",
       "https://techcrunch.com/?post_type=tc_podcast&p=3153152",
-      "https://techcrunch.com/?p=3153332"
+      "https://techcrunch.com/?p=3153332",
+      "https://techcrunch.com/?p=3153447"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -641,7 +648,8 @@
       "https://news.crunchbase.com/?p=93972",
       "https://news.crunchbase.com/?p=93975",
       "https://news.crunchbase.com/?p=93980",
-      "https://news.crunchbase.com/?p=93977"
+      "https://news.crunchbase.com/?p=93977",
+      "https://news.crunchbase.com/?p=93979"
     ]
   },
   "brasil": {
@@ -963,80 +971,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "board",
-      "companies",
-      "count",
-      "highest",
-      "joined",
-      "july",
-      "unicorn",
-      "years"
-    ],
-    [
-      "empresas",
-      "ferramenta",
-      "importante",
-      "metodo",
-      "passou"
-    ],
-    [
-      "chatgpt",
-      "dicas",
-      "hiper",
-      "modo",
-      "realista",
-      "usar"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "code",
-      "daily",
-      "maintenance",
-      "merge",
-      "percent",
-      "rate",
-      "runs",
-      "software"
-    ],
-    [
-      "anthropic",
-      "apple",
-      "facility",
-      "investor",
-      "more",
-      "morning",
-      "squawk",
-      "stock",
-      "surge",
-      "talks",
-      "workday"
-    ],
-    [
-      "acontece",
-      "agora",
-      "mundo",
-      "todo"
-    ],
-    [
-      "cerebras",
-      "faster",
-      "goes",
-      "launches",
-      "mode",
-      "openai",
-      "powered",
-      "ultrafast"
-    ],
-    [
-      "adocao",
-      "agentes",
-      "brasil",
-      "empresas",
-      "pelas",
-      "supera"
-    ],
     [
       "apps",
       "chatfishing",
@@ -2745,6 +2679,83 @@
       "avoid",
       "disable",
       "intrusive"
+    ],
+    [
+      "backed",
+      "built",
+      "chatgpt",
+      "introducing",
+      "learning",
+      "protections",
+      "teens"
+    ],
+    [
+      "codeai",
+      "first",
+      "generation",
+      "partnering",
+      "prepare"
+    ],
+    [
+      "chatgpt",
+      "dedicated",
+      "getting",
+      "mode",
+      "teens"
+    ],
+    [
+      "could",
+      "elon",
+      "even",
+      "flying",
+      "made",
+      "musk",
+      "palantir",
+      "profit",
+      "worse"
+    ],
+    [
+      "anthropic",
+      "average",
+      "cost",
+      "developers",
+      "keep",
+      "paying",
+      "runs",
+      "times",
+      "token",
+      "vercel"
+    ],
+    [
+      "capital",
+      "chips",
+      "moat",
+      "nvidia",
+      "shifting"
+    ],
+    [
+      "265m",
+      "back",
+      "building",
+      "capital",
+      "expand",
+      "founders",
+      "fund",
+      "human",
+      "potential",
+      "raises",
+      "reach"
+    ],
+    [
+      "billions",
+      "into",
+      "investing",
+      "next",
+      "physical",
+      "pour",
+      "shape",
+      "takes",
+      "wave"
     ]
   ]
 }
