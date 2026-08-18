@@ -532,7 +532,9 @@
       "https://news.ycombinator.com/item?id=49320611",
       "https://news.ycombinator.com/item?id=49336573",
       "https://news.ycombinator.com/item?id=49331423",
-      "https://news.ycombinator.com/item?id=49329575"
+      "https://news.ycombinator.com/item?id=49329575",
+      "https://news.ycombinator.com/item?id=49337392",
+      "https://news.ycombinator.com/item?id=49337602"
     ]
   },
   "mercado": {
@@ -949,25 +951,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "china",
-      "europe",
-      "partners",
-      "pony",
-      "robotaxis",
-      "uber"
-    ],
-    [
-      "antes",
-      "caia",
-      "celular",
-      "golpes",
-      "identificar",
-      "neles",
-      "testa",
-      "voce",
-      "whatsapp"
-    ],
     [
       "anualizada",
       "aponta",
@@ -2729,6 +2712,20 @@
       "durante",
       "eleitoral",
       "reduz"
+    ],
+    [
+      "attempt",
+      "chatbots",
+      "creates",
+      "dupe",
+      "fake",
+      "israel",
+      "likely",
+      "tank",
+      "think"
+    ],
+    [
+      "pricing"
     ]
   ]
 }
