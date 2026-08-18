@@ -292,7 +292,9 @@
       "https://www.theverge.com/?p=981333",
       "https://www.theverge.com/?p=981194",
       "https://www.theverge.com/?p=981269",
-      "https://www.theverge.com/?p=981283"
+      "https://www.theverge.com/?p=981283",
+      "https://www.theverge.com/?p=981640",
+      "https://www.theverge.com/?p=981644"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1026,27 +1028,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "caiu",
-      "chatgpt",
-      "desgraca",
-      "ferramenta",
-      "lembra",
-      "recurso",
-      "windows"
-    ],
-    [
-      "announces",
-      "anthropic",
-      "claude",
-      "detect",
-      "detection",
-      "parties",
-      "texts",
-      "third",
-      "watermark",
-      "will"
-    ],
     [
       "billion",
       "discloses",
@@ -2826,6 +2807,26 @@
       "openai",
       "tentacao",
       "turismo"
+    ],
+    [
+      "after",
+      "changes",
+      "face",
+      "hacked",
+      "hugging",
+      "lays",
+      "openai",
+      "security"
+    ],
+    [
+      "abuse",
+      "account",
+      "back",
+      "brought",
+      "fight",
+      "instagram",
+      "robin",
+      "williams"
     ]
   ]
 }
