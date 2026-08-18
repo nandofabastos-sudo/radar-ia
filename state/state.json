@@ -233,7 +233,8 @@
       "https://techcrunch.com/?p=3153831",
       "https://techcrunch.com/?p=3153830",
       "https://techcrunch.com/?p=3153863",
-      "https://techcrunch.com/?p=3153909"
+      "https://techcrunch.com/?p=3153909",
+      "https://techcrunch.com/?p=3153956"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -939,7 +940,10 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/openai-cria-modo-chatgpt-para-adolescentes-com-pausas-e-controle-de-horarios.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/18/openai-contrata-novo-centro-de-dados-nos-eua-com-respaldo-da-nvidia.htm",
       "https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/08/18/ceo-da-nvidia-diz-que-data-center-da-openai-pode-gerar-us-600-bilhoes-em-receita.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/08/18/ia-cria-novos-empregos-em-mais-da-metade-das-empresas-britanicas-diz-estudo.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/18/ia-cria-novos-empregos-em-mais-da-metade-das-empresas-britanicas-diz-estudo.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/empresa-de-design-de-chips-velaura-ai-e-avaliada-em-mais-de-us1-bi-apos-captacao.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/chinesa-ponyai-planeja-ativar-mais-de-4000-robotaxis-no-exterior.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/chinesa-lumos-robotics-busca-novo-financiamento-e-possivel-ipo.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1011,47 +1015,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bigger",
-      "business",
-      "consumer",
-      "enterprise",
-      "friar",
-      "investors",
-      "openai",
-      "revenue",
-      "tells",
-      "than"
-    ],
-    [
-      "biggest",
-      "coding",
-      "data",
-      "defense",
-      "funding",
-      "infrastructure",
-      "lead",
-      "neolab",
-      "rounds",
-      "week"
-    ],
-    [
-      "amazon",
-      "feitos",
-      "inundam",
-      "livros",
-      "lojas",
-      "minutos",
-      "outras"
-    ],
-    [
-      "antes",
-      "coloca",
-      "executivos",
-      "openai",
-      "pressao",
-      "saida"
-    ],
     [
       "agora",
       "agua",
@@ -2828,6 +2791,36 @@
       "mistake",
       "next",
       "racing"
+    ],
+    [
+      "doubles",
+      "etched",
+      "month",
+      "valuation"
+    ],
+    [
+      "avaliada",
+      "captacao",
+      "chips",
+      "design",
+      "empresa",
+      "velaura"
+    ],
+    [
+      "ativar",
+      "chinesa",
+      "exterior",
+      "planeja",
+      "pony",
+      "robotaxis"
+    ],
+    [
+      "busca",
+      "chinesa",
+      "financiamento",
+      "lumos",
+      "possivel",
+      "robotics"
     ]
   ]
 }
