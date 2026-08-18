@@ -346,7 +346,8 @@
       "https://the-decoder.com/?p=39132",
       "https://the-decoder.com/?p=39136",
       "https://the-decoder.com/?p=39140",
-      "https://the-decoder.com/?p=39145"
+      "https://the-decoder.com/?p=39145",
+      "https://the-decoder.com/?p=39151"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -447,7 +448,9 @@
       "https://www.technologyreview.com/?p=1141410",
       "https://www.technologyreview.com/?p=1141904",
       "https://www.technologyreview.com/?p=1141568",
-      "https://www.technologyreview.com/?p=1142200"
+      "https://www.technologyreview.com/?p=1142200",
+      "https://www.technologyreview.com/?p=1142188",
+      "https://www.technologyreview.com/?p=1142226"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -538,7 +541,8 @@
       "https://news.ycombinator.com/item?id=49331423",
       "https://news.ycombinator.com/item?id=49329575",
       "https://news.ycombinator.com/item?id=49337392",
-      "https://news.ycombinator.com/item?id=49337602"
+      "https://news.ycombinator.com/item?id=49337602",
+      "https://news.ycombinator.com/item?id=49331220"
     ]
   },
   "mercado": {
@@ -959,39 +963,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "armadilha",
-      "concorda",
-      "escondida",
-      "voce"
-    ],
-    [
-      "alibaba",
-      "apple",
-      "china",
-      "help",
-      "model",
-      "trained"
-    ],
-    [
-      "consultants",
-      "hired",
-      "masturbation",
-      "pleasure",
-      "themselves",
-      "these",
-      "were"
-    ],
-    [
-      "bubble",
-      "founder",
-      "hauser",
-      "hermann",
-      "real",
-      "revolution",
-      "risk",
-      "warning"
-    ],
     [
       "board",
       "companies",
@@ -2740,6 +2711,40 @@
       "outra",
       "pessoa",
       "treinamento"
+    ],
+    [
+      "claude",
+      "code",
+      "command",
+      "create",
+      "design",
+      "developers",
+      "gets",
+      "lets",
+      "mockups",
+      "right",
+      "terminal"
+    ],
+    [
+      "after",
+      "come",
+      "improvement",
+      "might",
+      "quickly",
+      "recursive",
+      "self"
+    ],
+    [
+      "know",
+      "people",
+      "really",
+      "still",
+      "using"
+    ],
+    [
+      "avoid",
+      "disable",
+      "intrusive"
     ]
   ]
 }
