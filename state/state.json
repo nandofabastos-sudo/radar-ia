@@ -760,7 +760,8 @@
       "https://olhardigital.com.br/?p=1364095",
       "https://olhardigital.com.br/?p=1364159",
       "https://olhardigital.com.br/?p=1362454",
-      "https://olhardigital.com.br/?p=1364170"
+      "https://olhardigital.com.br/?p=1364170",
+      "https://olhardigital.com.br/?p=1364197"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -795,7 +796,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=922311",
       "https://tecnoblog.net/?post_type=noticias&p=922476",
       "https://tecnoblog.net/?post_type=achados&p=922485",
-      "https://tecnoblog.net/?post_type=noticias&p=922682"
+      "https://tecnoblog.net/?post_type=noticias&p=922682",
+      "https://tecnoblog.net/?post_type=noticias&p=922848"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -868,7 +870,8 @@
       "https://canaltech.com.br/inteligencia-artificial/amazon-cria-divisao-secreta-que-compra-e-destroi-livros-raros-para-treinar-ia/",
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-exclusivo-para-jovens-tem-travas-de-seguranca-e-modo-estudo/",
       "https://canaltech.com.br/mercado/nubank-abre-50-vagas-de-estagio-com-foco-em-inteligencia-artificial/",
-      "https://canaltech.com.br/mercado/openai-oficializa-operacoes-no-brasil-e-revela-numeros-de-crescimento/"
+      "https://canaltech.com.br/mercado/openai-oficializa-operacoes-no-brasil-e-revela-numeros-de-crescimento/",
+      "https://canaltech.com.br/apps/gemini-notebook-libera-copia-de-cadernos-inteiros-com-um-unico-clique/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -970,7 +973,8 @@
       "https://startups.com.br/?p=339670",
       "https://startups.com.br/?p=339711",
       "https://startups.com.br/?p=339738",
-      "https://startups.com.br/?p=339814"
+      "https://startups.com.br/?p=339814",
+      "https://startups.com.br/?p=339840"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1004,29 +1008,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "ajuda",
-      "caries",
-      "dentistas",
-      "desenvolve",
-      "detectar",
-      "radiografias"
-    ],
-    [
-      "apps",
-      "chega",
-      "confusao",
-      "copilot",
-      "microsoft",
-      "unifica"
-    ],
-    [
-      "anthropic",
-      "aproxima",
-      "chinesa",
-      "modelo",
-      "mythos"
-    ],
     [
       "claude",
       "cria",
@@ -2810,6 +2791,32 @@
       "estudo",
       "metade",
       "novos"
+    ],
+    [
+      "analista",
+      "autor",
+      "escritos",
+      "livros",
+      "microeditora",
+      "vira"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "explica",
+      "gerados",
+      "identificar",
+      "textos"
+    ],
+    [
+      "cadernos",
+      "clique",
+      "copia",
+      "gemini",
+      "inteiros",
+      "libera",
+      "notebook",
+      "unico"
     ]
   ]
 }
