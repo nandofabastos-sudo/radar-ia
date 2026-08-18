@@ -808,7 +808,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=922476",
       "https://tecnoblog.net/?post_type=achados&p=922485",
       "https://tecnoblog.net/?post_type=noticias&p=922682",
-      "https://tecnoblog.net/?post_type=noticias&p=922848"
+      "https://tecnoblog.net/?post_type=noticias&p=922848",
+      "https://tecnoblog.net/?post_type=noticias&p=922988"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -951,7 +952,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/empresa-de-design-de-chips-velaura-ai-e-avaliada-em-mais-de-us1-bi-apos-captacao.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/chinesa-ponyai-planeja-ativar-mais-de-4000-robotaxis-no-exterior.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/chinesa-lumos-robotics-busca-novo-financiamento-e-possivel-ipo.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/openai-reduz-ritmo-de-treinamento-de-ia-para-reforcar-seguranca-apos-ataque.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/openai-reduz-ritmo-de-treinamento-de-ia-para-reforcar-seguranca-apos-ataque.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/estudo-aponta-que-algoritmo-do-x-aprende-com-raiva-e-reforca-ragebait.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -965,7 +967,8 @@
       "https://neofeed.com.br/?p=232952",
       "https://neofeed.com.br/?p=233052",
       "https://neofeed.com.br/?p=232783",
-      "https://neofeed.com.br/?p=233204"
+      "https://neofeed.com.br/?p=233204",
+      "https://neofeed.com.br/?p=233380"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -1023,31 +1026,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "china",
-      "foot",
-      "influencer",
-      "next",
-      "robot",
-      "tall"
-    ],
-    [
-      "comeco",
-      "conhecemos",
-      "multiplayer",
-      "mundos",
-      "npcs",
-      "verdade",
-      "vivos"
-    ],
-    [
-      "agua",
-      "decide",
-      "entenda",
-      "google",
-      "marca",
-      "opcional"
-    ],
     [
       "caiu",
       "chatgpt",
@@ -2821,6 +2799,33 @@
       "ritmo",
       "seguranca",
       "treinamento"
+    ],
+    [
+      "chatgpt",
+      "ferramentas",
+      "filtros",
+      "lanca",
+      "openai",
+      "pedagogicas",
+      "reforcados",
+      "teens"
+    ],
+    [
+      "algoritmo",
+      "estudo",
+      "geram",
+      "irritacao",
+      "posts",
+      "prioriza"
+    ],
+    [
+      "alerta",
+      "caem",
+      "chairman",
+      "empresas",
+      "openai",
+      "tentacao",
+      "turismo"
     ]
   ]
 }
