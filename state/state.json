@@ -458,7 +458,8 @@
       "1opZh1LWLZwmN1dyqk3dqj",
       "7AAjgw7ustuI3M5hhUuPgJ",
       "5C2nrJWbnJkTZW3xPkMGnu",
-      "5mgycwoh1PrX2Pk5cUXtRx"
+      "5mgycwoh1PrX2Pk5cUXtRx",
+      "1iTw8gVTC9n4Fy0EuxxwVm"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -815,7 +816,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=922682",
       "https://tecnoblog.net/?post_type=noticias&p=922848",
       "https://tecnoblog.net/?post_type=noticias&p=922988",
-      "https://tecnoblog.net/?post_type=noticias&p=923125"
+      "https://tecnoblog.net/?post_type=noticias&p=923125",
+      "https://tecnoblog.net/?post_type=noticias&p=923184"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1037,23 +1039,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "center",
-      "data",
-      "financiamento",
-      "garantia",
-      "nvidia",
-      "openai",
-      "reduz"
-    ],
-    [
-      "encryption",
-      "google",
-      "homomorphic",
-      "making",
-      "practical",
-      "private"
-    ],
     [
       "benchmark",
       "confirms",
@@ -2835,6 +2820,29 @@
       "robos",
       "tarefas",
       "time"
+    ],
+    [
+      "across",
+      "agent",
+      "apache",
+      "berd",
+      "block",
+      "conversation",
+      "harnesses",
+      "history",
+      "locally",
+      "models",
+      "stores",
+      "works",
+      "workspace"
+    ],
+    [
+      "copilot",
+      "ensinou",
+      "hackear",
+      "pesquisadores",
+      "proprio",
+      "sistema"
     ]
   ]
 }
