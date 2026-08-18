@@ -224,7 +224,8 @@
       "https://techcrunch.com/?p=3153419",
       "https://techcrunch.com/?p=3153443",
       "https://techcrunch.com/?p=3153430",
-      "https://techcrunch.com/?p=3153653"
+      "https://techcrunch.com/?p=3153653",
+      "https://techcrunch.com/?p=3153733"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -422,7 +423,8 @@
       "5qvzuHXsG1vMec64sNtG75",
       "4SAhFZrUBptZZDf5KuFHEU",
       "4nI4fvd5mLP8PxO3dmgwOc",
-      "5LHIDSIGYHf9qFfovJHkqu"
+      "5LHIDSIGYHf9qFfovJHkqu",
+      "1opZh1LWLZwmN1dyqk3dqj"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -716,7 +718,8 @@
       "https://olhardigital.com.br/?p=1363848",
       "https://olhardigital.com.br/?p=1363887",
       "https://olhardigital.com.br/?p=1363980",
-      "https://olhardigital.com.br/?p=1364015"
+      "https://olhardigital.com.br/?p=1364015",
+      "https://olhardigital.com.br/?p=1364047"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -936,64 +939,14 @@
       "https://www.mobiletime.com.br/?p=861239",
       "https://www.mobiletime.com.br/?p=861344",
       "https://www.mobiletime.com.br/?p=861435",
-      "https://www.mobiletime.com.br/?p=861488"
+      "https://www.mobiletime.com.br/?p=861488",
+      "https://www.mobiletime.com.br/?p=861484",
+      "https://www.mobiletime.com.br/?p=861520",
+      "https://www.mobiletime.com.br/?p=861526",
+      "https://www.mobiletime.com.br/?p=861532"
     ]
   },
   "_titulos_recentes": [
-    [
-      "anterior",
-      "apenas",
-      "flash",
-      "gemini",
-      "google",
-      "lanca",
-      "semanas",
-      "tres",
-      "versao"
-    ],
-    [
-      "cscs",
-      "implantar",
-      "operacao",
-      "precisam",
-      "preparar"
-    ],
-    [
-      "inside",
-      "openai",
-      "reckoning",
-      "safety"
-    ],
-    [
-      "accelerating",
-      "ultrafast"
-    ],
-    [
-      "apps",
-      "atividade",
-      "chatgpt",
-      "computador",
-      "memorizar",
-      "sites",
-      "todos"
-    ],
-    [
-      "acesso",
-      "chatgpt",
-      "conta",
-      "dados",
-      "oferece",
-      "picpay"
-    ],
-    [
-      "ataques",
-      "custo",
-      "despenca",
-      "golpes",
-      "lado",
-      "multiplicam",
-      "sofisticados"
-    ],
     [
       "company",
       "organizing",
@@ -2717,6 +2670,62 @@
       "github",
       "jira",
       "snowflake"
+    ],
+    [
+      "annualized",
+      "anthropic",
+      "revenue",
+      "surges"
+    ],
+    [
+      "agents",
+      "class",
+      "cloud",
+      "coding",
+      "frontier",
+      "locally",
+      "qwen3",
+      "reasoning",
+      "required",
+      "runs"
+    ],
+    [
+      "antes",
+      "anthropic",
+      "anualizada",
+      "possivel",
+      "receita",
+      "supera"
+    ],
+    [
+      "algoritmo",
+      "bloquear",
+      "candidatos",
+      "eleicao",
+      "muda",
+      "recomendacoes"
+    ],
+    [
+      "empresa",
+      "ifood",
+      "learning",
+      "machine",
+      "modelos"
+    ],
+    [
+      "accenture",
+      "agentes",
+      "clientes",
+      "rodando",
+      "seus"
+    ],
+    [
+      "agente",
+      "cresce",
+      "digito",
+      "duplo",
+      "magalu",
+      "whatsapp"
     ]
   ]
 }
