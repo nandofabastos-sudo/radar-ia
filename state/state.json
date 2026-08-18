@@ -32,7 +32,8 @@
       "https://openai.com/index/openai-joins-ports-pike-project",
       "https://openai.com/index/the-defenders-window",
       "https://openai.com/index/chatgpt-for-teens",
-      "https://openai.com/index/partnering-with-codeai"
+      "https://openai.com/index/partnering-with-codeai",
+      "https://openai.com/index/introducing-chatgpt-for-teens"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -352,7 +353,10 @@
       "https://the-decoder.com/?p=39140",
       "https://the-decoder.com/?p=39145",
       "https://the-decoder.com/?p=39151",
-      "https://the-decoder.com/?p=39155"
+      "https://the-decoder.com/?p=39155",
+      "https://the-decoder.com/?p=39164",
+      "https://the-decoder.com/?p=39160",
+      "https://the-decoder.com/?p=39161"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -740,7 +744,8 @@
       "https://olhardigital.com.br/?p=1363980",
       "https://olhardigital.com.br/?p=1364015",
       "https://olhardigital.com.br/?p=1364047",
-      "https://olhardigital.com.br/?p=1364073"
+      "https://olhardigital.com.br/?p=1364073",
+      "https://olhardigital.com.br/?p=1364095"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -842,7 +847,8 @@
       "https://canaltech.com.br/inteligencia-artificial/padrasto-usava-o-grok-para-criar-mais-de-7-mil-imagens-criminosas-da-enteada/",
       "https://canaltech.com.br/inteligencia-artificial/hollywood-fecha-acordo-com-tiktok-para-impedir-clones-de-atores-por-ia/",
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-invade-o-google-drive-e-passa-a-editar-documentos-no-lugar-do-gemini/",
-      "https://canaltech.com.br/mercado/criadora-do-chatgpt-defende-semana-de-4-dias-mas-impoe-70-horas-a-funcionarios/"
+      "https://canaltech.com.br/mercado/criadora-do-chatgpt-defende-semana-de-4-dias-mas-impoe-70-horas-a-funcionarios/",
+      "https://canaltech.com.br/mercado/agentes-de-ia-vao-substituir-profissionais-ou-apenas-transformar-suas-tarefas/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -971,47 +977,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "apps",
-      "chatfishing",
-      "entenda",
-      "fenomeno",
-      "namoro"
-    ],
-    [
-      "apple",
-      "china",
-      "mercado",
-      "modelo",
-      "proprio",
-      "treina"
-    ],
-    [
-      "ajudam",
-      "deficiencia",
-      "inteligentes",
-      "novos",
-      "oculos",
-      "pessoas"
-    ],
-    [
-      "artificial",
-      "brasil",
-      "caminho",
-      "inteligencia",
-      "made",
-      "pais",
-      "sinuoso"
-    ],
-    [
-      "250m",
-      "deal",
-      "gone",
-      "meta",
-      "open",
-      "very",
-      "wrong"
-    ],
     [
       "correct",
       "embracing",
@@ -2756,6 +2721,54 @@
       "shape",
       "takes",
       "wave"
+    ],
+    [
+      "built",
+      "chatgpt",
+      "launches",
+      "openai",
+      "teens",
+      "version"
+    ],
+    [
+      "andreessen",
+      "boards",
+      "competing",
+      "horowitz",
+      "over",
+      "partners",
+      "probes",
+      "sitting"
+    ],
+    [
+      "beats",
+      "doctors",
+      "force",
+      "human",
+      "into",
+      "jama",
+      "loop",
+      "piece",
+      "regulators",
+      "shouldn"
+    ],
+    [
+      "bolt",
+      "chines",
+      "impressiona",
+      "rapido",
+      "robo",
+      "usain",
+      "video"
+    ],
+    [
+      "agentes",
+      "apenas",
+      "profissionais",
+      "suas",
+      "substituir",
+      "tarefas",
+      "transformar"
     ]
   ]
 }
