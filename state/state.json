@@ -581,7 +581,8 @@
       "https://news.ycombinator.com/item?id=49337392",
       "https://news.ycombinator.com/item?id=49337602",
       "https://news.ycombinator.com/item?id=49331220",
-      "https://news.ycombinator.com/item?id=49343559"
+      "https://news.ycombinator.com/item?id=49343559",
+      "https://news.ycombinator.com/item?id=49354949"
     ]
   },
   "mercado": {
@@ -687,7 +688,8 @@
       "https://news.crunchbase.com/?p=93975",
       "https://news.crunchbase.com/?p=93980",
       "https://news.crunchbase.com/?p=93977",
-      "https://news.crunchbase.com/?p=93979"
+      "https://news.crunchbase.com/?p=93979",
+      "https://news.crunchbase.com/?p=93985"
     ]
   },
   "brasil": {
@@ -792,7 +794,9 @@
       "https://olhardigital.com.br/?p=1364433",
       "https://olhardigital.com.br/?p=1364435",
       "https://olhardigital.com.br/?p=1364404",
-      "https://olhardigital.com.br/?p=1364477"
+      "https://olhardigital.com.br/?p=1364477",
+      "https://olhardigital.com.br/?p=1364482",
+      "https://olhardigital.com.br/?p=1364486"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -906,7 +910,8 @@
       "https://canaltech.com.br/mercado/nubank-abre-50-vagas-de-estagio-com-foco-em-inteligencia-artificial/",
       "https://canaltech.com.br/mercado/openai-oficializa-operacoes-no-brasil-e-revela-numeros-de-crescimento/",
       "https://canaltech.com.br/apps/gemini-notebook-libera-copia-de-cadernos-inteiros-com-um-unico-clique/",
-      "https://canaltech.com.br/produtos/olimpiadas-dos-robos-revela-qual-time-tem-melhor-humanoide-em-tarefas-realistas/"
+      "https://canaltech.com.br/produtos/olimpiadas-dos-robos-revela-qual-time-tem-melhor-humanoide-em-tarefas-realistas/",
+      "https://canaltech.com.br/inteligencia-artificial/adeus-gemini-claude-vai-enviar-e-mails-do-gmail-e-gerenciar-drive-para-voce/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1060,64 +1065,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "childhood",
-      "claims",
-      "explicit",
-      "grok",
-      "imagery",
-      "into",
-      "photo",
-      "stepfather",
-      "transform",
-      "used",
-      "woman"
-    ],
-    [
-      "access",
-      "brain",
-      "human",
-      "larger",
-      "memory",
-      "than",
-      "vastly",
-      "working"
-    ],
-    [
-      "acordo",
-      "centro",
-      "dados",
-      "energy",
-      "information",
-      "investir",
-      "nvidia",
-      "openai",
-      "planeja"
-    ],
-    [
-      "colleagues",
-      "delegates",
-      "finds",
-      "five",
-      "instead",
-      "survey",
-      "tasks",
-      "workers"
-    ],
-    [
-      "against",
-      "benchmarking",
-      "biggest",
-      "data",
-      "flaw",
-      "letting",
-      "models",
-      "optima",
-      "tackles",
-      "test",
-      "their",
-      "users"
-    ],
     [
       "anthropic",
       "down",
@@ -2847,6 +2794,44 @@
       "podem",
       "polarizacao",
       "politico"
+    ],
+    [
+      "cerebras"
+    ],
+    [
+      "2026",
+      "backed",
+      "have",
+      "investors",
+      "most",
+      "unicorns",
+      "which"
+    ],
+    [
+      "china",
+      "foguete",
+      "historia",
+      "humanoide",
+      "resumo",
+      "robo"
+    ],
+    [
+      "aposta",
+      "china",
+      "futuro",
+      "mercado",
+      "robotica"
+    ],
+    [
+      "adeus",
+      "claude",
+      "drive",
+      "enviar",
+      "gemini",
+      "gerenciar",
+      "gmail",
+      "mails",
+      "voce"
     ]
   ]
 }
