@@ -642,7 +642,8 @@
       "108350607",
       "108350537",
       "108350769",
-      "108351130"
+      "108351130",
+      "108343740"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -790,7 +791,8 @@
       "https://olhardigital.com.br/?p=1364398",
       "https://olhardigital.com.br/?p=1364433",
       "https://olhardigital.com.br/?p=1364435",
-      "https://olhardigital.com.br/?p=1364404"
+      "https://olhardigital.com.br/?p=1364404",
+      "https://olhardigital.com.br/?p=1364477"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -992,7 +994,8 @@
       "https://neofeed.com.br/?p=233052",
       "https://neofeed.com.br/?p=232783",
       "https://neofeed.com.br/?p=233204",
-      "https://neofeed.com.br/?p=233380"
+      "https://neofeed.com.br/?p=233380",
+      "https://neofeed.com.br/?p=233409"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -1057,38 +1060,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "about",
-      "anthropic",
-      "claude",
-      "details",
-      "more",
-      "shares",
-      "watermarks",
-      "will",
-      "work"
-    ],
-    [
-      "confident",
-      "couldn",
-      "eval",
-      "found",
-      "harness",
-      "models",
-      "most",
-      "qualitative",
-      "review",
-      "what",
-      "when",
-      "wrong"
-    ],
-    [
-      "chatbot",
-      "expense",
-      "have",
-      "laugh",
-      "roleplaying"
-    ],
     [
       "childhood",
       "claims",
@@ -2843,6 +2814,39 @@
       "networks",
       "raises",
       "relativity"
+    ],
+    [
+      "banned",
+      "best",
+      "china",
+      "chips",
+      "close",
+      "crucial",
+      "going",
+      "loophole",
+      "nvidia",
+      "trying"
+    ],
+    [
+      "bolsa",
+      "chinesa",
+      "dispara",
+      "global",
+      "humanoides",
+      "lider",
+      "robos",
+      "unitree"
+    ],
+    [
+      "ampliar",
+      "criados",
+      "debate",
+      "impactam",
+      "influenciadores",
+      "parece",
+      "podem",
+      "polarizacao",
+      "politico"
     ]
   ]
 }
