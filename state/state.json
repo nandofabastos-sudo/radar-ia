@@ -149,7 +149,9 @@
       "https://x.ai/news/introducing-grok-bot-og-2",
       "https://x.ai/news/grok-4-6",
       "https://x.ai/news/og-4-6-in-github-copilot",
-      "https://x.ai/news/grok-4-6-github-copilot"
+      "https://x.ai/news/grok-4-6-github-copilot",
+      "https://x.ai/news/og-grok-4-6-on-bedrock",
+      "https://x.ai/news/grok-4-6-amazon-bedrock"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -244,7 +246,8 @@
       "https://techcrunch.com/?p=3154081",
       "https://techcrunch.com/?p=3154147",
       "https://techcrunch.com/?p=3153940",
-      "https://techcrunch.com/?p=3154226"
+      "https://techcrunch.com/?p=3154226",
+      "https://techcrunch.com/?p=3154279"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -655,7 +658,8 @@
       "108350769",
       "108351130",
       "108343740",
-      "108351355"
+      "108351355",
+      "108351544"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -680,7 +684,8 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3153152",
       "https://techcrunch.com/?p=3153332",
       "https://techcrunch.com/?p=3153447",
-      "https://techcrunch.com/?p=3153831"
+      "https://techcrunch.com/?p=3153831",
+      "https://techcrunch.com/?p=3153940"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -926,7 +931,8 @@
       "https://canaltech.com.br/mercado/openai-oficializa-operacoes-no-brasil-e-revela-numeros-de-crescimento/",
       "https://canaltech.com.br/apps/gemini-notebook-libera-copia-de-cadernos-inteiros-com-um-unico-clique/",
       "https://canaltech.com.br/produtos/olimpiadas-dos-robos-revela-qual-time-tem-melhor-humanoide-em-tarefas-realistas/",
-      "https://canaltech.com.br/inteligencia-artificial/adeus-gemini-claude-vai-enviar-e-mails-do-gmail-e-gerenciar-drive-para-voce/"
+      "https://canaltech.com.br/inteligencia-artificial/adeus-gemini-claude-vai-enviar-e-mails-do-gmail-e-gerenciar-drive-para-voce/",
+      "https://canaltech.com.br/mercado/openai-avalia-construcao-de-data-centers-no-brasil-apos-inicio-da-operacao-local/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1083,45 +1089,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "disbanded",
-      "openai",
-      "preparedness",
-      "reportedly",
-      "team"
-    ],
-    [
-      "anthropic",
-      "confianca",
-      "crise",
-      "rejeicao",
-      "setor"
-    ],
-    [
-      "assinar",
-      "barato",
-      "claude",
-      "formas",
-      "menos",
-      "pagar",
-      "pelo"
-    ],
-    [
-      "acquiring",
-      "billion",
-      "more",
-      "openrouter",
-      "reportedly",
-      "startup",
-      "stripe",
-      "than"
-    ],
-    [
-      "closer",
-      "game",
-      "gemini",
-      "pixel"
-    ],
     [
       "campaign",
       "centers",
@@ -2865,6 +2832,47 @@
       "pelo",
       "pode",
       "propria"
+    ],
+    [
+      "amazon",
+      "bedrock",
+      "grok"
+    ],
+    [
+      "amazon",
+      "bedrock",
+      "grok"
+    ],
+    [
+      "alexa",
+      "amazon",
+      "fire",
+      "free",
+      "makes",
+      "powered",
+      "prime",
+      "required"
+    ],
+    [
+      "billion",
+      "chip",
+      "deal",
+      "google",
+      "lets",
+      "marvell",
+      "pops",
+      "shares"
+    ],
+    [
+      "avalia",
+      "brasil",
+      "centers",
+      "construcao",
+      "data",
+      "inicio",
+      "local",
+      "openai",
+      "operacao"
     ]
   ]
 }
