@@ -523,7 +523,8 @@
       "6a7e0f9c0f200c034ba14931",
       "6a7f35587f588ccda7affc4f",
       "6a832c872b72af022841792b",
-      "6a848674f787031f677590ed"
+      "6a848674f787031f677590ed",
+      "6a7dd1a1171ea6971cf1d2c1"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -709,7 +710,9 @@
       "https://mittechreview.com.br/?p=259435",
       "https://mittechreview.com.br/?p=260592",
       "https://mittechreview.com.br/?p=260620",
-      "https://mittechreview.com.br/?p=260843"
+      "https://mittechreview.com.br/?p=260843",
+      "https://mittechreview.com.br/?p=260796",
+      "https://mittechreview.com.br/?p=260899"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1053,41 +1056,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "bubble",
-      "defy",
-      "forces",
-      "investor",
-      "just",
-      "numbers",
-      "nvidia",
-      "openai",
-      "pressure",
-      "shrink",
-      "warnings"
-    ],
-    [
-      "artificial",
-      "compras",
-      "confianca",
-      "delegar",
-      "exige",
-      "inteligencia",
-      "regras"
-    ],
-    [
-      "agent",
-      "agentica",
-      "automacao",
-      "caro",
-      "custa",
-      "errado",
-      "investir",
-      "quando",
-      "toda",
-      "washing"
-    ],
     [
       "acquisition",
       "closes",
@@ -2843,6 +2811,32 @@
       "oracle",
       "produtora",
       "revela"
+    ],
+    [
+      "code",
+      "flock",
+      "police",
+      "powerful",
+      "tool"
+    ],
+    [
+      "contra",
+      "endurece",
+      "reacao",
+      "regras",
+      "resposta",
+      "seguranca",
+      "tech",
+      "vigilancia"
+    ],
+    [
+      "consulta",
+      "eleicoes",
+      "fontes",
+      "quais",
+      "sabe",
+      "serie",
+      "voce"
     ]
   ]
 }
