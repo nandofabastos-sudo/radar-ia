@@ -241,7 +241,8 @@
       "https://techcrunch.com/?p=3153956",
       "https://techcrunch.com/?p=3154044",
       "https://techcrunch.com/?p=3154081",
-      "https://techcrunch.com/?p=3154147"
+      "https://techcrunch.com/?p=3154147",
+      "https://techcrunch.com/?p=3153940"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -299,7 +300,8 @@
       "https://www.theverge.com/?p=981269",
       "https://www.theverge.com/?p=981283",
       "https://www.theverge.com/?p=981640",
-      "https://www.theverge.com/?p=981644"
+      "https://www.theverge.com/?p=981644",
+      "https://www.theverge.com/?p=981668"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -376,7 +378,8 @@
       "https://the-decoder.com/?p=39161",
       "https://the-decoder.com/?p=39163",
       "https://the-decoder.com/?p=39175",
-      "https://the-decoder.com/?p=39181"
+      "https://the-decoder.com/?p=39181",
+      "https://the-decoder.com/?p=39186"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -796,7 +799,9 @@
       "https://olhardigital.com.br/?p=1364404",
       "https://olhardigital.com.br/?p=1364477",
       "https://olhardigital.com.br/?p=1364482",
-      "https://olhardigital.com.br/?p=1364486"
+      "https://olhardigital.com.br/?p=1364486",
+      "https://olhardigital.com.br/?p=1364549",
+      "https://olhardigital.com.br/?p=1364554"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -984,7 +989,10 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/estudo-aponta-que-algoritmo-do-x-aprende-com-raiva-e-reforca-ragebait.ghtm",
       "https://www3.uol.com.br/redirect-flash/o-que-ta-rolando-no-mundo-openai-abre-escritorio-no-brasil-meta-no-tribunal-e-mais.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/anthropic-prepara-poder-de-voto-especial-para-fundadores-antes-de-ipo-dizthe-information.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/19/oracle-e-motorola-ceo-da-maior-produtora-do-mundo-revela-ia-em-filmes.htm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/19/oracle-e-motorola-ceo-da-maior-produtora-do-mundo-revela-ia-em-filmes.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/19/openai-pausa-treinos-apos-agentes-de-ia-invadirem-hugging-face.ghtm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/chatgpt-tera-anuncios-a-partir-de-24-de-agosto-em-30-paises-europeus.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/openai-desacelera-desenvolvimento-de-nova-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1065,81 +1073,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "down",
-      "exposing",
-      "filter",
-      "million",
-      "nearly",
-      "requests",
-      "weapons",
-      "year"
-    ],
-    [
-      "built",
-      "catastrophic",
-      "catch",
-      "dissolved",
-      "groups",
-      "openai",
-      "other",
-      "reassigning",
-      "risks",
-      "team",
-      "work"
-    ],
-    [
-      "agentes",
-      "commerce",
-      "estao",
-      "revolucionando"
-    ],
-    [
-      "chatgpt",
-      "claude",
-      "coisas",
-      "melhor"
-    ],
-    [
-      "allowed",
-      "aren",
-      "changes",
-      "entire",
-      "models",
-      "reflect",
-      "their",
-      "themselves",
-      "when",
-      "worldview"
-    ],
-    [
-      "anymore",
-      "aren",
-      "fiction",
-      "rogue",
-      "science"
-    ],
-    [
-      "agent",
-      "deepseek",
-      "flash",
-      "prices",
-      "ranked",
-      "real",
-      "stumbles",
-      "surge",
-      "tasks"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "cumprir",
-      "europeia",
-      "marcar",
-      "textos",
-      "uniao"
-    ],
     [
       "acao",
       "antigas",
@@ -2832,6 +2765,72 @@
       "gmail",
       "mails",
       "voce"
+    ],
+    [
+      "cancer",
+      "close",
+      "curing",
+      "knows",
+      "startup",
+      "take",
+      "what",
+      "will"
+    ],
+    [
+      "compute",
+      "does",
+      "financial",
+      "nvidia",
+      "strategy"
+    ],
+    [
+      "anthropic",
+      "first",
+      "openai",
+      "passes",
+      "revenue",
+      "time"
+    ],
+    [
+      "china",
+      "corrida",
+      "exige",
+      "respeito",
+      "resposta"
+    ],
+    [
+      "china",
+      "criar",
+      "defender",
+      "drones",
+      "fortalezas",
+      "ilhas",
+      "quer",
+      "roboticas"
+    ],
+    [
+      "controle",
+      "modelo",
+      "openai",
+      "pausa",
+      "reforca",
+      "sair",
+      "seguranca",
+      "treino"
+    ],
+    [
+      "agosto",
+      "anuncios",
+      "chatgpt",
+      "europeus",
+      "paises",
+      "partir",
+      "tera"
+    ],
+    [
+      "desacelera",
+      "desenvolvimento",
+      "openai"
     ]
   ]
 }
