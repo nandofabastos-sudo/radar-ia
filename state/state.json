@@ -393,7 +393,8 @@
       "https://the-decoder.com/?p=39187",
       "https://the-decoder.com/?p=39184",
       "https://the-decoder.com/?p=39190",
-      "https://the-decoder.com/?p=39193"
+      "https://the-decoder.com/?p=39193",
+      "https://the-decoder.com/?p=39213"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1019,7 +1020,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/19/openai-pausa-treinos-apos-agentes-de-ia-invadirem-hugging-face.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/chatgpt-tera-anuncios-a-partir-de-24-de-agosto-em-30-paises-europeus.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/openai-desacelera-desenvolvimento-de-nova-ia.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/19/o-que-esta-por-tras-da-openai-anunciar-surpreendente-pausa-em-avancos-de-ia.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/19/o-que-esta-por-tras-da-openai-anunciar-surpreendente-pausa-em-avancos-de-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/19/stripe-faz-acordo-para-comprar-plataforma-de-desenvolvimento-de-ia-openrouter.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1101,20 +1103,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "credit",
-      "economy",
-      "resale"
-    ],
-    [
-      "alibaba",
-      "answers",
-      "challenge",
-      "laptop",
-      "meta",
-      "model",
-      "ready"
-    ],
     [
       "acaba",
       "excel",
@@ -2878,6 +2866,25 @@
       "inteligencia",
       "lanca",
       "quintoandar"
+    ],
+    [
+      "codex",
+      "deleted",
+      "files",
+      "fixes",
+      "openai",
+      "permission",
+      "real",
+      "user",
+      "without"
+    ],
+    [
+      "acordo",
+      "comprar",
+      "desenvolvimento",
+      "openrouter",
+      "plataforma",
+      "stripe"
     ]
   ]
 }
