@@ -247,7 +247,8 @@
       "https://techcrunch.com/?p=3154147",
       "https://techcrunch.com/?p=3153940",
       "https://techcrunch.com/?p=3154226",
-      "https://techcrunch.com/?p=3154279"
+      "https://techcrunch.com/?p=3154279",
+      "https://techcrunch.com/?p=3154356"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -424,7 +425,8 @@
       "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
       "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
       "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-      "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
+      "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -932,7 +934,8 @@
       "https://canaltech.com.br/apps/gemini-notebook-libera-copia-de-cadernos-inteiros-com-um-unico-clique/",
       "https://canaltech.com.br/produtos/olimpiadas-dos-robos-revela-qual-time-tem-melhor-humanoide-em-tarefas-realistas/",
       "https://canaltech.com.br/inteligencia-artificial/adeus-gemini-claude-vai-enviar-e-mails-do-gmail-e-gerenciar-drive-para-voce/",
-      "https://canaltech.com.br/mercado/openai-avalia-construcao-de-data-centers-no-brasil-apos-inicio-da-operacao-local/"
+      "https://canaltech.com.br/mercado/openai-avalia-construcao-de-data-centers-no-brasil-apos-inicio-da-operacao-local/",
+      "https://canaltech.com.br/mercado/openai-esta-aberta-a-discutir-construcao-de-data-centers-no-brasil/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1008,7 +1011,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/19/oracle-e-motorola-ceo-da-maior-produtora-do-mundo-revela-ia-em-filmes.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/19/openai-pausa-treinos-apos-agentes-de-ia-invadirem-hugging-face.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/chatgpt-tera-anuncios-a-partir-de-24-de-agosto-em-30-paises-europeus.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/openai-desacelera-desenvolvimento-de-nova-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/openai-desacelera-desenvolvimento-de-nova-ia.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/19/o-que-esta-por-tras-da-openai-anunciar-surpreendente-pausa-em-avancos-de-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1089,33 +1093,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "campaign",
-      "centers",
-      "crypto",
-      "data",
-      "have",
-      "israel",
-      "leapfrogged",
-      "racism",
-      "topics"
-    ],
-    [
-      "best",
-      "dies",
-      "friend",
-      "happens",
-      "robot",
-      "what",
-      "when"
-    ],
-    [
-      "aumentar",
-      "pela",
-      "preparar",
-      "salario",
-      "substituido"
-    ],
     [
       "artificial",
       "inteligencia",
@@ -2873,6 +2850,32 @@
       "local",
       "openai",
       "operacao"
+    ],
+    [
+      "centers",
+      "data",
+      "nuclear",
+      "powering",
+      "reactor",
+      "secret",
+      "terrapower",
+      "weapon"
+    ],
+    [
+      "female",
+      "meta",
+      "nudify",
+      "politicians",
+      "promising"
+    ],
+    [
+      "anunciar",
+      "avancos",
+      "esta",
+      "freio",
+      "openai",
+      "surpreendente",
+      "tras"
     ]
   ]
 }
