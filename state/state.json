@@ -379,7 +379,9 @@
       "https://the-decoder.com/?p=39163",
       "https://the-decoder.com/?p=39175",
       "https://the-decoder.com/?p=39181",
-      "https://the-decoder.com/?p=39186"
+      "https://the-decoder.com/?p=39186",
+      "https://the-decoder.com/?p=39187",
+      "https://the-decoder.com/?p=39184"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -840,7 +842,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=922848",
       "https://tecnoblog.net/?post_type=noticias&p=922988",
       "https://tecnoblog.net/?post_type=noticias&p=923125",
-      "https://tecnoblog.net/?post_type=noticias&p=923184"
+      "https://tecnoblog.net/?post_type=noticias&p=923184",
+      "https://tecnoblog.net/?post_type=noticias&p=923255"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1073,29 +1076,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acao",
-      "antigas",
-      "grok",
-      "imagens",
-      "judicial",
-      "pornografia",
-      "transformou"
-    ],
-    [
-      "gemini",
-      "spark",
-      "usar"
-    ],
-    [
-      "calculators",
-      "creative",
-      "llms",
-      "mathematicians",
-      "poor",
-      "strong",
-      "thinkers"
-    ],
     [
       "anthropic",
       "backlash",
@@ -2831,6 +2811,30 @@
       "desacelera",
       "desenvolvimento",
       "openai"
+    ],
+    [
+      "agent",
+      "anthropic",
+      "design",
+      "language",
+      "model",
+      "protein",
+      "stack",
+      "whole"
+    ],
+    [
+      "check",
+      "failing",
+      "keep",
+      "labs",
+      "systems",
+      "their"
+    ],
+    [
+      "congresso",
+      "gerados",
+      "projetos",
+      "sofre"
     ]
   ]
 }
