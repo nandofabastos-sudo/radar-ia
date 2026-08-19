@@ -537,7 +537,8 @@
       "6a725343f6384900019c7219",
       "6a75192264e8c50001f04867",
       "6a7a61788e92710001af630a",
-      "6a734eb4a62f5900019974d1"
+      "6a734eb4a62f5900019974d1",
+      "6a7b29a98e92710001b25d8b"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -779,7 +780,10 @@
       "https://olhardigital.com.br/?p=1362454",
       "https://olhardigital.com.br/?p=1364170",
       "https://olhardigital.com.br/?p=1364197",
-      "https://olhardigital.com.br/?p=1364320"
+      "https://olhardigital.com.br/?p=1364320",
+      "https://olhardigital.com.br/?p=1364398",
+      "https://olhardigital.com.br/?p=1364433",
+      "https://olhardigital.com.br/?p=1364435"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1039,49 +1043,12 @@
       "https://www.mobiletime.com.br/?p=861600",
       "https://www.mobiletime.com.br/?p=861657",
       "https://www.mobiletime.com.br/?p=861592",
-      "https://www.mobiletime.com.br/?p=861631"
+      "https://www.mobiletime.com.br/?p=861631",
+      "https://www.mobiletime.com.br/?p=861614",
+      "https://www.mobiletime.com.br/?p=861624"
     ]
   },
   "_titulos_recentes": [
-    [
-      "apenas",
-      "ciencia",
-      "dados",
-      "precisa",
-      "raciocinio"
-    ],
-    [
-      "carteirada",
-      "chinesa",
-      "cortiz",
-      "diogo",
-      "kimi",
-      "mundo"
-    ],
-    [
-      "hand"
-    ],
-    [
-      "amazon",
-      "authors",
-      "books",
-      "flooding",
-      "generated",
-      "human",
-      "sales",
-      "tanking"
-    ],
-    [
-      "aplicacoes",
-      "chatgpt",
-      "praticas",
-      "work"
-    ],
-    [
-      "automacao",
-      "processos",
-      "tecnologia"
-    ],
     [
       "envelheceram",
       "famosas",
@@ -2833,6 +2800,51 @@
       "parte",
       "participara",
       "segunda"
+    ],
+    [
+      "changed",
+      "wiki",
+      "work"
+    ],
+    [
+      "chatgpt",
+      "entao",
+      "nuvem",
+      "precisa",
+      "voce"
+    ],
+    [
+      "anthropic",
+      "atras",
+      "cresce",
+      "fica",
+      "openai",
+      "receita",
+      "trimestre"
+    ],
+    [
+      "desenvolvimento",
+      "freia",
+      "invasoes",
+      "openai",
+      "sistemas"
+    ],
+    [
+      "aplicativo",
+      "atendimento",
+      "generativa",
+      "levara",
+      "vivo"
+    ],
+    [
+      "dados",
+      "foco",
+      "impa",
+      "matematica",
+      "nordeste",
+      "piaui",
+      "sediara",
+      "tech"
     ]
   ]
 }
