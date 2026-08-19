@@ -551,7 +551,8 @@
       "6a832c872b72af022841792b",
       "6a848674f787031f677590ed",
       "6a7dd1a1171ea6971cf1d2c1",
-      "6a85891388ea458d1c261341"
+      "6a85891388ea458d1c261341",
+      "6a832c00aa9b25dea71b4c22"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -672,7 +673,8 @@
       "108351130",
       "108343740",
       "108351355",
-      "108351544"
+      "108351544",
+      "108351787"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -950,7 +952,8 @@
       "https://canaltech.com.br/inteligencia-artificial/adeus-gemini-claude-vai-enviar-e-mails-do-gmail-e-gerenciar-drive-para-voce/",
       "https://canaltech.com.br/mercado/openai-avalia-construcao-de-data-centers-no-brasil-apos-inicio-da-operacao-local/",
       "https://canaltech.com.br/mercado/openai-esta-aberta-a-discutir-construcao-de-data-centers-no-brasil/",
-      "https://canaltech.com.br/inteligencia-artificial/por-que-as-ias-continuam-conduzindo-ataques-hackers/"
+      "https://canaltech.com.br/inteligencia-artificial/por-que-as-ias-continuam-conduzindo-ataques-hackers/",
+      "https://canaltech.com.br/mercado/nova-ia-do-quintoandar-recomenda-imoveis-e-marca-visitas-pelo-whatsapp/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1069,7 +1072,8 @@
       "https://startups.com.br/?p=339738",
       "https://startups.com.br/?p=339814",
       "https://startups.com.br/?p=339840",
-      "https://startups.com.br/?p=339857"
+      "https://startups.com.br/?p=339857",
+      "https://startups.com.br/?p=339912"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1110,46 +1114,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "about",
-      "brockman",
-      "brushes",
-      "changes",
-      "cnbc",
-      "concerns",
-      "exclusive",
-      "leadership",
-      "openai"
-    ],
-    [
-      "acoes",
-      "banco",
-      "central",
-      "europeu",
-      "preve",
-      "queda",
-      "risco"
-    ],
-    [
-      "brasil",
-      "digital",
-      "letramento",
-      "pesquisadora",
-      "precisa",
-      "propoe"
-    ],
-    [
-      "backing",
-      "billion",
-      "center",
-      "data",
-      "lease",
-      "nvidia",
-      "ohio",
-      "openai",
-      "record",
-      "signs"
-    ],
     [
       "agua",
       "anthropic",
@@ -2898,6 +2862,38 @@
       "conduzindo",
       "continuam",
       "hackers"
+    ],
+    [
+      "future",
+      "learn",
+      "robot",
+      "spot"
+    ],
+    [
+      "2027",
+      "company",
+      "employees",
+      "friar",
+      "openai",
+      "public",
+      "sooner",
+      "tells",
+      "will"
+    ],
+    [
+      "imoveis",
+      "marca",
+      "pelo",
+      "quintoandar",
+      "recomenda",
+      "visitas",
+      "whatsapp"
+    ],
+    [
+      "cargos",
+      "mulheres",
+      "novos",
+      "ocupam"
     ]
   ]
 }
