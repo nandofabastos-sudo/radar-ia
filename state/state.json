@@ -250,7 +250,10 @@
       "https://techcrunch.com/?p=3154226",
       "https://techcrunch.com/?p=3154279",
       "https://techcrunch.com/?p=3154356",
-      "https://techcrunch.com/?post_type=tc_video&p=3154465"
+      "https://techcrunch.com/?post_type=tc_video&p=3154465",
+      "https://techcrunch.com/?p=3154497",
+      "https://techcrunch.com/?p=3154456",
+      "https://techcrunch.com/?p=3154433"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -311,7 +314,8 @@
       "https://www.theverge.com/?p=981644",
       "https://www.theverge.com/?p=981668",
       "https://www.theverge.com/?p=982270",
-      "https://www.theverge.com/?p=982323"
+      "https://www.theverge.com/?p=982323",
+      "https://www.theverge.com/?p=982425"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -394,7 +398,8 @@
       "https://the-decoder.com/?p=39184",
       "https://the-decoder.com/?p=39190",
       "https://the-decoder.com/?p=39193",
-      "https://the-decoder.com/?p=39213"
+      "https://the-decoder.com/?p=39213",
+      "https://the-decoder.com/?p=39217"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -824,7 +829,8 @@
       "https://olhardigital.com.br/?p=1364486",
       "https://olhardigital.com.br/?p=1364549",
       "https://olhardigital.com.br/?p=1364554",
-      "https://olhardigital.com.br/?p=1364648"
+      "https://olhardigital.com.br/?p=1364648",
+      "https://olhardigital.com.br/?p=1364685"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -943,7 +949,8 @@
       "https://canaltech.com.br/produtos/olimpiadas-dos-robos-revela-qual-time-tem-melhor-humanoide-em-tarefas-realistas/",
       "https://canaltech.com.br/inteligencia-artificial/adeus-gemini-claude-vai-enviar-e-mails-do-gmail-e-gerenciar-drive-para-voce/",
       "https://canaltech.com.br/mercado/openai-avalia-construcao-de-data-centers-no-brasil-apos-inicio-da-operacao-local/",
-      "https://canaltech.com.br/mercado/openai-esta-aberta-a-discutir-construcao-de-data-centers-no-brasil/"
+      "https://canaltech.com.br/mercado/openai-esta-aberta-a-discutir-construcao-de-data-centers-no-brasil/",
+      "https://canaltech.com.br/inteligencia-artificial/por-que-as-ias-continuam-conduzindo-ataques-hackers/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1103,58 +1110,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acaba",
-      "excel",
-      "funcao",
-      "microsoft"
-    ],
-    [
-      "brasil",
-      "carros",
-      "china",
-      "indica",
-      "ranking",
-      "vendidos"
-    ],
-    [
-      "china",
-      "corrida",
-      "dirao",
-      "escolher",
-      "lado",
-      "parceiros",
-      "terao"
-    ],
-    [
-      "joins",
-      "openai",
-      "pike",
-      "ports",
-      "project"
-    ],
-    [
-      "defender",
-      "window"
-    ],
-    [
-      "280m",
-      "beyond",
-      "dictation",
-      "looks",
-      "raises",
-      "valuation",
-      "wispr"
-    ],
-    [
-      "back",
-      "bounced",
-      "false",
-      "market",
-      "sora",
-      "start",
-      "video"
-    ],
     [
       "about",
       "brockman",
@@ -2885,6 +2840,64 @@
       "openrouter",
       "plataforma",
       "stripe"
+    ],
+    [
+      "access",
+      "cyber",
+      "limited",
+      "openai",
+      "program",
+      "researchers",
+      "revoked",
+      "their"
+    ],
+    [
+      "gemini",
+      "google",
+      "packs",
+      "search",
+      "study",
+      "tools"
+    ],
+    [
+      "hasn",
+      "over",
+      "people",
+      "supposed"
+    ],
+    [
+      "dedicated",
+      "gemini",
+      "getting",
+      "google",
+      "student"
+    ],
+    [
+      "agencies",
+      "attackers",
+      "build",
+      "control",
+      "exploits",
+      "industrial",
+      "systems",
+      "using",
+      "warn"
+    ],
+    [
+      "2026",
+      "copa",
+      "dados",
+      "experiencia",
+      "mudam",
+      "mundo",
+      "verticais",
+      "videos"
+    ],
+    [
+      "ataques",
+      "conduzindo",
+      "continuam",
+      "hackers"
     ]
   ]
 }
