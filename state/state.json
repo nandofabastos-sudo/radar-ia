@@ -37,7 +37,8 @@
       "https://openai.com/index/asana",
       "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "https://openai.com/index/nvidia/chatgpt-work"
+      "https://openai.com/index/nvidia/chatgpt-work",
+      "https://openai.com/index/chatgpt-ads-expands-across-europe"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -1051,17 +1052,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "billion",
-      "jumps",
-      "more",
-      "quarter",
-      "reportedly",
-      "revenue",
-      "second",
-      "than"
-    ],
     [
       "anuncios",
       "chatgpt",
@@ -2842,6 +2832,12 @@
       "modelos",
       "openai",
       "seus"
+    ],
+    [
+      "across",
+      "chatgpt",
+      "europe",
+      "expands"
     ]
   ]
 }
