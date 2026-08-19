@@ -40,7 +40,8 @@
       "https://openai.com/index/nvidia/chatgpt-work",
       "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "https://openai.com/index/replit",
-      "https://openai.com/index/our-commitment-to-zero-data-retention"
+      "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -399,7 +400,8 @@
       "https://the-decoder.com/?p=39190",
       "https://the-decoder.com/?p=39193",
       "https://the-decoder.com/?p=39213",
-      "https://the-decoder.com/?p=39217"
+      "https://the-decoder.com/?p=39217",
+      "https://the-decoder.com/?p=39220"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -436,7 +438,8 @@
       "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
       "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
       "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/"
+      "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -609,7 +612,8 @@
       "https://news.ycombinator.com/item?id=49337602",
       "https://news.ycombinator.com/item?id=49331220",
       "https://news.ycombinator.com/item?id=49343559",
-      "https://news.ycombinator.com/item?id=49354949"
+      "https://news.ycombinator.com/item?id=49354949",
+      "https://news.ycombinator.com/item?id=49364559"
     ]
   },
   "mercado": {
@@ -674,7 +678,8 @@
       "108343740",
       "108351355",
       "108351544",
-      "108351787"
+      "108351787",
+      "108351780"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -873,7 +878,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=923125",
       "https://tecnoblog.net/?post_type=noticias&p=923184",
       "https://tecnoblog.net/?post_type=noticias&p=923255",
-      "https://tecnoblog.net/?post_type=noticias&p=923347"
+      "https://tecnoblog.net/?post_type=noticias&p=923347",
+      "https://tecnoblog.net/?post_type=noticias&p=923535"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1031,7 +1037,8 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/chatgpt-tera-anuncios-a-partir-de-24-de-agosto-em-30-paises-europeus.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/openai-desacelera-desenvolvimento-de-nova-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/19/o-que-esta-por-tras-da-openai-anunciar-surpreendente-pausa-em-avancos-de-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/19/stripe-faz-acordo-para-comprar-plataforma-de-desenvolvimento-de-ia-openrouter.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/19/stripe-faz-acordo-para-comprar-plataforma-de-desenvolvimento-de-ia-openrouter.htm",
+      "https://www.uol.com.br/flash/?c=f245a25d3461d883711b9962a49daf320260819"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1114,66 +1121,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agua",
-      "anthropic",
-      "claude",
-      "feitos",
-      "insere",
-      "invisivel",
-      "marca",
-      "mostra",
-      "textos"
-    ],
-    [
-      "agua",
-      "anthropic",
-      "detalha",
-      "feito",
-      "marca",
-      "saber",
-      "texto"
-    ],
-    [
-      "antes",
-      "assume",
-      "derrubou",
-      "discord",
-      "falha",
-      "live",
-      "suicidio"
-    ],
-    [
-      "airtag",
-      "amazon",
-      "books",
-      "destroys",
-      "rare",
-      "reveals",
-      "training"
-    ],
-    [
-      "built",
-      "global",
-      "healthcare",
-      "heidi",
-      "production",
-      "ready",
-      "scale"
-    ],
-    [
-      "agent",
-      "confront",
-      "context",
-      "control",
-      "enterprises",
-      "layer",
-      "sprawl",
-      "their",
-      "them",
-      "wants",
-      "xpander"
-    ],
     [
       "avaliava",
       "desativa",
@@ -2894,6 +2841,54 @@
       "mulheres",
       "novos",
       "ocupam"
+    ],
+    [
+      "declares",
+      "living",
+      "reason",
+      "singularity",
+      "stripe",
+      "uses"
+    ],
+    [
+      "attendants",
+      "buying",
+      "data",
+      "employee",
+      "flight",
+      "freaked",
+      "google",
+      "spirit",
+      "tons"
+    ],
+    [
+      "joining",
+      "openrouter",
+      "stripe"
+    ],
+    [
+      "deeper",
+      "expands",
+      "fintech",
+      "into",
+      "openrouter",
+      "stripe"
+    ],
+    [
+      "agua",
+      "burlam",
+      "claude",
+      "desenvolvedores",
+      "marca",
+      "texto"
+    ],
+    [
+      "controle",
+      "muda",
+      "mundo",
+      "rolando",
+      "views",
+      "youtube"
     ]
   ]
 }
