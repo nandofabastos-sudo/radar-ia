@@ -965,7 +965,8 @@
       "https://canaltech.com.br/inteligencia-artificial/por-que-as-ias-continuam-conduzindo-ataques-hackers/",
       "https://canaltech.com.br/mercado/nova-ia-do-quintoandar-recomenda-imoveis-e-marca-visitas-pelo-whatsapp/",
       "https://canaltech.com.br/inteligencia-artificial/google-ai-pro-gemini-de-graca-por-1-ano-brasil/",
-      "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-firefox-vai-organizar-bagunca-de-abas-e-buscar-na-web-sozinha/"
+      "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-firefox-vai-organizar-bagunca-de-abas-e-buscar-na-web-sozinha/",
+      "https://canaltech.com.br/inteligencia-artificial/como-remover-marca-dagua-do-gemini-de-fotos-e-videos/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1127,15 +1128,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "avaliar",
-      "desmontou",
-      "equipe",
-      "jornal",
-      "openai",
-      "responsavel",
-      "riscos"
-    ],
     [
       "criar",
       "criminosas",
@@ -2886,6 +2878,14 @@
       "firefox",
       "organizar",
       "sozinha"
+    ],
+    [
+      "agua",
+      "fotos",
+      "gemini",
+      "marca",
+      "remover",
+      "videos"
     ]
   ]
 }
