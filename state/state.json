@@ -837,7 +837,8 @@
       "https://olhardigital.com.br/?p=1364549",
       "https://olhardigital.com.br/?p=1364554",
       "https://olhardigital.com.br/?p=1364648",
-      "https://olhardigital.com.br/?p=1364685"
+      "https://olhardigital.com.br/?p=1364685",
+      "https://olhardigital.com.br/?p=1364744"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -959,7 +960,8 @@
       "https://canaltech.com.br/mercado/openai-avalia-construcao-de-data-centers-no-brasil-apos-inicio-da-operacao-local/",
       "https://canaltech.com.br/mercado/openai-esta-aberta-a-discutir-construcao-de-data-centers-no-brasil/",
       "https://canaltech.com.br/inteligencia-artificial/por-que-as-ias-continuam-conduzindo-ataques-hackers/",
-      "https://canaltech.com.br/mercado/nova-ia-do-quintoandar-recomenda-imoveis-e-marca-visitas-pelo-whatsapp/"
+      "https://canaltech.com.br/mercado/nova-ia-do-quintoandar-recomenda-imoveis-e-marca-visitas-pelo-whatsapp/",
+      "https://canaltech.com.br/inteligencia-artificial/google-ai-pro-gemini-de-graca-por-1-ano-brasil/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1121,24 +1123,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "avaliava",
-      "desativa",
-      "equipe",
-      "graves",
-      "modelos",
-      "openai",
-      "riscos",
-      "seus"
-    ],
-    [
-      "conter",
-      "desmancha",
-      "equipe",
-      "openai",
-      "rebeliao",
-      "responsavel"
-    ],
     [
       "behind",
       "center",
@@ -2889,6 +2873,23 @@
       "rolando",
       "views",
       "youtube"
+    ],
+    [
+      "alem",
+      "artificial",
+      "descontrole",
+      "inteligencia",
+      "muito",
+      "oculto",
+      "perigo",
+      "simples"
+    ],
+    [
+      "empresa",
+      "estudantes",
+      "gemini",
+      "google",
+      "graca"
     ]
   ]
 }
