@@ -39,7 +39,8 @@
       "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "https://openai.com/index/nvidia/chatgpt-work",
       "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "https://openai.com/index/replit"
+      "https://openai.com/index/replit",
+      "https://openai.com/index/our-commitment-to-zero-data-retention"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -248,7 +249,8 @@
       "https://techcrunch.com/?p=3153940",
       "https://techcrunch.com/?p=3154226",
       "https://techcrunch.com/?p=3154279",
-      "https://techcrunch.com/?p=3154356"
+      "https://techcrunch.com/?p=3154356",
+      "https://techcrunch.com/?post_type=tc_video&p=3154465"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -307,7 +309,9 @@
       "https://www.theverge.com/?p=981283",
       "https://www.theverge.com/?p=981640",
       "https://www.theverge.com/?p=981644",
-      "https://www.theverge.com/?p=981668"
+      "https://www.theverge.com/?p=981668",
+      "https://www.theverge.com/?p=982270",
+      "https://www.theverge.com/?p=982323"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -540,7 +544,8 @@
       "6a7f35587f588ccda7affc4f",
       "6a832c872b72af022841792b",
       "6a848674f787031f677590ed",
-      "6a7dd1a1171ea6971cf1d2c1"
+      "6a7dd1a1171ea6971cf1d2c1",
+      "6a85891388ea458d1c261341"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -687,7 +692,8 @@
       "https://techcrunch.com/?p=3153332",
       "https://techcrunch.com/?p=3153447",
       "https://techcrunch.com/?p=3153831",
-      "https://techcrunch.com/?p=3153940"
+      "https://techcrunch.com/?p=3153940",
+      "https://techcrunch.com/?post_type=tc_video&p=3154465"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -816,7 +822,8 @@
       "https://olhardigital.com.br/?p=1364482",
       "https://olhardigital.com.br/?p=1364486",
       "https://olhardigital.com.br/?p=1364549",
-      "https://olhardigital.com.br/?p=1364554"
+      "https://olhardigital.com.br/?p=1364554",
+      "https://olhardigital.com.br/?p=1364648"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1093,55 +1100,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "artificial",
-      "inteligencia",
-      "precisar",
-      "quando"
-    ],
-    [
-      "ideas",
-      "intelligence",
-      "policy"
-    ],
-    [
-      "8217",
-      "anthropic",
-      "claude",
-      "explains",
-      "invisible",
-      "text",
-      "watermarks",
-      "will",
-      "work"
-    ],
-    [
-      "adulteration",
-      "anthropic",
-      "claude",
-      "perversion",
-      "text",
-      "watermark",
-      "writing"
-    ],
-    [
-      "backing",
-      "busy",
-      "giants",
-      "semiconductor",
-      "startups",
-      "year"
-    ],
-    [
-      "criados",
-      "livros",
-      "mistico",
-      "movimento",
-      "nasa",
-      "olho",
-      "resumo",
-      "tech"
-    ],
     [
       "anthropic",
       "claude",
@@ -2876,6 +2834,50 @@
       "openai",
       "surpreendente",
       "tras"
+    ],
+    [
+      "data",
+      "frontier",
+      "models",
+      "offering",
+      "retention",
+      "zero"
+    ],
+    [
+      "compute",
+      "helping",
+      "meet",
+      "price",
+      "startup",
+      "street",
+      "wall"
+    ],
+    [
+      "getting",
+      "meta"
+    ],
+    [
+      "brakes",
+      "openai",
+      "what"
+    ],
+    [
+      "already",
+      "claude",
+      "coders",
+      "found",
+      "invisible",
+      "they",
+      "watermarks",
+      "workarounds"
+    ],
+    [
+      "existe",
+      "prever",
+      "problema",
+      "solares",
+      "tempestades",
+      "tenta"
     ]
   ]
 }
