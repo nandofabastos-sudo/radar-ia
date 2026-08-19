@@ -38,7 +38,8 @@
       "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "https://openai.com/index/nvidia/chatgpt-work",
-      "https://openai.com/index/chatgpt-ads-expands-across-europe"
+      "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "https://openai.com/index/replit"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -242,7 +243,8 @@
       "https://techcrunch.com/?p=3154044",
       "https://techcrunch.com/?p=3154081",
       "https://techcrunch.com/?p=3154147",
-      "https://techcrunch.com/?p=3153940"
+      "https://techcrunch.com/?p=3153940",
+      "https://techcrunch.com/?p=3154226"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -381,7 +383,9 @@
       "https://the-decoder.com/?p=39181",
       "https://the-decoder.com/?p=39186",
       "https://the-decoder.com/?p=39187",
-      "https://the-decoder.com/?p=39184"
+      "https://the-decoder.com/?p=39184",
+      "https://the-decoder.com/?p=39190",
+      "https://the-decoder.com/?p=39193"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -468,7 +472,8 @@
       "5C2nrJWbnJkTZW3xPkMGnu",
       "5mgycwoh1PrX2Pk5cUXtRx",
       "1iTw8gVTC9n4Fy0EuxxwVm",
-      "6TKv8ZtUA2tSZ8JCTJav06"
+      "6TKv8ZtUA2tSZ8JCTJav06",
+      "1T57vZE1VvtZKQQXLSMrX6"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -649,7 +654,8 @@
       "108350537",
       "108350769",
       "108351130",
-      "108343740"
+      "108343740",
+      "108351355"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -843,7 +849,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=922988",
       "https://tecnoblog.net/?post_type=noticias&p=923125",
       "https://tecnoblog.net/?post_type=noticias&p=923184",
-      "https://tecnoblog.net/?post_type=noticias&p=923255"
+      "https://tecnoblog.net/?post_type=noticias&p=923255",
+      "https://tecnoblog.net/?post_type=noticias&p=923347"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1076,62 +1083,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "backlash",
-      "crisis",
-      "fundamentally",
-      "trust"
-    ],
-    [
-      "claude",
-      "prompts",
-      "system"
-    ],
-    [
-      "aberto",
-      "feito",
-      "modelo",
-      "mundo",
-      "nenhum",
-      "popular",
-      "qual"
-    ],
-    [
-      "afeta",
-      "crise",
-      "diagnostico",
-      "mistral",
-      "produtores",
-      "vinho"
-    ],
-    [
-      "aren",
-      "buying",
-      "future",
-      "mark",
-      "people",
-      "zuckerberg"
-    ],
-    [
-      "costs",
-      "cutting",
-      "deciding",
-      "inference",
-      "never",
-      "reaches",
-      "starts",
-      "what"
-    ],
-    [
-      "acquire",
-      "gateway",
-      "openrouter",
-      "reportedly",
-      "startup",
-      "stripe",
-      "will"
-    ],
     [
       "disbanded",
       "openai",
@@ -2835,6 +2786,85 @@
       "gerados",
       "projetos",
       "sofre"
+    ],
+    [
+      "access",
+      "creation",
+      "expands",
+      "luna",
+      "replit",
+      "software"
+    ],
+    [
+      "calendly",
+      "circus",
+      "into",
+      "meeting",
+      "note",
+      "taker",
+      "throws"
+    ],
+    [
+      "delayed",
+      "model",
+      "open",
+      "price",
+      "rankings",
+      "release",
+      "rivals",
+      "tops",
+      "undercuts"
+    ],
+    [
+      "china",
+      "chips",
+      "firms",
+      "h200",
+      "help",
+      "keep",
+      "lets",
+      "mainland",
+      "nvidia",
+      "onto",
+      "pace",
+      "trickle"
+    ],
+    [
+      "analyst",
+      "enterprise",
+      "expanding",
+      "first",
+      "lead",
+      "names",
+      "push",
+      "research",
+      "strechay",
+      "venturebeat"
+    ],
+    [
+      "boom",
+      "center",
+      "cnbc",
+      "data",
+      "deals",
+      "matchmaker",
+      "nordics",
+      "nvidia",
+      "plays",
+      "region",
+      "sources",
+      "tell"
+    ],
+    [
+      "agora",
+      "claude",
+      "conta",
+      "enviar",
+      "gmail",
+      "mails",
+      "pelo",
+      "pode",
+      "propria"
     ]
   ]
 }
