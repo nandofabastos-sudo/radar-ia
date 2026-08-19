@@ -972,7 +972,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/openai-reduz-ritmo-de-treinamento-de-ia-para-reforcar-seguranca-apos-ataque.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/18/estudo-aponta-que-algoritmo-do-x-aprende-com-raiva-e-reforca-ragebait.ghtm",
       "https://www3.uol.com.br/redirect-flash/o-que-ta-rolando-no-mundo-openai-abre-escritorio-no-brasil-meta-no-tribunal-e-mais.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/anthropic-prepara-poder-de-voto-especial-para-fundadores-antes-de-ipo-dizthe-information.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/18/anthropic-prepara-poder-de-voto-especial-para-fundadores-antes-de-ipo-dizthe-information.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/19/oracle-e-motorola-ceo-da-maior-produtora-do-mundo-revela-ia-em-filmes.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1052,11 +1053,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anuncios",
-      "chatgpt",
-      "livrar"
-    ],
     [
       "anthropic",
       "bubble",
@@ -2838,6 +2834,15 @@
       "chatgpt",
       "europe",
       "expands"
+    ],
+    [
+      "filmes",
+      "maior",
+      "motorola",
+      "mundo",
+      "oracle",
+      "produtora",
+      "revela"
     ]
   ]
 }
