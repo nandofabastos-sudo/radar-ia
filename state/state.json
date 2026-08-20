@@ -728,7 +728,8 @@
       "108351780",
       "108352012",
       "108351833",
-      "108351856"
+      "108351856",
+      "108352242"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -901,7 +902,8 @@
       "https://olhardigital.com.br/?p=1365040",
       "https://olhardigital.com.br/?p=1365066",
       "https://olhardigital.com.br/?p=1365093",
-      "https://olhardigital.com.br/?p=1365109"
+      "https://olhardigital.com.br/?p=1365109",
+      "https://olhardigital.com.br/?p=1365149"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1215,24 +1217,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "claude",
-      "explica",
-      "gerados",
-      "identificar",
-      "textos"
-    ],
-    [
-      "cadernos",
-      "clique",
-      "copia",
-      "gemini",
-      "inteiros",
-      "libera",
-      "notebook",
-      "unico"
-    ],
     [
       "asana",
       "cleared",
@@ -2924,6 +2908,23 @@
       "tarefas",
       "usado",
       "windows"
+    ],
+    [
+      "boom",
+      "bust",
+      "changed",
+      "equation",
+      "industry",
+      "memory",
+      "micron",
+      "totally"
+    ],
+    [
+      "anuncia",
+      "bilhoes",
+      "brasil",
+      "pacote",
+      "supercomputador"
     ]
   ]
 }
