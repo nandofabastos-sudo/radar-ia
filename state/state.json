@@ -451,7 +451,8 @@
       "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
       "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-      "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/"
+      "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -989,7 +990,9 @@
       "https://canaltech.com.br/inteligencia-artificial/google-ai-pro-gemini-de-graca-por-1-ano-brasil/",
       "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-firefox-vai-organizar-bagunca-de-abas-e-buscar-na-web-sozinha/",
       "https://canaltech.com.br/inteligencia-artificial/como-remover-marca-dagua-do-gemini-de-fotos-e-videos/",
-      "https://canaltech.com.br/inteligencia-artificial/openai-decide-pausar-avanco-de-novos-modelos-de-ia-por-que/"
+      "https://canaltech.com.br/inteligencia-artificial/openai-decide-pausar-avanco-de-novos-modelos-de-ia-por-que/",
+      "https://canaltech.com.br/inteligencia-artificial/apple-remove-app-de-deepfake-porno-impulsionado-pela-meta/",
+      "https://canaltech.com.br/inteligencia-artificial/o-que-e-ats-analise-curriculo/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1157,29 +1160,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "antes",
-      "anthropic",
-      "anualizada",
-      "possivel",
-      "receita",
-      "supera"
-    ],
-    [
-      "algoritmo",
-      "bloquear",
-      "candidatos",
-      "eleicao",
-      "muda",
-      "recomendacoes"
-    ],
-    [
-      "empresa",
-      "ifood",
-      "learning",
-      "machine",
-      "modelos"
-    ],
     [
       "accenture",
       "agentes",
@@ -2906,6 +2886,29 @@
       "organiza",
       "robo",
       "transito"
+    ],
+    [
+      "data",
+      "encrypted",
+      "exfiltrates",
+      "grok",
+      "instructions",
+      "malicious",
+      "user",
+      "when"
+    ],
+    [
+      "apple",
+      "deepfake",
+      "impulsionado",
+      "meta",
+      "pela",
+      "porno",
+      "remove"
+    ],
+    [
+      "analisa",
+      "curriculo"
     ]
   ]
 }
