@@ -258,7 +258,8 @@
       "https://techcrunch.com/?p=3154652",
       "https://techcrunch.com/?p=3154506",
       "https://techcrunch.com/?p=3154600",
-      "https://techcrunch.com/?p=3154391"
+      "https://techcrunch.com/?p=3154391",
+      "https://techcrunch.com/?p=3154766"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -320,7 +321,8 @@
       "https://www.theverge.com/?p=981668",
       "https://www.theverge.com/?p=982270",
       "https://www.theverge.com/?p=982323",
-      "https://www.theverge.com/?p=982425"
+      "https://www.theverge.com/?p=982425",
+      "https://www.theverge.com/?p=982628"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -409,7 +411,9 @@
       "https://the-decoder.com/?p=39224",
       "https://the-decoder.com/?p=39229",
       "https://the-decoder.com/?p=39232",
-      "https://the-decoder.com/?p=39235"
+      "https://the-decoder.com/?p=39235",
+      "https://the-decoder.com/?p=39241",
+      "https://the-decoder.com/?p=39245"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -624,7 +628,8 @@
       "https://news.ycombinator.com/item?id=49343559",
       "https://news.ycombinator.com/item?id=49354949",
       "https://news.ycombinator.com/item?id=49364559",
-      "https://news.ycombinator.com/item?id=49371857"
+      "https://news.ycombinator.com/item?id=49371857",
+      "https://news.ycombinator.com/item?id=49367350"
     ]
   },
   "mercado": {
@@ -691,7 +696,8 @@
       "108351544",
       "108351787",
       "108351780",
-      "108352012"
+      "108352012",
+      "108351833"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -856,7 +862,8 @@
       "https://olhardigital.com.br/?p=1364802",
       "https://olhardigital.com.br/?p=1364818",
       "https://olhardigital.com.br/?p=1364817",
-      "https://olhardigital.com.br/?p=1364862"
+      "https://olhardigital.com.br/?p=1364862",
+      "https://olhardigital.com.br/?p=1364929"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1150,74 +1157,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "corrida",
-      "escolher",
-      "paises",
-      "pequim",
-      "ultimato",
-      "washington"
-    ],
-    [
-      "anthropic",
-      "anualizada",
-      "bilhoes",
-      "fonte",
-      "receita",
-      "ultrapassa"
-    ],
-    [
-      "bodies",
-      "cats",
-      "litter",
-      "powered",
-      "robot",
-      "swapped",
-      "thinks",
-      "whisker"
-    ],
-    [
-      "code",
-      "coding",
-      "cursor",
-      "exposes",
-      "github",
-      "hosting",
-      "launches",
-      "opening",
-      "origin",
-      "outage",
-      "platform",
-      "race"
-    ],
-    [
-      "allowed",
-      "autofix",
-      "compromise",
-      "copilot",
-      "generated",
-      "github",
-      "jira",
-      "snowflake"
-    ],
-    [
-      "annualized",
-      "anthropic",
-      "revenue",
-      "surges"
-    ],
-    [
-      "agents",
-      "class",
-      "cloud",
-      "coding",
-      "frontier",
-      "locally",
-      "qwen3",
-      "reasoning",
-      "required",
-      "runs"
-    ],
     [
       "antes",
       "anthropic",
@@ -2905,6 +2844,68 @@
       "into",
       "startup",
       "tabs"
+    ],
+    [
+      "apps",
+      "meta",
+      "talk",
+      "wants",
+      "your"
+    ],
+    [
+      "channels",
+      "coding",
+      "collaborative",
+      "launching",
+      "slack",
+      "vibe"
+    ],
+    [
+      "calls",
+      "complex",
+      "data",
+      "face",
+      "infinitely",
+      "mistake",
+      "pioneer",
+      "sutton",
+      "synthetic",
+      "world"
+    ],
+    [
+      "demo",
+      "generalist",
+      "robots",
+      "single",
+      "tasks",
+      "teaches"
+    ],
+    [
+      "agents",
+      "feature",
+      "request",
+      "support"
+    ],
+    [
+      "boise",
+      "boom",
+      "buyback",
+      "debt",
+      "earnings",
+      "more",
+      "morning",
+      "squawk",
+      "treasury",
+      "walmart"
+    ],
+    [
+      "alerta",
+      "china",
+      "guardinha",
+      "motoristas",
+      "organiza",
+      "robo",
+      "transito"
     ]
   ]
 }
