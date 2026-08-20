@@ -167,7 +167,8 @@
       "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
       "https://mistral.ai/news/ocr-4",
       "https://mistral.ai/news/shieldstral",
-      "https://mistral.ai/news/regional-inference-open-models-new-compute"
+      "https://mistral.ai/news/regional-inference-open-models-new-compute",
+      "https://mistral.ai/news/agentic-search"
     ]
   },
   "imprensa": {
@@ -322,7 +323,8 @@
       "https://www.theverge.com/?p=982270",
       "https://www.theverge.com/?p=982323",
       "https://www.theverge.com/?p=982425",
-      "https://www.theverge.com/?p=982628"
+      "https://www.theverge.com/?p=982628",
+      "https://www.theverge.com/?p=982434"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -413,7 +415,8 @@
       "https://the-decoder.com/?p=39232",
       "https://the-decoder.com/?p=39235",
       "https://the-decoder.com/?p=39241",
-      "https://the-decoder.com/?p=39245"
+      "https://the-decoder.com/?p=39245",
+      "https://the-decoder.com/?p=39206"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -630,7 +633,8 @@
       "https://news.ycombinator.com/item?id=49354949",
       "https://news.ycombinator.com/item?id=49364559",
       "https://news.ycombinator.com/item?id=49371857",
-      "https://news.ycombinator.com/item?id=49367350"
+      "https://news.ycombinator.com/item?id=49367350",
+      "https://news.ycombinator.com/item?id=49365443"
     ]
   },
   "mercado": {
@@ -698,7 +702,8 @@
       "108351787",
       "108351780",
       "108352012",
-      "108351833"
+      "108351833",
+      "108351856"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -992,7 +997,8 @@
       "https://canaltech.com.br/inteligencia-artificial/como-remover-marca-dagua-do-gemini-de-fotos-e-videos/",
       "https://canaltech.com.br/inteligencia-artificial/openai-decide-pausar-avanco-de-novos-modelos-de-ia-por-que/",
       "https://canaltech.com.br/inteligencia-artificial/apple-remove-app-de-deepfake-porno-impulsionado-pela-meta/",
-      "https://canaltech.com.br/inteligencia-artificial/o-que-e-ats-analise-curriculo/"
+      "https://canaltech.com.br/inteligencia-artificial/o-que-e-ats-analise-curriculo/",
+      "https://canaltech.com.br/inteligencia-artificial/chega-de-digitar-gemini-testa-recurso-para-salvar-dados-de-prints-e-comprovantes/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1073,7 +1079,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/19/stripe-faz-acordo-para-comprar-plataforma-de-desenvolvimento-de-ia-openrouter.htm",
       "https://www.uol.com.br/flash/?c=f245a25d3461d883711b9962a49daf320260819",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/parem-as-maquinas-ceo-conta-como-torrou-us-5-mil-em-1h-com-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/robos-estao-prestes-a-viver-momento-chatgpt-diz-ceo-da-unitree.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/robos-estao-prestes-a-viver-momento-chatgpt-diz-ceo-da-unitree.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/codigo-para-remover-marca-dagua-do-claude-viraliza-apos-anuncio-da-anthropic.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1160,64 +1167,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "accenture",
-      "agentes",
-      "clientes",
-      "rodando",
-      "seus"
-    ],
-    [
-      "agente",
-      "cresce",
-      "digito",
-      "duplo",
-      "magalu",
-      "whatsapp"
-    ],
-    [
-      "best",
-      "ever",
-      "model",
-      "openai",
-      "released",
-      "vision"
-    ],
-    [
-      "alcance",
-      "algoritmo",
-      "altera",
-      "campanha",
-      "candidatos",
-      "durante",
-      "eleitoral",
-      "reduz"
-    ],
-    [
-      "attempt",
-      "chatbots",
-      "creates",
-      "dupe",
-      "fake",
-      "israel",
-      "likely",
-      "tank",
-      "think"
-    ],
-    [
-      "pricing"
-    ],
-    [
-      "above",
-      "annualized",
-      "anthropic",
-      "billion",
-      "hits",
-      "increases",
-      "rate",
-      "revenue",
-      "sevenfold"
-    ],
     [
       "compress",
       "context",
@@ -2909,6 +2858,58 @@
     [
       "analisa",
       "curriculo"
+    ],
+    [
+      "mistral"
+    ],
+    [
+      "crisis",
+      "math",
+      "welcome"
+    ],
+    [
+      "caught",
+      "china",
+      "frontier",
+      "lead",
+      "left",
+      "radar",
+      "western",
+      "what"
+    ],
+    [
+      "dynamic",
+      "ggufs",
+      "unsloth"
+    ],
+    [
+      "center",
+      "data",
+      "elections",
+      "everywhere",
+      "outrage",
+      "showing"
+    ],
+    [
+      "chega",
+      "comprovantes",
+      "dados",
+      "digitar",
+      "gemini",
+      "prints",
+      "recurso",
+      "salvar",
+      "testa"
+    ],
+    [
+      "agua",
+      "anthropic",
+      "anuncio",
+      "claude",
+      "codigo",
+      "horas",
+      "marca",
+      "remove"
     ]
   ]
 }
