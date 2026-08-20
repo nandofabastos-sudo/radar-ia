@@ -41,7 +41,8 @@
       "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "https://openai.com/index/replit",
       "https://openai.com/index/our-commitment-to-zero-data-retention",
-      "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+      "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "https://openai.com/index/stampli"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -260,7 +261,9 @@
       "https://techcrunch.com/?p=3154506",
       "https://techcrunch.com/?p=3154600",
       "https://techcrunch.com/?p=3154391",
-      "https://techcrunch.com/?p=3154766"
+      "https://techcrunch.com/?p=3154766",
+      "https://techcrunch.com/?p=3154855",
+      "https://techcrunch.com/?p=3154881"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -532,7 +535,8 @@
       "https://www.technologyreview.com/?p=1142200",
       "https://www.technologyreview.com/?p=1142188",
       "https://www.technologyreview.com/?p=1142226",
-      "https://www.technologyreview.com/?p=1142070"
+      "https://www.technologyreview.com/?p=1142070",
+      "https://www.technologyreview.com/?p=1142571"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1001,7 +1005,8 @@
       "https://canaltech.com.br/inteligencia-artificial/apple-remove-app-de-deepfake-porno-impulsionado-pela-meta/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-ats-analise-curriculo/",
       "https://canaltech.com.br/inteligencia-artificial/chega-de-digitar-gemini-testa-recurso-para-salvar-dados-de-prints-e-comprovantes/",
-      "https://canaltech.com.br/inteligencia-artificial/marca-dagua-do-claude-ajuda-na-transparencia-mas-nao-prova-autoria-de-textos/"
+      "https://canaltech.com.br/inteligencia-artificial/marca-dagua-do-claude-ajuda-na-transparencia-mas-nao-prova-autoria-de-textos/",
+      "https://canaltech.com.br/inteligencia-artificial/devs-conseguem-burlar-marca-dagua-do-claude-para-textos-em-poucas-horas/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1126,7 +1131,8 @@
       "https://startups.com.br/?p=339840",
       "https://startups.com.br/?p=339857",
       "https://startups.com.br/?p=339912",
-      "https://startups.com.br/?p=339932"
+      "https://startups.com.br/?p=339932",
+      "https://startups.com.br/?p=339930"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1171,63 +1177,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "8217",
-      "airpods",
-      "appear",
-      "apple",
-      "camera",
-      "equipped",
-      "leaked",
-      "video"
-    ],
-    [
-      "about",
-      "chinese",
-      "experts",
-      "here",
-      "model",
-      "powerful",
-      "waited",
-      "warned"
-    ],
-    [
-      "conjunto",
-      "dados",
-      "empresa",
-      "outra",
-      "pessoa",
-      "treinamento"
-    ],
-    [
-      "claude",
-      "code",
-      "command",
-      "create",
-      "design",
-      "developers",
-      "gets",
-      "lets",
-      "mockups",
-      "right",
-      "terminal"
-    ],
-    [
-      "after",
-      "come",
-      "improvement",
-      "might",
-      "quickly",
-      "recursive",
-      "self"
-    ],
-    [
-      "know",
-      "people",
-      "really",
-      "still",
-      "using"
-    ],
     [
       "avoid",
       "disable",
@@ -2923,6 +2872,63 @@
       "massa",
       "openai",
       "quer"
+    ],
+    [
+      "chatgpt",
+      "helps",
+      "ideas",
+      "market",
+      "move",
+      "stampli",
+      "work"
+    ],
+    [
+      "enterprises",
+      "fast",
+      "finds",
+      "fuel",
+      "fusion",
+      "inertia",
+      "make"
+    ],
+    [
+      "brings",
+      "code",
+      "games",
+      "lets",
+      "meta",
+      "pocket",
+      "share",
+      "users",
+      "vibe"
+    ],
+    [
+      "consciousness",
+      "debates",
+      "over",
+      "trap"
+    ],
+    [
+      "agua",
+      "burlar",
+      "claude",
+      "conseguem",
+      "devs",
+      "horas",
+      "marca",
+      "poucas",
+      "textos"
+    ],
+    [
+      "ampliar",
+      "capacidade",
+      "criacao",
+      "free",
+      "lanca",
+      "mode",
+      "promete",
+      "replit",
+      "vezes"
     ]
   ]
 }
