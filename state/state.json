@@ -508,7 +508,8 @@
       "1iTw8gVTC9n4Fy0EuxxwVm",
       "6TKv8ZtUA2tSZ8JCTJav06",
       "1T57vZE1VvtZKQQXLSMrX6",
-      "6P7y6z4gX2Wesbgs7V4xCS"
+      "6P7y6z4gX2Wesbgs7V4xCS",
+      "45zMjuJalb0vdnLJHXErHM"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -869,7 +870,8 @@
       "https://olhardigital.com.br/?p=1364818",
       "https://olhardigital.com.br/?p=1364817",
       "https://olhardigital.com.br/?p=1364862",
-      "https://olhardigital.com.br/?p=1364929"
+      "https://olhardigital.com.br/?p=1364929",
+      "https://olhardigital.com.br/?p=1364973"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -998,7 +1000,8 @@
       "https://canaltech.com.br/inteligencia-artificial/openai-decide-pausar-avanco-de-novos-modelos-de-ia-por-que/",
       "https://canaltech.com.br/inteligencia-artificial/apple-remove-app-de-deepfake-porno-impulsionado-pela-meta/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-ats-analise-curriculo/",
-      "https://canaltech.com.br/inteligencia-artificial/chega-de-digitar-gemini-testa-recurso-para-salvar-dados-de-prints-e-comprovantes/"
+      "https://canaltech.com.br/inteligencia-artificial/chega-de-digitar-gemini-testa-recurso-para-salvar-dados-de-prints-e-comprovantes/",
+      "https://canaltech.com.br/inteligencia-artificial/marca-dagua-do-claude-ajuda-na-transparencia-mas-nao-prova-autoria-de-textos/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1122,7 +1125,8 @@
       "https://startups.com.br/?p=339814",
       "https://startups.com.br/?p=339840",
       "https://startups.com.br/?p=339857",
-      "https://startups.com.br/?p=339912"
+      "https://startups.com.br/?p=339912",
+      "https://startups.com.br/?p=339932"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1167,38 +1171,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "compress",
-      "context",
-      "drop",
-      "instructions",
-      "quietly",
-      "systems",
-      "they",
-      "user",
-      "when"
-    ],
-    [
-      "brasil",
-      "busca",
-      "estreita",
-      "lacos",
-      "openai",
-      "parceiros"
-    ],
-    [
-      "america",
-      "brasil",
-      "escolheu",
-      "escritorio",
-      "fora",
-      "openai"
-    ],
-    [
-      "barato",
-      "production",
-      "rapido"
-    ],
     [
       "8217",
       "airpods",
@@ -2910,6 +2882,47 @@
       "horas",
       "marca",
       "remove"
+    ],
+    [
+      "agent",
+      "agents",
+      "background",
+      "before",
+      "catalyst",
+      "creates",
+      "identify",
+      "issues",
+      "roving",
+      "serval",
+      "super",
+      "they",
+      "ticketed"
+    ],
+    [
+      "agua",
+      "claude",
+      "codigo",
+      "invisivel",
+      "marca",
+      "promete",
+      "remover"
+    ],
+    [
+      "agua",
+      "ajuda",
+      "autoria",
+      "claude",
+      "marca",
+      "prova",
+      "textos",
+      "transparencia"
+    ],
+    [
+      "botar",
+      "brasil",
+      "massa",
+      "openai",
+      "quer"
     ]
   ]
 }
