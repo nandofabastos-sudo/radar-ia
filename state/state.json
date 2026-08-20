@@ -263,7 +263,9 @@
       "https://techcrunch.com/?p=3154391",
       "https://techcrunch.com/?p=3154766",
       "https://techcrunch.com/?p=3154855",
-      "https://techcrunch.com/?p=3154881"
+      "https://techcrunch.com/?p=3154881",
+      "https://techcrunch.com/?p=3154851",
+      "https://techcrunch.com/?p=3154941"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -327,7 +329,8 @@
       "https://www.theverge.com/?p=982323",
       "https://www.theverge.com/?p=982425",
       "https://www.theverge.com/?p=982628",
-      "https://www.theverge.com/?p=982434"
+      "https://www.theverge.com/?p=982434",
+      "https://www.theverge.com/?p=982774"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -512,7 +515,8 @@
       "6TKv8ZtUA2tSZ8JCTJav06",
       "1T57vZE1VvtZKQQXLSMrX6",
       "6P7y6z4gX2Wesbgs7V4xCS",
-      "45zMjuJalb0vdnLJHXErHM"
+      "45zMjuJalb0vdnLJHXErHM",
+      "34fgNqp4safoW5QJMmkgwD"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -875,7 +879,8 @@
       "https://olhardigital.com.br/?p=1364817",
       "https://olhardigital.com.br/?p=1364862",
       "https://olhardigital.com.br/?p=1364929",
-      "https://olhardigital.com.br/?p=1364973"
+      "https://olhardigital.com.br/?p=1364973",
+      "https://olhardigital.com.br/?p=1365004"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -917,7 +922,9 @@
       "https://tecnoblog.net/?post_type=noticias&p=923184",
       "https://tecnoblog.net/?post_type=noticias&p=923255",
       "https://tecnoblog.net/?post_type=noticias&p=923347",
-      "https://tecnoblog.net/?post_type=noticias&p=923535"
+      "https://tecnoblog.net/?post_type=noticias&p=923535",
+      "https://tecnoblog.net/?post_type=noticias&p=923982",
+      "https://tecnoblog.net/?post_type=noticias&p=923973"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1177,57 +1184,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "avoid",
-      "disable",
-      "intrusive"
-    ],
-    [
-      "backed",
-      "built",
-      "chatgpt",
-      "introducing",
-      "learning",
-      "protections",
-      "teens"
-    ],
-    [
-      "codeai",
-      "first",
-      "generation",
-      "partnering",
-      "prepare"
-    ],
-    [
-      "chatgpt",
-      "dedicated",
-      "getting",
-      "mode",
-      "teens"
-    ],
-    [
-      "could",
-      "elon",
-      "even",
-      "flying",
-      "made",
-      "musk",
-      "palantir",
-      "profit",
-      "worse"
-    ],
-    [
-      "anthropic",
-      "average",
-      "cost",
-      "developers",
-      "keep",
-      "paying",
-      "runs",
-      "times",
-      "token",
-      "vercel"
-    ],
     [
       "capital",
       "chips",
@@ -2929,6 +2885,58 @@
       "promete",
       "replit",
       "vezes"
+    ],
+    [
+      "called",
+      "launches",
+      "model",
+      "ramp",
+      "router"
+    ],
+    [
+      "authorship",
+      "chatgpt",
+      "finds",
+      "launch",
+      "published",
+      "show",
+      "signs",
+      "since",
+      "study",
+      "third",
+      "webpages"
+    ],
+    [
+      "brockman",
+      "greg",
+      "openai"
+    ],
+    [
+      "agent",
+      "colleagues",
+      "comes",
+      "create",
+      "letting",
+      "message",
+      "nanoclaw",
+      "persistent",
+      "single",
+      "slack",
+      "teams"
+    ],
+    [
+      "eleicoes",
+      "imaginava",
+      "impacto",
+      "menor",
+      "pode"
+    ],
+    [
+      "estudantes",
+      "funcionalidades",
+      "google",
+      "reune",
+      "student"
     ]
   ]
 }
