@@ -265,7 +265,9 @@
       "https://techcrunch.com/?p=3154855",
       "https://techcrunch.com/?p=3154881",
       "https://techcrunch.com/?p=3154851",
-      "https://techcrunch.com/?p=3154941"
+      "https://techcrunch.com/?p=3154941",
+      "https://techcrunch.com/?p=3154977",
+      "https://techcrunch.com/?p=3155017"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -422,7 +424,8 @@
       "https://the-decoder.com/?p=39235",
       "https://the-decoder.com/?p=39241",
       "https://the-decoder.com/?p=39245",
-      "https://the-decoder.com/?p=39206"
+      "https://the-decoder.com/?p=39206",
+      "https://the-decoder.com/?p=39251"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -787,7 +790,8 @@
       "https://mittechreview.com.br/?p=260620",
       "https://mittechreview.com.br/?p=260843",
       "https://mittechreview.com.br/?p=260796",
-      "https://mittechreview.com.br/?p=260899"
+      "https://mittechreview.com.br/?p=260899",
+      "https://mittechreview.com.br/?p=261549"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -880,7 +884,8 @@
       "https://olhardigital.com.br/?p=1364862",
       "https://olhardigital.com.br/?p=1364929",
       "https://olhardigital.com.br/?p=1364973",
-      "https://olhardigital.com.br/?p=1365004"
+      "https://olhardigital.com.br/?p=1365004",
+      "https://olhardigital.com.br/?p=1365040"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1095,7 +1100,8 @@
       "https://www.uol.com.br/flash/?c=f245a25d3461d883711b9962a49daf320260819",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/parem-as-maquinas-ceo-conta-como-torrou-us-5-mil-em-1h-com-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/robos-estao-prestes-a-viver-momento-chatgpt-diz-ceo-da-unitree.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/codigo-para-remover-marca-dagua-do-claude-viraliza-apos-anuncio-da-anthropic.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/codigo-para-remover-marca-dagua-do-claude-viraliza-apos-anuncio-da-anthropic.ghtm",
+      "https://www3.uol.com.br/redirect-flash/o-que-ta-rolando-hoje-claude-tem-novidade-burlada-e-telescopio-vai-cair.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1184,67 +1190,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "capital",
-      "chips",
-      "moat",
-      "nvidia",
-      "shifting"
-    ],
-    [
-      "265m",
-      "back",
-      "building",
-      "capital",
-      "expand",
-      "founders",
-      "fund",
-      "human",
-      "potential",
-      "raises",
-      "reach"
-    ],
-    [
-      "billions",
-      "into",
-      "investing",
-      "next",
-      "physical",
-      "pour",
-      "shape",
-      "takes",
-      "wave"
-    ],
-    [
-      "built",
-      "chatgpt",
-      "launches",
-      "openai",
-      "teens",
-      "version"
-    ],
-    [
-      "andreessen",
-      "boards",
-      "competing",
-      "horowitz",
-      "over",
-      "partners",
-      "probes",
-      "sitting"
-    ],
-    [
-      "beats",
-      "doctors",
-      "force",
-      "human",
-      "into",
-      "jama",
-      "loop",
-      "piece",
-      "regulators",
-      "shouldn"
-    ],
     [
       "bolt",
       "chines",
@@ -2937,6 +2882,61 @@
       "google",
       "reune",
       "student"
+    ],
+    [
+      "gibberish",
+      "grok",
+      "keeps",
+      "responses",
+      "sending",
+      "users"
+    ],
+    [
+      "built",
+      "calendar",
+      "household",
+      "just",
+      "linkdaze",
+      "schedule",
+      "smart",
+      "track"
+    ],
+    [
+      "could",
+      "detectable",
+      "guardrails",
+      "humans",
+      "like",
+      "llms",
+      "make",
+      "post",
+      "text",
+      "their",
+      "training",
+      "write"
+    ],
+    [
+      "agentes",
+      "mundo",
+      "vindo"
+    ],
+    [
+      "antes",
+      "doencas",
+      "encontra",
+      "existe",
+      "limite",
+      "medico",
+      "olhos"
+    ],
+    [
+      "burlada",
+      "cair",
+      "claude",
+      "hoje",
+      "novidade",
+      "rolando",
+      "telescopio"
     ]
   ]
 }
