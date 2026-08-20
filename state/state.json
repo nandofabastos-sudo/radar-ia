@@ -1115,7 +1115,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/robos-estao-prestes-a-viver-momento-chatgpt-diz-ceo-da-unitree.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/codigo-para-remover-marca-dagua-do-claude-viraliza-apos-anuncio-da-anthropic.ghtm",
       "https://www3.uol.com.br/redirect-flash/o-que-ta-rolando-hoje-claude-tem-novidade-burlada-e-telescopio-vai-cair.htm",
-      "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/20/lula-anuncia-r-1-bi-para-computador-de-ia-e-parceria-bilionaria-com-china.htm"
+      "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/20/lula-anuncia-r-1-bi-para-computador-de-ia-e-parceria-bilionaria-com-china.htm",
+      "https://www3.uol.com.br/redirect-flash/ia-governo-lula-anuncia-investimento-de-r-1-bilhao-em-supercomputador.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1205,15 +1206,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "adolescentes",
-      "chatgpt",
-      "filtros",
-      "horas",
-      "novos",
-      "silencio",
-      "tera"
-    ],
     [
       "free",
       "india",
@@ -2917,6 +2909,14 @@
       "gemini",
       "provas",
       "veja"
+    ],
+    [
+      "anuncia",
+      "bilhao",
+      "governo",
+      "investimento",
+      "lula",
+      "supercomputador"
     ]
   ]
 }
