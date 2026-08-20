@@ -623,7 +623,8 @@
       "https://news.ycombinator.com/item?id=49331220",
       "https://news.ycombinator.com/item?id=49343559",
       "https://news.ycombinator.com/item?id=49354949",
-      "https://news.ycombinator.com/item?id=49364559"
+      "https://news.ycombinator.com/item?id=49364559",
+      "https://news.ycombinator.com/item?id=49371857"
     ]
   },
   "mercado": {
@@ -737,7 +738,8 @@
       "https://news.crunchbase.com/?p=93980",
       "https://news.crunchbase.com/?p=93977",
       "https://news.crunchbase.com/?p=93979",
-      "https://news.crunchbase.com/?p=93985"
+      "https://news.crunchbase.com/?p=93985",
+      "https://news.crunchbase.com/?p=93990"
     ]
   },
   "brasil": {
@@ -853,7 +855,8 @@
       "https://olhardigital.com.br/?p=1364768",
       "https://olhardigital.com.br/?p=1364802",
       "https://olhardigital.com.br/?p=1364818",
-      "https://olhardigital.com.br/?p=1364817"
+      "https://olhardigital.com.br/?p=1364817",
+      "https://olhardigital.com.br/?p=1364862"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1147,21 +1150,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "building",
-      "engineers",
-      "factory",
-      "former",
-      "making",
-      "parts",
-      "robotic",
-      "spacex",
-      "steel"
-    ],
-    [
-      "didn",
-      "read"
-    ],
     [
       "corrida",
       "escolher",
@@ -2903,6 +2891,20 @@
       "robos",
       "unitree",
       "viver"
+    ],
+    [
+      "paste",
+      "please"
+    ],
+    [
+      "400m",
+      "built",
+      "fintech",
+      "humanities",
+      "hussain",
+      "into",
+      "startup",
+      "tabs"
     ]
   ]
 }
