@@ -273,7 +273,8 @@
       "https://techcrunch.com/?p=3154977",
       "https://techcrunch.com/?p=3155017",
       "https://techcrunch.com/?p=3154952",
-      "https://techcrunch.com/?p=3155082"
+      "https://techcrunch.com/?p=3155082",
+      "https://techcrunch.com/?p=3154392"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1029,7 +1030,8 @@
       "https://canaltech.com.br/inteligencia-artificial/chega-de-digitar-gemini-testa-recurso-para-salvar-dados-de-prints-e-comprovantes/",
       "https://canaltech.com.br/inteligencia-artificial/marca-dagua-do-claude-ajuda-na-transparencia-mas-nao-prova-autoria-de-textos/",
       "https://canaltech.com.br/inteligencia-artificial/devs-conseguem-burlar-marca-dagua-do-claude-para-textos-em-poucas-horas/",
-      "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-simulado-gratis-do-enem-veja-como-funciona/"
+      "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-simulado-gratis-do-enem-veja-como-funciona/",
+      "https://canaltech.com.br/inteligencia-artificial/novo-hub-de-estudos-do-gemini-ajuda-estudantes-em-provas-e-concursos-veja-como/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1203,26 +1205,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "abre",
-      "artificial",
-      "estagio",
-      "foco",
-      "inteligencia",
-      "nubank",
-      "vagas"
-    ],
-    [
-      "adolescentes",
-      "chatgpt",
-      "controles",
-      "lanca",
-      "medidas",
-      "openai",
-      "parentais",
-      "protecao",
-      "rigorosas"
-    ],
     [
       "adolescentes",
       "chatgpt",
@@ -2920,6 +2902,21 @@
       "pharma",
       "possui",
       "quase"
+    ],
+    [
+      "actually",
+      "centers",
+      "cool",
+      "data"
+    ],
+    [
+      "ajuda",
+      "concursos",
+      "estudantes",
+      "estudos",
+      "gemini",
+      "provas",
+      "veja"
     ]
   ]
 }
