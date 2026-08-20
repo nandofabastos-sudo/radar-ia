@@ -257,7 +257,8 @@
       "https://techcrunch.com/?p=3154433",
       "https://techcrunch.com/?p=3154652",
       "https://techcrunch.com/?p=3154506",
-      "https://techcrunch.com/?p=3154600"
+      "https://techcrunch.com/?p=3154600",
+      "https://techcrunch.com/?p=3154391"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -405,7 +406,9 @@
       "https://the-decoder.com/?p=39213",
       "https://the-decoder.com/?p=39217",
       "https://the-decoder.com/?p=39220",
-      "https://the-decoder.com/?p=39224"
+      "https://the-decoder.com/?p=39224",
+      "https://the-decoder.com/?p=39229",
+      "https://the-decoder.com/?p=39232"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1140,36 +1143,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "democracia",
-      "diante",
-      "estufa",
-      "liberal",
-      "liberdade",
-      "opiniao"
-    ],
-    [
-      "chatgpt",
-      "documentos",
-      "drive",
-      "editar",
-      "gemini",
-      "google",
-      "invade",
-      "lugar",
-      "passa"
-    ],
-    [
-      "annualized",
-      "anthropic",
-      "billion",
-      "climbed",
-      "investors",
-      "july",
-      "rate",
-      "revenue",
-      "tells"
-    ],
     [
       "acordo",
       "autorais",
@@ -2902,6 +2875,33 @@
       "maquinas",
       "parem",
       "torrou"
+    ],
+    [
+      "agents",
+      "binance",
+      "check",
+      "keeping",
+      "largely",
+      "lets",
+      "them",
+      "trade",
+      "users"
+    ],
+    [
+      "biggest",
+      "could",
+      "crisis",
+      "godel",
+      "math",
+      "since",
+      "terence",
+      "trigger"
+    ],
+    [
+      "china",
+      "circular",
+      "financing",
+      "scheme"
     ]
   ]
 }
