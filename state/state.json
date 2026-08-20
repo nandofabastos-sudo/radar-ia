@@ -494,7 +494,8 @@
       "5mgycwoh1PrX2Pk5cUXtRx",
       "1iTw8gVTC9n4Fy0EuxxwVm",
       "6TKv8ZtUA2tSZ8JCTJav06",
-      "1T57vZE1VvtZKQQXLSMrX6"
+      "1T57vZE1VvtZKQQXLSMrX6",
+      "6P7y6z4gX2Wesbgs7V4xCS"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -842,7 +843,9 @@
       "https://olhardigital.com.br/?p=1364648",
       "https://olhardigital.com.br/?p=1364685",
       "https://olhardigital.com.br/?p=1364744",
-      "https://olhardigital.com.br/?p=1364768"
+      "https://olhardigital.com.br/?p=1364768",
+      "https://olhardigital.com.br/?p=1364802",
+      "https://olhardigital.com.br/?p=1364818"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -967,7 +970,8 @@
       "https://canaltech.com.br/mercado/nova-ia-do-quintoandar-recomenda-imoveis-e-marca-visitas-pelo-whatsapp/",
       "https://canaltech.com.br/inteligencia-artificial/google-ai-pro-gemini-de-graca-por-1-ano-brasil/",
       "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-firefox-vai-organizar-bagunca-de-abas-e-buscar-na-web-sozinha/",
-      "https://canaltech.com.br/inteligencia-artificial/como-remover-marca-dagua-do-gemini-de-fotos-e-videos/"
+      "https://canaltech.com.br/inteligencia-artificial/como-remover-marca-dagua-do-gemini-de-fotos-e-videos/",
+      "https://canaltech.com.br/inteligencia-artificial/openai-decide-pausar-avanco-de-novos-modelos-de-ia-por-que/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1129,34 +1133,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "abre",
-      "agua",
-      "burra",
-      "claude",
-      "gera",
-      "marca",
-      "margem",
-      "revolta"
-    ],
-    [
-      "ainda",
-      "investimentos",
-      "invisiveis",
-      "techs",
-      "trilhoes"
-    ],
-    [
-      "amazon",
-      "books",
-      "bookseller",
-      "destroying",
-      "models",
-      "once",
-      "online",
-      "rare",
-      "train"
-    ],
     [
       "artificial",
       "cupom",
@@ -2886,6 +2862,40 @@
       "really",
       "singularity",
       "stripe"
+    ],
+    [
+      "agent",
+      "agents",
+      "boasts",
+      "cheaper",
+      "claude",
+      "completion",
+      "harness",
+      "managed",
+      "open",
+      "source",
+      "task",
+      "than",
+      "trueforge",
+      "truefoundry"
+    ],
+    [
+      "abuso",
+      "armazenar",
+      "cria",
+      "dados",
+      "detecta",
+      "openai",
+      "sistema",
+      "usuarios"
+    ],
+    [
+      "avanco",
+      "decide",
+      "modelos",
+      "novos",
+      "openai",
+      "pausar"
     ]
   ]
 }
