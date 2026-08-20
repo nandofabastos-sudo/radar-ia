@@ -404,7 +404,8 @@
       "https://the-decoder.com/?p=39193",
       "https://the-decoder.com/?p=39213",
       "https://the-decoder.com/?p=39217",
-      "https://the-decoder.com/?p=39220"
+      "https://the-decoder.com/?p=39220",
+      "https://the-decoder.com/?p=39224"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1051,7 +1052,8 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/openai-desacelera-desenvolvimento-de-nova-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/19/o-que-esta-por-tras-da-openai-anunciar-surpreendente-pausa-em-avancos-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/19/stripe-faz-acordo-para-comprar-plataforma-de-desenvolvimento-de-ia-openrouter.htm",
-      "https://www.uol.com.br/flash/?c=f245a25d3461d883711b9962a49daf320260819"
+      "https://www.uol.com.br/flash/?c=f245a25d3461d883711b9962a49daf320260819",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/parem-as-maquinas-ceo-conta-como-torrou-us-5-mil-em-1h-com-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1138,25 +1140,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "350m",
-      "capta",
-      "corrida",
-      "esquenta",
-      "groq",
-      "neoclouds",
-      "serie"
-    ],
-    [
-      "alive",
-      "come",
-      "continue",
-      "here",
-      "nvidia",
-      "reasons",
-      "started",
-      "stock"
-    ],
     [
       "democracia",
       "diante",
@@ -2901,6 +2884,24 @@
       "credito",
       "criar",
       "pretende"
+    ],
+    [
+      "builds",
+      "catches",
+      "customer",
+      "data",
+      "misuse",
+      "openai",
+      "safety",
+      "storing",
+      "system",
+      "without"
+    ],
+    [
+      "conta",
+      "maquinas",
+      "parem",
+      "torrou"
     ]
   ]
 }
