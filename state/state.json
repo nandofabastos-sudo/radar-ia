@@ -275,7 +275,8 @@
       "https://techcrunch.com/?p=3154952",
       "https://techcrunch.com/?p=3155082",
       "https://techcrunch.com/?p=3154392",
-      "https://techcrunch.com/?p=3155224"
+      "https://techcrunch.com/?p=3155224",
+      "https://techcrunch.com/?p=3155215"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -944,7 +945,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=923347",
       "https://tecnoblog.net/?post_type=noticias&p=923535",
       "https://tecnoblog.net/?post_type=noticias&p=923982",
-      "https://tecnoblog.net/?post_type=noticias&p=923973"
+      "https://tecnoblog.net/?post_type=noticias&p=923973",
+      "https://tecnoblog.net/?post_type=noticias&p=924385"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1213,23 +1215,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "britanicas",
-      "cria",
-      "empregos",
-      "empresas",
-      "estudo",
-      "metade",
-      "novos"
-    ],
-    [
-      "analista",
-      "autor",
-      "escritos",
-      "livros",
-      "microeditora",
-      "vira"
-    ],
     [
       "anthropic",
       "claude",
@@ -2922,6 +2907,23 @@
       "operacoes",
       "possui",
       "suas"
+    ],
+    [
+      "anthropic",
+      "business",
+      "data",
+      "gaining",
+      "indicates",
+      "openai",
+      "users"
+    ],
+    [
+      "gerenciador",
+      "hardware",
+      "monitorar",
+      "tarefas",
+      "usado",
+      "windows"
     ]
   ]
 }
