@@ -408,7 +408,8 @@
       "https://the-decoder.com/?p=39220",
       "https://the-decoder.com/?p=39224",
       "https://the-decoder.com/?p=39229",
-      "https://the-decoder.com/?p=39232"
+      "https://the-decoder.com/?p=39232",
+      "https://the-decoder.com/?p=39235"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -521,7 +522,8 @@
       "https://www.technologyreview.com/?p=1141568",
       "https://www.technologyreview.com/?p=1142200",
       "https://www.technologyreview.com/?p=1142188",
-      "https://www.technologyreview.com/?p=1142226"
+      "https://www.technologyreview.com/?p=1142226",
+      "https://www.technologyreview.com/?p=1142070"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -687,7 +689,8 @@
       "108351355",
       "108351544",
       "108351787",
-      "108351780"
+      "108351780",
+      "108352012"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1056,7 +1059,8 @@
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/19/o-que-esta-por-tras-da-openai-anunciar-surpreendente-pausa-em-avancos-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/19/stripe-faz-acordo-para-comprar-plataforma-de-desenvolvimento-de-ia-openrouter.htm",
       "https://www.uol.com.br/flash/?c=f245a25d3461d883711b9962a49daf320260819",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/parem-as-maquinas-ceo-conta-como-torrou-us-5-mil-em-1h-com-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/parem-as-maquinas-ceo-conta-como-torrou-us-5-mil-em-1h-com-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/robos-estao-prestes-a-viver-momento-chatgpt-diz-ceo-da-unitree.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1143,44 +1147,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acordo",
-      "autorais",
-      "bytedance",
-      "direitos",
-      "hollywood",
-      "pressao"
-    ],
-    [
-      "chatgpt",
-      "criadora",
-      "defende",
-      "dias",
-      "funcionarios",
-      "horas",
-      "impoe",
-      "semana"
-    ],
-    [
-      "agentes",
-      "cobranca",
-      "cria",
-      "goatable",
-      "solucao",
-      "vendas"
-    ],
-    [
-      "automation",
-      "chrome",
-      "down",
-      "google",
-      "joins",
-      "relay",
-      "shuts",
-      "staff",
-      "startup",
-      "team"
-    ],
     [
       "building",
       "engineers",
@@ -2902,6 +2868,41 @@
       "circular",
       "financing",
       "scheme"
+    ],
+    [
+      "anthropic",
+      "capable",
+      "codenamed",
+      "internal",
+      "model",
+      "most",
+      "only"
+    ],
+    [
+      "hidden",
+      "market",
+      "models",
+      "revenue",
+      "streams",
+      "unlocking"
+    ],
+    [
+      "alibaba",
+      "drives",
+      "drop",
+      "fall",
+      "income",
+      "shares",
+      "spending"
+    ],
+    [
+      "chatgpt",
+      "estao",
+      "momento",
+      "prestes",
+      "robos",
+      "unitree",
+      "viver"
     ]
   ]
 }
