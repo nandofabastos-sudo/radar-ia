@@ -42,7 +42,8 @@
       "https://openai.com/index/replit",
       "https://openai.com/index/our-commitment-to-zero-data-retention",
       "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "https://openai.com/index/stampli"
+      "https://openai.com/index/stampli",
+      "https://openai.com/index/introducing-ai-futures"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -525,7 +526,8 @@
       "1T57vZE1VvtZKQQXLSMrX6",
       "6P7y6z4gX2Wesbgs7V4xCS",
       "45zMjuJalb0vdnLJHXErHM",
-      "34fgNqp4safoW5QJMmkgwD"
+      "34fgNqp4safoW5QJMmkgwD",
+      "3G60cdbrg90TuhDORcVSnp"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -892,7 +894,8 @@
       "https://olhardigital.com.br/?p=1364929",
       "https://olhardigital.com.br/?p=1364973",
       "https://olhardigital.com.br/?p=1365004",
-      "https://olhardigital.com.br/?p=1365040"
+      "https://olhardigital.com.br/?p=1365040",
+      "https://olhardigital.com.br/?p=1365066"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1109,7 +1112,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/parem-as-maquinas-ceo-conta-como-torrou-us-5-mil-em-1h-com-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/robos-estao-prestes-a-viver-momento-chatgpt-diz-ceo-da-unitree.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/codigo-para-remover-marca-dagua-do-claude-viraliza-apos-anuncio-da-anthropic.ghtm",
-      "https://www3.uol.com.br/redirect-flash/o-que-ta-rolando-hoje-claude-tem-novidade-burlada-e-telescopio-vai-cair.htm"
+      "https://www3.uol.com.br/redirect-flash/o-que-ta-rolando-hoje-claude-tem-novidade-burlada-e-telescopio-vai-cair.htm",
+      "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/20/lula-anuncia-r-1-bi-para-computador-de-ia-e-parceria-bilionaria-com-china.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1194,61 +1198,11 @@
       "https://www.mobiletime.com.br/?p=861783",
       "https://www.mobiletime.com.br/?p=861803",
       "https://www.mobiletime.com.br/?p=861805",
-      "https://www.mobiletime.com.br/?p=861810"
+      "https://www.mobiletime.com.br/?p=861810",
+      "https://www.mobiletime.com.br/?p=861864"
     ]
   },
   "_titulos_recentes": [
-    [
-      "allowed",
-      "copilot",
-      "hacked",
-      "input",
-      "microsoft",
-      "reveals",
-      "secret"
-    ],
-    [
-      "auto",
-      "costs",
-      "enterprises",
-      "gateway",
-      "overpaying",
-      "queries",
-      "routes",
-      "simple",
-      "snowflake"
-    ],
-    [
-      "automaticos",
-      "bloqueios",
-      "chatgpt",
-      "conteudo",
-      "estudo",
-      "jovens",
-      "lanca",
-      "modo",
-      "openai"
-    ],
-    [
-      "amazon",
-      "compra",
-      "cria",
-      "destroi",
-      "divisao",
-      "livros",
-      "raros",
-      "secreta",
-      "treinar"
-    ],
-    [
-      "chatgpt",
-      "estudo",
-      "exclusivo",
-      "jovens",
-      "modo",
-      "seguranca",
-      "travas"
-    ],
     [
       "abre",
       "artificial",
@@ -2927,6 +2881,45 @@
       "gratis",
       "simulado",
       "veja"
+    ],
+    [
+      "futures",
+      "introducing"
+    ],
+    [
+      "agent",
+      "enterprises",
+      "five",
+      "real",
+      "runaway",
+      "spending",
+      "stop",
+      "time"
+    ],
+    [
+      "artificial",
+      "ensina",
+      "fingir",
+      "inteligencia",
+      "pensamentos",
+      "pode",
+      "vigiar"
+    ],
+    [
+      "anuncia",
+      "bilionaria",
+      "china",
+      "computador",
+      "lula",
+      "parceria"
+    ],
+    [
+      "agentes",
+      "hypera",
+      "internos",
+      "pharma",
+      "possui",
+      "quase"
     ]
   ]
 }
