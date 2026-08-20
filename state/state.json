@@ -274,7 +274,8 @@
       "https://techcrunch.com/?p=3155017",
       "https://techcrunch.com/?p=3154952",
       "https://techcrunch.com/?p=3155082",
-      "https://techcrunch.com/?p=3154392"
+      "https://techcrunch.com/?p=3154392",
+      "https://techcrunch.com/?p=3155224"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -339,7 +340,8 @@
       "https://www.theverge.com/?p=982425",
       "https://www.theverge.com/?p=982628",
       "https://www.theverge.com/?p=982434",
-      "https://www.theverge.com/?p=982774"
+      "https://www.theverge.com/?p=982774",
+      "https://www.theverge.com/?p=983088"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -896,7 +898,9 @@
       "https://olhardigital.com.br/?p=1364973",
       "https://olhardigital.com.br/?p=1365004",
       "https://olhardigital.com.br/?p=1365040",
-      "https://olhardigital.com.br/?p=1365066"
+      "https://olhardigital.com.br/?p=1365066",
+      "https://olhardigital.com.br/?p=1365093",
+      "https://olhardigital.com.br/?p=1365109"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1116,7 +1120,9 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/codigo-para-remover-marca-dagua-do-claude-viraliza-apos-anuncio-da-anthropic.ghtm",
       "https://www3.uol.com.br/redirect-flash/o-que-ta-rolando-hoje-claude-tem-novidade-burlada-e-telescopio-vai-cair.htm",
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/20/lula-anuncia-r-1-bi-para-computador-de-ia-e-parceria-bilionaria-com-china.htm",
-      "https://www3.uol.com.br/redirect-flash/ia-governo-lula-anuncia-investimento-de-r-1-bilhao-em-supercomputador.htm"
+      "https://www3.uol.com.br/redirect-flash/ia-governo-lula-anuncia-investimento-de-r-1-bilhao-em-supercomputador.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/o-que-o-cofundador-da-anthropic-prioriza-na-educacao-da-filha.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/mulheres-ocupam-so-47-das-chefias-de-ia-no-brasil-diz-estudo.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1202,71 +1208,11 @@
       "https://www.mobiletime.com.br/?p=861803",
       "https://www.mobiletime.com.br/?p=861805",
       "https://www.mobiletime.com.br/?p=861810",
-      "https://www.mobiletime.com.br/?p=861864"
+      "https://www.mobiletime.com.br/?p=861864",
+      "https://www.mobiletime.com.br/?p=861880"
     ]
   },
   "_titulos_recentes": [
-    [
-      "free",
-      "india",
-      "left",
-      "millions",
-      "more",
-      "offer",
-      "perplexity",
-      "users"
-    ],
-    [
-      "development",
-      "factory",
-      "software",
-      "system",
-      "warp"
-    ],
-    [
-      "8217",
-      "better",
-      "browser",
-      "firefox",
-      "promises",
-      "smart",
-      "window"
-    ],
-    [
-      "commerce",
-      "fragmenting",
-      "here",
-      "matters"
-    ],
-    [
-      "airline",
-      "auction",
-      "because",
-      "buys",
-      "crashed",
-      "data",
-      "google",
-      "spirit"
-    ],
-    [
-      "brasil",
-      "crescimento",
-      "numeros",
-      "oficializa",
-      "openai",
-      "operacoes",
-      "revela"
-    ],
-    [
-      "bilhoes",
-      "center",
-      "data",
-      "gerar",
-      "nvidia",
-      "openai",
-      "pode",
-      "receita"
-    ],
     [
       "britanicas",
       "cria",
@@ -2917,6 +2863,65 @@
       "investimento",
       "lula",
       "supercomputador"
+    ],
+    [
+      "apple",
+      "chatgpt",
+      "messages",
+      "plugin",
+      "send",
+      "texts"
+    ],
+    [
+      "chatbot",
+      "discover",
+      "feed",
+      "getting",
+      "google",
+      "tuned"
+    ],
+    [
+      "china",
+      "colocar",
+      "fabrica",
+      "luta",
+      "mundo",
+      "quer",
+      "robos"
+    ],
+    [
+      "anthropic",
+      "bilionario",
+      "quer",
+      "recorde",
+      "spacex",
+      "superar"
+    ],
+    [
+      "chefao",
+      "elite",
+      "escola",
+      "filha",
+      "importar",
+      "quer"
+    ],
+    [
+      "brasil",
+      "chefias",
+      "empresas",
+      "estudo",
+      "mulheres",
+      "ocupam"
+    ],
+    [
+      "agentes",
+      "algar",
+      "ativos",
+      "campos",
+      "diferentes",
+      "operacoes",
+      "possui",
+      "suas"
     ]
   ]
 }
