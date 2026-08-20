@@ -154,7 +154,10 @@
       "https://x.ai/news/og-4-6-in-github-copilot",
       "https://x.ai/news/grok-4-6-github-copilot",
       "https://x.ai/news/og-grok-4-6-on-bedrock",
-      "https://x.ai/news/grok-4-6-amazon-bedrock"
+      "https://x.ai/news/grok-4-6-amazon-bedrock",
+      "https://x.ai/news/grok-4-6-og",
+      "https://x.ai/news/grok-build-for-everyone",
+      "https://x.ai/news/grok-build-for-everyone-og"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -267,7 +270,9 @@
       "https://techcrunch.com/?p=3154851",
       "https://techcrunch.com/?p=3154941",
       "https://techcrunch.com/?p=3154977",
-      "https://techcrunch.com/?p=3155017"
+      "https://techcrunch.com/?p=3155017",
+      "https://techcrunch.com/?p=3154952",
+      "https://techcrunch.com/?p=3155082"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -425,7 +430,8 @@
       "https://the-decoder.com/?p=39241",
       "https://the-decoder.com/?p=39245",
       "https://the-decoder.com/?p=39206",
-      "https://the-decoder.com/?p=39251"
+      "https://the-decoder.com/?p=39251",
+      "https://the-decoder.com/?p=39256"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -585,7 +591,8 @@
       "6a848674f787031f677590ed",
       "6a7dd1a1171ea6971cf1d2c1",
       "6a85891388ea458d1c261341",
-      "6a832c00aa9b25dea71b4c22"
+      "6a832c00aa9b25dea71b4c22",
+      "6a85dd109e48c15857d19bad"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1018,7 +1025,8 @@
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-ats-analise-curriculo/",
       "https://canaltech.com.br/inteligencia-artificial/chega-de-digitar-gemini-testa-recurso-para-salvar-dados-de-prints-e-comprovantes/",
       "https://canaltech.com.br/inteligencia-artificial/marca-dagua-do-claude-ajuda-na-transparencia-mas-nao-prova-autoria-de-textos/",
-      "https://canaltech.com.br/inteligencia-artificial/devs-conseguem-burlar-marca-dagua-do-claude-para-textos-em-poucas-horas/"
+      "https://canaltech.com.br/inteligencia-artificial/devs-conseguem-burlar-marca-dagua-do-claude-para-textos-em-poucas-horas/",
+      "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-simulado-gratis-do-enem-veja-como-funciona/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1190,82 +1198,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bolt",
-      "chines",
-      "impressiona",
-      "rapido",
-      "robo",
-      "usain",
-      "video"
-    ],
-    [
-      "agentes",
-      "apenas",
-      "profissionais",
-      "suas",
-      "substituir",
-      "tarefas",
-      "transformar"
-    ],
-    [
-      "8217",
-      "cats",
-      "forgot",
-      "google",
-      "memory"
-    ],
-    [
-      "bank",
-      "central",
-      "correction",
-      "driving",
-      "economists",
-      "looming",
-      "market",
-      "warn",
-      "worrisome"
-    ],
-    [
-      "amplia",
-      "criacao",
-      "desktop",
-      "experiencia",
-      "photoshop",
-      "recursos",
-      "transforma"
-    ],
-    [
-      "area",
-      "dedicada",
-      "edicao",
-      "ganha",
-      "imagens",
-      "photoshop",
-      "simplificar"
-    ],
-    [
-      "empregos",
-      "proprios",
-      "robos",
-      "seus",
-      "substituir",
-      "trabalhadores",
-      "treinam"
-    ],
-    [
-      "anthropic",
-      "centralizes",
-      "chips",
-      "just",
-      "models",
-      "nature",
-      "open",
-      "owns",
-      "power",
-      "shift",
-      "whoever"
-    ],
     [
       "allowed",
       "copilot",
@@ -2937,6 +2869,64 @@
       "novidade",
       "rolando",
       "telescopio"
+    ],
+    [
+      "grok",
+      "introducing"
+    ],
+    [
+      "build",
+      "grok",
+      "mobile"
+    ],
+    [
+      "grok"
+    ],
+    [
+      "brouhaha",
+      "cautionary",
+      "drop",
+      "founders",
+      "lawsuits",
+      "rippling",
+      "runlayer",
+      "still",
+      "tale"
+    ],
+    [
+      "driven",
+      "fight",
+      "gives",
+      "google",
+      "losses",
+      "publishers",
+      "traffic"
+    ],
+    [
+      "adds",
+      "adobe",
+      "audio",
+      "firefly",
+      "flash",
+      "gemini",
+      "google",
+      "omni",
+      "tools"
+    ],
+    [
+      "doesn",
+      "hate",
+      "silicon",
+      "valley"
+    ],
+    [
+      "enem",
+      "funciona",
+      "ganha",
+      "gemini",
+      "gratis",
+      "simulado",
+      "veja"
     ]
   ]
 }
