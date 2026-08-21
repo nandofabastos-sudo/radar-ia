@@ -159,7 +159,9 @@
       "https://x.ai/news/grok-4-6-amazon-bedrock",
       "https://x.ai/news/grok-4-6-og",
       "https://x.ai/news/grok-build-for-everyone",
-      "https://x.ai/news/grok-build-for-everyone-og"
+      "https://x.ai/news/grok-build-for-everyone-og",
+      "https://x.ai/news/grok-bot-more-plans",
+      "https://x.ai/news/grok-bot-more-plans-og"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -934,7 +936,8 @@
       "https://olhardigital.com.br/?p=1365158",
       "https://olhardigital.com.br/?p=1365309",
       "https://olhardigital.com.br/?p=1365365",
-      "https://olhardigital.com.br/?p=1365388"
+      "https://olhardigital.com.br/?p=1365388",
+      "https://olhardigital.com.br/?p=1365433"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -982,7 +985,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=924385",
       "https://tecnoblog.net/?post_type=noticias&p=924360",
       "https://tecnoblog.net/?post_type=noticias&p=924486",
-      "https://tecnoblog.net/?post_type=noticias&p=924534"
+      "https://tecnoblog.net/?post_type=noticias&p=924534",
+      "https://tecnoblog.net/?post_type=noticias&p=924559"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1170,7 +1174,8 @@
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/21/vacina-contra-cancer-a-caminho-o-que-a-ia-fez-em-avanco-historico-da-medicina.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/chatgpt-no-mac-passa-a-ler-e-enviar-mensagens-pelo-imessage.ghtm",
       "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/08/21/chatgpt-escorrega-na-regra-do-tse-e-tem-candidato-preferido-a-presidencia.htm",
-      "https://www3.uol.com.br/redirect-flash/como-a-ia-pode-aprofundar-nosso-pensamento-e-acessar-o-que-nao-sabemos.htm"
+      "https://www3.uol.com.br/redirect-flash/como-a-ia-pode-aprofundar-nosso-pensamento-e-acessar-o-que-nao-sabemos.htm",
+      "https://www3.uol.com.br/redirect-flash/como-ia-entrou-no-combate-ao-cancer-com-vacinas.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1264,60 +1269,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "consulta",
-      "eleicoes",
-      "fontes",
-      "quais",
-      "sabe",
-      "serie",
-      "voce"
-    ],
-    [
-      "bring",
-      "centers",
-      "data",
-      "faster",
-      "fiber",
-      "kind",
-      "million",
-      "networks",
-      "raises",
-      "relativity"
-    ],
-    [
-      "banned",
-      "best",
-      "china",
-      "chips",
-      "close",
-      "crucial",
-      "going",
-      "loophole",
-      "nvidia",
-      "trying"
-    ],
-    [
-      "bolsa",
-      "chinesa",
-      "dispara",
-      "global",
-      "humanoides",
-      "lider",
-      "robos",
-      "unitree"
-    ],
-    [
-      "ampliar",
-      "criados",
-      "debate",
-      "impactam",
-      "influenciadores",
-      "parece",
-      "podem",
-      "polarizacao",
-      "politico"
-    ],
     [
       "cerebras"
     ],
@@ -3000,6 +2951,39 @@
       "personalizar",
       "prompts",
       "veja"
+    ],
+    [
+      "grok",
+      "included",
+      "more",
+      "plans"
+    ],
+    [
+      "grok"
+    ],
+    [
+      "antes",
+      "descobre",
+      "doencas",
+      "funciona",
+      "medicos",
+      "onde",
+      "saiba",
+      "tecnologia"
+    ],
+    [
+      "barata",
+      "claude",
+      "competir",
+      "deepseek",
+      "opus",
+      "revela"
+    ],
+    [
+      "cancer",
+      "combate",
+      "entrou",
+      "vacinas"
     ]
   ]
 }
