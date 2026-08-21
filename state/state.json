@@ -437,7 +437,10 @@
       "https://the-decoder.com/?p=39245",
       "https://the-decoder.com/?p=39206",
       "https://the-decoder.com/?p=39251",
-      "https://the-decoder.com/?p=39256"
+      "https://the-decoder.com/?p=39256",
+      "https://the-decoder.com/?p=39261",
+      "https://the-decoder.com/?p=39266",
+      "https://the-decoder.com/?p=39270"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -663,7 +666,9 @@
       "https://news.ycombinator.com/item?id=49364559",
       "https://news.ycombinator.com/item?id=49371857",
       "https://news.ycombinator.com/item?id=49367350",
-      "https://news.ycombinator.com/item?id=49365443"
+      "https://news.ycombinator.com/item?id=49365443",
+      "https://news.ycombinator.com/item?id=49378768",
+      "https://news.ycombinator.com/item?id=49383026"
     ]
   },
   "mercado": {
@@ -1133,7 +1138,10 @@
       "https://www3.uol.com.br/redirect-flash/ia-governo-lula-anuncia-investimento-de-r-1-bilhao-em-supercomputador.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/o-que-o-cofundador-da-anthropic-prioriza-na-educacao-da-filha.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/mulheres-ocupam-so-47-das-chefias-de-ia-no-brasil-diz-estudo.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/justica-dos-eua-reduz-condenacao-de-ex-google-por-roubo-de-segredos-de-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/justica-dos-eua-reduz-condenacao-de-ex-google-por-roubo-de-segredos-de-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/maravilhoso-diz-ceo-sobre-filme-com-ia-de-festa-junina-de-cidadezinha.ghtm",
+      "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/08/21/programas-de-governo-prometem-datacenters-ia-e-fim-da-censura-nas-redes.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/21/vacina-contra-cancer-a-caminho-o-que-a-ia-fez-em-avanco-historico-da-medicina.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1226,76 +1234,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "capabilities",
-      "critical",
-      "cyber",
-      "development",
-      "model",
-      "pacing"
-    ],
-    [
-      "after",
-      "breach",
-      "face",
-      "hugging",
-      "institutes",
-      "openai",
-      "safeguards"
-    ],
-    [
-      "agents",
-      "apis",
-      "benchmark",
-      "cost",
-      "quality",
-      "ranks",
-      "search",
-      "speed"
-    ],
-    [
-      "cybersecurity",
-      "dangerous",
-      "development",
-      "grow",
-      "model",
-      "openai",
-      "pacing",
-      "risks"
-    ],
-    [
-      "after",
-      "agents",
-      "openai",
-      "overhauls",
-      "protocols",
-      "rogue",
-      "safety",
-      "went"
-    ],
-    [
-      "jovens",
-      "pensam"
-    ],
-    [
-      "ataque",
-      "openai",
-      "reduz",
-      "reforcar",
-      "ritmo",
-      "seguranca",
-      "treinamento"
-    ],
-    [
-      "chatgpt",
-      "ferramentas",
-      "filtros",
-      "lanca",
-      "openai",
-      "pedagogicas",
-      "reforcados",
-      "teens"
-    ],
     [
       "algoritmo",
       "estudo",
@@ -2938,6 +2876,74 @@
       "palantir",
       "saying",
       "single"
+    ],
+    [
+      "background",
+      "generate",
+      "image",
+      "images",
+      "openai",
+      "without"
+    ],
+    [
+      "anthropic",
+      "drives",
+      "ground",
+      "openai",
+      "regains",
+      "revenue",
+      "surge"
+    ],
+    [
+      "acquiring",
+      "billion",
+      "employees",
+      "factory",
+      "model",
+      "nvidia",
+      "poolside"
+    ],
+    [
+      "approach",
+      "coding",
+      "huzzah",
+      "novel",
+      "show"
+    ],
+    [
+      "before",
+      "books",
+      "companies",
+      "destroy",
+      "late",
+      "physical",
+      "rare",
+      "scan"
+    ],
+    [
+      "cidadezinha",
+      "festa",
+      "filme",
+      "junina",
+      "maravilhoso"
+    ],
+    [
+      "censura",
+      "datacenters",
+      "governo",
+      "programas",
+      "prometem",
+      "redes"
+    ],
+    [
+      "avanca",
+      "cancer",
+      "contra",
+      "historico",
+      "marco",
+      "medicina",
+      "usada",
+      "vacina"
     ]
   ]
 }
