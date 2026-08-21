@@ -762,7 +762,8 @@
       "108352242",
       "108352495",
       "108352419",
-      "108351739"
+      "108351739",
+      "108352936"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -790,7 +791,8 @@
       "https://techcrunch.com/?p=3153831",
       "https://techcrunch.com/?p=3153940",
       "https://techcrunch.com/?post_type=tc_video&p=3154465",
-      "https://techcrunch.com/?p=3155270"
+      "https://techcrunch.com/?p=3155270",
+      "https://techcrunch.com/?p=3155673"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -946,7 +948,8 @@
       "https://olhardigital.com.br/?p=1365388",
       "https://olhardigital.com.br/?p=1365433",
       "https://olhardigital.com.br/?p=1365482",
-      "https://olhardigital.com.br/?p=1365493"
+      "https://olhardigital.com.br/?p=1365493",
+      "https://olhardigital.com.br/?p=1365547"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1288,46 +1291,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "china",
-      "chips",
-      "firms",
-      "h200",
-      "help",
-      "keep",
-      "lets",
-      "mainland",
-      "nvidia",
-      "onto",
-      "pace",
-      "trickle"
-    ],
-    [
-      "analyst",
-      "enterprise",
-      "expanding",
-      "first",
-      "lead",
-      "names",
-      "push",
-      "research",
-      "strechay",
-      "venturebeat"
-    ],
-    [
-      "boom",
-      "center",
-      "cnbc",
-      "data",
-      "deals",
-      "matchmaker",
-      "nordics",
-      "nvidia",
-      "plays",
-      "region",
-      "sources",
-      "tell"
-    ],
     [
       "agora",
       "claude",
@@ -3015,6 +2978,36 @@
       "over",
       "people",
       "slop"
+    ],
+    [
+      "anthropic",
+      "backlash",
+      "factor",
+      "filing",
+      "risk",
+      "show",
+      "sources",
+      "will"
+    ],
+    [
+      "100m",
+      "accounting",
+      "became",
+      "hours",
+      "raised",
+      "rillet",
+      "startup",
+      "unicorn"
+    ],
+    [
+      "algoritmo",
+      "bilhoes",
+      "motoristas",
+      "multada",
+      "quase",
+      "suspender",
+      "uber",
+      "usar"
     ]
   ]
 }
