@@ -995,7 +995,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=924486",
       "https://tecnoblog.net/?post_type=noticias&p=924534",
       "https://tecnoblog.net/?post_type=noticias&p=924559",
-      "https://tecnoblog.net/?post_type=noticias&p=924653"
+      "https://tecnoblog.net/?post_type=noticias&p=924653",
+      "https://tecnoblog.net/?post_type=noticias&p=924718"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1285,14 +1286,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "access",
-      "creation",
-      "expands",
-      "luna",
-      "replit",
-      "software"
-    ],
     [
       "calendly",
       "circus",
@@ -3014,6 +3007,14 @@
       "precisam",
       "redes",
       "telecom"
+    ],
+    [
+      "ativar",
+      "estudantes",
+      "google",
+      "libera",
+      "premium",
+      "veja"
     ]
   ]
 }
