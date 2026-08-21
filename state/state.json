@@ -284,7 +284,8 @@
       "https://techcrunch.com/?p=3155215",
       "https://techcrunch.com/?p=3155270",
       "https://techcrunch.com/?p=3155064",
-      "https://techcrunch.com/?post_type=tc_podcast&p=3155475"
+      "https://techcrunch.com/?post_type=tc_podcast&p=3155475",
+      "https://techcrunch.com/?p=3155284"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -454,7 +455,8 @@
       "https://the-decoder.com/?p=39279",
       "https://the-decoder.com/?p=39298",
       "https://the-decoder.com/?p=39301",
-      "https://the-decoder.com/?p=39315"
+      "https://the-decoder.com/?p=39315",
+      "https://the-decoder.com/?p=39324"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -942,7 +944,8 @@
       "https://olhardigital.com.br/?p=1365365",
       "https://olhardigital.com.br/?p=1365388",
       "https://olhardigital.com.br/?p=1365433",
-      "https://olhardigital.com.br/?p=1365482"
+      "https://olhardigital.com.br/?p=1365482",
+      "https://olhardigital.com.br/?p=1365493"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1280,30 +1283,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agosto",
-      "anuncios",
-      "chatgpt",
-      "europeus",
-      "paises",
-      "partir",
-      "tera"
-    ],
-    [
-      "desacelera",
-      "desenvolvimento",
-      "openai"
-    ],
-    [
-      "agent",
-      "anthropic",
-      "design",
-      "language",
-      "model",
-      "protein",
-      "stack",
-      "whole"
-    ],
     [
       "check",
       "failing",
@@ -2998,6 +2977,35 @@
       "motoristas",
       "multa",
       "uber"
+    ],
+    [
+      "harness",
+      "hero",
+      "just",
+      "model",
+      "nvidia",
+      "real",
+      "showed"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "cyber",
+      "defense",
+      "model",
+      "most",
+      "mythos",
+      "powerful",
+      "puts",
+      "work"
+    ],
+    [
+      "assobios",
+      "especies",
+      "golfinhos",
+      "identifica",
+      "pelos",
+      "saiba"
     ]
   ]
 }
