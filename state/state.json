@@ -441,7 +441,9 @@
       "https://the-decoder.com/?p=39261",
       "https://the-decoder.com/?p=39266",
       "https://the-decoder.com/?p=39270",
-      "https://the-decoder.com/?p=39274"
+      "https://the-decoder.com/?p=39274",
+      "https://the-decoder.com/?p=39277",
+      "https://the-decoder.com/?p=39279"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -480,7 +482,8 @@
       "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
       "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-      "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
+      "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -789,7 +792,8 @@
       "https://news.crunchbase.com/?p=93977",
       "https://news.crunchbase.com/?p=93979",
       "https://news.crunchbase.com/?p=93985",
-      "https://news.crunchbase.com/?p=93990"
+      "https://news.crunchbase.com/?p=93990",
+      "https://news.crunchbase.com/?p=93944"
     ]
   },
   "brasil": {
@@ -1143,7 +1147,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/justica-dos-eua-reduz-condenacao-de-ex-google-por-roubo-de-segredos-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/maravilhoso-diz-ceo-sobre-filme-com-ia-de-festa-junina-de-cidadezinha.ghtm",
       "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/08/21/programas-de-governo-prometem-datacenters-ia-e-fim-da-censura-nas-redes.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/21/vacina-contra-cancer-a-caminho-o-que-a-ia-fez-em-avanco-historico-da-medicina.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/21/vacina-contra-cancer-a-caminho-o-que-a-ia-fez-em-avanco-historico-da-medicina.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/chatgpt-no-mac-passa-a-ler-e-enviar-mensagens-pelo-imessage.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1236,51 +1241,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "after",
-      "changes",
-      "face",
-      "hacked",
-      "hugging",
-      "lays",
-      "openai",
-      "security"
-    ],
-    [
-      "abuse",
-      "account",
-      "back",
-      "brought",
-      "fight",
-      "instagram",
-      "robin",
-      "williams"
-    ],
-    [
-      "democratic",
-      "national",
-      "oversight",
-      "security",
-      "strengthening"
-    ],
-    [
-      "calma",
-      "eles",
-      "firefox",
-      "ganha",
-      "opcionais",
-      "recursos"
-    ],
-    [
-      "abre",
-      "brasil",
-      "escritorio",
-      "meta",
-      "mundo",
-      "openai",
-      "risco",
-      "rolando"
-    ],
     [
       "adolescentes",
       "chatgpt",
@@ -2949,6 +2909,54 @@
       "policy",
       "pushback",
       "retention"
+    ],
+    [
+      "hundreds",
+      "meta",
+      "microsoft",
+      "millions",
+      "services",
+      "spends"
+    ],
+    [
+      "builds",
+      "chip",
+      "cutting",
+      "nvidia",
+      "reliance",
+      "robotaxis",
+      "waymo"
+    ],
+    [
+      "avoid",
+      "creepy",
+      "demand",
+      "explodes",
+      "glasses",
+      "harder",
+      "meta",
+      "recordings"
+    ],
+    [
+      "bids",
+      "breathing",
+      "construction",
+      "deals",
+      "everything",
+      "have",
+      "interesting",
+      "missed",
+      "recycling",
+      "startup",
+      "winning"
+    ],
+    [
+      "chatgpt",
+      "enviar",
+      "imessage",
+      "mensagens",
+      "passa",
+      "pelo"
     ]
   ]
 }
