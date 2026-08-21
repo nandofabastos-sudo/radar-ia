@@ -440,7 +440,8 @@
       "https://the-decoder.com/?p=39256",
       "https://the-decoder.com/?p=39261",
       "https://the-decoder.com/?p=39266",
-      "https://the-decoder.com/?p=39270"
+      "https://the-decoder.com/?p=39270",
+      "https://the-decoder.com/?p=39274"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1235,15 +1236,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alerta",
-      "caem",
-      "chairman",
-      "empresas",
-      "openai",
-      "tentacao",
-      "turismo"
-    ],
     [
       "after",
       "changes",
@@ -2947,6 +2939,16 @@
       "returns",
       "samsung",
       "shareholder"
+    ],
+    [
+      "after",
+      "anthropic",
+      "changes",
+      "data",
+      "enterprise",
+      "policy",
+      "pushback",
+      "retention"
     ]
   ]
 }
