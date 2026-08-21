@@ -450,7 +450,8 @@
       "https://the-decoder.com/?p=39274",
       "https://the-decoder.com/?p=39277",
       "https://the-decoder.com/?p=39279",
-      "https://the-decoder.com/?p=39298"
+      "https://the-decoder.com/?p=39298",
+      "https://the-decoder.com/?p=39301"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -986,7 +987,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=924360",
       "https://tecnoblog.net/?post_type=noticias&p=924486",
       "https://tecnoblog.net/?post_type=noticias&p=924534",
-      "https://tecnoblog.net/?post_type=noticias&p=924559"
+      "https://tecnoblog.net/?post_type=noticias&p=924559",
+      "https://tecnoblog.net/?post_type=noticias&p=924653"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1175,7 +1177,9 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/chatgpt-no-mac-passa-a-ler-e-enviar-mensagens-pelo-imessage.ghtm",
       "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/08/21/chatgpt-escorrega-na-regra-do-tse-e-tem-candidato-preferido-a-presidencia.htm",
       "https://www3.uol.com.br/redirect-flash/como-a-ia-pode-aprofundar-nosso-pensamento-e-acessar-o-que-nao-sabemos.htm",
-      "https://www3.uol.com.br/redirect-flash/como-ia-entrou-no-combate-ao-cancer-com-vacinas.htm"
+      "https://www3.uol.com.br/redirect-flash/como-ia-entrou-no-combate-ao-cancer-com-vacinas.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/entidades-pedem-que-mpf-investiguem-oculos-com-ia-da-meta.ghtm",
+      "https://www.uol.com.br/flash/?c=c9e42624888b2c27b887db0ca7949e220260821"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1265,48 +1269,11 @@
       "https://www.mobiletime.com.br/?p=861864",
       "https://www.mobiletime.com.br/?p=861880",
       "https://www.mobiletime.com.br/?p=861890",
-      "https://www.mobiletime.com.br/?p=861902"
+      "https://www.mobiletime.com.br/?p=861902",
+      "https://www.mobiletime.com.br/?p=861879"
     ]
   },
   "_titulos_recentes": [
-    [
-      "cerebras"
-    ],
-    [
-      "2026",
-      "backed",
-      "have",
-      "investors",
-      "most",
-      "unicorns",
-      "which"
-    ],
-    [
-      "china",
-      "foguete",
-      "historia",
-      "humanoide",
-      "resumo",
-      "robo"
-    ],
-    [
-      "aposta",
-      "china",
-      "futuro",
-      "mercado",
-      "robotica"
-    ],
-    [
-      "adeus",
-      "claude",
-      "drive",
-      "enviar",
-      "gemini",
-      "gerenciar",
-      "gmail",
-      "mails",
-      "voce"
-    ],
     [
       "cancer",
       "close",
@@ -2984,6 +2951,52 @@
       "combate",
       "entrou",
       "vacinas"
+    ],
+    [
+      "center",
+      "data",
+      "finds",
+      "just",
+      "opposition",
+      "percent",
+      "surged",
+      "survey",
+      "year"
+    ],
+    [
+      "aerea",
+      "companhia",
+      "lucrar",
+      "revela",
+      "usar"
+    ],
+    [
+      "entidades",
+      "investiguem",
+      "meta",
+      "oculos",
+      "pedem"
+    ],
+    [
+      "congestionado",
+      "esta",
+      "ganhando",
+      "hoje",
+      "menos",
+      "mulheres",
+      "rolando"
+    ],
+    [
+      "agente",
+      "factorial",
+      "mostra",
+      "pesquisa",
+      "pode",
+      "pulso",
+      "reter",
+      "talentos",
+      "tambem",
+      "tecnologia"
     ]
   ]
 }
