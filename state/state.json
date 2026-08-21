@@ -279,7 +279,8 @@
       "https://techcrunch.com/?p=3155224",
       "https://techcrunch.com/?p=3155215",
       "https://techcrunch.com/?p=3155270",
-      "https://techcrunch.com/?p=3155064"
+      "https://techcrunch.com/?p=3155064",
+      "https://techcrunch.com/?post_type=tc_podcast&p=3155475"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -544,7 +545,8 @@
       "45zMjuJalb0vdnLJHXErHM",
       "34fgNqp4safoW5QJMmkgwD",
       "3G60cdbrg90TuhDORcVSnp",
-      "39Gkb8DOroFaGfAFokBbtg"
+      "39Gkb8DOroFaGfAFokBbtg",
+      "7AqGcMB9hCd7buI4KLhDZV"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -801,7 +803,8 @@
       "https://news.crunchbase.com/?p=93979",
       "https://news.crunchbase.com/?p=93985",
       "https://news.crunchbase.com/?p=93990",
-      "https://news.crunchbase.com/?p=93944"
+      "https://news.crunchbase.com/?p=93944",
+      "https://news.crunchbase.com/?p=93995"
     ]
   },
   "brasil": {
@@ -930,7 +933,8 @@
       "https://olhardigital.com.br/?p=1365149",
       "https://olhardigital.com.br/?p=1365158",
       "https://olhardigital.com.br/?p=1365309",
-      "https://olhardigital.com.br/?p=1365365"
+      "https://olhardigital.com.br/?p=1365365",
+      "https://olhardigital.com.br/?p=1365388"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1071,7 +1075,8 @@
       "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-simulado-gratis-do-enem-veja-como-funciona/",
       "https://canaltech.com.br/inteligencia-artificial/novo-hub-de-estudos-do-gemini-ajuda-estudantes-em-provas-e-concursos-veja-como/",
       "https://canaltech.com.br/inteligencia-artificial/vale-a-pena-trocar-de-iphone-so-para-acessar-os-recursos-de-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/chatgpt-fura-seguranca-do-imessage-e-responde-mensagens-sem-sua-autorizacao/"
+      "https://canaltech.com.br/inteligencia-artificial/chatgpt-fura-seguranca-do-imessage-e-responde-mensagens-sem-sua-autorizacao/",
+      "https://canaltech.com.br/inteligencia-artificial/google-vai-permitir-personalizar-feed-do-discover-com-prompts-de-ia-veja-como-fazer/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1259,46 +1264,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "decidiu",
-      "desacelerar",
-      "fala",
-      "modelos",
-      "openai",
-      "seus"
-    ],
-    [
-      "across",
-      "chatgpt",
-      "europe",
-      "expands"
-    ],
-    [
-      "filmes",
-      "maior",
-      "motorola",
-      "mundo",
-      "oracle",
-      "produtora",
-      "revela"
-    ],
-    [
-      "code",
-      "flock",
-      "police",
-      "powerful",
-      "tool"
-    ],
-    [
-      "contra",
-      "endurece",
-      "reacao",
-      "regras",
-      "resposta",
-      "seguranca",
-      "tech",
-      "vigilancia"
-    ],
     [
       "consulta",
       "eleicoes",
@@ -2985,6 +2950,56 @@
       "pensamento",
       "pode",
       "sabemos"
+    ],
+    [
+      "a16z",
+      "capital",
+      "does",
+      "investigating",
+      "mean",
+      "venture",
+      "what"
+    ],
+    [
+      "costly",
+      "finds",
+      "handoffs",
+      "linear",
+      "math",
+      "model",
+      "nvidia",
+      "replace",
+      "simple"
+    ],
+    [
+      "biggest",
+      "defense",
+      "funding",
+      "infrastructure",
+      "lead",
+      "rounds",
+      "tech",
+      "tools",
+      "week"
+    ],
+    [
+      "conteudos",
+      "dificultam",
+      "falsos",
+      "feitos",
+      "identificar",
+      "reais",
+      "vazamentos"
+    ],
+    [
+      "discover",
+      "fazer",
+      "feed",
+      "google",
+      "permitir",
+      "personalizar",
+      "prompts",
+      "veja"
     ]
   ]
 }
