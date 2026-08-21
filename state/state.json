@@ -285,7 +285,8 @@
       "https://techcrunch.com/?p=3155270",
       "https://techcrunch.com/?p=3155064",
       "https://techcrunch.com/?post_type=tc_podcast&p=3155475",
-      "https://techcrunch.com/?p=3155284"
+      "https://techcrunch.com/?p=3155284",
+      "https://techcrunch.com/?p=3155585"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1291,17 +1292,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agora",
-      "claude",
-      "conta",
-      "enviar",
-      "gmail",
-      "mails",
-      "pelo",
-      "pode",
-      "propria"
-    ],
     [
       "amazon",
       "bedrock",
@@ -3008,6 +2998,14 @@
       "suspender",
       "uber",
       "usar"
+    ],
+    [
+      "center",
+      "cloverleaf",
+      "data",
+      "developer",
+      "nvidia",
+      "partners"
     ]
   ]
 }
