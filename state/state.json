@@ -286,7 +286,8 @@
       "https://techcrunch.com/?p=3155064",
       "https://techcrunch.com/?post_type=tc_podcast&p=3155475",
       "https://techcrunch.com/?p=3155284",
-      "https://techcrunch.com/?p=3155585"
+      "https://techcrunch.com/?p=3155585",
+      "https://techcrunch.com/?p=3155131"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1292,11 +1293,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "amazon",
-      "bedrock",
-      "grok"
-    ],
     [
       "amazon",
       "bedrock",
@@ -3006,6 +3002,12 @@
       "developer",
       "nvidia",
       "partners"
+    ],
+    [
+      "anthropic",
+      "machine",
+      "opus",
+      "smut"
     ]
   ]
 }
