@@ -276,7 +276,8 @@
       "https://techcrunch.com/?p=3155082",
       "https://techcrunch.com/?p=3154392",
       "https://techcrunch.com/?p=3155224",
-      "https://techcrunch.com/?p=3155215"
+      "https://techcrunch.com/?p=3155215",
+      "https://techcrunch.com/?p=3155270"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -531,7 +532,8 @@
       "6P7y6z4gX2Wesbgs7V4xCS",
       "45zMjuJalb0vdnLJHXErHM",
       "34fgNqp4safoW5QJMmkgwD",
-      "3G60cdbrg90TuhDORcVSnp"
+      "3G60cdbrg90TuhDORcVSnp",
+      "39Gkb8DOroFaGfAFokBbtg"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -615,7 +617,8 @@
       "6a75192264e8c50001f04867",
       "6a7a61788e92710001af630a",
       "6a734eb4a62f5900019974d1",
-      "6a7b29a98e92710001b25d8b"
+      "6a7b29a98e92710001b25d8b",
+      "6a878a3e8b62a000012676aa"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -756,7 +759,8 @@
       "https://techcrunch.com/?p=3153447",
       "https://techcrunch.com/?p=3153831",
       "https://techcrunch.com/?p=3153940",
-      "https://techcrunch.com/?post_type=tc_video&p=3154465"
+      "https://techcrunch.com/?post_type=tc_video&p=3154465",
+      "https://techcrunch.com/?p=3155270"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -903,7 +907,8 @@
       "https://olhardigital.com.br/?p=1365066",
       "https://olhardigital.com.br/?p=1365093",
       "https://olhardigital.com.br/?p=1365109",
-      "https://olhardigital.com.br/?p=1365149"
+      "https://olhardigital.com.br/?p=1365149",
+      "https://olhardigital.com.br/?p=1365158"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1126,7 +1131,8 @@
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/20/lula-anuncia-r-1-bi-para-computador-de-ia-e-parceria-bilionaria-com-china.htm",
       "https://www3.uol.com.br/redirect-flash/ia-governo-lula-anuncia-investimento-de-r-1-bilhao-em-supercomputador.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/o-que-o-cofundador-da-anthropic-prioriza-na-educacao-da-filha.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/mulheres-ocupam-so-47-das-chefias-de-ia-no-brasil-diz-estudo.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/mulheres-ocupam-so-47-das-chefias-de-ia-no-brasil-diz-estudo.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/justica-dos-eua-reduz-condenacao-de-ex-google-por-roubo-de-segredos-de-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1217,49 +1223,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "asana",
-      "cleared",
-      "codex",
-      "engineering",
-      "weeks",
-      "work",
-      "years"
-    ],
-    [
-      "airpods",
-      "apple",
-      "camera",
-      "consumers",
-      "equipped",
-      "fear",
-      "pervert",
-      "pods"
-    ],
-    [
-      "burned",
-      "catch",
-      "companies",
-      "humans",
-      "might",
-      "mistake",
-      "next",
-      "racing"
-    ],
-    [
-      "doubles",
-      "etched",
-      "month",
-      "valuation"
-    ],
-    [
-      "avaliada",
-      "captacao",
-      "chips",
-      "design",
-      "empresa",
-      "velaura"
-    ],
     [
       "ativar",
       "chinesa",
@@ -2925,6 +2888,52 @@
       "brasil",
       "pacote",
       "supercomputador"
+    ],
+    [
+      "500m",
+      "amid",
+      "boom",
+      "data",
+      "gross",
+      "micro1",
+      "rate",
+      "reaches",
+      "startup",
+      "training"
+    ],
+    [
+      "chat",
+      "coding",
+      "drag",
+      "group",
+      "into",
+      "slack",
+      "terminal",
+      "wants"
+    ],
+    [
+      "chief",
+      "clone",
+      "created",
+      "editor",
+      "website"
+    ],
+    [
+      "ainda",
+      "china",
+      "chip",
+      "este",
+      "lancar",
+      "nvidia",
+      "planos"
+    ],
+    [
+      "condenacao",
+      "google",
+      "justica",
+      "reduz",
+      "roubo",
+      "segredos"
     ]
   ]
 }
