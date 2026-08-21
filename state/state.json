@@ -344,7 +344,8 @@
       "https://www.theverge.com/?p=982628",
       "https://www.theverge.com/?p=982434",
       "https://www.theverge.com/?p=982774",
-      "https://www.theverge.com/?p=983088"
+      "https://www.theverge.com/?p=983088",
+      "https://www.theverge.com/?p=983181"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -922,7 +923,8 @@
       "https://olhardigital.com.br/?p=1365093",
       "https://olhardigital.com.br/?p=1365109",
       "https://olhardigital.com.br/?p=1365149",
-      "https://olhardigital.com.br/?p=1365158"
+      "https://olhardigital.com.br/?p=1365158",
+      "https://olhardigital.com.br/?p=1365309"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1168,7 +1170,8 @@
       "https://neofeed.com.br/?p=232783",
       "https://neofeed.com.br/?p=233204",
       "https://neofeed.com.br/?p=233380",
-      "https://neofeed.com.br/?p=233409"
+      "https://neofeed.com.br/?p=233409",
+      "https://neofeed.com.br/?p=233841"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -1245,36 +1248,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "across",
-      "agent",
-      "apache",
-      "berd",
-      "block",
-      "conversation",
-      "harnesses",
-      "history",
-      "locally",
-      "models",
-      "stores",
-      "works",
-      "workspace"
-    ],
-    [
-      "copilot",
-      "ensinou",
-      "hackear",
-      "pesquisadores",
-      "proprio",
-      "sistema"
-    ],
-    [
-      "chatgpt",
-      "expertise",
-      "nvidia",
-      "scales",
-      "work"
-    ],
     [
       "cedo",
       "definir",
@@ -2963,6 +2936,34 @@
       "preferido",
       "presidencia",
       "regra"
+    ],
+    [
+      "accepting",
+      "backlash",
+      "creators",
+      "facing",
+      "major",
+      "money",
+      "youtube"
+    ],
+    [
+      "deepseek",
+      "entende",
+      "executa",
+      "imagens",
+      "lanca",
+      "sozinha",
+      "tarefas"
+    ],
+    [
+      "abre",
+      "acionistas",
+      "bilhoes",
+      "boom",
+      "cofre",
+      "devolve",
+      "meio",
+      "samsung"
     ]
   ]
 }
