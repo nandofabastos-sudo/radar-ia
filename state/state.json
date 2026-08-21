@@ -73,7 +73,8 @@
       "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
       "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+      "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
     ],
     "google_ai_blog": [
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -743,7 +744,8 @@
       "108351833",
       "108351856",
       "108352242",
-      "108352495"
+      "108352495",
+      "108352419"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1149,7 +1151,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/maravilhoso-diz-ceo-sobre-filme-com-ia-de-festa-junina-de-cidadezinha.ghtm",
       "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/08/21/programas-de-governo-prometem-datacenters-ia-e-fim-da-censura-nas-redes.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/21/vacina-contra-cancer-a-caminho-o-que-a-ia-fez-em-avanco-historico-da-medicina.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/chatgpt-no-mac-passa-a-ler-e-enviar-mensagens-pelo-imessage.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/chatgpt-no-mac-passa-a-ler-e-enviar-mensagens-pelo-imessage.ghtm",
+      "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/08/21/chatgpt-escorrega-na-regra-do-tse-e-tem-candidato-preferido-a-presidencia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1242,35 +1245,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "antes",
-      "anthropic",
-      "especial",
-      "fundadores",
-      "information",
-      "poder",
-      "prepara",
-      "voto"
-    ],
-    [
-      "400m",
-      "cannes",
-      "filme",
-      "levanta",
-      "levou",
-      "startup"
-    ],
-    [
-      "humanoide",
-      "melhor",
-      "olimpiadas",
-      "qual",
-      "realistas",
-      "revela",
-      "robos",
-      "tarefas",
-      "time"
-    ],
     [
       "across",
       "agent",
@@ -2960,6 +2934,35 @@
       "sinais",
       "sites",
       "tres"
+    ],
+    [
+      "atari",
+      "building",
+      "games",
+      "online",
+      "research",
+      "years"
+    ],
+    [
+      "american",
+      "backlash",
+      "bessent",
+      "brands",
+      "center",
+      "china",
+      "data",
+      "more",
+      "morning",
+      "squawk",
+      "toolkit"
+    ],
+    [
+      "candidato",
+      "chatgpt",
+      "escorrega",
+      "preferido",
+      "presidencia",
+      "regra"
     ]
   ]
 }
