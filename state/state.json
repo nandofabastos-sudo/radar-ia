@@ -161,7 +161,9 @@
       "https://x.ai/news/grok-build-for-everyone",
       "https://x.ai/news/grok-build-for-everyone-og",
       "https://x.ai/news/grok-bot-more-plans",
-      "https://x.ai/news/grok-bot-more-plans-og"
+      "https://x.ai/news/grok-bot-more-plans-og",
+      "https://x.ai/news/og-4-6-on-vertex",
+      "https://x.ai/news/grok-4-6-vertex-ai"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -451,7 +453,8 @@
       "https://the-decoder.com/?p=39277",
       "https://the-decoder.com/?p=39279",
       "https://the-decoder.com/?p=39298",
-      "https://the-decoder.com/?p=39301"
+      "https://the-decoder.com/?p=39301",
+      "https://the-decoder.com/?p=39315"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -938,7 +941,8 @@
       "https://olhardigital.com.br/?p=1365309",
       "https://olhardigital.com.br/?p=1365365",
       "https://olhardigital.com.br/?p=1365388",
-      "https://olhardigital.com.br/?p=1365433"
+      "https://olhardigital.com.br/?p=1365433",
+      "https://olhardigital.com.br/?p=1365482"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1082,7 +1086,8 @@
       "https://canaltech.com.br/inteligencia-artificial/novo-hub-de-estudos-do-gemini-ajuda-estudantes-em-provas-e-concursos-veja-como/",
       "https://canaltech.com.br/inteligencia-artificial/vale-a-pena-trocar-de-iphone-so-para-acessar-os-recursos-de-ia/",
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-fura-seguranca-do-imessage-e-responde-mensagens-sem-sua-autorizacao/",
-      "https://canaltech.com.br/inteligencia-artificial/google-vai-permitir-personalizar-feed-do-discover-com-prompts-de-ia-veja-como-fazer/"
+      "https://canaltech.com.br/inteligencia-artificial/google-vai-permitir-personalizar-feed-do-discover-com-prompts-de-ia-veja-como-fazer/",
+      "https://canaltech.com.br/inteligencia-artificial/tecnologia-da-openai-vai-monitorar-conversas-com-chatgpt-sem-ver-o-que-voce-escreve/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1179,7 +1184,8 @@
       "https://www3.uol.com.br/redirect-flash/como-a-ia-pode-aprofundar-nosso-pensamento-e-acessar-o-que-nao-sabemos.htm",
       "https://www3.uol.com.br/redirect-flash/como-ia-entrou-no-combate-ao-cancer-com-vacinas.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/entidades-pedem-que-mpf-investiguem-oculos-com-ia-da-meta.ghtm",
-      "https://www.uol.com.br/flash/?c=c9e42624888b2c27b887db0ca7949e220260821"
+      "https://www.uol.com.br/flash/?c=c9e42624888b2c27b887db0ca7949e220260821",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/21/uber-leva-multa-de-r-5-bi-na-europa-por-desligar-motoristas-com-algoritmo.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1274,58 +1280,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "cancer",
-      "close",
-      "curing",
-      "knows",
-      "startup",
-      "take",
-      "what",
-      "will"
-    ],
-    [
-      "compute",
-      "does",
-      "financial",
-      "nvidia",
-      "strategy"
-    ],
-    [
-      "anthropic",
-      "first",
-      "openai",
-      "passes",
-      "revenue",
-      "time"
-    ],
-    [
-      "china",
-      "corrida",
-      "exige",
-      "respeito",
-      "resposta"
-    ],
-    [
-      "china",
-      "criar",
-      "defender",
-      "drones",
-      "fortalezas",
-      "ilhas",
-      "quer",
-      "roboticas"
-    ],
-    [
-      "controle",
-      "modelo",
-      "openai",
-      "pausa",
-      "reforca",
-      "sair",
-      "seguranca",
-      "treino"
-    ],
     [
       "agosto",
       "anuncios",
@@ -2997,6 +2951,53 @@
       "talentos",
       "tambem",
       "tecnologia"
+    ],
+    [
+      "grok",
+      "vertex"
+    ],
+    [
+      "grok",
+      "vertex"
+    ],
+    [
+      "agent",
+      "benchmarks",
+      "deepseek",
+      "experimental",
+      "flash",
+      "model",
+      "opus",
+      "releases",
+      "rivals",
+      "vision"
+    ],
+    [
+      "colocando",
+      "empresas",
+      "especialistas",
+      "esta",
+      "exercito",
+      "street",
+      "wall"
+    ],
+    [
+      "chatgpt",
+      "conversas",
+      "escreve",
+      "monitorar",
+      "openai",
+      "tecnologia",
+      "voce"
+    ],
+    [
+      "algoritmo",
+      "desligar",
+      "europa",
+      "leva",
+      "motoristas",
+      "multa",
+      "uber"
     ]
   ]
 }
