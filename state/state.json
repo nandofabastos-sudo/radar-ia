@@ -278,7 +278,8 @@
       "https://techcrunch.com/?p=3154392",
       "https://techcrunch.com/?p=3155224",
       "https://techcrunch.com/?p=3155215",
-      "https://techcrunch.com/?p=3155270"
+      "https://techcrunch.com/?p=3155270",
+      "https://techcrunch.com/?p=3155064"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -674,7 +675,8 @@
       "https://news.ycombinator.com/item?id=49367350",
       "https://news.ycombinator.com/item?id=49365443",
       "https://news.ycombinator.com/item?id=49378768",
-      "https://news.ycombinator.com/item?id=49383026"
+      "https://news.ycombinator.com/item?id=49383026",
+      "https://news.ycombinator.com/item?id=49385994"
     ]
   },
   "mercado": {
@@ -970,7 +972,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=923982",
       "https://tecnoblog.net/?post_type=noticias&p=923973",
       "https://tecnoblog.net/?post_type=noticias&p=924385",
-      "https://tecnoblog.net/?post_type=noticias&p=924360"
+      "https://tecnoblog.net/?post_type=noticias&p=924360",
+      "https://tecnoblog.net/?post_type=noticias&p=924486"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1061,7 +1064,8 @@
       "https://canaltech.com.br/inteligencia-artificial/marca-dagua-do-claude-ajuda-na-transparencia-mas-nao-prova-autoria-de-textos/",
       "https://canaltech.com.br/inteligencia-artificial/devs-conseguem-burlar-marca-dagua-do-claude-para-textos-em-poucas-horas/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-simulado-gratis-do-enem-veja-como-funciona/",
-      "https://canaltech.com.br/inteligencia-artificial/novo-hub-de-estudos-do-gemini-ajuda-estudantes-em-provas-e-concursos-veja-como/"
+      "https://canaltech.com.br/inteligencia-artificial/novo-hub-de-estudos-do-gemini-ajuda-estudantes-em-provas-e-concursos-veja-como/",
+      "https://canaltech.com.br/inteligencia-artificial/vale-a-pena-trocar-de-iphone-so-para-acessar-os-recursos-de-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1248,32 +1252,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "cedo",
-      "definir",
-      "demais",
-      "paradoxo",
-      "regras",
-      "regulacao",
-      "tarde"
-    ],
-    [
-      "atendimento",
-      "cliente",
-      "desafios",
-      "empresas",
-      "executiva",
-      "fala",
-      "nice",
-      "usar"
-    ],
-    [
-      "centro",
-      "latam",
-      "parte",
-      "participara",
-      "segunda"
-    ],
     [
       "changed",
       "wiki",
@@ -2964,6 +2942,32 @@
       "devolve",
       "meio",
       "samsung"
+    ],
+    [
+      "centers",
+      "data",
+      "launch",
+      "million",
+      "options",
+      "orbital",
+      "raises",
+      "starcloud"
+    ],
+    [
+      "bilhoes",
+      "brasil",
+      "infraestrutura",
+      "investe",
+      "nacional",
+      "turbinar"
+    ],
+    [
+      "acessar",
+      "iphone",
+      "pena",
+      "recursos",
+      "trocar",
+      "vale"
     ]
   ]
 }
