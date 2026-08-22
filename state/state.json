@@ -952,7 +952,8 @@
       "https://olhardigital.com.br/?p=1365433",
       "https://olhardigital.com.br/?p=1365482",
       "https://olhardigital.com.br/?p=1365493",
-      "https://olhardigital.com.br/?p=1365547"
+      "https://olhardigital.com.br/?p=1365547",
+      "https://olhardigital.com.br/?p=1365594"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1099,7 +1100,8 @@
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-fura-seguranca-do-imessage-e-responde-mensagens-sem-sua-autorizacao/",
       "https://canaltech.com.br/inteligencia-artificial/google-vai-permitir-personalizar-feed-do-discover-com-prompts-de-ia-veja-como-fazer/",
       "https://canaltech.com.br/inteligencia-artificial/tecnologia-da-openai-vai-monitorar-conversas-com-chatgpt-sem-ver-o-que-voce-escreve/",
-      "https://canaltech.com.br/inteligencia-artificial/apple-music-cede-a-pressao-de-gravadoras-e-vai-dedurar-musicas-feitas-por-ia/"
+      "https://canaltech.com.br/inteligencia-artificial/apple-music-cede-a-pressao-de-gravadoras-e-vai-dedurar-musicas-feitas-por-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/nova-ia-da-deepseek-resolve-tarefas-apenas-olhando-telas/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1294,26 +1296,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alexa",
-      "amazon",
-      "fire",
-      "free",
-      "makes",
-      "powered",
-      "prime",
-      "required"
-    ],
-    [
-      "billion",
-      "chip",
-      "deal",
-      "google",
-      "lets",
-      "marvell",
-      "pops",
-      "shares"
-    ],
     [
       "avalia",
       "brasil",
@@ -3011,6 +2993,24 @@
       "china",
       "place",
       "unlikely"
+    ],
+    [
+      "anpd",
+      "chatgpt",
+      "coloca",
+      "gemini",
+      "instagram",
+      "mira",
+      "outras",
+      "plataformas"
+    ],
+    [
+      "apenas",
+      "deepseek",
+      "olhando",
+      "resolve",
+      "tarefas",
+      "telas"
     ]
   ]
 }
