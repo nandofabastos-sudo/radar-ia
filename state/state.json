@@ -288,7 +288,8 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3155475",
       "https://techcrunch.com/?p=3155284",
       "https://techcrunch.com/?p=3155585",
-      "https://techcrunch.com/?p=3155131"
+      "https://techcrunch.com/?p=3155131",
+      "https://techcrunch.com/?p=3155518"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1313,17 +1314,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agencies",
-      "attackers",
-      "build",
-      "control",
-      "exploits",
-      "industrial",
-      "systems",
-      "using",
-      "warn"
-    ],
     [
       "2026",
       "copa",
@@ -3044,6 +3034,15 @@
       "google",
       "propria",
       "semicondutores"
+    ],
+    [
+      "contain",
+      "frontier",
+      "labs",
+      "model",
+      "rogue",
+      "still",
+      "they"
     ]
   ]
 }
