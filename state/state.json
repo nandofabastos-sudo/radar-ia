@@ -969,7 +969,8 @@
       "https://olhardigital.com.br/?p=1365594",
       "https://olhardigital.com.br/?p=1365682",
       "https://olhardigital.com.br/?p=1365707",
-      "https://olhardigital.com.br/?p=1365720"
+      "https://olhardigital.com.br/?p=1365720",
+      "https://olhardigital.com.br/?p=1365722"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1316,12 +1317,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "future",
-      "learn",
-      "robot",
-      "spot"
-    ],
     [
       "2027",
       "company",
@@ -3047,6 +3042,13 @@
       "rejeicao",
       "risco",
       "tera"
+    ],
+    [
+      "decifra",
+      "genes",
+      "humanos",
+      "presente",
+      "sequencia"
     ]
   ]
 }
