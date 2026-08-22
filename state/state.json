@@ -1225,7 +1225,8 @@
       "https://neofeed.com.br/?p=233204",
       "https://neofeed.com.br/?p=233380",
       "https://neofeed.com.br/?p=233409",
-      "https://neofeed.com.br/?p=233841"
+      "https://neofeed.com.br/?p=233841",
+      "https://neofeed.com.br/?p=233658"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -1305,14 +1306,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "existe",
-      "prever",
-      "problema",
-      "solares",
-      "tempestades",
-      "tenta"
-    ],
     [
       "artificial",
       "business",
@@ -3027,6 +3020,16 @@
       "segredo",
       "testadores",
       "tudo"
+    ],
+    [
+      "brasileira",
+      "ginga",
+      "leva",
+      "maquinas",
+      "pequim",
+      "robotica",
+      "selecao",
+      "vini"
     ]
   ]
 }
