@@ -163,7 +163,8 @@
       "https://x.ai/news/grok-bot-more-plans",
       "https://x.ai/news/grok-bot-more-plans-og",
       "https://x.ai/news/og-4-6-on-vertex",
-      "https://x.ai/news/grok-4-6-vertex-ai"
+      "https://x.ai/news/grok-4-6-vertex-ai",
+      "https://x.ai/news/og-google-enterprise-agent-platform"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -1296,17 +1297,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "avalia",
-      "brasil",
-      "centers",
-      "construcao",
-      "data",
-      "inicio",
-      "local",
-      "openai",
-      "operacao"
-    ],
     [
       "centers",
       "data",
@@ -3011,6 +3001,13 @@
       "resolve",
       "tarefas",
       "telas"
+    ],
+    [
+      "agent",
+      "enterprise",
+      "google",
+      "grok",
+      "platform"
     ]
   ]
 }
