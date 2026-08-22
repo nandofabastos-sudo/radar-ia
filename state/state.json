@@ -463,7 +463,8 @@
       "https://the-decoder.com/?p=39324",
       "https://the-decoder.com/?p=38985",
       "https://the-decoder.com/?p=39002",
-      "https://the-decoder.com/?p=39294"
+      "https://the-decoder.com/?p=39294",
+      "https://the-decoder.com/?p=38996"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -697,7 +698,8 @@
       "https://news.ycombinator.com/item?id=49383026",
       "https://news.ycombinator.com/item?id=49385994",
       "https://news.ycombinator.com/item?id=49386163",
-      "https://news.ycombinator.com/item?id=49386699"
+      "https://news.ycombinator.com/item?id=49386699",
+      "https://news.ycombinator.com/item?id=49357530"
     ]
   },
   "mercado": {
@@ -851,7 +853,8 @@
       "https://mittechreview.com.br/?p=260843",
       "https://mittechreview.com.br/?p=260796",
       "https://mittechreview.com.br/?p=260899",
-      "https://mittechreview.com.br/?p=261549"
+      "https://mittechreview.com.br/?p=261549",
+      "https://mittechreview.com.br/?p=261565"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1204,7 +1207,8 @@
       "https://www3.uol.com.br/redirect-flash/como-ia-entrou-no-combate-ao-cancer-com-vacinas.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/entidades-pedem-que-mpf-investiguem-oculos-com-ia-da-meta.ghtm",
       "https://www.uol.com.br/flash/?c=c9e42624888b2c27b887db0ca7949e220260821",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/08/21/uber-leva-multa-de-r-5-bi-na-europa-por-desligar-motoristas-com-algoritmo.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/21/uber-leva-multa-de-r-5-bi-na-europa-por-desligar-motoristas-com-algoritmo.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/22/ceo-conta-segredo-para-formar-jovens-quando-ia-ja-faz-tudo-testadores.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1301,34 +1305,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "compute",
-      "helping",
-      "meet",
-      "price",
-      "startup",
-      "street",
-      "wall"
-    ],
-    [
-      "getting",
-      "meta"
-    ],
-    [
-      "brakes",
-      "openai",
-      "what"
-    ],
-    [
-      "already",
-      "claude",
-      "coders",
-      "found",
-      "invisible",
-      "they",
-      "watermarks",
-      "workarounds"
-    ],
     [
       "existe",
       "prever",
@@ -3011,6 +2987,46 @@
       "rayneo",
       "skip",
       "text"
+    ],
+    [
+      "actions",
+      "beliefs",
+      "human",
+      "ignore",
+      "models",
+      "predict",
+      "research",
+      "shows",
+      "world",
+      "wrong"
+    ],
+    [
+      "boosted",
+      "dropped",
+      "exam",
+      "homework",
+      "scores",
+      "study",
+      "then"
+    ],
+    [
+      "ainda",
+      "artificial",
+      "estao",
+      "inteligencia",
+      "pessoas",
+      "realmente",
+      "sabemos",
+      "usando"
+    ],
+    [
+      "conta",
+      "formar",
+      "jovens",
+      "quando",
+      "segredo",
+      "testadores",
+      "tudo"
     ]
   ]
 }
