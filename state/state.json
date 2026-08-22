@@ -693,7 +693,8 @@
       "https://news.ycombinator.com/item?id=49378768",
       "https://news.ycombinator.com/item?id=49383026",
       "https://news.ycombinator.com/item?id=49385994",
-      "https://news.ycombinator.com/item?id=49386163"
+      "https://news.ycombinator.com/item?id=49386163",
+      "https://news.ycombinator.com/item?id=49386699"
     ]
   },
   "mercado": {
@@ -1297,16 +1298,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "centers",
-      "data",
-      "nuclear",
-      "powering",
-      "reactor",
-      "secret",
-      "terrapower",
-      "weapon"
-    ],
     [
       "female",
       "meta",
@@ -3008,6 +2999,10 @@
       "google",
       "grok",
       "platform"
+    ],
+    [
+      "becoming",
+      "blind"
     ]
   ]
 }
