@@ -464,7 +464,8 @@
       "https://the-decoder.com/?p=38985",
       "https://the-decoder.com/?p=39002",
       "https://the-decoder.com/?p=39294",
-      "https://the-decoder.com/?p=38996"
+      "https://the-decoder.com/?p=38996",
+      "https://the-decoder.com/?p=39282"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -699,7 +700,8 @@
       "https://news.ycombinator.com/item?id=49385994",
       "https://news.ycombinator.com/item?id=49386163",
       "https://news.ycombinator.com/item?id=49386699",
-      "https://news.ycombinator.com/item?id=49357530"
+      "https://news.ycombinator.com/item?id=49357530",
+      "https://news.ycombinator.com/item?id=49388752"
     ]
   },
   "mercado": {
@@ -1012,7 +1014,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=924534",
       "https://tecnoblog.net/?post_type=noticias&p=924559",
       "https://tecnoblog.net/?post_type=noticias&p=924653",
-      "https://tecnoblog.net/?post_type=noticias&p=924718"
+      "https://tecnoblog.net/?post_type=noticias&p=924718",
+      "https://tecnoblog.net/?post_type=noticias&p=924868"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1307,35 +1310,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "codex",
-      "deleted",
-      "files",
-      "fixes",
-      "openai",
-      "permission",
-      "real",
-      "user",
-      "without"
-    ],
-    [
-      "acordo",
-      "comprar",
-      "desenvolvimento",
-      "openrouter",
-      "plataforma",
-      "stripe"
-    ],
-    [
-      "access",
-      "cyber",
-      "limited",
-      "openai",
-      "program",
-      "researchers",
-      "revoked",
-      "their"
-    ],
     [
       "gemini",
       "google",
@@ -3032,6 +3006,33 @@
       "rosto",
       "usar",
       "video"
+    ],
+    [
+      "agents",
+      "benefit",
+      "explains",
+      "fail",
+      "skills",
+      "study",
+      "they",
+      "when"
+    ],
+    [
+      "article",
+      "buzzfeed",
+      "claude",
+      "claudette",
+      "like",
+      "make",
+      "stop",
+      "talking"
+    ],
+    [
+      "anti",
+      "avaliado",
+      "botao",
+      "linkedin",
+      "positivamente"
     ]
   ]
 }
