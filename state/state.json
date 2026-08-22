@@ -965,7 +965,8 @@
       "https://olhardigital.com.br/?p=1365493",
       "https://olhardigital.com.br/?p=1365547",
       "https://olhardigital.com.br/?p=1365594",
-      "https://olhardigital.com.br/?p=1365682"
+      "https://olhardigital.com.br/?p=1365682",
+      "https://olhardigital.com.br/?p=1365707"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1312,13 +1313,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "dedicated",
-      "gemini",
-      "getting",
-      "google",
-      "student"
-    ],
     [
       "agencies",
       "attackers",
@@ -3039,6 +3033,17 @@
       "sticking",
       "stocks",
       "yields"
+    ],
+    [
+      "anthropic",
+      "chefe",
+      "chips",
+      "contrata",
+      "criar",
+      "divisao",
+      "google",
+      "propria",
+      "semicondutores"
     ]
   ]
 }
