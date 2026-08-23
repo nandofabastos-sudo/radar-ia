@@ -473,7 +473,8 @@
       "https://the-decoder.com/?p=39290",
       "https://the-decoder.com/?p=39347",
       "https://the-decoder.com/?p=39351",
-      "https://the-decoder.com/?p=39355"
+      "https://the-decoder.com/?p=39355",
+      "https://the-decoder.com/?p=39306"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1136,7 +1137,8 @@
       "https://canaltech.com.br/inteligencia-artificial/nova-ia-da-deepseek-resolve-tarefas-apenas-olhando-telas/",
       "https://canaltech.com.br/inteligencia-artificial/e-crime-usar-rosto-de-alguem-foto-video-ia/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-muse-spark-aprenda-usar-nova-ia-meta/",
-      "https://canaltech.com.br/inteligencia-artificial/o-que-sao-modelos-de-ia-de-pesos-abertos/"
+      "https://canaltech.com.br/inteligencia-artificial/o-que-sao-modelos-de-ia-de-pesos-abertos/",
+      "https://canaltech.com.br/inteligencia-artificial/plugins-chatgpt-que-valem-a-pena/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1335,32 +1337,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agent",
-      "agents",
-      "boasts",
-      "cheaper",
-      "claude",
-      "completion",
-      "harness",
-      "managed",
-      "open",
-      "source",
-      "task",
-      "than",
-      "trueforge",
-      "truefoundry"
-    ],
-    [
-      "abuso",
-      "armazenar",
-      "cria",
-      "dados",
-      "detecta",
-      "openai",
-      "sistema",
-      "usuarios"
-    ],
     [
       "avanco",
       "decide",
@@ -3077,6 +3053,24 @@
       "abertos",
       "modelos",
       "pesos"
+    ],
+    [
+      "after",
+      "boss",
+      "employee",
+      "fired",
+      "first",
+      "humans",
+      "only",
+      "reminded",
+      "rules"
+    ],
+    [
+      "chatgpt",
+      "instalar",
+      "pena",
+      "plugins",
+      "valem"
     ]
   ]
 }
