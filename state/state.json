@@ -294,7 +294,8 @@
       "https://techcrunch.com/?p=3155023",
       "https://techcrunch.com/?p=3155861",
       "https://techcrunch.com/?p=3155556",
-      "https://techcrunch.com/?p=3155870"
+      "https://techcrunch.com/?p=3155870",
+      "https://techcrunch.com/?p=3155879"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1266,7 +1267,8 @@
       "https://neofeed.com.br/?p=233380",
       "https://neofeed.com.br/?p=233409",
       "https://neofeed.com.br/?p=233841",
-      "https://neofeed.com.br/?p=233658"
+      "https://neofeed.com.br/?p=233658",
+      "https://neofeed.com.br/?p=233346"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -1346,22 +1348,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "biggest",
-      "could",
-      "crisis",
-      "godel",
-      "math",
-      "since",
-      "terence",
-      "trigger"
-    ],
-    [
-      "china",
-      "circular",
-      "financing",
-      "scheme"
-    ],
     [
       "anthropic",
       "capable",
@@ -3073,6 +3059,22 @@
       "canvas",
       "chatgpt",
       "funciona"
+    ],
+    [
+      "alpha",
+      "behind",
+      "model",
+      "stealth"
+    ],
+    [
+      "agir",
+      "agora",
+      "alerta",
+      "artigo",
+      "economistas",
+      "precisamos",
+      "stanford",
+      "urgente"
     ]
   ]
 }
