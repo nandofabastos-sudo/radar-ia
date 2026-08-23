@@ -1135,7 +1135,8 @@
       "https://canaltech.com.br/inteligencia-artificial/apple-music-cede-a-pressao-de-gravadoras-e-vai-dedurar-musicas-feitas-por-ia/",
       "https://canaltech.com.br/inteligencia-artificial/nova-ia-da-deepseek-resolve-tarefas-apenas-olhando-telas/",
       "https://canaltech.com.br/inteligencia-artificial/e-crime-usar-rosto-de-alguem-foto-video-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/o-que-e-muse-spark-aprenda-usar-nova-ia-meta/"
+      "https://canaltech.com.br/inteligencia-artificial/o-que-e-muse-spark-aprenda-usar-nova-ia-meta/",
+      "https://canaltech.com.br/inteligencia-artificial/o-que-sao-modelos-de-ia-de-pesos-abertos/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1334,14 +1335,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "because",
-      "didn",
-      "openrouter",
-      "really",
-      "singularity",
-      "stripe"
-    ],
     [
       "agent",
       "agents",
@@ -3079,6 +3072,11 @@
       "openrouter",
       "token",
       "usage"
+    ],
+    [
+      "abertos",
+      "modelos",
+      "pesos"
     ]
   ]
 }
