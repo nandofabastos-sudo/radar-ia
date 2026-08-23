@@ -982,7 +982,8 @@
       "https://olhardigital.com.br/?p=1365722",
       "https://olhardigital.com.br/?p=1365739",
       "https://olhardigital.com.br/?p=1365747",
-      "https://olhardigital.com.br/?p=1365751"
+      "https://olhardigital.com.br/?p=1365751",
+      "https://olhardigital.com.br/?p=1365427"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1331,14 +1332,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "abas",
-      "bagunca",
-      "buscar",
-      "firefox",
-      "organizar",
-      "sozinha"
-    ],
     [
       "agua",
       "fotos",
@@ -3074,6 +3067,14 @@
       "presidenciaveis",
       "prometem",
       "tecnologia"
+    ],
+    [
+      "controla",
+      "distancia",
+      "embarcacoes",
+      "operada",
+      "pode",
+      "tripulacao"
     ]
   ]
 }
