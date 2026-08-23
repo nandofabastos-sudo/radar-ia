@@ -292,7 +292,8 @@
       "https://techcrunch.com/?p=3155518",
       "https://techcrunch.com/?p=3155841",
       "https://techcrunch.com/?p=3155023",
-      "https://techcrunch.com/?p=3155861"
+      "https://techcrunch.com/?p=3155861",
+      "https://techcrunch.com/?p=3155556"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1339,13 +1340,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agente",
-      "alta",
-      "cacau",
-      "respostas",
-      "show"
-    ],
     [
       "alcancou",
       "clientes",
@@ -3074,6 +3068,14 @@
       "massa",
       "modelos",
       "podem"
+    ],
+    [
+      "books",
+      "complicated",
+      "copyrighted",
+      "legal",
+      "models",
+      "train"
     ]
   ]
 }
