@@ -472,7 +472,8 @@
       "https://the-decoder.com/?p=39282",
       "https://the-decoder.com/?p=39290",
       "https://the-decoder.com/?p=39347",
-      "https://the-decoder.com/?p=39351"
+      "https://the-decoder.com/?p=39351",
+      "https://the-decoder.com/?p=39355"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1332,14 +1333,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agua",
-      "fotos",
-      "gemini",
-      "marca",
-      "remover",
-      "videos"
-    ],
     [
       "because",
       "didn",
@@ -3075,6 +3068,16 @@
       "operada",
       "pode",
       "tripulacao"
+    ],
+    [
+      "agentic",
+      "becoming",
+      "biggest",
+      "customer",
+      "jumps",
+      "openrouter",
+      "token",
+      "usage"
     ]
   ]
 }
