@@ -469,7 +469,9 @@
       "https://the-decoder.com/?p=39002",
       "https://the-decoder.com/?p=39294",
       "https://the-decoder.com/?p=38996",
-      "https://the-decoder.com/?p=39282"
+      "https://the-decoder.com/?p=39282",
+      "https://the-decoder.com/?p=39290",
+      "https://the-decoder.com/?p=39347"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -706,7 +708,8 @@
       "https://news.ycombinator.com/item?id=49386163",
       "https://news.ycombinator.com/item?id=49386699",
       "https://news.ycombinator.com/item?id=49357530",
-      "https://news.ycombinator.com/item?id=49388752"
+      "https://news.ycombinator.com/item?id=49388752",
+      "https://news.ycombinator.com/item?id=49402232"
     ]
   },
   "mercado": {
@@ -1325,31 +1328,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "controle",
-      "muda",
-      "mundo",
-      "rolando",
-      "views",
-      "youtube"
-    ],
-    [
-      "alem",
-      "artificial",
-      "descontrole",
-      "inteligencia",
-      "muito",
-      "oculto",
-      "perigo",
-      "simples"
-    ],
-    [
-      "empresa",
-      "estudantes",
-      "gemini",
-      "google",
-      "graca"
-    ],
     [
       "acquire",
       "cognition",
@@ -3063,6 +3041,34 @@
       "limiting",
       "much",
       "winning"
+    ],
+    [
+      "china",
+      "claude",
+      "fraction",
+      "gray",
+      "market",
+      "price",
+      "sells",
+      "tokens"
+    ],
+    [
+      "about",
+      "drives",
+      "memory",
+      "nvidia",
+      "percent",
+      "prices",
+      "reportedly",
+      "server",
+      "shortage"
+    ],
+    [
+      "dumber",
+      "feels",
+      "local",
+      "than",
+      "your"
     ]
   ]
 }
