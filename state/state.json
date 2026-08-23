@@ -992,7 +992,8 @@
       "https://olhardigital.com.br/?p=1365427",
       "https://olhardigital.com.br/?p=1365829",
       "https://olhardigital.com.br/?p=1365849",
-      "https://olhardigital.com.br/?p=1365861"
+      "https://olhardigital.com.br/?p=1365861",
+      "https://olhardigital.com.br/?p=1365878"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1348,15 +1349,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "capable",
-      "codenamed",
-      "internal",
-      "model",
-      "most",
-      "only"
-    ],
     [
       "hidden",
       "market",
@@ -3075,6 +3067,15 @@
       "precisamos",
       "stanford",
       "urgente"
+    ],
+    [
+      "amazon",
+      "conteudo",
+      "processadas",
+      "streamers",
+      "treinar",
+      "twitch",
+      "usar"
     ]
   ]
 }
