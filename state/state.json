@@ -1041,7 +1041,8 @@
       "https://olhardigital.com.br/?p=1365759",
       "https://olhardigital.com.br/?p=1366103",
       "https://olhardigital.com.br/?p=1366106",
-      "https://olhardigital.com.br/?p=1366194"
+      "https://olhardigital.com.br/?p=1366194",
+      "https://olhardigital.com.br/?p=1366215"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1414,15 +1415,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "china",
-      "colocar",
-      "fabrica",
-      "luta",
-      "mundo",
-      "quer",
-      "robos"
-    ],
     [
       "anthropic",
       "bilionario",
@@ -3182,6 +3174,14 @@
       "marco",
       "relator",
       "votado"
+    ],
+    [
+      "alabama",
+      "face",
+      "hugging",
+      "invasao",
+      "investigar",
+      "openai"
     ]
   ]
 }
