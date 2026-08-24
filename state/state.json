@@ -43,7 +43,8 @@
       "https://openai.com/index/our-commitment-to-zero-data-retention",
       "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "https://openai.com/index/stampli",
-      "https://openai.com/index/introducing-ai-futures"
+      "https://openai.com/index/introducing-ai-futures",
+      "https://openai.com/index/gpt-5-6-in-kiro"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -304,7 +305,8 @@
       "https://techcrunch.com/?p=3155919",
       "https://techcrunch.com/?p=3155884",
       "https://techcrunch.com/?p=3155937",
-      "https://techcrunch.com/?p=3155931"
+      "https://techcrunch.com/?p=3155931",
+      "https://techcrunch.com/?p=3156061"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -739,7 +741,8 @@
       "https://news.ycombinator.com/item?id=49357530",
       "https://news.ycombinator.com/item?id=49388752",
       "https://news.ycombinator.com/item?id=49402232",
-      "https://news.ycombinator.com/item?id=49412396"
+      "https://news.ycombinator.com/item?id=49412396",
+      "https://news.ycombinator.com/item?id=49421554"
     ]
   },
   "mercado": {
@@ -848,7 +851,8 @@
       "https://techcrunch.com/?p=3153940",
       "https://techcrunch.com/?post_type=tc_video&p=3154465",
       "https://techcrunch.com/?p=3155270",
-      "https://techcrunch.com/?p=3155673"
+      "https://techcrunch.com/?p=3155673",
+      "https://techcrunch.com/?p=3155023"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -1086,7 +1090,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=924653",
       "https://tecnoblog.net/?post_type=noticias&p=924718",
       "https://tecnoblog.net/?post_type=noticias&p=924868",
-      "https://tecnoblog.net/?post_type=noticias&p=925409"
+      "https://tecnoblog.net/?post_type=noticias&p=925409",
+      "https://tecnoblog.net/?post_type=noticias&p=925593"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1197,7 +1202,8 @@
       "https://canaltech.com.br/mercado/sua-carreira-na-mira-as-11-profissoes-mais-expostas-a-inteligencia-artificial/",
       "https://canaltech.com.br/apps/novo-app-do-banco-do-brasil-traz-ia-para-orientar-clientes-por-voz-e-texto/",
       "https://canaltech.com.br/inteligencia-artificial/nova-era-de-ameacas-openai-alerta-para-ciberataques-continuos-gerados-por-ia/",
-      "https://canaltech.com.br/apps/como-usar-o-chatgpt-do-cadastro-basico-aos-melhores-comandos-prompts/"
+      "https://canaltech.com.br/apps/como-usar-o-chatgpt-do-cadastro-basico-aos-melhores-comandos-prompts/",
+      "https://canaltech.com.br/inteligencia-artificial/quarta-queda-no-mes-por-que-o-claude-vive-caindo-e-fora-do-ar/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1401,44 +1407,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "doesn",
-      "hate",
-      "silicon",
-      "valley"
-    ],
-    [
-      "enem",
-      "funciona",
-      "ganha",
-      "gemini",
-      "gratis",
-      "simulado",
-      "veja"
-    ],
-    [
-      "futures",
-      "introducing"
-    ],
-    [
-      "agent",
-      "enterprises",
-      "five",
-      "real",
-      "runaway",
-      "spending",
-      "stop",
-      "time"
-    ],
-    [
-      "artificial",
-      "ensina",
-      "fingir",
-      "inteligencia",
-      "pensamentos",
-      "pode",
-      "vigiar"
-    ],
     [
       "anuncia",
       "bilionaria",
@@ -3158,6 +3126,46 @@
       "negocia",
       "nvidia",
       "venda"
+    ],
+    [
+      "advancing",
+      "developers",
+      "kiro",
+      "performance",
+      "price"
+    ],
+    [
+      "2026",
+      "amjad",
+      "disrupt",
+      "founder",
+      "joins",
+      "masad",
+      "replit",
+      "stage",
+      "techcrunch"
+    ],
+    [
+      "coding",
+      "collapse",
+      "expertise",
+      "going",
+      "reliance"
+    ],
+    [
+      "assistente",
+      "banco",
+      "brasil",
+      "destaque",
+      "oficial"
+    ],
+    [
+      "caindo",
+      "claude",
+      "fora",
+      "quarta",
+      "queda",
+      "vive"
     ]
   ]
 }
