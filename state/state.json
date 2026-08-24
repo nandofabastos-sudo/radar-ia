@@ -482,7 +482,8 @@
       "https://the-decoder.com/?p=39363",
       "https://the-decoder.com/?p=39366",
       "https://the-decoder.com/?p=39372",
-      "https://the-decoder.com/?p=39375"
+      "https://the-decoder.com/?p=39375",
+      "https://the-decoder.com/?p=39381"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -609,7 +610,8 @@
       "https://www.technologyreview.com/?p=1142226",
       "https://www.technologyreview.com/?p=1142070",
       "https://www.technologyreview.com/?p=1142571",
-      "https://www.technologyreview.com/?p=1141740"
+      "https://www.technologyreview.com/?p=1141740",
+      "https://www.technologyreview.com/?p=1142630"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1011,7 +1013,8 @@
       "https://olhardigital.com.br/?p=1365896",
       "https://olhardigital.com.br/?p=1365899",
       "https://olhardigital.com.br/?p=1365903",
-      "https://olhardigital.com.br/?p=1365983"
+      "https://olhardigital.com.br/?p=1365983",
+      "https://olhardigital.com.br/?p=1365988"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1369,42 +1372,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "chega",
-      "comprovantes",
-      "dados",
-      "digitar",
-      "gemini",
-      "prints",
-      "recurso",
-      "salvar",
-      "testa"
-    ],
-    [
-      "agua",
-      "anthropic",
-      "anuncio",
-      "claude",
-      "codigo",
-      "horas",
-      "marca",
-      "remove"
-    ],
-    [
-      "agent",
-      "agents",
-      "background",
-      "before",
-      "catalyst",
-      "creates",
-      "identify",
-      "issues",
-      "roving",
-      "serval",
-      "super",
-      "they",
-      "ticketed"
-    ],
     [
       "agua",
       "claude",
@@ -3118,6 +3085,35 @@
       "documentos",
       "partir",
       "videos"
+    ],
+    [
+      "accounts",
+      "agent",
+      "apology",
+      "fake",
+      "into",
+      "malware",
+      "open",
+      "project",
+      "push",
+      "rogue",
+      "source",
+      "staged",
+      "used"
+    ],
+    [
+      "classroom",
+      "encourage",
+      "smarter"
+    ],
+    [
+      "aberta",
+      "aposta",
+      "bilhoes",
+      "chineses",
+      "contra",
+      "nvidia",
+      "rivais"
     ]
   ]
 }
