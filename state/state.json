@@ -479,7 +479,8 @@
       "https://the-decoder.com/?p=39355",
       "https://the-decoder.com/?p=39306",
       "https://the-decoder.com/?p=39363",
-      "https://the-decoder.com/?p=39366"
+      "https://the-decoder.com/?p=39366",
+      "https://the-decoder.com/?p=39372"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -579,7 +580,8 @@
       "39Gkb8DOroFaGfAFokBbtg",
       "7AqGcMB9hCd7buI4KLhDZV",
       "6y4lGj2ZoY6guqwCLwvG6e",
-      "2znePv9XlFXwfla86XQI2g"
+      "2znePv9XlFXwfla86XQI2g",
+      "42zTQ8lWVxrydsSXs0FK3U"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -1001,7 +1003,8 @@
       "https://olhardigital.com.br/?p=1365861",
       "https://olhardigital.com.br/?p=1365878",
       "https://olhardigital.com.br/?p=1365884",
-      "https://olhardigital.com.br/?p=1361601"
+      "https://olhardigital.com.br/?p=1361601",
+      "https://olhardigital.com.br/?p=1365896"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1358,33 +1361,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agents",
-      "feature",
-      "request",
-      "support"
-    ],
-    [
-      "boise",
-      "boom",
-      "buyback",
-      "debt",
-      "earnings",
-      "more",
-      "morning",
-      "squawk",
-      "treasury",
-      "walmart"
-    ],
-    [
-      "alerta",
-      "china",
-      "guardinha",
-      "motoristas",
-      "organiza",
-      "robo",
-      "transito"
-    ],
     [
       "data",
       "encrypted",
@@ -3093,6 +3069,33 @@
       "their",
       "then",
       "they"
+    ],
+    [
+      "cerebras",
+      "chip",
+      "double",
+      "performance",
+      "same",
+      "unveils"
+    ],
+    [
+      "chip",
+      "cores",
+      "first",
+      "mainframe",
+      "next",
+      "same",
+      "workloads"
+    ],
+    [
+      "adia",
+      "bolt",
+      "china",
+      "humanoide",
+      "resumo",
+      "robo",
+      "supera",
+      "viagem"
     ]
   ]
 }
