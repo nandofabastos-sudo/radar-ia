@@ -306,7 +306,8 @@
       "https://techcrunch.com/?p=3155884",
       "https://techcrunch.com/?p=3155937",
       "https://techcrunch.com/?p=3155931",
-      "https://techcrunch.com/?p=3156061"
+      "https://techcrunch.com/?p=3156061",
+      "https://techcrunch.com/?p=3156185"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1203,7 +1204,8 @@
       "https://canaltech.com.br/apps/novo-app-do-banco-do-brasil-traz-ia-para-orientar-clientes-por-voz-e-texto/",
       "https://canaltech.com.br/inteligencia-artificial/nova-era-de-ameacas-openai-alerta-para-ciberataques-continuos-gerados-por-ia/",
       "https://canaltech.com.br/apps/como-usar-o-chatgpt-do-cadastro-basico-aos-melhores-comandos-prompts/",
-      "https://canaltech.com.br/inteligencia-artificial/quarta-queda-no-mes-por-que-o-claude-vive-caindo-e-fora-do-ar/"
+      "https://canaltech.com.br/inteligencia-artificial/quarta-queda-no-mes-por-que-o-claude-vive-caindo-e-fora-do-ar/",
+      "https://canaltech.com.br/inteligencia-artificial/empresas-recontratam-funcionarios-substituidos-por-ia-mas-pagando-menos-por-que/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1407,22 +1409,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anuncia",
-      "bilionaria",
-      "china",
-      "computador",
-      "lula",
-      "parceria"
-    ],
-    [
-      "agentes",
-      "hypera",
-      "internos",
-      "pharma",
-      "possui",
-      "quase"
-    ],
     [
       "actually",
       "centers",
@@ -3166,6 +3152,23 @@
       "quarta",
       "queda",
       "vive"
+    ],
+    [
+      "after",
+      "blockbuster",
+      "bought",
+      "shares",
+      "spacex",
+      "trump",
+      "weeks"
+    ],
+    [
+      "empresas",
+      "funcionarios",
+      "menos",
+      "pagando",
+      "recontratam",
+      "substituidos"
     ]
   ]
 }
