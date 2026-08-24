@@ -167,7 +167,8 @@
       "https://x.ai/news/grok-bot-more-plans-og",
       "https://x.ai/news/og-4-6-on-vertex",
       "https://x.ai/news/grok-4-6-vertex-ai",
-      "https://x.ai/news/og-google-enterprise-agent-platform"
+      "https://x.ai/news/og-google-enterprise-agent-platform",
+      "https://x.ai/news/og-gemini-enterprise-agent-platform"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -182,7 +183,8 @@
       "https://mistral.ai/news/ocr-4",
       "https://mistral.ai/news/shieldstral",
       "https://mistral.ai/news/regional-inference-open-models-new-compute",
-      "https://mistral.ai/news/agentic-search"
+      "https://mistral.ai/news/agentic-search",
+      "https://mistral.ai/news/mistral-x-humain"
     ]
   },
   "imprensa": {
@@ -736,7 +738,8 @@
       "https://news.ycombinator.com/item?id=49386699",
       "https://news.ycombinator.com/item?id=49357530",
       "https://news.ycombinator.com/item?id=49388752",
-      "https://news.ycombinator.com/item?id=49402232"
+      "https://news.ycombinator.com/item?id=49402232",
+      "https://news.ycombinator.com/item?id=49412396"
     ]
   },
   "mercado": {
@@ -1192,7 +1195,9 @@
       "https://canaltech.com.br/hardware/do-pc-tradicional-ao-ai-pc-a-arquitetura-entra-em-uma-nova-era/",
       "https://canaltech.com.br/carros/por-que-o-jeep-compass-vai-mudar-tanto-ate-2028-veja-o-que-vem-por-ai/",
       "https://canaltech.com.br/mercado/sua-carreira-na-mira-as-11-profissoes-mais-expostas-a-inteligencia-artificial/",
-      "https://canaltech.com.br/apps/novo-app-do-banco-do-brasil-traz-ia-para-orientar-clientes-por-voz-e-texto/"
+      "https://canaltech.com.br/apps/novo-app-do-banco-do-brasil-traz-ia-para-orientar-clientes-por-voz-e-texto/",
+      "https://canaltech.com.br/inteligencia-artificial/nova-era-de-ameacas-openai-alerta-para-ciberataques-continuos-gerados-por-ia/",
+      "https://canaltech.com.br/apps/como-usar-o-chatgpt-do-cadastro-basico-aos-melhores-comandos-prompts/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1342,7 +1347,8 @@
       "https://startups.com.br/?p=339857",
       "https://startups.com.br/?p=339912",
       "https://startups.com.br/?p=339932",
-      "https://startups.com.br/?p=339930"
+      "https://startups.com.br/?p=339930",
+      "https://startups.com.br/?p=340055"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1395,45 +1401,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "build",
-      "grok",
-      "mobile"
-    ],
-    [
-      "grok"
-    ],
-    [
-      "brouhaha",
-      "cautionary",
-      "drop",
-      "founders",
-      "lawsuits",
-      "rippling",
-      "runlayer",
-      "still",
-      "tale"
-    ],
-    [
-      "driven",
-      "fight",
-      "gives",
-      "google",
-      "losses",
-      "publishers",
-      "traffic"
-    ],
-    [
-      "adds",
-      "adobe",
-      "audio",
-      "firefly",
-      "flash",
-      "gemini",
-      "google",
-      "omni",
-      "tools"
-    ],
     [
       "doesn",
       "hate",
@@ -3156,6 +3123,41 @@
       "orientar",
       "texto",
       "traz"
+    ],
+    [
+      "mistral"
+    ],
+    [
+      "build",
+      "learn",
+      "llms",
+      "scratch",
+      "were"
+    ],
+    [
+      "alerta",
+      "ameacas",
+      "ciberataques",
+      "continuos",
+      "gerados",
+      "openai"
+    ],
+    [
+      "basico",
+      "cadastro",
+      "chatgpt",
+      "comandos",
+      "melhores",
+      "prompts",
+      "usar"
+    ],
+    [
+      "dizer",
+      "face",
+      "hugging",
+      "negocia",
+      "nvidia",
+      "venda"
     ]
   ]
 }
