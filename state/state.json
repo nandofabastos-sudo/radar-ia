@@ -852,7 +852,8 @@
       "https://news.crunchbase.com/?p=93985",
       "https://news.crunchbase.com/?p=93990",
       "https://news.crunchbase.com/?p=93944",
-      "https://news.crunchbase.com/?p=93995"
+      "https://news.crunchbase.com/?p=93995",
+      "https://news.crunchbase.com/?p=93988"
     ]
   },
   "brasil": {
@@ -1004,7 +1005,9 @@
       "https://olhardigital.com.br/?p=1365878",
       "https://olhardigital.com.br/?p=1365884",
       "https://olhardigital.com.br/?p=1361601",
-      "https://olhardigital.com.br/?p=1365896"
+      "https://olhardigital.com.br/?p=1365896",
+      "https://olhardigital.com.br/?p=1365899",
+      "https://olhardigital.com.br/?p=1365903"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1361,29 +1364,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "data",
-      "encrypted",
-      "exfiltrates",
-      "grok",
-      "instructions",
-      "malicious",
-      "user",
-      "when"
-    ],
-    [
-      "apple",
-      "deepfake",
-      "impulsionado",
-      "meta",
-      "pela",
-      "porno",
-      "remove"
-    ],
-    [
-      "analisa",
-      "curriculo"
-    ],
     [
       "mistral"
     ],
@@ -3096,6 +3076,32 @@
       "robo",
       "supera",
       "viagem"
+    ],
+    [
+      "acquiring",
+      "high",
+      "startups",
+      "still",
+      "ultra",
+      "unicorns",
+      "valuation"
+    ],
+    [
+      "bolt",
+      "china",
+      "humanoide",
+      "olimpiadas",
+      "recordes",
+      "robos",
+      "superando",
+      "usain"
+    ],
+    [
+      "bilhao",
+      "brasileira",
+      "judiciais",
+      "processos",
+      "vale"
     ]
   ]
 }
