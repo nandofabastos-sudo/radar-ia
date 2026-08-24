@@ -295,7 +295,8 @@
       "https://techcrunch.com/?p=3155861",
       "https://techcrunch.com/?p=3155556",
       "https://techcrunch.com/?p=3155870",
-      "https://techcrunch.com/?p=3155879"
+      "https://techcrunch.com/?p=3155879",
+      "https://techcrunch.com/?p=3155919"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -480,7 +481,8 @@
       "https://the-decoder.com/?p=39306",
       "https://the-decoder.com/?p=39363",
       "https://the-decoder.com/?p=39366",
-      "https://the-decoder.com/?p=39372"
+      "https://the-decoder.com/?p=39372",
+      "https://the-decoder.com/?p=39375"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -581,7 +583,8 @@
       "7AqGcMB9hCd7buI4KLhDZV",
       "6y4lGj2ZoY6guqwCLwvG6e",
       "2znePv9XlFXwfla86XQI2g",
-      "42zTQ8lWVxrydsSXs0FK3U"
+      "42zTQ8lWVxrydsSXs0FK3U",
+      "12euSigLHkI0DDRafGTFMv"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -1007,7 +1010,8 @@
       "https://olhardigital.com.br/?p=1361601",
       "https://olhardigital.com.br/?p=1365896",
       "https://olhardigital.com.br/?p=1365899",
-      "https://olhardigital.com.br/?p=1365903"
+      "https://olhardigital.com.br/?p=1365903",
+      "https://olhardigital.com.br/?p=1365983"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1365,34 +1369,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "crisis",
-      "math",
-      "welcome"
-    ],
-    [
-      "caught",
-      "china",
-      "frontier",
-      "lead",
-      "left",
-      "radar",
-      "western",
-      "what"
-    ],
-    [
-      "dynamic",
-      "ggufs",
-      "unsloth"
-    ],
-    [
-      "center",
-      "data",
-      "elections",
-      "everywhere",
-      "outrage",
-      "showing"
-    ],
     [
       "chega",
       "comprovantes",
@@ -3105,6 +3081,43 @@
       "arquitetura",
       "entra",
       "tradicional"
+    ],
+    [
+      "acquired",
+      "face",
+      "hugging",
+      "reportedly",
+      "talks"
+    ],
+    [
+      "anthropic",
+      "bets",
+      "instead",
+      "openai",
+      "owning",
+      "renting",
+      "reuters",
+      "thomson"
+    ],
+    [
+      "agent",
+      "anthropic",
+      "claude",
+      "conversation",
+      "full",
+      "jump",
+      "lets",
+      "read",
+      "slack",
+      "unprompted",
+      "update"
+    ],
+    [
+      "alibaba",
+      "cria",
+      "documentos",
+      "partir",
+      "videos"
     ]
   ]
 }
