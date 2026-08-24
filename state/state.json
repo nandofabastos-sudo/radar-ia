@@ -135,7 +135,10 @@
       "https://blogs.nvidia.com/?p=97323",
       "https://blogs.nvidia.com/?p=97441",
       "https://blogs.nvidia.com/?p=97450",
-      "https://blogs.nvidia.com/?p=97549"
+      "https://blogs.nvidia.com/?p=97549",
+      "https://blogs.nvidia.com/?p=97826",
+      "https://blogs.nvidia.com/?p=97768",
+      "https://blogs.nvidia.com/?p=97869"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -296,7 +299,9 @@
       "https://techcrunch.com/?p=3155556",
       "https://techcrunch.com/?p=3155870",
       "https://techcrunch.com/?p=3155879",
-      "https://techcrunch.com/?p=3155919"
+      "https://techcrunch.com/?p=3155919",
+      "https://techcrunch.com/?p=3155884",
+      "https://techcrunch.com/?p=3155937"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -483,7 +488,8 @@
       "https://the-decoder.com/?p=39366",
       "https://the-decoder.com/?p=39372",
       "https://the-decoder.com/?p=39375",
-      "https://the-decoder.com/?p=39381"
+      "https://the-decoder.com/?p=39381",
+      "https://the-decoder.com/?p=39384"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -805,7 +811,9 @@
       "108352805",
       "108353042",
       "108346804",
-      "108353087"
+      "108353087",
+      "108353205",
+      "108352854"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1014,7 +1022,8 @@
       "https://olhardigital.com.br/?p=1365899",
       "https://olhardigital.com.br/?p=1365903",
       "https://olhardigital.com.br/?p=1365983",
-      "https://olhardigital.com.br/?p=1365988"
+      "https://olhardigital.com.br/?p=1365988",
+      "https://olhardigital.com.br/?p=1366023"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1066,7 +1075,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=924559",
       "https://tecnoblog.net/?post_type=noticias&p=924653",
       "https://tecnoblog.net/?post_type=noticias&p=924718",
-      "https://tecnoblog.net/?post_type=noticias&p=924868"
+      "https://tecnoblog.net/?post_type=noticias&p=924868",
+      "https://tecnoblog.net/?post_type=noticias&p=925409"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1368,113 +1378,11 @@
       "https://www.mobiletime.com.br/?p=861902",
       "https://www.mobiletime.com.br/?p=861879",
       "https://www.mobiletime.com.br/?p=862006",
-      "https://www.mobiletime.com.br/?p=862023"
+      "https://www.mobiletime.com.br/?p=862023",
+      "https://www.mobiletime.com.br/?p=862107"
     ]
   },
   "_titulos_recentes": [
-    [
-      "agua",
-      "claude",
-      "codigo",
-      "invisivel",
-      "marca",
-      "promete",
-      "remover"
-    ],
-    [
-      "agua",
-      "ajuda",
-      "autoria",
-      "claude",
-      "marca",
-      "prova",
-      "textos",
-      "transparencia"
-    ],
-    [
-      "botar",
-      "brasil",
-      "massa",
-      "openai",
-      "quer"
-    ],
-    [
-      "chatgpt",
-      "helps",
-      "ideas",
-      "market",
-      "move",
-      "stampli",
-      "work"
-    ],
-    [
-      "enterprises",
-      "fast",
-      "finds",
-      "fuel",
-      "fusion",
-      "inertia",
-      "make"
-    ],
-    [
-      "brings",
-      "code",
-      "games",
-      "lets",
-      "meta",
-      "pocket",
-      "share",
-      "users",
-      "vibe"
-    ],
-    [
-      "consciousness",
-      "debates",
-      "over",
-      "trap"
-    ],
-    [
-      "agua",
-      "burlar",
-      "claude",
-      "conseguem",
-      "devs",
-      "horas",
-      "marca",
-      "poucas",
-      "textos"
-    ],
-    [
-      "ampliar",
-      "capacidade",
-      "criacao",
-      "free",
-      "lanca",
-      "mode",
-      "promete",
-      "replit",
-      "vezes"
-    ],
-    [
-      "called",
-      "launches",
-      "model",
-      "ramp",
-      "router"
-    ],
-    [
-      "authorship",
-      "chatgpt",
-      "finds",
-      "launch",
-      "published",
-      "show",
-      "signs",
-      "since",
-      "study",
-      "third",
-      "webpages"
-    ],
     [
       "brockman",
       "greg",
@@ -3114,6 +3022,124 @@
       "contra",
       "nvidia",
       "rivais"
+    ],
+    [
+      "agents",
+      "efficiency",
+      "more",
+      "nvidia",
+      "nvl72",
+      "rubin",
+      "sets",
+      "standard",
+      "vera",
+      "watt",
+      "work"
+    ],
+    [
+      "agents",
+      "extends",
+      "full",
+      "groq",
+      "inference",
+      "nvidia",
+      "production",
+      "rubin",
+      "vera"
+    ],
+    [
+      "class",
+      "factory",
+      "meet",
+      "world",
+      "xpus"
+    ],
+    [
+      "agents",
+      "building",
+      "everyone",
+      "everything",
+      "openai",
+      "them",
+      "will"
+    ],
+    [
+      "back",
+      "general",
+      "into",
+      "intuition",
+      "point72",
+      "pushes",
+      "robotics",
+      "startup",
+      "valor",
+      "valuation"
+    ],
+    [
+      "alibaba",
+      "documents",
+      "generates",
+      "images",
+      "long",
+      "seconds",
+      "text",
+      "videos",
+      "wan3"
+    ],
+    [
+      "bankers",
+      "danger",
+      "goldman",
+      "huge",
+      "letting",
+      "partner",
+      "reasoning",
+      "replace",
+      "sachs",
+      "skills",
+      "warns"
+    ],
+    [
+      "billion",
+      "following",
+      "groq",
+      "nvidia",
+      "online",
+      "purchase",
+      "racks",
+      "will",
+      "year"
+    ],
+    [
+      "bloquinhos",
+      "entenda",
+      "hora",
+      "pela",
+      "responder",
+      "token",
+      "usados"
+    ],
+    [
+      "corrigir",
+      "infernal",
+      "linus",
+      "linux",
+      "torvalds",
+      "usou"
+    ],
+    [
+      "anpd",
+      "aplicativo",
+      "apps",
+      "digitais",
+      "entre",
+      "generativa",
+      "inicia",
+      "lojas",
+      "monitoramento",
+      "plataformas",
+      "redes",
+      "sociais"
     ]
   ]
 }
