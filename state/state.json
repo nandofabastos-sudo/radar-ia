@@ -301,7 +301,8 @@
       "https://techcrunch.com/?p=3155879",
       "https://techcrunch.com/?p=3155919",
       "https://techcrunch.com/?p=3155884",
-      "https://techcrunch.com/?p=3155937"
+      "https://techcrunch.com/?p=3155937",
+      "https://techcrunch.com/?p=3155931"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -489,7 +490,8 @@
       "https://the-decoder.com/?p=39372",
       "https://the-decoder.com/?p=39375",
       "https://the-decoder.com/?p=39381",
-      "https://the-decoder.com/?p=39384"
+      "https://the-decoder.com/?p=39384",
+      "https://the-decoder.com/?p=39392"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1026,7 +1028,9 @@
       "https://olhardigital.com.br/?p=1365988",
       "https://olhardigital.com.br/?p=1366023",
       "https://olhardigital.com.br/?p=1366065",
-      "https://olhardigital.com.br/?p=1365759"
+      "https://olhardigital.com.br/?p=1365759",
+      "https://olhardigital.com.br/?p=1366103",
+      "https://olhardigital.com.br/?p=1366106"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1187,7 +1191,8 @@
       "https://canaltech.com.br/entretenimento/filmes-maiores-flops-2026/",
       "https://canaltech.com.br/hardware/do-pc-tradicional-ao-ai-pc-a-arquitetura-entra-em-uma-nova-era/",
       "https://canaltech.com.br/carros/por-que-o-jeep-compass-vai-mudar-tanto-ate-2028-veja-o-que-vem-por-ai/",
-      "https://canaltech.com.br/mercado/sua-carreira-na-mira-as-11-profissoes-mais-expostas-a-inteligencia-artificial/"
+      "https://canaltech.com.br/mercado/sua-carreira-na-mira-as-11-profissoes-mais-expostas-a-inteligencia-artificial/",
+      "https://canaltech.com.br/apps/novo-app-do-banco-do-brasil-traz-ia-para-orientar-clientes-por-voz-e-texto/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1390,33 +1395,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agentes",
-      "mundo",
-      "vindo"
-    ],
-    [
-      "antes",
-      "doencas",
-      "encontra",
-      "existe",
-      "limite",
-      "medico",
-      "olhos"
-    ],
-    [
-      "burlada",
-      "cair",
-      "claude",
-      "hoje",
-      "novidade",
-      "rolando",
-      "telescopio"
-    ],
-    [
-      "grok",
-      "introducing"
-    ],
     [
       "build",
       "grok",
@@ -3142,6 +3120,42 @@
       "venda",
       "video",
       "wan3"
+    ],
+    [
+      "assistant",
+      "concerns",
+      "instinct",
+      "powerful",
+      "privacy",
+      "raising",
+      "security"
+    ],
+    [
+      "chatgpt",
+      "confirms",
+      "launch",
+      "rise",
+      "sharp",
+      "since",
+      "study",
+      "text",
+      "written"
+    ],
+    [
+      "chips",
+      "groq",
+      "mira",
+      "nvidia",
+      "rapidas",
+      "respostas"
+    ],
+    [
+      "banco",
+      "brasil",
+      "clientes",
+      "orientar",
+      "texto",
+      "traz"
     ]
   ]
 }
