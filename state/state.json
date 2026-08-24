@@ -537,7 +537,8 @@
       "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
       "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-      "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/"
+      "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1038,7 +1039,8 @@
       "https://olhardigital.com.br/?p=1366065",
       "https://olhardigital.com.br/?p=1365759",
       "https://olhardigital.com.br/?p=1366103",
-      "https://olhardigital.com.br/?p=1366106"
+      "https://olhardigital.com.br/?p=1366106",
+      "https://olhardigital.com.br/?p=1366194"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1409,21 +1411,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "actually",
-      "centers",
-      "cool",
-      "data"
-    ],
-    [
-      "ajuda",
-      "concursos",
-      "estudantes",
-      "estudos",
-      "gemini",
-      "provas",
-      "veja"
-    ],
     [
       "anuncia",
       "bilhao",
@@ -3169,6 +3156,24 @@
       "pagando",
       "recontratam",
       "substituidos"
+    ],
+    [
+      "entry",
+      "finds",
+      "hardest",
+      "hitting",
+      "jobs",
+      "level",
+      "stanford",
+      "study"
+    ],
+    [
+      "alvos",
+      "autonomamente",
+      "drone",
+      "escolhe",
+      "guiado",
+      "russo"
     ]
   ]
 }
