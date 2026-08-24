@@ -529,7 +529,8 @@
       "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
       "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
       "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
+      "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1023,7 +1024,9 @@
       "https://olhardigital.com.br/?p=1365903",
       "https://olhardigital.com.br/?p=1365983",
       "https://olhardigital.com.br/?p=1365988",
-      "https://olhardigital.com.br/?p=1366023"
+      "https://olhardigital.com.br/?p=1366023",
+      "https://olhardigital.com.br/?p=1366065",
+      "https://olhardigital.com.br/?p=1365759"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1183,7 +1186,8 @@
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-chatgpt-canvas-e-como-usar/",
       "https://canaltech.com.br/entretenimento/filmes-maiores-flops-2026/",
       "https://canaltech.com.br/hardware/do-pc-tradicional-ao-ai-pc-a-arquitetura-entra-em-uma-nova-era/",
-      "https://canaltech.com.br/carros/por-que-o-jeep-compass-vai-mudar-tanto-ate-2028-veja-o-que-vem-por-ai/"
+      "https://canaltech.com.br/carros/por-que-o-jeep-compass-vai-mudar-tanto-ate-2028-veja-o-que-vem-por-ai/",
+      "https://canaltech.com.br/mercado/sua-carreira-na-mira-as-11-profissoes-mais-expostas-a-inteligencia-artificial/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1285,7 +1289,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/22/ceo-conta-segredo-para-formar-jovens-quando-ia-ja-faz-tudo-testadores.htm",
       "https://www.uol.com.br/flash/?c=cd3053655f3318d13dd8182f812bb5c720260821",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/23/openai-muda-de-posicao-e-pede-regras-mais-duras-na-california.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/24/unidade-de-robotica-de-montadora-chinesa-xpeng-e-avaliada-em-mais-de-us63-bi.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/24/unidade-de-robotica-de-montadora-chinesa-xpeng-e-avaliada-em-mais-de-us63-bi.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/24/alibaba-lanca-modelo-de-video-com-ia-wan30-apos-venda-de-acoes-de-us10-bilhoes.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1385,52 +1390,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "eleicoes",
-      "imaginava",
-      "impacto",
-      "menor",
-      "pode"
-    ],
-    [
-      "estudantes",
-      "funcionalidades",
-      "google",
-      "reune",
-      "student"
-    ],
-    [
-      "gibberish",
-      "grok",
-      "keeps",
-      "responses",
-      "sending",
-      "users"
-    ],
-    [
-      "built",
-      "calendar",
-      "household",
-      "just",
-      "linkdaze",
-      "schedule",
-      "smart",
-      "track"
-    ],
-    [
-      "could",
-      "detectable",
-      "guardrails",
-      "humans",
-      "like",
-      "llms",
-      "make",
-      "post",
-      "text",
-      "their",
-      "training",
-      "write"
-    ],
     [
       "agentes",
       "mundo",
@@ -3140,6 +3099,49 @@
       "robotica",
       "unidade",
       "xpeng"
+    ],
+    [
+      "china",
+      "linked",
+      "manager",
+      "nvidia",
+      "scheme",
+      "senior",
+      "servers",
+      "smuggling",
+      "supermicro"
+    ],
+    [
+      "chegam",
+      "china",
+      "chips",
+      "indireta",
+      "nvidia",
+      "rota",
+      "servidores"
+    ],
+    [
+      "chegou",
+      "saber",
+      "singularidade"
+    ],
+    [
+      "artificial",
+      "carreira",
+      "expostas",
+      "inteligencia",
+      "mira",
+      "profissoes"
+    ],
+    [
+      "acoes",
+      "alibaba",
+      "bilhoes",
+      "lanca",
+      "modelo",
+      "venda",
+      "video",
+      "wan3"
     ]
   ]
 }
