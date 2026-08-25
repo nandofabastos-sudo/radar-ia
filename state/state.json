@@ -319,7 +319,8 @@
       "https://techcrunch.com/?p=3156161",
       "https://techcrunch.com/?p=3156453",
       "https://techcrunch.com/?p=3154850",
-      "https://techcrunch.com/?p=3156630"
+      "https://techcrunch.com/?p=3156630",
+      "https://techcrunch.com/?p=3156618"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -517,7 +518,8 @@
       "https://the-decoder.com/?p=39412",
       "https://the-decoder.com/?p=39413",
       "https://the-decoder.com/?p=39421",
-      "https://the-decoder.com/?p=39425"
+      "https://the-decoder.com/?p=39425",
+      "https://the-decoder.com/?p=39431"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1087,7 +1089,8 @@
       "https://olhardigital.com.br/?p=1366365",
       "https://olhardigital.com.br/?p=1366367",
       "https://olhardigital.com.br/?p=1366425",
-      "https://olhardigital.com.br/?p=1366450"
+      "https://olhardigital.com.br/?p=1366450",
+      "https://olhardigital.com.br/?p=1366426"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1141,7 +1144,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=924718",
       "https://tecnoblog.net/?post_type=noticias&p=924868",
       "https://tecnoblog.net/?post_type=noticias&p=925409",
-      "https://tecnoblog.net/?post_type=noticias&p=925593"
+      "https://tecnoblog.net/?post_type=noticias&p=925593",
+      "https://tecnoblog.net/?post_type=noticias&p=925894"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1483,36 +1487,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agent",
-      "benchmarks",
-      "deepseek",
-      "experimental",
-      "flash",
-      "model",
-      "opus",
-      "releases",
-      "rivals",
-      "vision"
-    ],
-    [
-      "colocando",
-      "empresas",
-      "especialistas",
-      "esta",
-      "exercito",
-      "street",
-      "wall"
-    ],
-    [
-      "chatgpt",
-      "conversas",
-      "escreve",
-      "monitorar",
-      "openai",
-      "tecnologia",
-      "voce"
-    ],
     [
       "algoritmo",
       "desligar",
@@ -3289,6 +3263,37 @@
       "rolando",
       "satelites",
       "tiktok"
+    ],
+    [
+      "diffusion",
+      "fresh",
+      "funding",
+      "generator",
+      "image",
+      "maker",
+      "million",
+      "raises",
+      "stability",
+      "stable"
+    ],
+    [
+      "aumenta",
+      "bancos",
+      "contra",
+      "fraudes",
+      "papel",
+      "reacao",
+      "reduz",
+      "tempo"
+    ],
+    [
+      "cada",
+      "contou",
+      "ninguem",
+      "pessoas",
+      "sabia",
+      "segredo",
+      "tres"
     ]
   ]
 }
