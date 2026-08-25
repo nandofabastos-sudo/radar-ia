@@ -380,7 +380,8 @@
       "https://www.theverge.com/?p=983088",
       "https://www.theverge.com/?p=983181",
       "https://www.theverge.com/?p=983502",
-      "https://www.theverge.com/?p=984239"
+      "https://www.theverge.com/?p=984239",
+      "https://www.theverge.com/?p=984290"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -505,7 +506,8 @@
       "https://the-decoder.com/?p=39401",
       "https://the-decoder.com/?p=39407",
       "https://the-decoder.com/?p=39405",
-      "https://the-decoder.com/?p=39412"
+      "https://the-decoder.com/?p=39412",
+      "https://the-decoder.com/?p=39413"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -547,7 +549,8 @@
       "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
       "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
+      "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -843,7 +846,8 @@
       "108353699",
       "108353734",
       "108349469",
-      "108353577"
+      "108353577",
+      "108353555"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1065,7 +1069,9 @@
       "https://olhardigital.com.br/?p=1366106",
       "https://olhardigital.com.br/?p=1366194",
       "https://olhardigital.com.br/?p=1366215",
-      "https://olhardigital.com.br/?p=1366243"
+      "https://olhardigital.com.br/?p=1366243",
+      "https://olhardigital.com.br/?p=1366365",
+      "https://olhardigital.com.br/?p=1366367"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1233,7 +1239,8 @@
       "https://canaltech.com.br/apps/como-usar-o-chatgpt-do-cadastro-basico-aos-melhores-comandos-prompts/",
       "https://canaltech.com.br/inteligencia-artificial/quarta-queda-no-mes-por-que-o-claude-vive-caindo-e-fora-do-ar/",
       "https://canaltech.com.br/inteligencia-artificial/empresas-recontratam-funcionarios-substituidos-por-ia-mas-pagando-menos-por-que/",
-      "https://canaltech.com.br/mercado/amazon-e-twitch-sao-processadas-por-usar-lives-sem-permissao-para-treinar-ia/"
+      "https://canaltech.com.br/mercado/amazon-e-twitch-sao-processadas-por-usar-lives-sem-permissao-para-treinar-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/openai-volta-a-colocar-trava-de-5-horas-no-chatgpt-plus-por-que/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1340,7 +1347,11 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/24/estado-dos-eua-investiga-openai-por-invasao-autonoma-e-exige-registros.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/deu-tilt-ep-81.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/25/musicas-criadas-por-ia-sao-banidas-de-paradas-de-sucesso-na-australia.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/25/motor-da-ia-racha-a-direita-nos-eua-e-ameaca-eleicao-vital-para-trump.ghtm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/25/motor-da-ia-racha-a-direita-nos-eua-e-ameaca-eleicao-vital-para-trump.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/musk-diz-que-spacex-vai-lancar-primeiros-satelites-de-ia-no-fim-de-2026.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/nvidia-enfrenta-teste-de-crescimento-com-estreia-do-rubin-em-meio-a-escrutinio-sobre-financiamento-de-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/chatgpt-libera-criacao-de-packs-de-figurinhas-para-whatsapp-e-imessage.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/pesquisadores-desenvolvem-modelo-de-ia-que-processa-quantidade-muito-maior-de-informacoes.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1447,110 +1458,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bids",
-      "breathing",
-      "construction",
-      "deals",
-      "everything",
-      "have",
-      "interesting",
-      "missed",
-      "recycling",
-      "startup",
-      "winning"
-    ],
-    [
-      "chatgpt",
-      "enviar",
-      "imessage",
-      "mensagens",
-      "passa",
-      "pelo"
-    ],
-    [
-      "cada",
-      "chatgpt",
-      "criados",
-      "sinais",
-      "sites",
-      "tres"
-    ],
-    [
-      "atari",
-      "building",
-      "games",
-      "online",
-      "research",
-      "years"
-    ],
-    [
-      "american",
-      "backlash",
-      "bessent",
-      "brands",
-      "center",
-      "china",
-      "data",
-      "more",
-      "morning",
-      "squawk",
-      "toolkit"
-    ],
-    [
-      "candidato",
-      "chatgpt",
-      "escorrega",
-      "preferido",
-      "presidencia",
-      "regra"
-    ],
-    [
-      "accepting",
-      "backlash",
-      "creators",
-      "facing",
-      "major",
-      "money",
-      "youtube"
-    ],
-    [
-      "deepseek",
-      "entende",
-      "executa",
-      "imagens",
-      "lanca",
-      "sozinha",
-      "tarefas"
-    ],
-    [
-      "abre",
-      "acionistas",
-      "bilhoes",
-      "boom",
-      "cofre",
-      "devolve",
-      "meio",
-      "samsung"
-    ],
-    [
-      "centers",
-      "data",
-      "launch",
-      "million",
-      "options",
-      "orbital",
-      "raises",
-      "starcloud"
-    ],
-    [
-      "bilhoes",
-      "brasil",
-      "infraestrutura",
-      "investe",
-      "nacional",
-      "turbinar"
-    ],
     [
       "acessar",
       "iphone",
@@ -3237,6 +3144,112 @@
       "financeiro",
       "proximo",
       "sera"
+    ],
+    [
+      "chip",
+      "competition",
+      "faster",
+      "jalapeno",
+      "openai",
+      "power",
+      "responses",
+      "than"
+    ],
+    [
+      "agent",
+      "called",
+      "hatch",
+      "launches",
+      "meta",
+      "model",
+      "october",
+      "paid",
+      "soon",
+      "watermelon"
+    ],
+    [
+      "apple",
+      "computers",
+      "designed",
+      "desktop",
+      "development",
+      "local",
+      "specifically"
+    ],
+    [
+      "announces",
+      "apple",
+      "mini",
+      "models",
+      "studio",
+      "upgrades"
+    ],
+    [
+      "album",
+      "chatgpt",
+      "cria",
+      "figurinhas",
+      "iphone",
+      "monta",
+      "quem",
+      "saiba"
+    ],
+    [
+      "2026",
+      "bancos",
+      "ceos",
+      "discutem",
+      "febraban",
+      "limites",
+      "presidentes",
+      "tech"
+    ],
+    [
+      "chatgpt",
+      "colocar",
+      "horas",
+      "openai",
+      "plus",
+      "trava",
+      "volta"
+    ],
+    [
+      "espaco",
+      "lancar",
+      "partir",
+      "planeja",
+      "satelites",
+      "spacex"
+    ],
+    [
+      "crescimento",
+      "enfrenta",
+      "escrutinio",
+      "estreia",
+      "financiamento",
+      "meio",
+      "nvidia",
+      "rubin",
+      "teste"
+    ],
+    [
+      "agora",
+      "chatgpt",
+      "criar",
+      "exportar",
+      "figurinhas",
+      "permite",
+      "whatsapp"
+    ],
+    [
+      "desenvolvem",
+      "informacoes",
+      "maior",
+      "modelo",
+      "muito",
+      "pesquisadores",
+      "processa",
+      "quantidade"
     ]
   ]
 }
