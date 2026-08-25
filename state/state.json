@@ -889,7 +889,9 @@
       "https://news.crunchbase.com/?p=93990",
       "https://news.crunchbase.com/?p=93944",
       "https://news.crunchbase.com/?p=93995",
-      "https://news.crunchbase.com/?p=93988"
+      "https://news.crunchbase.com/?p=93988",
+      "https://news.crunchbase.com/?p=93992",
+      "https://news.crunchbase.com/?p=93999"
     ]
   },
   "brasil": {
@@ -1345,7 +1347,8 @@
       "https://neofeed.com.br/?p=233409",
       "https://neofeed.com.br/?p=233841",
       "https://neofeed.com.br/?p=233658",
-      "https://neofeed.com.br/?p=233346"
+      "https://neofeed.com.br/?p=233346",
+      "https://neofeed.com.br/?p=234173"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -1374,7 +1377,8 @@
       "https://startups.com.br/?p=339912",
       "https://startups.com.br/?p=339932",
       "https://startups.com.br/?p=339930",
-      "https://startups.com.br/?p=340055"
+      "https://startups.com.br/?p=340055",
+      "https://startups.com.br/?p=340080"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1430,38 +1434,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anuncia",
-      "apple",
-      "chatgpt",
-      "integracao",
-      "mensageria",
-      "openai"
-    ],
-    [
-      "county",
-      "english",
-      "palantir",
-      "saying",
-      "single"
-    ],
-    [
-      "background",
-      "generate",
-      "image",
-      "images",
-      "openai",
-      "without"
-    ],
-    [
-      "anthropic",
-      "drives",
-      "ground",
-      "openai",
-      "regains",
-      "revenue",
-      "surge"
-    ],
     [
       "acquiring",
       "billion",
@@ -3197,6 +3169,45 @@
       "rogue",
       "systems",
       "went"
+    ],
+    [
+      "bootstrapped",
+      "businesses",
+      "ever",
+      "more",
+      "relevant",
+      "than"
+    ],
+    [
+      "divide",
+      "equityzen",
+      "haslett",
+      "inside",
+      "market",
+      "phil",
+      "private",
+      "saas",
+      "secondaries"
+    ],
+    [
+      "artificial",
+      "gera",
+      "inteligencia",
+      "leva",
+      "neosummit",
+      "palco",
+      "real",
+      "resultados"
+    ],
+    [
+      "2026",
+      "amplia",
+      "eleicoes",
+      "eleitoral",
+      "expoe",
+      "justica",
+      "limites",
+      "riscos"
     ]
   ]
 }
