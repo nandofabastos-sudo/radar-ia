@@ -1090,7 +1090,8 @@
       "https://olhardigital.com.br/?p=1366367",
       "https://olhardigital.com.br/?p=1366425",
       "https://olhardigital.com.br/?p=1366450",
-      "https://olhardigital.com.br/?p=1366426"
+      "https://olhardigital.com.br/?p=1366426",
+      "https://olhardigital.com.br/?p=1366445"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1431,7 +1432,8 @@
       "https://startups.com.br/?p=340055",
       "https://startups.com.br/?p=340080",
       "https://startups.com.br/?p=340095",
-      "https://startups.com.br/?p=340085"
+      "https://startups.com.br/?p=340085",
+      "https://startups.com.br/?p=340120"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1487,24 +1489,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "algoritmo",
-      "desligar",
-      "europa",
-      "leva",
-      "motoristas",
-      "multa",
-      "uber"
-    ],
-    [
-      "harness",
-      "hero",
-      "just",
-      "model",
-      "nvidia",
-      "real",
-      "showed"
-    ],
     [
       "anthropic",
       "claude",
@@ -3294,6 +3278,27 @@
       "sabia",
       "segredo",
       "tres"
+    ],
+    [
+      "desenhando",
+      "dublador",
+      "esta",
+      "etica",
+      "game",
+      "industria",
+      "linha",
+      "morto",
+      "pode",
+      "voltar"
+    ],
+    [
+      "agentes",
+      "bancos",
+      "colocam",
+      "diante",
+      "dilema",
+      "maiores",
+      "pais"
     ]
   ]
 }
