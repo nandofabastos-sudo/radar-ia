@@ -1043,7 +1043,8 @@
       "https://olhardigital.com.br/?p=1366103",
       "https://olhardigital.com.br/?p=1366106",
       "https://olhardigital.com.br/?p=1366194",
-      "https://olhardigital.com.br/?p=1366215"
+      "https://olhardigital.com.br/?p=1366215",
+      "https://olhardigital.com.br/?p=1366243"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1417,14 +1418,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "brasil",
-      "chefias",
-      "empresas",
-      "estudo",
-      "mulheres",
-      "ocupam"
-    ],
     [
       "agentes",
       "algar",
@@ -3188,6 +3181,14 @@
       "investiga",
       "openai",
       "registros"
+    ],
+    [
+      "contra",
+      "entra",
+      "folha",
+      "paulo",
+      "perplexity",
+      "processo"
     ]
   ]
 }
