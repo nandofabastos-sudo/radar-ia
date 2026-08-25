@@ -47,7 +47,8 @@
       "https://openai.com/index/gpt-5-6-in-kiro",
       "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "https://openai.com/index/jalapeno-first-results",
-      "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+      "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "https://openai.com/index/introducing-admin-plugin"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -317,7 +318,8 @@
       "https://techcrunch.com/?p=3156075",
       "https://techcrunch.com/?p=3156161",
       "https://techcrunch.com/?p=3156453",
-      "https://techcrunch.com/?p=3154850"
+      "https://techcrunch.com/?p=3154850",
+      "https://techcrunch.com/?p=3156630"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -621,7 +623,8 @@
       "2znePv9XlFXwfla86XQI2g",
       "42zTQ8lWVxrydsSXs0FK3U",
       "12euSigLHkI0DDRafGTFMv",
-      "4snwOnM2K24iEGPc3OBjLw"
+      "4snwOnM2K24iEGPc3OBjLw",
+      "2N7QzleeaZrEU9uehfXeR4"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -944,7 +947,8 @@
       "https://mittechreview.com.br/?p=261549",
       "https://mittechreview.com.br/?p=261565",
       "https://mittechreview.com.br/?p=261598",
-      "https://mittechreview.com.br/?p=262355"
+      "https://mittechreview.com.br/?p=262355",
+      "https://mittechreview.com.br/?p=262595"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1081,7 +1085,8 @@
       "https://olhardigital.com.br/?p=1366243",
       "https://olhardigital.com.br/?p=1366365",
       "https://olhardigital.com.br/?p=1366367",
-      "https://olhardigital.com.br/?p=1366425"
+      "https://olhardigital.com.br/?p=1366425",
+      "https://olhardigital.com.br/?p=1366450"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1366,7 +1371,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/chatgpt-libera-criacao-de-packs-de-figurinhas-para-whatsapp-e-imessage.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/pesquisadores-desenvolvem-modelo-de-ia-que-processa-quantidade-muito-maior-de-informacoes.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/google-expande-plataforma-de-ia-para-escritorios-de-advocacia-e-advogados.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/apple-lanca-novos-mac-mini-e-mac-studio-para-aproveitar-boom-da-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/apple-lanca-novos-mac-mini-e-mac-studio-para-aproveitar-boom-da-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/anthropic-deve-dizer-a-investidores-que-estima-receita-potencial-de-mais-de-us30-tri-diz-wsj.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1474,54 +1480,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "barata",
-      "claude",
-      "competir",
-      "deepseek",
-      "opus",
-      "revela"
-    ],
-    [
-      "cancer",
-      "combate",
-      "entrou",
-      "vacinas"
-    ],
-    [
-      "center",
-      "data",
-      "finds",
-      "just",
-      "opposition",
-      "percent",
-      "surged",
-      "survey",
-      "year"
-    ],
-    [
-      "aerea",
-      "companhia",
-      "lucrar",
-      "revela",
-      "usar"
-    ],
-    [
-      "entidades",
-      "investiguem",
-      "meta",
-      "oculos",
-      "pedem"
-    ],
-    [
-      "congestionado",
-      "esta",
-      "ganhando",
-      "hoje",
-      "menos",
-      "mulheres",
-      "rolando"
-    ],
     [
       "agente",
       "factorial",
@@ -3266,6 +3224,58 @@
       "pomposo",
       "primero",
       "seed"
+    ],
+    [
+      "admin",
+      "chatgpt",
+      "codex",
+      "introducing",
+      "plugin",
+      "work"
+    ],
+    [
+      "chat",
+      "claude",
+      "cowork",
+      "finally",
+      "remembers",
+      "told",
+      "what"
+    ],
+    [
+      "attack",
+      "incident",
+      "injection",
+      "invisible",
+      "itself",
+      "owasp",
+      "prompt",
+      "ranks",
+      "record",
+      "scan"
+    ],
+    [
+      "artificial",
+      "inteligencia",
+      "precisar"
+    ],
+    [
+      "ajudar",
+      "chatgpt",
+      "confia",
+      "nada",
+      "pode",
+      "sabe",
+      "voce"
+    ],
+    [
+      "anthropic",
+      "deve",
+      "dizer",
+      "estima",
+      "investidores",
+      "potencial",
+      "receita"
     ]
   ]
 }
