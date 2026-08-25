@@ -44,7 +44,8 @@
       "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "https://openai.com/index/stampli",
       "https://openai.com/index/introducing-ai-futures",
-      "https://openai.com/index/gpt-5-6-in-kiro"
+      "https://openai.com/index/gpt-5-6-in-kiro",
+      "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -376,7 +377,8 @@
       "https://www.theverge.com/?p=982774",
       "https://www.theverge.com/?p=983088",
       "https://www.theverge.com/?p=983181",
-      "https://www.theverge.com/?p=983502"
+      "https://www.theverge.com/?p=983502",
+      "https://www.theverge.com/?p=984239"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -628,7 +630,8 @@
       "https://www.technologyreview.com/?p=1142070",
       "https://www.technologyreview.com/?p=1142571",
       "https://www.technologyreview.com/?p=1141740",
-      "https://www.technologyreview.com/?p=1142630"
+      "https://www.technologyreview.com/?p=1142630",
+      "https://www.technologyreview.com/?p=1141907"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -674,7 +677,9 @@
       "6a85dd109e48c15857d19bad",
       "6a7c4b927c15d30fa36e58fd",
       "6a85df6ad0110f6d404e4794",
-      "6a6a638dbda4e52fe44bd61a"
+      "6a6a638dbda4e52fe44bd61a",
+      "6a8bcbcc05bb0e7bdcba3ae7",
+      "6a832aea4b5ce895652e6c3f"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -828,7 +833,8 @@
       "108353087",
       "108353205",
       "108352854",
-      "108353442"
+      "108353442",
+      "108353699"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -912,7 +918,8 @@
       "https://mittechreview.com.br/?p=260899",
       "https://mittechreview.com.br/?p=261549",
       "https://mittechreview.com.br/?p=261565",
-      "https://mittechreview.com.br/?p=261598"
+      "https://mittechreview.com.br/?p=261598",
+      "https://mittechreview.com.br/?p=262355"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1422,59 +1429,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anuncia",
-      "bilhoes",
-      "brasil",
-      "pacote",
-      "supercomputador"
-    ],
-    [
-      "500m",
-      "amid",
-      "boom",
-      "data",
-      "gross",
-      "micro1",
-      "rate",
-      "reaches",
-      "startup",
-      "training"
-    ],
-    [
-      "chat",
-      "coding",
-      "drag",
-      "group",
-      "into",
-      "slack",
-      "terminal",
-      "wants"
-    ],
-    [
-      "chief",
-      "clone",
-      "created",
-      "editor",
-      "website"
-    ],
-    [
-      "ainda",
-      "china",
-      "chip",
-      "este",
-      "lancar",
-      "nvidia",
-      "planos"
-    ],
-    [
-      "condenacao",
-      "google",
-      "justica",
-      "reduz",
-      "roubo",
-      "segredos"
-    ],
     [
       "agente",
       "banco",
@@ -3194,6 +3148,51 @@
       "computadores",
       "gripen",
       "modelo"
+    ],
+    [
+      "campaign",
+      "covert",
+      "disrupting",
+      "influence",
+      "russia"
+    ],
+    [
+      "carnival",
+      "here",
+      "robot",
+      "shanghai",
+      "spent",
+      "what"
+    ],
+    [
+      "airlines",
+      "attendants",
+      "data",
+      "flight",
+      "former",
+      "freaked",
+      "google",
+      "sell",
+      "spirit",
+      "wants"
+    ],
+    [
+      "apply",
+      "harder",
+      "really",
+      "should"
+    ],
+    [
+      "blackberry",
+      "businesses",
+      "fastest",
+      "growing",
+      "robotics"
+    ],
+    [
+      "commodity",
+      "quando",
+      "torna"
     ]
   ]
 }
