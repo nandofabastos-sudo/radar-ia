@@ -307,7 +307,8 @@
       "https://techcrunch.com/?p=3155937",
       "https://techcrunch.com/?p=3155931",
       "https://techcrunch.com/?p=3156061",
-      "https://techcrunch.com/?p=3156185"
+      "https://techcrunch.com/?p=3156185",
+      "https://techcrunch.com/?p=3156230"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1312,7 +1313,8 @@
       "https://www.uol.com.br/flash/?c=cd3053655f3318d13dd8182f812bb5c720260821",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/23/openai-muda-de-posicao-e-pede-regras-mais-duras-na-california.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/24/unidade-de-robotica-de-montadora-chinesa-xpeng-e-avaliada-em-mais-de-us63-bi.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/24/alibaba-lanca-modelo-de-video-com-ia-wan30-apos-venda-de-acoes-de-us10-bilhoes.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/24/alibaba-lanca-modelo-de-video-com-ia-wan30-apos-venda-de-acoes-de-us10-bilhoes.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/24/estado-dos-eua-investiga-openai-por-invasao-autonoma-e-exige-registros.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1415,22 +1417,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "bilionario",
-      "quer",
-      "recorde",
-      "spacex",
-      "superar"
-    ],
-    [
-      "chefao",
-      "elite",
-      "escola",
-      "filha",
-      "importar",
-      "quer"
-    ],
     [
       "brasil",
       "chefias",
@@ -3182,6 +3168,26 @@
       "invasao",
       "investigar",
       "openai"
+    ],
+    [
+      "awareness",
+      "being",
+      "fund",
+      "hedge",
+      "imploded",
+      "nearly",
+      "probed",
+      "situational",
+      "star"
+    ],
+    [
+      "autonoma",
+      "estado",
+      "exige",
+      "invasao",
+      "investiga",
+      "openai",
+      "registros"
     ]
   ]
 }
