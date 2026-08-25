@@ -835,7 +835,8 @@
       "108353205",
       "108352854",
       "108353442",
-      "108353699"
+      "108353699",
+      "108353734"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1328,7 +1329,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/24/unidade-de-robotica-de-montadora-chinesa-xpeng-e-avaliada-em-mais-de-us63-bi.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/24/alibaba-lanca-modelo-de-video-com-ia-wan30-apos-venda-de-acoes-de-us10-bilhoes.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/24/estado-dos-eua-investiga-openai-por-invasao-autonoma-e-exige-registros.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/deu-tilt-ep-81.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/deu-tilt-ep-81.ghtm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/25/musicas-criadas-por-ia-sao-banidas-de-paradas-de-sucesso-na-australia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1434,22 +1436,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acquiring",
-      "billion",
-      "employees",
-      "factory",
-      "model",
-      "nvidia",
-      "poolside"
-    ],
-    [
-      "approach",
-      "coding",
-      "huzzah",
-      "novel",
-      "show"
-    ],
     [
       "before",
       "books",
@@ -3208,6 +3194,25 @@
       "justica",
       "limites",
       "riscos"
+    ],
+    [
+      "accounts",
+      "bans",
+      "campaign",
+      "chatgpt",
+      "covert",
+      "misinformation",
+      "openai",
+      "russian",
+      "used"
+    ],
+    [
+      "australia",
+      "banidas",
+      "criadas",
+      "musicas",
+      "paradas",
+      "sucesso"
     ]
   ]
 }
