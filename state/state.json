@@ -516,7 +516,8 @@
       "https://the-decoder.com/?p=39405",
       "https://the-decoder.com/?p=39412",
       "https://the-decoder.com/?p=39413",
-      "https://the-decoder.com/?p=39421"
+      "https://the-decoder.com/?p=39421",
+      "https://the-decoder.com/?p=39425"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1258,7 +1259,8 @@
       "https://canaltech.com.br/inteligencia-artificial/openai-volta-a-colocar-trava-de-5-horas-no-chatgpt-plus-por-que/",
       "https://canaltech.com.br/tv/tcl-lanca-tv-qled-com-ia-e-120-hz-para-games-a-partir-de-r-3099/",
       "https://canaltech.com.br/hardware/nvidia-revela-novo-ray-reconstruction-e-path-tracing-para-jogos-de-ps2/",
-      "https://canaltech.com.br/produtos/gravador-com-ia-da-boya-transcreve-140-idiomas-e-tem-bateria-para-365-dias/"
+      "https://canaltech.com.br/produtos/gravador-com-ia-da-boya-transcreve-140-idiomas-e-tem-bateria-para-365-dias/",
+      "https://canaltech.com.br/inteligencia-artificial/canaltech-e-o-portal-tech-brasileiro-que-mais-influencia-no-chatgpt/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1372,7 +1374,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/pesquisadores-desenvolvem-modelo-de-ia-que-processa-quantidade-muito-maior-de-informacoes.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/google-expande-plataforma-de-ia-para-escritorios-de-advocacia-e-advogados.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/apple-lanca-novos-mac-mini-e-mac-studio-para-aproveitar-boom-da-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/anthropic-deve-dizer-a-investidores-que-estima-receita-potencial-de-mais-de-us30-tri-diz-wsj.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/anthropic-deve-dizer-a-investidores-que-estima-receita-potencial-de-mais-de-us30-tri-diz-wsj.htm",
+      "https://www.uol.com.br/flash/?c=2aa6180363670de97164bdc8f1041920260825"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1480,26 +1483,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agente",
-      "factorial",
-      "mostra",
-      "pesquisa",
-      "pode",
-      "pulso",
-      "reter",
-      "talentos",
-      "tambem",
-      "tecnologia"
-    ],
-    [
-      "grok",
-      "vertex"
-    ],
-    [
-      "grok",
-      "vertex"
-    ],
     [
       "agent",
       "benchmarks",
@@ -3276,6 +3259,36 @@
       "investidores",
       "potencial",
       "receita"
+    ],
+    [
+      "beats",
+      "benchmarks",
+      "blackwell",
+      "chip",
+      "custom",
+      "first",
+      "inference",
+      "jalapeno",
+      "nvidia",
+      "openai",
+      "reportedly",
+      "rubin"
+    ],
+    [
+      "brasileiro",
+      "canaltech",
+      "chatgpt",
+      "influencia",
+      "portal",
+      "tech"
+    ],
+    [
+      "esta",
+      "hoje",
+      "multado",
+      "rolando",
+      "satelites",
+      "tiktok"
     ]
   ]
 }
