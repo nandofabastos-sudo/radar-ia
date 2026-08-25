@@ -563,7 +563,8 @@
       "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
       "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
       "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-      "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
+      "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1146,7 +1147,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=924868",
       "https://tecnoblog.net/?post_type=noticias&p=925409",
       "https://tecnoblog.net/?post_type=noticias&p=925593",
-      "https://tecnoblog.net/?post_type=noticias&p=925894"
+      "https://tecnoblog.net/?post_type=noticias&p=925894",
+      "https://tecnoblog.net/?post_type=noticias&p=926052"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1265,7 +1267,8 @@
       "https://canaltech.com.br/tv/tcl-lanca-tv-qled-com-ia-e-120-hz-para-games-a-partir-de-r-3099/",
       "https://canaltech.com.br/hardware/nvidia-revela-novo-ray-reconstruction-e-path-tracing-para-jogos-de-ps2/",
       "https://canaltech.com.br/produtos/gravador-com-ia-da-boya-transcreve-140-idiomas-e-tem-bateria-para-365-dias/",
-      "https://canaltech.com.br/inteligencia-artificial/canaltech-e-o-portal-tech-brasileiro-que-mais-influencia-no-chatgpt/"
+      "https://canaltech.com.br/inteligencia-artificial/canaltech-e-o-portal-tech-brasileiro-que-mais-influencia-no-chatgpt/",
+      "https://canaltech.com.br/inteligencia-artificial/google-prepara-grande-atualizacao-para-acabar-com-a-bagunca-do-gemini-no-celular/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1433,7 +1436,8 @@
       "https://startups.com.br/?p=340080",
       "https://startups.com.br/?p=340095",
       "https://startups.com.br/?p=340085",
-      "https://startups.com.br/?p=340120"
+      "https://startups.com.br/?p=340120",
+      "https://startups.com.br/?p=340111"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1489,46 +1493,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "claude",
-      "cyber",
-      "defense",
-      "model",
-      "most",
-      "mythos",
-      "powerful",
-      "puts",
-      "work"
-    ],
-    [
-      "assobios",
-      "especies",
-      "golfinhos",
-      "identifica",
-      "pelos",
-      "saiba"
-    ],
-    [
-      "apple",
-      "cede",
-      "dedurar",
-      "feitas",
-      "gravadoras",
-      "music",
-      "musicas",
-      "pressao"
-    ],
-    [
-      "artificial",
-      "chegada",
-      "evoluir",
-      "griselli",
-      "inteligencia",
-      "precisam",
-      "redes",
-      "telecom"
-    ],
     [
       "ativar",
       "estudantes",
@@ -3299,6 +3263,44 @@
       "dilema",
       "maiores",
       "pais"
+    ],
+    [
+      "breaking",
+      "bursting",
+      "flames",
+      "games",
+      "humanoid",
+      "into",
+      "records",
+      "robot",
+      "runners",
+      "show",
+      "world"
+    ],
+    [
+      "alucinacoes",
+      "erros",
+      "gemini",
+      "google",
+      "juridico",
+      "lanca",
+      "reduzir"
+    ],
+    [
+      "acabar",
+      "atualizacao",
+      "bagunca",
+      "celular",
+      "gemini",
+      "google",
+      "grande",
+      "prepara"
+    ],
+    [
+      "acelera",
+      "caminho",
+      "escolhe",
+      "quem"
     ]
   ]
 }
