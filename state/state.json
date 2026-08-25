@@ -497,7 +497,8 @@
       "https://the-decoder.com/?p=39375",
       "https://the-decoder.com/?p=39381",
       "https://the-decoder.com/?p=39384",
-      "https://the-decoder.com/?p=39392"
+      "https://the-decoder.com/?p=39392",
+      "https://the-decoder.com/?p=39401"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1316,7 +1317,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/23/openai-muda-de-posicao-e-pede-regras-mais-duras-na-california.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/24/unidade-de-robotica-de-montadora-chinesa-xpeng-e-avaliada-em-mais-de-us63-bi.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/24/alibaba-lanca-modelo-de-video-com-ia-wan30-apos-venda-de-acoes-de-us10-bilhoes.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/08/24/estado-dos-eua-investiga-openai-por-invasao-autonoma-e-exige-registros.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/08/24/estado-dos-eua-investiga-openai-por-invasao-autonoma-e-exige-registros.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/deu-tilt-ep-81.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1420,24 +1422,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "gerenciador",
-      "hardware",
-      "monitorar",
-      "tarefas",
-      "usado",
-      "windows"
-    ],
-    [
-      "boom",
-      "bust",
-      "changed",
-      "equation",
-      "industry",
-      "memory",
-      "micron",
-      "totally"
-    ],
     [
       "anuncia",
       "bilhoes",
@@ -3187,6 +3171,29 @@
       "modelos",
       "prateleira",
       "service"
+    ],
+    [
+      "backed",
+      "chinese",
+      "cyberattacks",
+      "cybersecurity",
+      "doubled",
+      "firm",
+      "have",
+      "more",
+      "state",
+      "taiwanese",
+      "than",
+      "tools",
+      "warns"
+    ],
+    [
+      "adota",
+      "brasil",
+      "china",
+      "computadores",
+      "gripen",
+      "modelo"
     ]
   ]
 }
