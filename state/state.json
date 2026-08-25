@@ -745,7 +745,8 @@
       "https://news.ycombinator.com/item?id=49388752",
       "https://news.ycombinator.com/item?id=49402232",
       "https://news.ycombinator.com/item?id=49412396",
-      "https://news.ycombinator.com/item?id=49421554"
+      "https://news.ycombinator.com/item?id=49421554",
+      "https://news.ycombinator.com/item?id=49421074"
     ]
   },
   "mercado": {
@@ -1414,29 +1415,11 @@
       "https://www.mobiletime.com.br/?p=862023",
       "https://www.mobiletime.com.br/?p=862107",
       "https://www.mobiletime.com.br/?p=862138",
-      "https://www.mobiletime.com.br/?p=862143"
+      "https://www.mobiletime.com.br/?p=862143",
+      "https://www.mobiletime.com.br/?p=862190"
     ]
   },
   "_titulos_recentes": [
-    [
-      "agentes",
-      "algar",
-      "ativos",
-      "campos",
-      "diferentes",
-      "operacoes",
-      "possui",
-      "suas"
-    ],
-    [
-      "anthropic",
-      "business",
-      "data",
-      "gaining",
-      "indicates",
-      "openai",
-      "users"
-    ],
     [
       "gerenciador",
       "hardware",
@@ -3189,6 +3172,21 @@
       "paulo",
       "perplexity",
       "processo"
+    ],
+    [
+      "least",
+      "openai",
+      "price",
+      "reduction",
+      "until"
+    ],
+    [
+      "agenticos",
+      "avalia",
+      "claro",
+      "modelos",
+      "prateleira",
+      "service"
     ]
   ]
 }
