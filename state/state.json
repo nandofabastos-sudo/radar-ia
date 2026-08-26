@@ -1098,7 +1098,9 @@
       "https://olhardigital.com.br/?p=1366450",
       "https://olhardigital.com.br/?p=1366426",
       "https://olhardigital.com.br/?p=1366445",
-      "https://olhardigital.com.br/?p=1366634"
+      "https://olhardigital.com.br/?p=1366634",
+      "https://olhardigital.com.br/?p=1366591",
+      "https://olhardigital.com.br/?p=1366590"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1499,24 +1501,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "algoritmo",
-      "bilhoes",
-      "motoristas",
-      "multada",
-      "quase",
-      "suspender",
-      "uber",
-      "usar"
-    ],
-    [
-      "center",
-      "cloverleaf",
-      "data",
-      "developer",
-      "nvidia",
-      "partners"
-    ],
     [
       "anthropic",
       "machine",
@@ -3309,6 +3293,23 @@
       "executivo",
       "openai",
       "perde"
+    ],
+    [
+      "chinesa",
+      "consolidam",
+      "fala",
+      "humanoides",
+      "lideranca",
+      "olimpiadas",
+      "robotica"
+    ],
+    [
+      "elon",
+      "entenda",
+      "musk",
+      "quer",
+      "terra",
+      "tirar"
     ]
   ]
 }
