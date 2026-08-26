@@ -325,7 +325,8 @@
       "https://techcrunch.com/?p=3156793",
       "https://techcrunch.com/?p=3156922",
       "https://techcrunch.com/?p=3156276",
-      "https://techcrunch.com/?p=3156706"
+      "https://techcrunch.com/?p=3156706",
+      "https://techcrunch.com/?p=3156546"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -528,7 +529,9 @@
       "https://the-decoder.com/?p=39431",
       "https://the-decoder.com/?p=39438",
       "https://the-decoder.com/?p=39440",
-      "https://the-decoder.com/?p=39444"
+      "https://the-decoder.com/?p=39444",
+      "https://the-decoder.com/?p=39448",
+      "https://the-decoder.com/?p=39451"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -880,7 +883,8 @@
       "108353577",
       "108353555",
       "108354110",
-      "108354169"
+      "108354169",
+      "108354123"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -912,7 +916,8 @@
       "https://techcrunch.com/?p=3155673",
       "https://techcrunch.com/?p=3155023",
       "https://techcrunch.com/?p=3156161",
-      "https://techcrunch.com/?p=3156706"
+      "https://techcrunch.com/?p=3156706",
+      "https://techcrunch.com/?p=3156546"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -1413,7 +1418,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/apple-lanca-novos-mac-mini-e-mac-studio-para-aproveitar-boom-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/anthropic-deve-dizer-a-investidores-que-estima-receita-potencial-de-mais-de-us30-tri-diz-wsj.htm",
       "https://www.uol.com.br/flash/?c=2aa6180363670de97164bdc8f1041920260825",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/26/bill-gates-diz-que-ia-ameaca-empregos-e-pode-colocar-vidas-em-risco.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/26/bill-gates-diz-que-ia-ameaca-empregos-e-pode-colocar-vidas-em-risco.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/bill-gates-planeja-reuniao-com-xi-jinping-para-propor-regras-globais-para-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1524,54 +1530,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bill",
-      "california",
-      "openai",
-      "safety",
-      "should",
-      "strengthen"
-    ],
-    [
-      "anthropic",
-      "dizem",
-      "fator",
-      "fontes",
-      "popular",
-      "rejeicao",
-      "risco",
-      "tera"
-    ],
-    [
-      "decifra",
-      "genes",
-      "humanos",
-      "presente",
-      "sequencia"
-    ],
-    [
-      "alumni",
-      "anthropic",
-      "deepmind",
-      "founded",
-      "inherent",
-      "just",
-      "openai",
-      "outperformed",
-      "replicating",
-      "research",
-      "teammate"
-    ],
-    [
-      "assista",
-      "bolt",
-      "humanoide",
-      "metros",
-      "recorde",
-      "robo",
-      "supera",
-      "usain"
-    ],
     [
       "aprenda",
       "meta",
@@ -3336,6 +3294,59 @@
       "pode",
       "risco",
       "vidas"
+    ],
+    [
+      "emerges",
+      "glasses",
+      "hearing",
+      "legato",
+      "peek",
+      "startup",
+      "stealth",
+      "tech"
+    ],
+    [
+      "amazon",
+      "chinese",
+      "deals",
+      "google",
+      "hosting",
+      "microsoft",
+      "moonshot",
+      "negotiates"
+    ],
+    [
+      "deepfakes",
+      "kremlin",
+      "lawmakers",
+      "mouths",
+      "rhetoric",
+      "surrender",
+      "ukrainian"
+    ],
+    [
+      "canada",
+      "earnings",
+      "international",
+      "more",
+      "morning",
+      "nvidia",
+      "push",
+      "record",
+      "retaliates",
+      "squawk",
+      "track",
+      "waymo"
+    ],
+    [
+      "bill",
+      "gates",
+      "globais",
+      "jinping",
+      "planeja",
+      "propor",
+      "regras",
+      "reuniao"
     ]
   ]
 }
