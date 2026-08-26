@@ -49,7 +49,9 @@
       "https://openai.com/index/jalapeno-first-results",
       "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "https://openai.com/index/introducing-admin-plugin",
-      "https://openai.com/index/loveholidays"
+      "https://openai.com/index/loveholidays",
+      "https://openai.com/index/learning-never-stops",
+      "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -81,7 +83,8 @@
       "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
       "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+      "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
     ],
     "google_ai_blog": [
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -404,7 +407,8 @@
       "https://www.theverge.com/?p=983502",
       "https://www.theverge.com/?p=984239",
       "https://www.theverge.com/?p=984290",
-      "https://www.theverge.com/?p=984923"
+      "https://www.theverge.com/?p=984923",
+      "https://www.theverge.com/?p=985186"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -540,7 +544,8 @@
       "https://the-decoder.com/?p=39448",
       "https://the-decoder.com/?p=39451",
       "https://the-decoder.com/?p=39456",
-      "https://the-decoder.com/?p=39461"
+      "https://the-decoder.com/?p=39461",
+      "https://the-decoder.com/?p=39466"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -731,7 +736,8 @@
       "6a6a638dbda4e52fe44bd61a",
       "6a8bcbcc05bb0e7bdcba3ae7",
       "6a832aea4b5ce895652e6c3f",
-      "6a860cfb6b770bbaf47ffa12"
+      "6a860cfb6b770bbaf47ffa12",
+      "6a8c4b9ba3cdd449f15937cd"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -899,7 +905,8 @@
       "108354110",
       "108354169",
       "108354123",
-      "108354376"
+      "108354376",
+      "108354669"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1143,7 +1150,8 @@
       "https://olhardigital.com.br/?p=1366668",
       "https://olhardigital.com.br/?p=1366754",
       "https://olhardigital.com.br/?p=1366687",
-      "https://olhardigital.com.br/?p=1366766"
+      "https://olhardigital.com.br/?p=1366766",
+      "https://olhardigital.com.br/?p=1366855"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1324,7 +1332,8 @@
       "https://canaltech.com.br/eletro/ar-condicionado-portatil-da-xiaomi-usa-ia-para-economizar-energia/",
       "https://canaltech.com.br/inteligencia-artificial/chega-de-se-reexplicar-claude-finalmente-unifica-memoria-do-chat-com-cowork/",
       "https://canaltech.com.br/inteligencia-artificial/controle-total-chatgpt-agora-faz-login-em-sites-para-fazer-tarefas-por-voce/",
-      "https://canaltech.com.br/inteligencia-artificial/quem-a-ia-vai-substituir-primeiro-bill-gates-lista-profissoes-em-risco-e-alerta-para-jovens/"
+      "https://canaltech.com.br/inteligencia-artificial/quem-a-ia-vai-substituir-primeiro-bill-gates-lista-profissoes-em-risco-e-alerta-para-jovens/",
+      "https://canaltech.com.br/inteligencia-artificial/como-resgatar-o-google-ai-plus-gratis-para-estudantes/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1446,7 +1455,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/moonshot-negocia-divisao-de-receitas-de-ia-com-microsoft-amazon-e-google-dizem-fontes.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/plano-ousado-de-zuckerberg-para-substituir-equipe-da-meta-por-ia-desmoronou.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/qwen-da-alibaba-lanca-modelo-de-ia-qwen38-flash-com-custos-de-treinamento-menores.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/26/empregos-vao-desaparecer-e-atrofiamento-humano-as-frases-fortes-de-bill-gates-sobre-ia.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/26/empregos-vao-desaparecer-e-atrofiamento-humano-as-frases-fortes-de-bill-gates-sobre-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/olimpiadas-de-robos-terminam-com-humanoide-superando-recorde-de-bolt-nos-100-metros.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/26/apple-marca-evento-de-iphone-para-9-de-setembro-e-sinaliza-foco-em-ia.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1503,7 +1514,8 @@
       "https://startups.com.br/?p=340085",
       "https://startups.com.br/?p=340120",
       "https://startups.com.br/?p=340111",
-      "https://startups.com.br/?p=340140"
+      "https://startups.com.br/?p=340140",
+      "https://startups.com.br/?p=340169"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1559,106 +1571,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "amazon",
-      "conteudo",
-      "processadas",
-      "streamers",
-      "treinar",
-      "twitch",
-      "usar"
-    ],
-    [
-      "antes",
-      "cortar",
-      "crescimento",
-      "freia",
-      "salarial",
-      "vagas"
-    ],
-    [
-      "2026",
-      "filmes",
-      "flopar",
-      "flopou",
-      "mundo",
-      "sabia",
-      "todo"
-    ],
-    [
-      "agents",
-      "behind",
-      "documents",
-      "enterprise",
-      "messiest",
-      "only",
-      "reliable",
-      "them"
-    ],
-    [
-      "after",
-      "alibaba",
-      "announcing",
-      "billion",
-      "fund",
-      "placement",
-      "plunges",
-      "push",
-      "share"
-    ],
-    [
-      "acompanha",
-      "artificial",
-      "digital",
-      "inteligencia",
-      "olhar",
-      "revolucao"
-    ],
-    [
-      "billion",
-      "invest",
-      "nvidia",
-      "perplexity",
-      "plus",
-      "talks",
-      "valuation"
-    ],
-    [
-      "abortion",
-      "anti",
-      "chatbots",
-      "disclosure",
-      "link",
-      "pregnant",
-      "regularly",
-      "users",
-      "websites",
-      "without"
-    ],
-    [
-      "kids",
-      "know",
-      "outlearn",
-      "still"
-    ],
-    [
-      "dedicated",
-      "deepfakes",
-      "lives",
-      "started",
-      "teaching",
-      "their",
-      "then",
-      "they"
-    ],
-    [
-      "cerebras",
-      "chip",
-      "double",
-      "performance",
-      "same",
-      "unveils"
-    ],
     [
       "chip",
       "cores",
@@ -3395,6 +3307,94 @@
       "grandes",
       "medida",
       "zoox"
+    ],
+    [
+      "continuous",
+      "learning",
+      "makes",
+      "never",
+      "stops"
+    ],
+    [
+      "bringing",
+      "chatgpt",
+      "districts",
+      "more",
+      "school",
+      "teachers"
+    ],
+    [
+      "gemini",
+      "intelligent",
+      "transcribe",
+      "transcription"
+    ],
+    [
+      "8216",
+      "8217",
+      "edits",
+      "google",
+      "transcription",
+      "your"
+    ],
+    [
+      "2026",
+      "accept",
+      "altman",
+      "definition",
+      "have",
+      "openai",
+      "will"
+    ],
+    [
+      "action",
+      "candidates",
+      "centers",
+      "data",
+      "pact",
+      "promising",
+      "safety",
+      "signing"
+    ],
+    [
+      "anthropic",
+      "billion",
+      "cloud",
+      "deal",
+      "nscale",
+      "sources",
+      "strike"
+    ],
+    [
+      "alibaba",
+      "anterior",
+      "custa",
+      "menos",
+      "modelo",
+      "treinar",
+      "vezes"
+    ],
+    [
+      "estudantes",
+      "google",
+      "gratis",
+      "plus",
+      "resgatar"
+    ],
+    [
+      "apple",
+      "dobravel",
+      "evento",
+      "iphone",
+      "marca",
+      "setembro"
+    ],
+    [
+      "consignado",
+      "esteira",
+      "mira",
+      "privado",
+      "youcred"
     ]
   ]
 }
