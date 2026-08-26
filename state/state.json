@@ -331,7 +331,9 @@
       "https://techcrunch.com/?p=3156754",
       "https://techcrunch.com/?p=3155979",
       "https://techcrunch.com/?p=3157083",
-      "https://techcrunch.com/?p=3157087"
+      "https://techcrunch.com/?p=3157087",
+      "https://techcrunch.com/?p=3139375",
+      "https://techcrunch.com/?p=3157086"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -649,7 +651,8 @@
       "12euSigLHkI0DDRafGTFMv",
       "4snwOnM2K24iEGPc3OBjLw",
       "2N7QzleeaZrEU9uehfXeR4",
-      "7mB2i7HWrsGgSUa5qmwuYz"
+      "7mB2i7HWrsGgSUa5qmwuYz",
+      "4MqpGZw3o3NwsG49wOjU6h"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -803,7 +806,10 @@
       "https://news.ycombinator.com/item?id=49421554",
       "https://news.ycombinator.com/item?id=49421074",
       "https://news.ycombinator.com/item?id=49433292",
-      "https://news.ycombinator.com/item?id=49434378"
+      "https://news.ycombinator.com/item?id=49434378",
+      "https://news.ycombinator.com/item?id=49446422",
+      "https://news.ycombinator.com/item?id=49448210",
+      "https://news.ycombinator.com/item?id=49449507"
     ]
   },
   "mercado": {
@@ -1193,7 +1199,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=925409",
       "https://tecnoblog.net/?post_type=noticias&p=925593",
       "https://tecnoblog.net/?post_type=noticias&p=925894",
-      "https://tecnoblog.net/?post_type=noticias&p=926052"
+      "https://tecnoblog.net/?post_type=noticias&p=926052",
+      "https://tecnoblog.net/?post_type=noticias&p=926269"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1315,7 +1322,9 @@
       "https://canaltech.com.br/inteligencia-artificial/canaltech-e-o-portal-tech-brasileiro-que-mais-influencia-no-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/google-prepara-grande-atualizacao-para-acabar-com-a-bagunca-do-gemini-no-celular/",
       "https://canaltech.com.br/eletro/ar-condicionado-portatil-da-xiaomi-usa-ia-para-economizar-energia/",
-      "https://canaltech.com.br/inteligencia-artificial/chega-de-se-reexplicar-claude-finalmente-unifica-memoria-do-chat-com-cowork/"
+      "https://canaltech.com.br/inteligencia-artificial/chega-de-se-reexplicar-claude-finalmente-unifica-memoria-do-chat-com-cowork/",
+      "https://canaltech.com.br/inteligencia-artificial/controle-total-chatgpt-agora-faz-login-em-sites-para-fazer-tarefas-por-voce/",
+      "https://canaltech.com.br/inteligencia-artificial/quem-a-ia-vai-substituir-primeiro-bill-gates-lista-profissoes-em-risco-e-alerta-para-jovens/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1433,7 +1442,11 @@
       "https://www.uol.com.br/flash/?c=2aa6180363670de97164bdc8f1041920260825",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/26/bill-gates-diz-que-ia-ameaca-empregos-e-pode-colocar-vidas-em-risco.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/bill-gates-planeja-reuniao-com-xi-jinping-para-propor-regras-globais-para-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/acoes-da-nvidia-devem-sofrer-oscilacao-de-us280-bi-apos-resultados.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/acoes-da-nvidia-devem-sofrer-oscilacao-de-us280-bi-apos-resultados.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/moonshot-negocia-divisao-de-receitas-de-ia-com-microsoft-amazon-e-google-dizem-fontes.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/plano-ousado-de-zuckerberg-para-substituir-equipe-da-meta-por-ia-desmoronou.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/qwen-da-alibaba-lanca-modelo-de-ia-qwen38-flash-com-custos-de-treinamento-menores.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/26/empregos-vao-desaparecer-e-atrofiamento-humano-as-frases-fortes-de-bill-gates-sobre-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1489,7 +1502,8 @@
       "https://startups.com.br/?p=340095",
       "https://startups.com.br/?p=340085",
       "https://startups.com.br/?p=340120",
-      "https://startups.com.br/?p=340111"
+      "https://startups.com.br/?p=340111",
+      "https://startups.com.br/?p=340140"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1545,112 +1559,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "after",
-      "boss",
-      "employee",
-      "fired",
-      "first",
-      "humans",
-      "only",
-      "reminded",
-      "rules"
-    ],
-    [
-      "chatgpt",
-      "instalar",
-      "pena",
-      "plugins",
-      "valem"
-    ],
-    [
-      "america",
-      "backlash",
-      "companies",
-      "effort",
-      "evolving",
-      "inside",
-      "keep",
-      "trust",
-      "worker"
-    ],
-    [
-      "ciberataques",
-      "gerar",
-      "massa",
-      "modelos",
-      "podem"
-    ],
-    [
-      "books",
-      "complicated",
-      "copyrighted",
-      "legal",
-      "models",
-      "train"
-    ],
-    [
-      "backlash",
-      "calls",
-      "company",
-      "compromise",
-      "faces",
-      "flock",
-      "growing",
-      "surveillance"
-    ],
-    [
-      "autorais",
-      "debate",
-      "direitos",
-      "livros",
-      "podem",
-      "treinar",
-      "usados"
-    ],
-    [
-      "chatgpt",
-      "claude",
-      "coisas",
-      "melhor"
-    ],
-    [
-      "alibaba",
-      "artificial",
-      "bilhoes",
-      "inteligencia",
-      "investir",
-      "quer"
-    ],
-    [
-      "chatgpt",
-      "claude",
-      "estao",
-      "gemini",
-      "nuvem",
-      "precisamos"
-    ],
-    [
-      "canvas",
-      "chatgpt",
-      "funciona"
-    ],
-    [
-      "alpha",
-      "behind",
-      "model",
-      "stealth"
-    ],
-    [
-      "agir",
-      "agora",
-      "alerta",
-      "artigo",
-      "economistas",
-      "precisamos",
-      "stanford",
-      "urgente"
-    ],
     [
       "amazon",
       "conteudo",
@@ -3372,6 +3280,121 @@
       "oscilacao",
       "resultados",
       "sofrer"
+    ],
+    [
+      "bring",
+      "factory",
+      "floor",
+      "meta",
+      "scientists",
+      "visual",
+      "want"
+    ],
+    [
+      "agents",
+      "makes",
+      "podcasts",
+      "radar",
+      "searchable",
+      "usable"
+    ],
+    [
+      "agent",
+      "approve",
+      "change",
+      "company",
+      "hijacked",
+      "propose"
+    ],
+    [
+      "alpha",
+      "confirms",
+      "model",
+      "release",
+      "series",
+      "weights",
+      "will"
+    ],
+    [
+      "flash"
+    ],
+    [
+      "bill",
+      "esconde",
+      "gates",
+      "industria",
+      "lucros",
+      "proteger",
+      "riscos"
+    ],
+    [
+      "agora",
+      "chatgpt",
+      "controle",
+      "fazer",
+      "login",
+      "sites",
+      "tarefas",
+      "total",
+      "voce"
+    ],
+    [
+      "alerta",
+      "bill",
+      "gates",
+      "jovens",
+      "lista",
+      "primeiro",
+      "profissoes",
+      "quem",
+      "risco",
+      "substituir"
+    ],
+    [
+      "amazon",
+      "divisao",
+      "dizem",
+      "fontes",
+      "google",
+      "microsoft",
+      "moonshot",
+      "negocia",
+      "receitas"
+    ],
+    [
+      "demitir",
+      "meta",
+      "plano",
+      "recuou",
+      "substituir",
+      "zuckerberg"
+    ],
+    [
+      "alibaba",
+      "custos",
+      "flash",
+      "lanca",
+      "menores",
+      "modelo",
+      "qwen",
+      "qwen3",
+      "treinamento"
+    ],
+    [
+      "alerta",
+      "bill",
+      "fortes",
+      "frases",
+      "gates",
+      "grave",
+      "plano"
+    ],
+    [
+      "aposta",
+      "empresas",
+      "grandes",
+      "medida",
+      "zoox"
     ]
   ]
 }
