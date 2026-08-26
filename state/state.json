@@ -320,7 +320,9 @@
       "https://techcrunch.com/?p=3156453",
       "https://techcrunch.com/?p=3154850",
       "https://techcrunch.com/?p=3156630",
-      "https://techcrunch.com/?p=3156618"
+      "https://techcrunch.com/?p=3156618",
+      "https://techcrunch.com/?p=3156793",
+      "https://techcrunch.com/?p=3156922"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -777,7 +779,8 @@
       "https://news.ycombinator.com/item?id=49412396",
       "https://news.ycombinator.com/item?id=49421554",
       "https://news.ycombinator.com/item?id=49421074",
-      "https://news.ycombinator.com/item?id=49433292"
+      "https://news.ycombinator.com/item?id=49433292",
+      "https://news.ycombinator.com/item?id=49434378"
     ]
   },
   "mercado": {
@@ -864,7 +867,8 @@
       "108349469",
       "108353577",
       "108353555",
-      "108354110"
+      "108354110",
+      "108354169"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1093,7 +1097,8 @@
       "https://olhardigital.com.br/?p=1366425",
       "https://olhardigital.com.br/?p=1366450",
       "https://olhardigital.com.br/?p=1366426",
-      "https://olhardigital.com.br/?p=1366445"
+      "https://olhardigital.com.br/?p=1366445",
+      "https://olhardigital.com.br/?p=1366634"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1494,44 +1499,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "digitais",
-      "pacheco",
-      "pede",
-      "plataformas",
-      "regulacao",
-      "rodrigo"
-    ],
-    [
-      "button",
-      "clicked",
-      "have",
-      "linkedin",
-      "million",
-      "over",
-      "people",
-      "slop"
-    ],
-    [
-      "anthropic",
-      "backlash",
-      "factor",
-      "filing",
-      "risk",
-      "show",
-      "sources",
-      "will"
-    ],
-    [
-      "100m",
-      "accounting",
-      "became",
-      "hours",
-      "raised",
-      "rillet",
-      "startup",
-      "unicorn"
-    ],
     [
       "algoritmo",
       "bilhoes",
@@ -3306,6 +3273,42 @@
       "malone",
       "openai",
       "string"
+    ],
+    [
+      "center",
+      "continues",
+      "data",
+      "departures",
+      "exec",
+      "high",
+      "loses",
+      "openai",
+      "profile",
+      "stream"
+    ],
+    [
+      "generalist",
+      "reaches",
+      "robotics",
+      "sources",
+      "startup",
+      "valuation"
+    ],
+    [
+      "amazon",
+      "artificial",
+      "bezos",
+      "called",
+      "down",
+      "intelligence",
+      "once",
+      "service",
+      "shutting"
+    ],
+    [
+      "executivo",
+      "openai",
+      "perde"
     ]
   ]
 }
