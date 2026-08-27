@@ -52,7 +52,8 @@
       "https://openai.com/index/loveholidays",
       "https://openai.com/index/learning-never-stops",
       "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+      "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "https://openai.com/index/expanding-our-presence-in-brazil"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -181,7 +182,9 @@
       "https://x.ai/news/og-4-6-on-vertex",
       "https://x.ai/news/grok-4-6-vertex-ai",
       "https://x.ai/news/og-google-enterprise-agent-platform",
-      "https://x.ai/news/og-gemini-enterprise-agent-platform"
+      "https://x.ai/news/og-gemini-enterprise-agent-platform",
+      "https://x.ai/news/og-4-6-on-foundry",
+      "https://x.ai/news/grok-4-6-microsoft-foundry"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -344,7 +347,8 @@
       "https://techcrunch.com/?p=3157316",
       "https://techcrunch.com/?p=3157364",
       "https://techcrunch.com/?p=3157431",
-      "https://techcrunch.com/?p=3157433"
+      "https://techcrunch.com/?p=3157433",
+      "https://techcrunch.com/?p=3157522"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -555,7 +559,12 @@
       "https://the-decoder.com/?p=39451",
       "https://the-decoder.com/?p=39456",
       "https://the-decoder.com/?p=39461",
-      "https://the-decoder.com/?p=39466"
+      "https://the-decoder.com/?p=39466",
+      "https://the-decoder.com/?p=39469",
+      "https://the-decoder.com/?p=39472",
+      "https://the-decoder.com/?p=39473",
+      "https://the-decoder.com/?p=39482",
+      "https://the-decoder.com/?p=39474"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -670,7 +679,8 @@
       "2N7QzleeaZrEU9uehfXeR4",
       "7mB2i7HWrsGgSUa5qmwuYz",
       "4MqpGZw3o3NwsG49wOjU6h",
-      "1cneU2xY3d4OOnpVNaA8qs"
+      "1cneU2xY3d4OOnpVNaA8qs",
+      "1CcUdvmM04UAWM53ISrlnZ"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -753,7 +763,9 @@
       "6a860cfb6b770bbaf47ffa12",
       "6a8c4b9ba3cdd449f15937cd",
       "6a8c88203e6cf87b84dc78d5",
-      "6a8e3628a900bd9d58335a70"
+      "6a8e3628a900bd9d58335a70",
+      "6a8c6c2fff427bf214570441",
+      "6a8bc9f7f95e178519083246"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -832,7 +844,9 @@
       "https://news.ycombinator.com/item?id=49434378",
       "https://news.ycombinator.com/item?id=49446422",
       "https://news.ycombinator.com/item?id=49448210",
-      "https://news.ycombinator.com/item?id=49449507"
+      "https://news.ycombinator.com/item?id=49449507",
+      "https://news.ycombinator.com/item?id=49458161",
+      "https://news.ycombinator.com/item?id=49458418"
     ]
   },
   "mercado": {
@@ -928,7 +942,12 @@
       "108354723",
       "108354622",
       "108354633",
-      "108354777"
+      "108354777",
+      "108354863",
+      "108354903",
+      "108354887",
+      "108354971",
+      "108354992"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -962,7 +981,8 @@
       "https://techcrunch.com/?p=3156161",
       "https://techcrunch.com/?p=3156706",
       "https://techcrunch.com/?p=3156546",
-      "https://techcrunch.com/?p=3157086"
+      "https://techcrunch.com/?p=3157086",
+      "https://techcrunch.com/?p=3157433"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -1179,7 +1199,9 @@
       "https://olhardigital.com.br/?p=1366948",
       "https://olhardigital.com.br/?p=1367005",
       "https://olhardigital.com.br/?p=1367063",
-      "https://olhardigital.com.br/?p=1366995"
+      "https://olhardigital.com.br/?p=1366995",
+      "https://olhardigital.com.br/?p=1366756",
+      "https://olhardigital.com.br/?p=1367108"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1491,7 +1513,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/anthropic-vai-alugar-capacidade-computacional-de-ia-da-nscale-por-us45-bilhoes-diz-fonte.htm",
       "https://economia.uol.com.br/noticias/redacao/2026/08/26/nvidia-balanco-trimestral.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/nvidia-preve-receita-trimestral-acima-das-estimativas.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/26/nvidia-mira-us-108-bi-apos-data-centers-renderem-us-89-bi.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/26/nvidia-mira-us-108-bi-apos-data-centers-renderem-us-89-bi.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/27/ia-sigilo-e-novas-leis-como-o-discord-virou-alvo-no-brasil.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1512,7 +1535,8 @@
       "https://neofeed.com.br/?p=233658",
       "https://neofeed.com.br/?p=233346",
       "https://neofeed.com.br/?p=234173",
-      "https://neofeed.com.br/?p=234457"
+      "https://neofeed.com.br/?p=234457",
+      "https://neofeed.com.br/?p=234541"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -1607,161 +1631,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "banco",
-      "brasil",
-      "clientes",
-      "orientar",
-      "texto",
-      "traz"
-    ],
-    [
-      "mistral"
-    ],
-    [
-      "build",
-      "learn",
-      "llms",
-      "scratch",
-      "were"
-    ],
-    [
-      "alerta",
-      "ameacas",
-      "ciberataques",
-      "continuos",
-      "gerados",
-      "openai"
-    ],
-    [
-      "basico",
-      "cadastro",
-      "chatgpt",
-      "comandos",
-      "melhores",
-      "prompts",
-      "usar"
-    ],
-    [
-      "dizer",
-      "face",
-      "hugging",
-      "negocia",
-      "nvidia",
-      "venda"
-    ],
-    [
-      "advancing",
-      "developers",
-      "kiro",
-      "performance",
-      "price"
-    ],
-    [
-      "2026",
-      "amjad",
-      "disrupt",
-      "founder",
-      "joins",
-      "masad",
-      "replit",
-      "stage",
-      "techcrunch"
-    ],
-    [
-      "coding",
-      "collapse",
-      "expertise",
-      "going",
-      "reliance"
-    ],
-    [
-      "assistente",
-      "banco",
-      "brasil",
-      "destaque",
-      "oficial"
-    ],
-    [
-      "caindo",
-      "claude",
-      "fora",
-      "quarta",
-      "queda",
-      "vive"
-    ],
-    [
-      "after",
-      "blockbuster",
-      "bought",
-      "shares",
-      "spacex",
-      "trump",
-      "weeks"
-    ],
-    [
-      "empresas",
-      "funcionarios",
-      "menos",
-      "pagando",
-      "recontratam",
-      "substituidos"
-    ],
-    [
-      "entry",
-      "finds",
-      "hardest",
-      "hitting",
-      "jobs",
-      "level",
-      "stanford",
-      "study"
-    ],
-    [
-      "alvos",
-      "autonomamente",
-      "drone",
-      "escolhe",
-      "guiado",
-      "russo"
-    ],
-    [
-      "attack",
-      "benefit",
-      "center",
-      "could",
-      "cramer",
-      "data",
-      "here",
-      "trade",
-      "under"
-    ],
-    [
-      "afirma",
-      "analogica",
-      "anos",
-      "caixa",
-      "presidente",
-      "saiu",
-      "selva",
-      "tres"
-    ],
-    [
-      "final",
-      "forca",
-      "ganha",
-      "marco",
-      "relator",
-      "votado"
-    ],
-    [
-      "alabama",
-      "face",
-      "hugging",
-      "invasao",
-      "investigar",
-      "openai"
-    ],
     [
       "awareness",
       "being",
@@ -3420,6 +3289,171 @@
       "gates",
       "riscos",
       "techs"
+    ],
+    [
+      "brazil",
+      "expanding",
+      "openai",
+      "presence"
+    ],
+    [
+      "foundry",
+      "grok",
+      "microsoft"
+    ],
+    [
+      "foundry",
+      "grok",
+      "microsoft"
+    ],
+    [
+      "away",
+      "billion",
+      "closed",
+      "face",
+      "hugging",
+      "labs",
+      "nvidia",
+      "pull",
+      "snaps"
+    ],
+    [
+      "browser",
+      "claude",
+      "cowork",
+      "desktop",
+      "inside",
+      "runs"
+    ],
+    [
+      "cost",
+      "flash",
+      "fraction",
+      "matches",
+      "models",
+      "nvidia",
+      "runs",
+      "without"
+    ],
+    [
+      "ahead",
+      "anthropic",
+      "billion",
+      "compute",
+      "deal",
+      "dollar",
+      "locks",
+      "nscale"
+    ],
+    [
+      "flash",
+      "handle",
+      "likely",
+      "will",
+      "workloads",
+      "your"
+    ],
+    [
+      "center",
+      "data",
+      "grid",
+      "phantom",
+      "power",
+      "problem"
+    ],
+    [
+      "instead",
+      "keyboard",
+      "microphone",
+      "powered",
+      "stop",
+      "touching",
+      "your"
+    ],
+    [
+      "create",
+      "developers",
+      "fired",
+      "make",
+      "open",
+      "room",
+      "source"
+    ],
+    [
+      "become",
+      "company",
+      "forecast",
+      "growth",
+      "nvidia",
+      "puts",
+      "revenue",
+      "tech",
+      "track"
+    ],
+    [
+      "forecast",
+      "nvidia",
+      "popping",
+      "quarter",
+      "sales",
+      "street",
+      "strong",
+      "wall",
+      "wows"
+    ],
+    [
+      "defends",
+      "ecosystem",
+      "financial",
+      "growing",
+      "huang",
+      "jensen",
+      "nvidia",
+      "risk",
+      "support"
+    ],
+    [
+      "after",
+      "blockbuster",
+      "boost",
+      "confidence",
+      "earnings",
+      "jumps",
+      "nvidia"
+    ],
+    [
+      "artificial",
+      "entenda",
+      "forma",
+      "importa",
+      "inteligencia",
+      "simples"
+    ],
+    [
+      "cinco",
+      "learning",
+      "machine",
+      "mundo",
+      "perguntas",
+      "teve",
+      "todo"
+    ],
+    [
+      "alvo",
+      "brasil",
+      "discord",
+      "leis",
+      "novas",
+      "sigilo",
+      "virou"
+    ],
+    [
+      "escuta",
+      "fala",
+      "gente",
+      "neofeed",
+      "responde",
+      "voce"
     ]
   ]
 }
