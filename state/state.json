@@ -128,7 +128,8 @@
       "https://about.fb.com/?p=49845",
       "https://about.fb.com/?p=49871",
       "https://about.fb.com/?p=49900",
-      "https://about.fb.com/?p=49912"
+      "https://about.fb.com/?p=49912",
+      "https://about.fb.com/?p=50059"
     ],
     "nvidia_blog": [
       "https://blogs.nvidia.com/?p=96644",
@@ -362,7 +363,8 @@
       "https://techcrunch.com/?p=3157743",
       "https://techcrunch.com/?p=3157691",
       "https://techcrunch.com/?p=3157852",
-      "https://techcrunch.com/?p=3158012"
+      "https://techcrunch.com/?p=3158012",
+      "https://techcrunch.com/?p=3147648"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -442,7 +444,8 @@
       "https://www.theverge.com/?p=985549",
       "https://www.theverge.com/?p=985332",
       "https://www.theverge.com/?p=985597",
-      "https://www.theverge.com/?p=985567"
+      "https://www.theverge.com/?p=985567",
+      "https://www.theverge.com/?p=985947"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -643,7 +646,8 @@
       "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
       "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
       "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/"
+      "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+      "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -803,7 +807,9 @@
       "6a8c7de0dd042d49c2d1d203",
       "6a9036a19145af0a9bfdaad4",
       "6a905af1535e42598157d7c3",
-      "6a8c94bfdc189f02e9641b90"
+      "6a8c94bfdc189f02e9641b90",
+      "6a8f461323e3ef4f03be5d75",
+      "6a90f09b06c510ef6758e955"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -822,7 +828,8 @@
       "6a734eb4a62f5900019974d1",
       "6a7b29a98e92710001b25d8b",
       "6a878a3e8b62a000012676aa",
-      "6a8f71e06fefcd00018a3fe4"
+      "6a8f71e06fefcd00018a3fe4",
+      "6a90c3e141033e0001e785f8"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -885,7 +892,8 @@
       "https://news.ycombinator.com/item?id=49449507",
       "https://news.ycombinator.com/item?id=49458161",
       "https://news.ycombinator.com/item?id=49458418",
-      "https://news.ycombinator.com/item?id=49462763"
+      "https://news.ycombinator.com/item?id=49462763",
+      "https://news.ycombinator.com/item?id=49461817"
     ]
   },
   "mercado": {
@@ -992,7 +1000,12 @@
       "108355013",
       "108355257",
       "108355213",
-      "108355266"
+      "108355266",
+      "108355311",
+      "108355464",
+      "108355006",
+      "108355548",
+      "108355549"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1249,7 +1262,8 @@
       "https://olhardigital.com.br/?p=1366995",
       "https://olhardigital.com.br/?p=1366756",
       "https://olhardigital.com.br/?p=1367108",
-      "https://olhardigital.com.br/?p=1367411"
+      "https://olhardigital.com.br/?p=1367411",
+      "https://olhardigital.com.br/?p=1367475"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1442,7 +1456,8 @@
       "https://canaltech.com.br/inteligencia-artificial/a-vitrine-do-e-commerce-agora-tambem-precisa-convencer-a-inteligencia-artificial/",
       "https://canaltech.com.br/inteligencia-artificial/ia-montou-e-coordenou-equipes-sozinha-em-ataque-hacker-ao-hugging-face/",
       "https://canaltech.com.br/seguranca/ligacoes-falsas-usam-voz-de-ia-para-destravar-iphones-roubados-no-brasil/",
-      "https://canaltech.com.br/mercado/alibaba-abre-2-data-centers-no-brasil-para-desafiar-microsoft-google-e-aws-em-ia/"
+      "https://canaltech.com.br/mercado/alibaba-abre-2-data-centers-no-brasil-para-desafiar-microsoft-google-e-aws-em-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/meta-atualiza-oculos-com-ia-para-interromper-gravacao-se-led-for-coberto/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1578,7 +1593,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/27/sk-hynix-iniciara-producao-de-chips-de-ia-em-indiana-nos-eua-em-2029-e-preve-escassez-de-memoria-ate-2030.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/27/nvidia-vai-comprar-hugging-face-por-us129-bilhoes-diz-the-information.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/27/presidentes-de-openai-e-nvidia-vao-participar-de-reuniao-do-g20-sobre-tecnologia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/27/anthropic-planeja-divulgar-prospecto-de-ipo-em-setembro-diz-the-information.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/27/anthropic-planeja-divulgar-prospecto-de-ipo-em-setembro-diz-the-information.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/27/hackers-utilizaram-ferramenta-de-ia-da-spacex-para-ataque-a-sete-empresas.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1643,7 +1659,8 @@
       "https://startups.com.br/?p=340169",
       "https://startups.com.br/?p=340175",
       "https://startups.com.br/?p=340199",
-      "https://startups.com.br/?p=340250"
+      "https://startups.com.br/?p=340250",
+      "https://startups.com.br/?p=340249"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -1700,149 +1717,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "aumenta",
-      "bancos",
-      "contra",
-      "fraudes",
-      "papel",
-      "reacao",
-      "reduz",
-      "tempo"
-    ],
-    [
-      "cada",
-      "contou",
-      "ninguem",
-      "pessoas",
-      "sabia",
-      "segredo",
-      "tres"
-    ],
-    [
-      "desenhando",
-      "dublador",
-      "esta",
-      "etica",
-      "game",
-      "industria",
-      "linha",
-      "morto",
-      "pode",
-      "voltar"
-    ],
-    [
-      "agentes",
-      "bancos",
-      "colocam",
-      "diante",
-      "dilema",
-      "maiores",
-      "pais"
-    ],
-    [
-      "breaking",
-      "bursting",
-      "flames",
-      "games",
-      "humanoid",
-      "into",
-      "records",
-      "robot",
-      "runners",
-      "show",
-      "world"
-    ],
-    [
-      "alucinacoes",
-      "erros",
-      "gemini",
-      "google",
-      "juridico",
-      "lanca",
-      "reduzir"
-    ],
-    [
-      "acabar",
-      "atualizacao",
-      "bagunca",
-      "celular",
-      "gemini",
-      "google",
-      "grande",
-      "prepara"
-    ],
-    [
-      "acelera",
-      "caminho",
-      "escolhe",
-      "quem"
-    ],
-    [
-      "center",
-      "chief",
-      "chris",
-      "data",
-      "executive",
-      "exits",
-      "latest",
-      "malone",
-      "openai",
-      "string"
-    ],
-    [
-      "center",
-      "continues",
-      "data",
-      "departures",
-      "exec",
-      "high",
-      "loses",
-      "openai",
-      "profile",
-      "stream"
-    ],
-    [
-      "generalist",
-      "reaches",
-      "robotics",
-      "sources",
-      "startup",
-      "valuation"
-    ],
-    [
-      "amazon",
-      "artificial",
-      "bezos",
-      "called",
-      "down",
-      "intelligence",
-      "once",
-      "service",
-      "shutting"
-    ],
-    [
-      "executivo",
-      "openai",
-      "perde"
-    ],
-    [
-      "chinesa",
-      "consolidam",
-      "fala",
-      "humanoides",
-      "lideranca",
-      "olimpiadas",
-      "robotica"
-    ],
-    [
-      "elon",
-      "entenda",
-      "musk",
-      "quer",
-      "terra",
-      "tirar"
-    ],
     [
       "backing",
       "call",
@@ -3532,6 +3406,139 @@
       "oraculo",
       "risco",
       "terceirizar"
+    ],
+    [
+      "behind",
+      "closed",
+      "cooling",
+      "explained",
+      "loop",
+      "meta",
+      "plumbing"
+    ],
+    [
+      "2026",
+      "anthropic",
+      "disrupt",
+      "joining",
+      "openai",
+      "stage",
+      "techcrunch"
+    ],
+    [
+      "administration",
+      "anthropic",
+      "blacklisted",
+      "court",
+      "illegally",
+      "rules",
+      "trump"
+    ],
+    [
+      "agents",
+      "china",
+      "cooperate",
+      "could",
+      "hacking",
+      "push",
+      "systems"
+    ],
+    [
+      "anthropic",
+      "attempt",
+      "blacklist",
+      "blocked",
+      "judge",
+      "pentagon"
+    ],
+    [
+      "agents",
+      "exec",
+      "into",
+      "meta",
+      "quitting",
+      "radicalized"
+    ],
+    [
+      "bearing",
+      "claude",
+      "load",
+      "show",
+      "vocabulary"
+    ],
+    [
+      "bear",
+      "cramer",
+      "earnings",
+      "narratives",
+      "nvidia",
+      "salesforce",
+      "upended"
+    ],
+    [
+      "crowdstrike",
+      "cyber",
+      "dangerous",
+      "exposes",
+      "gaps",
+      "handle",
+      "legacy",
+      "tools"
+    ],
+    [
+      "capital",
+      "china",
+      "choppy",
+      "deepseek",
+      "empire",
+      "founder",
+      "fresh",
+      "looks",
+      "market",
+      "navigates",
+      "quant"
+    ],
+    [
+      "access",
+      "boost",
+      "chatgpt",
+      "india",
+      "monetization",
+      "openai",
+      "plans",
+      "rolls",
+      "select",
+      "support",
+      "wider"
+    ],
+    [
+      "anthropic",
+      "deve",
+      "divulgar",
+      "prospecto"
+    ],
+    [
+      "atualiza",
+      "coberto",
+      "gravacao",
+      "interromper",
+      "meta",
+      "oculos"
+    ],
+    [
+      "ataque",
+      "empresas",
+      "ferramenta",
+      "hackers",
+      "sete",
+      "spacex",
+      "utilizaram"
+    ],
+    [
+      "agora",
+      "aprenderam",
+      "brasileiras",
+      "scale"
     ]
   ]
 }
