@@ -193,7 +193,9 @@
       "https://x.ai/news/og-google-enterprise-agent-platform",
       "https://x.ai/news/og-gemini-enterprise-agent-platform",
       "https://x.ai/news/og-4-6-on-foundry",
-      "https://x.ai/news/grok-4-6-microsoft-foundry"
+      "https://x.ai/news/grok-4-6-microsoft-foundry",
+      "https://x.ai/news/grok-bot-and-x",
+      "https://x.ai/news/grok-bot-and-x-og"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -1313,7 +1315,8 @@
       "https://olhardigital.com.br/?p=1367411",
       "https://olhardigital.com.br/?p=1367475",
       "https://olhardigital.com.br/?p=1367658",
-      "https://olhardigital.com.br/?p=1368012"
+      "https://olhardigital.com.br/?p=1368012",
+      "https://olhardigital.com.br/?p=1368029"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1791,33 +1794,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "branding",
-      "does",
-      "gemini",
-      "google",
-      "problem",
-      "rest"
-    ],
-    [
-      "announces",
-      "gemini",
-      "google",
-      "powered",
-      "speech",
-      "text",
-      "transcribe"
-    ],
-    [
-      "again",
-      "claude",
-      "entire",
-      "inside",
-      "just",
-      "need",
-      "never",
-      "salesforce"
-    ],
     [
       "agents",
       "face",
@@ -3628,6 +3604,21 @@
       "processam",
       "sony",
       "warner"
+    ],
+    [
+      "grok",
+      "works"
+    ],
+    [
+      "grok"
+    ],
+    [
+      "acusam",
+      "anthropic",
+      "gigantes",
+      "musica",
+      "pirataria",
+      "treinar"
     ]
   ]
 }
