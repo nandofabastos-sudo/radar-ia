@@ -373,7 +373,8 @@
       "https://techcrunch.com/?p=3158505",
       "https://techcrunch.com/?p=3158531",
       "https://techcrunch.com/?p=3158515",
-      "https://techcrunch.com/?p=3156771"
+      "https://techcrunch.com/?p=3156771",
+      "https://techcrunch.com/?p=3158639"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -456,7 +457,8 @@
       "https://www.theverge.com/?p=985567",
       "https://www.theverge.com/?p=985947",
       "https://www.theverge.com/?p=986176",
-      "https://www.theverge.com/?p=985866"
+      "https://www.theverge.com/?p=985866",
+      "https://www.theverge.com/?p=986438"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1045,7 +1047,8 @@
       "108349906",
       "108356045",
       "108355944",
-      "108355724"
+      "108355724",
+      "108356093"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1309,7 +1312,8 @@
       "https://olhardigital.com.br/?p=1367108",
       "https://olhardigital.com.br/?p=1367411",
       "https://olhardigital.com.br/?p=1367475",
-      "https://olhardigital.com.br/?p=1367658"
+      "https://olhardigital.com.br/?p=1367658",
+      "https://olhardigital.com.br/?p=1368012"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1518,7 +1522,8 @@
       "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-gemini/",
       "https://canaltech.com.br/entretenimento/filmes-e-series-com-ia-generativa/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-tem-acesso-a-todos-os-dados-da-sua-empresa-veja-como-desativar/",
-      "https://canaltech.com.br/hardware/ia-pode-salvar-games-em-tempos-de-crise/"
+      "https://canaltech.com.br/hardware/ia-pode-salvar-games-em-tempos-de-crise/",
+      "https://canaltech.com.br/inteligencia-artificial/prompts-para-transformar-google-maps-guia-de-turismo/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1658,7 +1663,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/27/hackers-utilizaram-ferramenta-de-ia-da-spacex-para-ataque-a-sete-empresas.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/28/justica-dos-eua-declara-ilegais-sancoes-a-anthropic-impostas-por-trump.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/28/gigantes-da-tecnologia-pedem-resposta-mundial-contra-ameacas-a-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/28/tencent-lanca-novo-modelo-de-ia-de-codigo-aberto-para-tarefas-de-programacao-e-pesquisa.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/28/tencent-lanca-novo-modelo-de-ia-de-codigo-aberto-para-tarefas-de-programacao-e-pesquisa.htm",
+      "https://economia.uol.com.br/noticias/reuters/2026/08/29/openai-vai-interromper-fornecimento-de-modelos-de-ia-para-cursor-da-spacex-intensificando-disputa-com-musk.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/29/sony-e-warner-acusam-anthropic-de-piratear-milhares-de-musicas.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1784,43 +1791,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "apple",
-      "dobravel",
-      "evento",
-      "iphone",
-      "marca",
-      "setembro"
-    ],
-    [
-      "consignado",
-      "esteira",
-      "mira",
-      "privado",
-      "youcred"
-    ],
-    [
-      "ahead",
-      "face",
-      "hugging",
-      "incident",
-      "road"
-    ],
-    [
-      "breach",
-      "face",
-      "hugging",
-      "official",
-      "openai",
-      "releases",
-      "report"
-    ],
-    [
-      "executive",
-      "exodus",
-      "explain",
-      "openai"
-    ],
     [
       "branding",
       "does",
@@ -3611,6 +3581,53 @@
       "pode",
       "salvar",
       "tempos"
+    ],
+    [
+      "alleging",
+      "anthropic",
+      "brazen",
+      "campaign",
+      "intellectual",
+      "music",
+      "property",
+      "sony",
+      "theft",
+      "warner"
+    ],
+    [
+      "acesso",
+      "alfineta",
+      "comprada",
+      "corta",
+      "empresa",
+      "musk",
+      "openai",
+      "spacex"
+    ],
+    [
+      "google",
+      "guia",
+      "maps",
+      "perfeito",
+      "prompts",
+      "transformar",
+      "turismo"
+    ],
+    [
+      "cursor",
+      "fornecimento",
+      "interromper",
+      "modelos",
+      "openai",
+      "spacex"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "musicas",
+      "processam",
+      "sony",
+      "warner"
     ]
   ]
 }
