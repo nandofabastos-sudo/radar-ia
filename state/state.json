@@ -55,7 +55,8 @@
       "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "https://openai.com/index/expanding-our-presence-in-brazil",
       "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+      "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -604,7 +605,8 @@
       "https://the-decoder.com/?p=39522",
       "https://the-decoder.com/?p=39526",
       "https://the-decoder.com/?p=39529",
-      "https://the-decoder.com/?p=39541"
+      "https://the-decoder.com/?p=39541",
+      "https://the-decoder.com/?p=39553"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -915,7 +917,8 @@
       "https://news.ycombinator.com/item?id=49462763",
       "https://news.ycombinator.com/item?id=49461817",
       "https://news.ycombinator.com/item?id=49473522",
-      "https://news.ycombinator.com/item?id=49475079"
+      "https://news.ycombinator.com/item?id=49475079",
+      "https://news.ycombinator.com/item?id=49486172"
     ]
   },
   "mercado": {
@@ -1763,15 +1766,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alpha",
-      "confirms",
-      "model",
-      "release",
-      "series",
-      "weights",
-      "will"
-    ],
     [
       "flash"
     ],
@@ -3584,6 +3578,13 @@
       "remodela",
       "spin",
       "telecom"
+    ],
+    [
+      "acquisition",
+      "cursor",
+      "decision",
+      "following",
+      "spacex"
     ]
   ]
 }
