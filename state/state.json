@@ -372,7 +372,8 @@
       "https://techcrunch.com/?p=3158461",
       "https://techcrunch.com/?p=3158505",
       "https://techcrunch.com/?p=3158531",
-      "https://techcrunch.com/?p=3158515"
+      "https://techcrunch.com/?p=3158515",
+      "https://techcrunch.com/?p=3156771"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -926,7 +927,8 @@
       "https://news.ycombinator.com/item?id=49461817",
       "https://news.ycombinator.com/item?id=49473522",
       "https://news.ycombinator.com/item?id=49475079",
-      "https://news.ycombinator.com/item?id=49486172"
+      "https://news.ycombinator.com/item?id=49486172",
+      "https://news.ycombinator.com/item?id=49489982"
     ]
   },
   "mercado": {
@@ -1514,7 +1516,9 @@
       "https://canaltech.com.br/smartphone/inteligencia-artificial-vai-deixar-celulares-mais-caros-ate-2030-diz-fabricante/",
       "https://canaltech.com.br/apps/esqueceu-de-pagar-o-boleto-ia-do-c6-bank-agora-cria-lembretes-no-app/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-gemini/",
-      "https://canaltech.com.br/entretenimento/filmes-e-series-com-ia-generativa/"
+      "https://canaltech.com.br/entretenimento/filmes-e-series-com-ia-generativa/",
+      "https://canaltech.com.br/inteligencia-artificial/gemini-tem-acesso-a-todos-os-dados-da-sua-empresa-veja-como-desativar/",
+      "https://canaltech.com.br/hardware/ia-pode-salvar-games-em-tempos-de-crise/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1780,41 +1784,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "action",
-      "candidates",
-      "centers",
-      "data",
-      "pact",
-      "promising",
-      "safety",
-      "signing"
-    ],
-    [
-      "anthropic",
-      "billion",
-      "cloud",
-      "deal",
-      "nscale",
-      "sources",
-      "strike"
-    ],
-    [
-      "alibaba",
-      "anterior",
-      "custa",
-      "menos",
-      "modelo",
-      "treinar",
-      "vezes"
-    ],
-    [
-      "estudantes",
-      "google",
-      "gratis",
-      "plus",
-      "resgatar"
-    ],
     [
       "apple",
       "dobravel",
@@ -3604,6 +3573,44 @@
       "generativa",
       "hoje",
       "series"
+    ],
+    [
+      "a16z",
+      "after",
+      "bets",
+      "betting",
+      "billion",
+      "doing",
+      "pande",
+      "running",
+      "small",
+      "vijay",
+      "year"
+    ],
+    [
+      "allow",
+      "debian",
+      "generative",
+      "responsible",
+      "votes"
+    ],
+    [
+      "acesso",
+      "dados",
+      "desativar",
+      "empresa",
+      "gemini",
+      "todos",
+      "veja"
+    ],
+    [
+      "crise",
+      "entenda",
+      "games",
+      "hardware",
+      "pode",
+      "salvar",
+      "tempos"
     ]
   ]
 }
