@@ -932,7 +932,8 @@
       "https://news.ycombinator.com/item?id=49473522",
       "https://news.ycombinator.com/item?id=49475079",
       "https://news.ycombinator.com/item?id=49486172",
-      "https://news.ycombinator.com/item?id=49489982"
+      "https://news.ycombinator.com/item?id=49489982",
+      "https://news.ycombinator.com/item?id=49491568"
     ]
   },
   "mercado": {
@@ -1794,15 +1795,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agents",
-      "face",
-      "hacked",
-      "hugging",
-      "inside",
-      "openai",
-      "story"
-    ],
     [
       "bolt",
       "china",
@@ -3619,6 +3611,13 @@
       "musica",
       "pirataria",
       "treinar"
+    ],
+    [
+      "biggest",
+      "culture",
+      "good",
+      "hack",
+      "productivity"
     ]
   ]
 }
