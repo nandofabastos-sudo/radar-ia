@@ -376,7 +376,9 @@
       "https://techcrunch.com/?p=3158531",
       "https://techcrunch.com/?p=3158515",
       "https://techcrunch.com/?p=3156771",
-      "https://techcrunch.com/?p=3158639"
+      "https://techcrunch.com/?p=3158639",
+      "https://techcrunch.com/?p=3158173",
+      "https://techcrunch.com/?p=3158648"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -460,7 +462,8 @@
       "https://www.theverge.com/?p=985947",
       "https://www.theverge.com/?p=986176",
       "https://www.theverge.com/?p=985866",
-      "https://www.theverge.com/?p=986438"
+      "https://www.theverge.com/?p=986438",
+      "https://www.theverge.com/?p=986541"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -621,7 +624,8 @@
       "https://the-decoder.com/?p=39581",
       "https://the-decoder.com/?p=39586",
       "https://the-decoder.com/?p=39549",
-      "https://the-decoder.com/?p=39286"
+      "https://the-decoder.com/?p=39286",
+      "https://the-decoder.com/?p=39594"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1325,7 +1329,8 @@
       "https://olhardigital.com.br/?p=1367658",
       "https://olhardigital.com.br/?p=1368012",
       "https://olhardigital.com.br/?p=1368029",
-      "https://olhardigital.com.br/?p=1366337"
+      "https://olhardigital.com.br/?p=1366337",
+      "https://olhardigital.com.br/?p=1368159"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1807,56 +1812,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "amazon",
-      "chips",
-      "demand",
-      "just",
-      "nvidia",
-      "order",
-      "over",
-      "surging",
-      "tripled"
-    ],
-    [
-      "billion",
-      "instinct",
-      "million",
-      "raised",
-      "startup",
-      "valuation",
-      "viral"
-    ],
-    [
-      "incident",
-      "model",
-      "openai",
-      "rogue",
-      "than",
-      "thought",
-      "worse"
-    ],
-    [
-      "about",
-      "billion",
-      "company",
-      "dollar",
-      "hundred",
-      "nvidia",
-      "quarter"
-    ],
-    [
-      "actions",
-      "agents",
-      "disruptive",
-      "large",
-      "made",
-      "meant",
-      "meta",
-      "replace",
-      "scale",
-      "workers"
-    ],
     [
       "child",
       "failures",
@@ -3613,6 +3568,55 @@
       "automation",
       "opiniao",
       "stanford"
+    ],
+    [
+      "automating",
+      "bringing",
+      "caterpillar",
+      "deployment",
+      "learned",
+      "mining",
+      "what"
+    ],
+    [
+      "comes",
+      "faster",
+      "more",
+      "musk",
+      "path",
+      "pollution",
+      "problem",
+      "turbines"
+    ],
+    [
+      "abbott",
+      "blocks",
+      "cameras",
+      "flock",
+      "funding",
+      "governor",
+      "more",
+      "texas"
+    ],
+    [
+      "across",
+      "employee",
+      "frustration",
+      "growing",
+      "reveal",
+      "reviews",
+      "sentiment",
+      "sour",
+      "turning",
+      "workforce"
+    ],
+    [
+      "casos",
+      "crescem",
+      "enganando",
+      "pesquisadores",
+      "preocupam",
+      "usuarios"
     ]
   ]
 }
