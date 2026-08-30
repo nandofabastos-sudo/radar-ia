@@ -617,7 +617,11 @@
       "https://the-decoder.com/?p=39535",
       "https://the-decoder.com/?p=39562",
       "https://the-decoder.com/?p=39567",
-      "https://the-decoder.com/?p=39575"
+      "https://the-decoder.com/?p=39575",
+      "https://the-decoder.com/?p=39581",
+      "https://the-decoder.com/?p=39586",
+      "https://the-decoder.com/?p=39549",
+      "https://the-decoder.com/?p=39286"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -674,7 +678,8 @@
       "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
       "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
       "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-      "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
+      "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -844,7 +849,8 @@
       "6a8f5a92a900bd9d58336fff",
       "6a909639933ab0cdef3062ed",
       "6a8f5fcd81a7b3cc4250388b",
-      "6a91a28c803370e4d9cbd822"
+      "6a91a28c803370e4d9cbd822",
+      "6a8dc20a07538691fe0533d6"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1156,7 +1162,8 @@
       "https://mittechreview.com.br/?p=263061",
       "https://mittechreview.com.br/?p=263050",
       "https://mittechreview.com.br/?p=263464",
-      "https://mittechreview.com.br/?p=263494"
+      "https://mittechreview.com.br/?p=263494",
+      "https://mittechreview.com.br/?p=263500"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1317,7 +1324,8 @@
       "https://olhardigital.com.br/?p=1367475",
       "https://olhardigital.com.br/?p=1367658",
       "https://olhardigital.com.br/?p=1368012",
-      "https://olhardigital.com.br/?p=1368029"
+      "https://olhardigital.com.br/?p=1368029",
+      "https://olhardigital.com.br/?p=1366337"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1527,7 +1535,8 @@
       "https://canaltech.com.br/entretenimento/filmes-e-series-com-ia-generativa/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-tem-acesso-a-todos-os-dados-da-sua-empresa-veja-como-desativar/",
       "https://canaltech.com.br/hardware/ia-pode-salvar-games-em-tempos-de-crise/",
-      "https://canaltech.com.br/inteligencia-artificial/prompts-para-transformar-google-maps-guia-de-turismo/"
+      "https://canaltech.com.br/inteligencia-artificial/prompts-para-transformar-google-maps-guia-de-turismo/",
+      "https://canaltech.com.br/inteligencia-artificial/dicas-como-treinar-memoria-do-chatgpt/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1669,7 +1678,8 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/28/gigantes-da-tecnologia-pedem-resposta-mundial-contra-ameacas-a-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/28/tencent-lanca-novo-modelo-de-ia-de-codigo-aberto-para-tarefas-de-programacao-e-pesquisa.htm",
       "https://economia.uol.com.br/noticias/reuters/2026/08/29/openai-vai-interromper-fornecimento-de-modelos-de-ia-para-cursor-da-spacex-intensificando-disputa-com-musk.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/29/sony-e-warner-acusam-anthropic-de-piratear-milhares-de-musicas.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/29/sony-e-warner-acusam-anthropic-de-piratear-milhares-de-musicas.ghtm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/30/as-estatisticas-sobre-inteligencia-artificial-que-voce-precisa-saber-hoje.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1704,7 +1714,9 @@
       "https://braziljournal.com/?p=101414",
       "https://braziljournal.com/?p=101463",
       "https://braziljournal.com/?p=102124",
-      "https://braziljournal.com/?p=102169"
+      "https://braziljournal.com/?p=102169",
+      "https://braziljournal.com/?p=102286",
+      "https://braziljournal.com/?p=102281"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -1795,117 +1807,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bolt",
-      "china",
-      "faster",
-      "games",
-      "humanoids",
-      "impressed",
-      "mastery",
-      "more",
-      "robot",
-      "than",
-      "their",
-      "tweezer",
-      "usain",
-      "were"
-    ],
-    [
-      "answers",
-      "debrief",
-      "face",
-      "hack",
-      "hugging",
-      "more",
-      "openai",
-      "questions",
-      "raises",
-      "than"
-    ],
-    [
-      "anthropic",
-      "benioff",
-      "concerns",
-      "expand",
-      "partnership",
-      "responds",
-      "saaspocalypse",
-      "salesforce"
-    ],
-    [
-      "anthropic",
-      "gain",
-      "growth",
-      "investment",
-      "jumps",
-      "salesforce",
-      "stock"
-    ],
-    [
-      "after",
-      "demand",
-      "estimates",
-      "identity",
-      "okta",
-      "pops",
-      "security",
-      "spikes",
-      "threat",
-      "topping"
-    ],
-    [
-      "ainda",
-      "bolt",
-      "diminui",
-      "humanoide",
-      "recorde",
-      "robo",
-      "usain"
-    ],
-    [
-      "anuncios",
-      "chatgpt",
-      "colocam",
-      "conversar",
-      "marcas",
-      "pode",
-      "voce"
-    ],
-    [
-      "alugar",
-      "anthropic",
-      "bilhoes",
-      "capacidade",
-      "computacional",
-      "fonte",
-      "nscale"
-    ],
-    [
-      "dados",
-      "fundacao",
-      "ilusao"
-    ],
-    [
-      "bandwidth",
-      "custom",
-      "expands",
-      "fusion",
-      "high",
-      "memory",
-      "nvhbm",
-      "nvidia",
-      "nvlink"
-    ],
-    [
-      "anthropic",
-      "compute",
-      "continues",
-      "deal",
-      "gobbling",
-      "nscale",
-      "streak"
-    ],
     [
       "amazon",
       "chips",
@@ -3618,6 +3519,100 @@
       "good",
       "hack",
       "productivity"
+    ],
+    [
+      "anthropic",
+      "blatant",
+      "history",
+      "intellectual",
+      "largest",
+      "most",
+      "ongoing",
+      "over",
+      "property",
+      "sony",
+      "thefts",
+      "warner"
+    ],
+    [
+      "anthropic",
+      "change",
+      "claude",
+      "code",
+      "limit",
+      "paper",
+      "practice",
+      "raise"
+    ],
+    [
+      "best",
+      "earn",
+      "fake",
+      "grades",
+      "ones",
+      "skills"
+    ],
+    [
+      "agents",
+      "aware",
+      "have",
+      "sense",
+      "time"
+    ],
+    [
+      "hottest",
+      "ignored",
+      "want",
+      "wearables"
+    ],
+    [
+      "agentes",
+      "dentro",
+      "face",
+      "historia",
+      "hugging",
+      "invasao",
+      "openai"
+    ],
+    [
+      "aliancas",
+      "alliance",
+      "importam",
+      "open",
+      "quem",
+      "secure"
+    ],
+    [
+      "chatgpt",
+      "dicas",
+      "melhorar",
+      "memoria",
+      "respostas",
+      "treinar"
+    ],
+    [
+      "artificial",
+      "estatisticas",
+      "hoje",
+      "inteligencia",
+      "precisa",
+      "saber",
+      "voce"
+    ],
+    [
+      "altman",
+      "eticos",
+      "goethe",
+      "limites",
+      "opiniao",
+      "platao"
+    ],
+    [
+      "aprendi",
+      "augmentation",
+      "automation",
+      "opiniao",
+      "stanford"
     ]
   ]
 }
