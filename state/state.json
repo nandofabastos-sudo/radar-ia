@@ -757,7 +757,8 @@
       "4kSKkAv49UJ4Wk7hUrj0zk",
       "1EPZirKFGKeZ0bMDg7sHU2",
       "zGxF5lYeYNKZcAqjJi0F1",
-      "5PZpmcbwBnrQlJS92iFX0r"
+      "5PZpmcbwBnrQlJS92iFX0r",
+      "CHEt3gwb9kifEFjeUTX3l"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -1541,7 +1542,8 @@
       "https://canaltech.com.br/inteligencia-artificial/gemini-tem-acesso-a-todos-os-dados-da-sua-empresa-veja-como-desativar/",
       "https://canaltech.com.br/hardware/ia-pode-salvar-games-em-tempos-de-crise/",
       "https://canaltech.com.br/inteligencia-artificial/prompts-para-transformar-google-maps-guia-de-turismo/",
-      "https://canaltech.com.br/inteligencia-artificial/dicas-como-treinar-memoria-do-chatgpt/"
+      "https://canaltech.com.br/inteligencia-artificial/dicas-como-treinar-memoria-do-chatgpt/",
+      "https://canaltech.com.br/inteligencia-artificial/o-que-e-um-roteador-de-ia-veja-como-usar/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1812,27 +1814,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "child",
-      "failures",
-      "meta",
-      "over",
-      "safety",
-      "settles",
-      "states"
-    ],
-    [
-      "crowdstrike",
-      "cyber",
-      "drives",
-      "jumps",
-      "moment",
-      "mythos",
-      "quarter",
-      "record",
-      "second",
-      "wave"
-    ],
     [
       "eletrico",
       "setor"
@@ -3617,6 +3598,24 @@
       "pesquisadores",
       "preocupam",
       "usuarios"
+    ],
+    [
+      "agents",
+      "authentication",
+      "data",
+      "drift",
+      "expose",
+      "memory",
+      "pass",
+      "poisoned",
+      "still"
+    ],
+    [
+      "economizar",
+      "roteador",
+      "tokens",
+      "usar",
+      "veja"
     ]
   ]
 }
