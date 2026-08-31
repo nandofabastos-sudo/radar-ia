@@ -378,7 +378,8 @@
       "https://techcrunch.com/?p=3156771",
       "https://techcrunch.com/?p=3158639",
       "https://techcrunch.com/?p=3158173",
-      "https://techcrunch.com/?p=3158648"
+      "https://techcrunch.com/?p=3158648",
+      "https://techcrunch.com/?p=3157348"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1816,14 +1817,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acerta",
-      "compra",
-      "dois",
-      "gpus",
-      "milhoes",
-      "nvidia"
-    ],
     [
       "artificial",
       "cinco",
@@ -3621,6 +3614,16 @@
       "diferenca",
       "entre",
       "qual"
+    ],
+    [
+      "around",
+      "barriers",
+      "building",
+      "china",
+      "drones",
+      "robots",
+      "scale",
+      "them"
     ]
   ]
 }
