@@ -58,7 +58,8 @@
       "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "https://openai.com/index/polimill"
+      "https://openai.com/index/polimill",
+      "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -787,7 +788,8 @@
       "CHEt3gwb9kifEFjeUTX3l",
       "15ORBIUcpBMNYcRPSHLXoO",
       "4gX9Sop7JmQsnlRSx1cW5z",
-      "6vv8yWdM3t2hMZBeTZpe3R"
+      "6vv8yWdM3t2hMZBeTZpe3R",
+      "7jbNSZY2giuLPG94cVwBNd"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -977,7 +979,8 @@
       "https://news.ycombinator.com/item?id=49486172",
       "https://news.ycombinator.com/item?id=49489982",
       "https://news.ycombinator.com/item?id=49491568",
-      "https://news.ycombinator.com/item?id=49506819"
+      "https://news.ycombinator.com/item?id=49506819",
+      "https://news.ycombinator.com/item?id=49508982"
     ]
   },
   "mercado": {
@@ -1376,7 +1379,9 @@
       "https://olhardigital.com.br/?p=1368341",
       "https://olhardigital.com.br/?p=1368375",
       "https://olhardigital.com.br/?p=1368569",
-      "https://olhardigital.com.br/?p=1368580"
+      "https://olhardigital.com.br/?p=1368580",
+      "https://olhardigital.com.br/?p=1368591",
+      "https://olhardigital.com.br/?p=1368603"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1893,50 +1898,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "lanca",
-      "perplexity",
-      "roda",
-      "sistema",
-      "tudo"
-    ],
-    [
-      "acordo",
-      "bilhoes",
-      "comprar",
-      "face",
-      "fecha",
-      "hugging",
-      "nvidia",
-      "site"
-    ],
-    [
-      "algo",
-      "errado",
-      "fugiu",
-      "havia",
-      "ignorou",
-      "openai",
-      "sinais",
-      "teste"
-    ],
-    [
-      "astronomico",
-      "compra",
-      "face",
-      "flertar",
-      "hugging",
-      "nvidia",
-      "valor"
-    ],
-    [
-      "alertar",
-      "comeca",
-      "golpe",
-      "tentativas",
-      "usuarios",
-      "whatsapp"
-    ],
     [
       "agora",
       "artificial",
@@ -3692,6 +3653,52 @@
     ],
     [
       "maritaca"
+    ],
+    [
+      "advance",
+      "bill",
+      "california",
+      "openai",
+      "safety",
+      "supports",
+      "youth"
+    ],
+    [
+      "coding",
+      "enterprises",
+      "here",
+      "means",
+      "multiplayer",
+      "openclaw",
+      "ushering",
+      "what"
+    ],
+    [
+      "apple",
+      "caught",
+      "demand",
+      "guard",
+      "mini",
+      "studio"
+    ],
+    [
+      "acordo",
+      "anthropic",
+      "apoiada",
+      "bilionario",
+      "empresa",
+      "fecha",
+      "nuvem",
+      "nvidia",
+      "pela"
+    ],
+    [
+      "alertam",
+      "alto",
+      "impacto",
+      "imprevisiveis",
+      "ligados",
+      "riscos"
     ]
   ]
 }
