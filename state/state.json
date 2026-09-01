@@ -407,7 +407,8 @@
       "https://techcrunch.com/?p=3159727",
       "https://techcrunch.com/?p=3159842",
       "https://techcrunch.com/?p=3159905",
-      "https://techcrunch.com/?p=3159895"
+      "https://techcrunch.com/?p=3159895",
+      "https://techcrunch.com/?p=3159934"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -502,7 +503,9 @@
       "https://www.theverge.com/?p=987486",
       "https://www.theverge.com/?p=987575",
       "https://www.theverge.com/?p=987566",
-      "https://www.theverge.com/?p=987695"
+      "https://www.theverge.com/?p=987695",
+      "https://www.theverge.com/?p=987830",
+      "https://www.theverge.com/?p=987429"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1018,7 +1021,8 @@
       "https://news.ycombinator.com/item?id=49506819",
       "https://news.ycombinator.com/item?id=49508982",
       "https://news.ycombinator.com/item?id=49519939",
-      "https://news.ycombinator.com/item?id=49525378"
+      "https://news.ycombinator.com/item?id=49525378",
+      "https://news.ycombinator.com/item?id=49526069"
     ]
   },
   "mercado": {
@@ -1153,7 +1157,8 @@
       "108357185",
       "108356689",
       "108357258",
-      "108357231"
+      "108357231",
+      "108357412"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1442,7 +1447,10 @@
       "https://olhardigital.com.br/?p=1368851",
       "https://olhardigital.com.br/?p=1368869",
       "https://olhardigital.com.br/?p=1368895",
-      "https://olhardigital.com.br/?p=1368901"
+      "https://olhardigital.com.br/?p=1368901",
+      "https://olhardigital.com.br/?p=1368909",
+      "https://olhardigital.com.br/?p=1368926",
+      "https://olhardigital.com.br/?p=1368929"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1885,7 +1893,8 @@
       "https://braziljournal.com/?p=102286",
       "https://braziljournal.com/?p=102281",
       "https://braziljournal.com/?p=102328",
-      "https://braziljournal.com/?p=102397"
+      "https://braziljournal.com/?p=102397",
+      "https://braziljournal.com/?p=102436"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -1982,82 +1991,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "chatbot",
-      "computer",
-      "your"
-    ],
-    [
-      "apocalypse",
-      "coming",
-      "cybersecurity",
-      "giants",
-      "months",
-      "warn"
-    ],
-    [
-      "angst",
-      "backlash",
-      "collides",
-      "fears",
-      "fever",
-      "media",
-      "pitch",
-      "reaches",
-      "social",
-      "tech"
-    ],
-    [
-      "battleground",
-      "just",
-      "models",
-      "next",
-      "revealed",
-      "salesforce"
-    ],
-    [
-      "buildout",
-      "earnings",
-      "game",
-      "lesson",
-      "week",
-      "zero"
-    ],
-    [
-      "agora",
-      "bill",
-      "gates",
-      "limites",
-      "perigo",
-      "ultrapassamos"
-    ],
-    [
-      "claude",
-      "coisas",
-      "gemini",
-      "melhor"
-    ],
-    [
-      "abordaram",
-      "conhecemos",
-      "filmes",
-      "generativa",
-      "hoje",
-      "series"
-    ],
-    [
-      "a16z",
-      "after",
-      "bets",
-      "betting",
-      "billion",
-      "doing",
-      "pande",
-      "running",
-      "small",
-      "vijay",
-      "year"
-    ],
     [
       "allow",
       "debian",
@@ -3782,6 +3715,88 @@
       "mythos",
       "novas",
       "versoes"
+    ],
+    [
+      "afterquery",
+      "becomes",
+      "combinator",
+      "ever",
+      "fastest",
+      "reportedly",
+      "unicorn",
+      "valued"
+    ],
+    [
+      "8217",
+      "agentic",
+      "anthropic",
+      "cheaper",
+      "claude",
+      "fable",
+      "launches",
+      "percent",
+      "work"
+    ],
+    [
+      "google",
+      "hollywood",
+      "more",
+      "need",
+      "needs",
+      "studios",
+      "than"
+    ],
+    [
+      "accurate",
+      "been",
+      "have",
+      "predictions",
+      "skeptic",
+      "zitron"
+    ],
+    [
+      "alto",
+      "cybersecurity",
+      "infrastructure",
+      "palo",
+      "ready",
+      "trillion"
+    ],
+    [
+      "adia",
+      "astra",
+      "ciberseguranca",
+      "critico",
+      "modelo",
+      "openai",
+      "risco",
+      "testes"
+    ],
+    [
+      "anthropic",
+      "enfrentar",
+      "google",
+      "openai",
+      "prepara",
+      "programacao",
+      "recuperar",
+      "terreno"
+    ],
+    [
+      "conversas",
+      "lanca",
+      "meta",
+      "muito",
+      "real",
+      "tempo",
+      "transcreve"
+    ],
+    [
+      "brasil",
+      "chatgpt",
+      "faccionado",
+      "policia",
+      "quer"
     ]
   ]
 }
