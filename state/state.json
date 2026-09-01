@@ -57,7 +57,8 @@
       "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+      "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "https://openai.com/index/polimill"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -75,7 +76,8 @@
       "https://www.anthropic.com/news/claude-text-watermark",
       "https://www.anthropic.com/news/wellbeing-research-grants",
       "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+      "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "https://www.anthropic.com/news/improving-alignment-security-efforts"
     ],
     "google_deepmind": [
       "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -386,7 +388,8 @@
       "https://techcrunch.com/?p=3158701",
       "https://techcrunch.com/?p=3158889",
       "https://techcrunch.com/?p=3158959",
-      "https://techcrunch.com/?p=3158932"
+      "https://techcrunch.com/?p=3158932",
+      "https://techcrunch.com/?p=3159449"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -903,7 +906,8 @@
       "6a7b29a98e92710001b25d8b",
       "6a878a3e8b62a000012676aa",
       "6a8f71e06fefcd00018a3fe4",
-      "6a90c3e141033e0001e785f8"
+      "6a90c3e141033e0001e785f8",
+      "6a9610144f68b90001e85e1f"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -1370,7 +1374,9 @@
       "https://olhardigital.com.br/?p=1366337",
       "https://olhardigital.com.br/?p=1368159",
       "https://olhardigital.com.br/?p=1368341",
-      "https://olhardigital.com.br/?p=1368375"
+      "https://olhardigital.com.br/?p=1368375",
+      "https://olhardigital.com.br/?p=1368569",
+      "https://olhardigital.com.br/?p=1368580"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1881,104 +1887,12 @@
       "https://www.mobiletime.com.br/?p=862190",
       "https://www.mobiletime.com.br/?p=862467",
       "https://www.mobiletime.com.br/?p=862596",
-      "https://www.mobiletime.com.br/?p=862715"
+      "https://www.mobiletime.com.br/?p=862715",
+      "https://www.mobiletime.com.br/?p=862763",
+      "https://www.mobiletime.com.br/?p=862789"
     ]
   },
   "_titulos_recentes": [
-    [
-      "best",
-      "crowdstrike",
-      "earnings",
-      "ever",
-      "lifts",
-      "nearly",
-      "okta",
-      "pops",
-      "posts",
-      "rising",
-      "stock",
-      "threat"
-    ],
-    [
-      "bolstering",
-      "chinese",
-      "crackdown",
-      "house",
-      "models",
-      "nvidia",
-      "open",
-      "support",
-      "warns",
-      "white"
-    ],
-    [
-      "companies",
-      "cyber",
-      "defense",
-      "entities",
-      "have",
-      "limited",
-      "major",
-      "push",
-      "sign",
-      "window"
-    ],
-    [
-      "agents",
-      "anthropic",
-      "help",
-      "into",
-      "machines",
-      "operate",
-      "physical",
-      "pushes",
-      "standard",
-      "world"
-    ],
-    [
-      "bursts",
-      "democratic",
-      "front",
-      "massachusetts",
-      "primary",
-      "senate"
-    ],
-    [
-      "bowl",
-      "building",
-      "feeding",
-      "help",
-      "hoomanely",
-      "owners",
-      "platform",
-      "sick",
-      "smart",
-      "spot",
-      "their",
-      "when"
-    ],
-    [
-      "156m",
-      "acquires",
-      "fraud",
-      "fravity",
-      "investigation",
-      "secures",
-      "socure",
-      "startup",
-      "valuation"
-    ],
-    [
-      "acao",
-      "ataques",
-      "contra",
-      "empresas",
-      "google",
-      "openai",
-      "outras",
-      "pedem",
-      "urgente"
-    ],
     [
       "lanca",
       "perplexity",
@@ -3715,6 +3629,69 @@
       "bilhao",
       "chatgpt",
       "receita"
+    ],
+    [
+      "builds",
+      "generation",
+      "infrastructure",
+      "japan",
+      "next",
+      "polimill",
+      "public"
+    ],
+    [
+      "anthropic"
+    ],
+    [
+      "accused",
+      "against",
+      "apple",
+      "company",
+      "data",
+      "employee",
+      "evidence",
+      "former",
+      "openai",
+      "shares",
+      "shocking",
+      "stealing"
+    ],
+    [
+      "attack",
+      "face",
+      "hugging",
+      "than",
+      "thought",
+      "worse"
+    ],
+    [
+      "apple",
+      "chocantes",
+      "contra",
+      "encontrado",
+      "evidencias",
+      "macbook",
+      "openai"
+    ],
+    [
+      "gerados",
+      "identificarem",
+      "instagram",
+      "perfis",
+      "punir"
+    ],
+    [
+      "chatgpt",
+      "europa",
+      "ganham",
+      "passam",
+      "redit",
+      "roblox",
+      "submetidos",
+      "usuarios"
+    ],
+    [
+      "maritaca"
     ]
   ]
 }
