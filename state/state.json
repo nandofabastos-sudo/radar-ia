@@ -1103,7 +1103,11 @@
       "108356290",
       "108356468",
       "108356607",
-      "108356655"
+      "108356655",
+      "108356786",
+      "108356847",
+      "108356395",
+      "108354722"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1171,7 +1175,8 @@
       "https://news.crunchbase.com/?p=94006",
       "https://news.crunchbase.com/?p=94014",
       "https://news.crunchbase.com/?p=94020",
-      "https://news.crunchbase.com/?p=94018"
+      "https://news.crunchbase.com/?p=94018",
+      "https://news.crunchbase.com/?p=94023"
     ]
   },
   "brasil": {
@@ -1212,7 +1217,8 @@
       "https://mittechreview.com.br/?p=263464",
       "https://mittechreview.com.br/?p=263494",
       "https://mittechreview.com.br/?p=263500",
-      "https://mittechreview.com.br/?p=263532"
+      "https://mittechreview.com.br/?p=263532",
+      "https://mittechreview.com.br/?p=264396"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1607,7 +1613,9 @@
       "https://canaltech.com.br/inteligencia-artificial/processo-acusa-elon-musk-de-treinar-grok-com-imagens-de-abuso-sexual-infantil/",
       "https://canaltech.com.br/inteligencia-artificial/ia-do-google-agora-puxa-informacoes-dos-livros-que-voce-comprou-veja-utilidade/",
       "https://canaltech.com.br/inteligencia-artificial/agentes-de-ia-mal-configurados-instalam-malware-em-redes-de-empresas/",
-      "https://canaltech.com.br/apps/nova-ia-da-photoroom-corrige-falhas-em-fotos-de-produtos-para-e-commerce/"
+      "https://canaltech.com.br/apps/nova-ia-da-photoroom-corrige-falhas-em-fotos-de-produtos-para-e-commerce/",
+      "https://canaltech.com.br/produtos/nova-escova-de-dentes-tech-tem-camera-ia-e-jato-de-agua-para-limpar-a-boca/",
+      "https://canaltech.com.br/mercado/oracle-abre-inscricoes-para-curso-gratuito-de-ia-para-negocios-veja-como-se-inscrever/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1791,7 +1799,8 @@
       "https://neofeed.com.br/?p=234664",
       "https://neofeed.com.br/?p=234677",
       "https://neofeed.com.br/?p=234984",
-      "https://neofeed.com.br/?p=234721"
+      "https://neofeed.com.br/?p=234721",
+      "https://neofeed.com.br/?p=234524"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -1804,7 +1813,8 @@
       "https://braziljournal.com/?p=102169",
       "https://braziljournal.com/?p=102286",
       "https://braziljournal.com/?p=102281",
-      "https://braziljournal.com/?p=102328"
+      "https://braziljournal.com/?p=102328",
+      "https://braziljournal.com/?p=102397"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -1898,102 +1908,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agora",
-      "artificial",
-      "commerce",
-      "convencer",
-      "inteligencia",
-      "precisa",
-      "tambem",
-      "vitrine"
-    ],
-    [
-      "ataque",
-      "coordenou",
-      "equipes",
-      "face",
-      "hacker",
-      "hugging",
-      "montou",
-      "sozinha"
-    ],
-    [
-      "brasil",
-      "destravar",
-      "falsas",
-      "iphones",
-      "ligacoes",
-      "roubados",
-      "usam"
-    ],
-    [
-      "abre",
-      "alibaba",
-      "brasil",
-      "centers",
-      "data",
-      "desafiar",
-      "google",
-      "microsoft"
-    ],
-    [
-      "agentes",
-      "alerta",
-      "ataque",
-      "aviso",
-      "envolveu",
-      "ignorou",
-      "openai",
-      "tiro"
-    ],
-    [
-      "ataques",
-      "contra",
-      "defesa",
-      "empresas",
-      "grandes",
-      "medidas",
-      "pedem",
-      "reforco",
-      "tecnologia"
-    ],
-    [
-      "brasileira",
-      "influentes",
-      "lista",
-      "quem",
-      "time",
-      "unica"
-    ],
-    [
-      "2029",
-      "2030",
-      "chips",
-      "escassez",
-      "hynix",
-      "indiana",
-      "iniciara",
-      "memoria",
-      "preve",
-      "producao"
-    ],
-    [
-      "nvidia",
-      "openai",
-      "participar",
-      "presidentes",
-      "reuniao",
-      "tecnologia"
-    ],
-    [
-      "anthropic",
-      "divulgar",
-      "information",
-      "planeja",
-      "prospecto",
-      "setembro"
-    ],
     [
       "ainda",
       "brasileiras",
@@ -3699,6 +3613,105 @@
       "imprevisiveis",
       "ligados",
       "riscos"
+    ],
+    [
+      "chinese",
+      "chip",
+      "duck",
+      "face",
+      "fast",
+      "hugging",
+      "powers",
+      "robot",
+      "selling"
+    ],
+    [
+      "after",
+      "billion",
+      "chip",
+      "deal",
+      "jumps",
+      "mediatek",
+      "nvidia",
+      "qualcomm",
+      "rival"
+    ],
+    [
+      "decisions",
+      "delivery",
+      "faster",
+      "launches",
+      "make",
+      "nvidia",
+      "onerail",
+      "platform",
+      "retailers"
+    ],
+    [
+      "apple",
+      "challenges",
+      "crunch",
+      "enters",
+      "intensify",
+      "john",
+      "memory",
+      "ternus"
+    ],
+    [
+      "bets",
+      "different",
+      "funding",
+      "holds",
+      "investors",
+      "placing",
+      "proptech",
+      "sector",
+      "snapshot"
+    ],
+    [
+      "acomodacao",
+      "deficit",
+      "organizacional"
+    ],
+    [
+      "agua",
+      "boca",
+      "camera",
+      "dentes",
+      "escova",
+      "jato",
+      "limpar",
+      "tech"
+    ],
+    [
+      "abre",
+      "curso",
+      "gratuito",
+      "inscrever",
+      "inscricoes",
+      "negocios",
+      "oracle",
+      "veja"
+    ],
+    [
+      "agentica",
+      "automatico",
+      "coloca",
+      "comercio",
+      "decolar",
+      "digital",
+      "piloto",
+      "primeira",
+      "venda"
+    ],
+    [
+      "agora",
+      "aposta",
+      "consumo",
+      "depois",
+      "dogs",
+      "exit",
+      "hungry"
     ]
   ]
 }
