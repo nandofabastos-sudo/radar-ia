@@ -62,7 +62,8 @@
       "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
       "https://openai.com/index/ai-native-company-workflows",
-      "https://openai.com/index/path-to-astra"
+      "https://openai.com/index/path-to-astra",
+      "https://openai.com/index/gilbert-tobin"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -1450,7 +1451,10 @@
       "https://olhardigital.com.br/?p=1368901",
       "https://olhardigital.com.br/?p=1368909",
       "https://olhardigital.com.br/?p=1368926",
-      "https://olhardigital.com.br/?p=1368929"
+      "https://olhardigital.com.br/?p=1368929",
+      "https://olhardigital.com.br/?p=1368936",
+      "https://olhardigital.com.br/?p=1368906",
+      "https://olhardigital.com.br/?p=1368971"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1991,43 +1995,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "allow",
-      "debian",
-      "generative",
-      "responsible",
-      "votes"
-    ],
-    [
-      "acesso",
-      "dados",
-      "desativar",
-      "empresa",
-      "gemini",
-      "todos",
-      "veja"
-    ],
-    [
-      "crise",
-      "entenda",
-      "games",
-      "hardware",
-      "pode",
-      "salvar",
-      "tempos"
-    ],
-    [
-      "alleging",
-      "anthropic",
-      "brazen",
-      "campaign",
-      "intellectual",
-      "music",
-      "property",
-      "sony",
-      "theft",
-      "warner"
-    ],
     [
       "acesso",
       "alfineta",
@@ -3797,6 +3764,42 @@
       "faccionado",
       "policia",
       "quer"
+    ],
+    [
+      "firm",
+      "gilbert",
+      "governs",
+      "openai",
+      "scales",
+      "tobin"
+    ],
+    [
+      "android",
+      "anuncia",
+      "canva",
+      "google",
+      "lanca",
+      "novidades",
+      "pacote",
+      "rival"
+    ],
+    [
+      "consciencia",
+      "estao",
+      "fala",
+      "falar",
+      "pesquisadores",
+      "procurando",
+      "propria"
+    ],
+    [
+      "anthropic",
+      "clientes",
+      "dados",
+      "empresariais",
+      "muda",
+      "politica",
+      "pressao"
     ]
   ]
 }
