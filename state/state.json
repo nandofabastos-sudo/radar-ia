@@ -133,7 +133,8 @@
       "https://news.microsoft.com/source/?p=25237",
       "https://news.microsoft.com/source/?p=25257",
       "https://news.microsoft.com/source/?p=25338",
-      "https://news.microsoft.com/source/?p=25414"
+      "https://news.microsoft.com/source/?p=25414",
+      "https://news.microsoft.com/source/?p=25492"
     ],
     "meta_newsroom": [
       "https://about.fb.com/?p=49654",
@@ -419,7 +420,8 @@
       "https://techcrunch.com/?p=3160089",
       "https://techcrunch.com/?p=3160084",
       "https://techcrunch.com/?p=3160050",
-      "https://techcrunch.com/?post_type=tc_podcast&p=3160051"
+      "https://techcrunch.com/?post_type=tc_podcast&p=3160051",
+      "https://techcrunch.com/?post_type=tc_video&p=3160054"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -703,7 +705,8 @@
       "https://the-decoder.com/?p=39710",
       "https://the-decoder.com/?p=39700",
       "https://the-decoder.com/?p=39705",
-      "https://the-decoder.com/?p=39718"
+      "https://the-decoder.com/?p=39718",
+      "https://the-decoder.com/?p=39728"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -764,7 +767,9 @@
       "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
       "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
       "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-      "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/"
+      "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -849,7 +854,8 @@
       "3W8GFie5vhr6MHcOcdSSaC",
       "6phYfqOh7tv1qmgwfEt5ZD",
       "500igN2AWBSZfHzX9Ac2ZJ",
-      "15C64D3em3253lEUbjwbaC"
+      "15C64D3em3253lEUbjwbaC",
+      "5y4rN5jTTfve3yoAywKzOC"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -953,7 +959,9 @@
       "6a9582ab4bec28bfced5a370",
       "6a95c50b1ed47ec1f88c0129",
       "6a8cb79d3e6cf87b84dc7a7d",
-      "6a7dd5ceadfa954d38d64589"
+      "6a7dd5ceadfa954d38d64589",
+      "6a9583dc88d28650c32558cc",
+      "6a98445d5b3846267183e587"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1050,7 +1058,8 @@
       "https://news.ycombinator.com/item?id=49525378",
       "https://news.ycombinator.com/item?id=49526069",
       "https://news.ycombinator.com/item?id=49527396",
-      "https://news.ycombinator.com/item?id=49537553"
+      "https://news.ycombinator.com/item?id=49537553",
+      "https://news.ycombinator.com/item?id=49535284"
     ]
   },
   "mercado": {
@@ -1228,7 +1237,8 @@
       "https://techcrunch.com/?p=3158165",
       "https://techcrunch.com/?p=3158701",
       "https://techcrunch.com/?p=3159557",
-      "https://techcrunch.com/?p=3159543"
+      "https://techcrunch.com/?p=3159543",
+      "https://techcrunch.com/?post_type=tc_video&p=3160054"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -1260,7 +1270,8 @@
       "https://news.crunchbase.com/?p=94020",
       "https://news.crunchbase.com/?p=94018",
       "https://news.crunchbase.com/?p=94023",
-      "https://news.crunchbase.com/?p=94028"
+      "https://news.crunchbase.com/?p=94028",
+      "https://news.crunchbase.com/?p=94032"
     ]
   },
   "brasil": {
@@ -1484,7 +1495,9 @@
       "https://olhardigital.com.br/?p=1368929",
       "https://olhardigital.com.br/?p=1368936",
       "https://olhardigital.com.br/?p=1368906",
-      "https://olhardigital.com.br/?p=1368971"
+      "https://olhardigital.com.br/?p=1368971",
+      "https://olhardigital.com.br/?p=1369185",
+      "https://olhardigital.com.br/?p=1369220"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1723,7 +1736,9 @@
       "https://canaltech.com.br/mercado/google-faz-aulao-gratis-para-o-enem-com-professores-famosos-e-simulados-do-gemini/",
       "https://canaltech.com.br/inteligencia-artificial/novo-claude-fable-51-e-mais-poderoso-mais-barato-e-tem-menos-restricoes/",
       "https://canaltech.com.br/inteligencia-artificial/na-era-da-imaginacao-saber-construir-comeca-pela-capacidade-de-imaginar/",
-      "https://canaltech.com.br/inteligencia-artificial/astra-openai-pede-ajuda-as-gigantes-da-seguranca-para-conter-nova-ia/"
+      "https://canaltech.com.br/inteligencia-artificial/astra-openai-pede-ajuda-as-gigantes-da-seguranca-para-conter-nova-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/gemini-38-flash-chega-so-3-semanas-apos-antecessor-e-ganha-versao-para-ciberseguranca/",
+      "https://canaltech.com.br/apps/como-usar-o-google-gemini-guia-completo-de-recursos-no-celular-e-no-navegador/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -1895,7 +1910,11 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/02/nova-york-proibe-uso-de-ia-por-alunos-mais-novos-e-limita-telas-nas-escolas.ghtm",
       "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/02/sob-nova-direcao-apple-mantera-prestigio-na-era-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/presidente-executivo-da-nvidia-pede-que-g20-evite-regulamentacoes-sobre-ia-com-base-em-danos-teoricos.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/02/dyson-lanca-escova-de-dente-com-camera-e-jato-de-enxaguante-por--420.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/02/dyson-lanca-escova-de-dente-com-camera-e-jato-de-enxaguante-por--420.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/anthropic-esta-de-volta-ao-lado-certo-com-governo-trump-afirma-secretario-de-comercio-dos-eua.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/02/eua-defendem-openai-em-acao-do-nyt-sobre-direitos-autorais.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/02/apple-acusa-ex-funcionario-de-apagar-provas-para-a-openai.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/chefe-de-comercio-dos-eua-afirma-que-anthropic-esta-de-volta-ao-lado-certo-com-trump-diz-axios.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2040,145 +2059,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "controls",
-      "game",
-      "ideas",
-      "made",
-      "meta",
-      "pocket",
-      "real",
-      "results"
-    ],
-    [
-      "chatgpt",
-      "face",
-      "online",
-      "reddit",
-      "rules",
-      "safety",
-      "toughest"
-    ],
-    [
-      "agent",
-      "aren",
-      "behavior",
-      "enough",
-      "govern",
-      "identity",
-      "permissions"
-    ],
-    [
-      "adjusters",
-      "claims",
-      "hates",
-      "insurance",
-      "know",
-      "really"
-    ],
-    [
-      "bank",
-      "chief",
-      "england",
-      "financial",
-      "global",
-      "models",
-      "stability",
-      "threaten",
-      "warns"
-    ],
-    [
-      "biotech",
-      "even",
-      "funding",
-      "held",
-      "investment",
-      "startup",
-      "steady",
-      "surged"
-    ],
-    [
-      "bilhao",
-      "chatgpt",
-      "chega",
-      "dias",
-      "menos",
-      "receita"
-    ],
-    [
-      "criada",
-      "donkey",
-      "ganha",
-      "generativa",
-      "kong",
-      "nativa",
-      "versao"
-    ],
-    [
-      "claude",
-      "codex",
-      "codigo",
-      "corporativas",
-      "erro",
-      "executarem",
-      "malicioso",
-      "redes"
-    ],
-    [
-      "agora",
-      "comprou",
-      "gemini",
-      "informacoes",
-      "livros",
-      "notebook",
-      "pode",
-      "puxar",
-      "voce"
-    ],
-    [
-      "acesso",
-      "cobra",
-      "rede",
-      "social",
-      "twitter",
-      "volta"
-    ],
-    [
-      "aprova",
-      "debian",
-      "linux",
-      "projeto",
-      "responsabilidade"
-    ],
-    [
-      "antigos",
-      "bloqueador",
-      "galaxy",
-      "golpes",
-      "modelos",
-      "prepara",
-      "samsung"
-    ],
-    [
-      "abuso",
-      "acusa",
-      "elon",
-      "grok",
-      "imagens",
-      "infantil",
-      "musk",
-      "processo",
-      "sexual",
-      "treinar"
-    ],
-    [
-      "afetando",
-      "artificial",
-      "esta",
-      "idioma",
-      "inteligencia",
-      "token"
-    ],
     [
       "chatgpt",
       "digital",
@@ -3862,6 +3742,161 @@
       "evolui",
       "genesys",
       "plataforma"
+    ],
+    [
+      "construction",
+      "copilot",
+      "drive",
+      "finlay",
+      "group",
+      "industry",
+      "kier",
+      "louisa",
+      "productivity",
+      "safety",
+      "using"
+    ],
+    [
+      "detection",
+      "fake",
+      "harder",
+      "pangram",
+      "real",
+      "spero",
+      "than"
+    ],
+    [
+      "backs",
+      "case",
+      "copyright",
+      "department",
+      "fair",
+      "justice",
+      "landmark",
+      "training"
+    ],
+    [
+      "feds",
+      "forced",
+      "reveal",
+      "rules",
+      "safety",
+      "secret",
+      "testing",
+      "trump"
+    ],
+    [
+      "admin",
+      "claude",
+      "cookies",
+      "corporate",
+      "gmail",
+      "grants",
+      "reach",
+      "revoke",
+      "session",
+      "stolen",
+      "through"
+    ],
+    [
+      "each",
+      "mathematicians",
+      "models",
+      "other",
+      "russian",
+      "talk",
+      "taught",
+      "these",
+      "using",
+      "without",
+      "words"
+    ],
+    [
+      "being",
+      "data",
+      "input",
+      "output",
+      "training",
+      "used"
+    ],
+    [
+      "165m",
+      "apple",
+      "engineers",
+      "former",
+      "lyte",
+      "physical",
+      "raises",
+      "startup",
+      "valuation"
+    ],
+    [
+      "google",
+      "maiores",
+      "modo",
+      "mostra",
+      "pesquisa",
+      "precos",
+      "teste",
+      "tradicional"
+    ],
+    [
+      "autoral",
+      "briga",
+      "contra",
+      "direito",
+      "entra",
+      "openai",
+      "times",
+      "trump",
+      "york"
+    ],
+    [
+      "antecessor",
+      "chega",
+      "ciberseguranca",
+      "flash",
+      "ganha",
+      "gemini",
+      "semanas",
+      "versao"
+    ],
+    [
+      "celular",
+      "completo",
+      "gemini",
+      "google",
+      "guia",
+      "navegador",
+      "recursos",
+      "usar"
+    ],
+    [
+      "anthropic",
+      "certo",
+      "esta",
+      "governo",
+      "lado",
+      "secretario",
+      "trump",
+      "volta"
+    ],
+    [
+      "acao",
+      "autorais",
+      "defende",
+      "direitos",
+      "governo",
+      "openai"
+    ],
+    [
+      "acusa",
+      "apple",
+      "confidenciais",
+      "dados",
+      "funcionario",
+      "openai",
+      "usar"
     ]
   ]
 }
