@@ -682,7 +682,8 @@
       "https://the-decoder.com/?p=39645",
       "https://the-decoder.com/?p=39654",
       "https://the-decoder.com/?p=39658",
-      "https://the-decoder.com/?p=39665"
+      "https://the-decoder.com/?p=39665",
+      "https://the-decoder.com/?p=39669"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1023,7 +1024,8 @@
       "https://news.ycombinator.com/item?id=49508982",
       "https://news.ycombinator.com/item?id=49519939",
       "https://news.ycombinator.com/item?id=49525378",
-      "https://news.ycombinator.com/item?id=49526069"
+      "https://news.ycombinator.com/item?id=49526069",
+      "https://news.ycombinator.com/item?id=49527396"
     ]
   },
   "mercado": {
@@ -1991,45 +1993,12 @@
       "https://www.mobiletime.com.br/?p=862715",
       "https://www.mobiletime.com.br/?p=862763",
       "https://www.mobiletime.com.br/?p=862789",
-      "https://www.mobiletime.com.br/?p=862856"
+      "https://www.mobiletime.com.br/?p=862856",
+      "https://www.mobiletime.com.br/?p=862898",
+      "https://www.mobiletime.com.br/?p=862872"
     ]
   },
   "_titulos_recentes": [
-    [
-      "acesso",
-      "alfineta",
-      "comprada",
-      "corta",
-      "empresa",
-      "musk",
-      "openai",
-      "spacex"
-    ],
-    [
-      "google",
-      "guia",
-      "maps",
-      "perfeito",
-      "prompts",
-      "transformar",
-      "turismo"
-    ],
-    [
-      "cursor",
-      "fornecimento",
-      "interromper",
-      "modelos",
-      "openai",
-      "spacex"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "musicas",
-      "processam",
-      "sony",
-      "warner"
-    ],
     [
       "grok",
       "works"
@@ -3800,6 +3769,42 @@
       "muda",
       "politica",
       "pressao"
+    ],
+    [
+      "agent",
+      "analysis",
+      "based",
+      "cuts",
+      "gemini",
+      "google",
+      "percent",
+      "token",
+      "usage",
+      "video"
+    ],
+    [
+      "bundles",
+      "chatgpt",
+      "codex",
+      "copy",
+      "full",
+      "libreoffice"
+    ],
+    [
+      "brasil",
+      "copiloto",
+      "demandas",
+      "genesys",
+      "preditivo",
+      "principais",
+      "roteamento"
+    ],
+    [
+      "alerta",
+      "desumanizar",
+      "justica",
+      "ministra",
+      "risco"
     ]
   ]
 }
