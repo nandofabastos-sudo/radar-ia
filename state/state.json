@@ -971,7 +971,8 @@
       "6a8cb79d3e6cf87b84dc7a7d",
       "6a7dd5ceadfa954d38d64589",
       "6a9583dc88d28650c32558cc",
-      "6a98445d5b3846267183e587"
+      "6a98445d5b3846267183e587",
+      "6a98b7478c9d6f1d2a0923d6"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1070,7 +1071,8 @@
       "https://news.ycombinator.com/item?id=49527396",
       "https://news.ycombinator.com/item?id=49537553",
       "https://news.ycombinator.com/item?id=49535284",
-      "https://news.ycombinator.com/item?id=49541256"
+      "https://news.ycombinator.com/item?id=49541256",
+      "https://news.ycombinator.com/item?id=49536375"
     ]
   },
   "mercado": {
@@ -1211,7 +1213,8 @@
       "108357528",
       "108357849",
       "108358045",
-      "108357387"
+      "108357387",
+      "108358053"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1514,7 +1517,8 @@
       "https://olhardigital.com.br/?p=1369185",
       "https://olhardigital.com.br/?p=1369220",
       "https://olhardigital.com.br/?p=1369270",
-      "https://olhardigital.com.br/?p=1369323"
+      "https://olhardigital.com.br/?p=1369323",
+      "https://olhardigital.com.br/?p=1369345"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2078,53 +2082,11 @@
       "https://www.mobiletime.com.br/?p=862898",
       "https://www.mobiletime.com.br/?p=862872",
       "https://www.mobiletime.com.br/?p=862954",
-      "https://www.mobiletime.com.br/?p=862968"
+      "https://www.mobiletime.com.br/?p=862968",
+      "https://www.mobiletime.com.br/?p=862992"
     ]
   },
   "_titulos_recentes": [
-    [
-      "chatgpt",
-      "falha",
-      "funcionar",
-      "nesta",
-      "segunda",
-      "volta"
-    ],
-    [
-      "agora",
-      "busca",
-      "chatgpt",
-      "europa",
-      "mecanismo",
-      "trata"
-    ],
-    [
-      "agora",
-      "comprou",
-      "google",
-      "informacoes",
-      "livros",
-      "puxa",
-      "utilidade",
-      "veja",
-      "voce"
-    ],
-    [
-      "agentes",
-      "configurados",
-      "empresas",
-      "instalam",
-      "malware",
-      "redes"
-    ],
-    [
-      "commerce",
-      "corrige",
-      "falhas",
-      "fotos",
-      "photoroom",
-      "produtos"
-    ],
     [
       "alta",
       "custos",
@@ -3917,6 +3879,57 @@
       "pressionam",
       "tecnologia",
       "trump"
+    ],
+    [
+      "agent",
+      "eases",
+      "employees",
+      "meta",
+      "pushes",
+      "tokenmaxxing"
+    ],
+    [
+      "best",
+      "cites",
+      "made",
+      "pages",
+      "perplexity",
+      "sites",
+      "software",
+      "them",
+      "three"
+    ],
+    [
+      "after",
+      "decade",
+      "google",
+      "longest",
+      "losing",
+      "momentum",
+      "monthly",
+      "over",
+      "september",
+      "starts",
+      "streak"
+    ],
+    [
+      "dificeis",
+      "modelos",
+      "monitorar",
+      "openai",
+      "pode",
+      "seus",
+      "tecnica",
+      "tornar"
+    ],
+    [
+      "basilar",
+      "decisao",
+      "deepfake",
+      "definir",
+      "eleicoes",
+      "especialistas",
+      "veem"
     ]
   ]
 }
