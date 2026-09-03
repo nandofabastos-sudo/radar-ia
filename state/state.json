@@ -1017,7 +1017,9 @@
       "6a906b97096f095c67a177d0",
       "6a91b5991f4267c18de22d44",
       "6a98617d3d2b77debeec8dca",
-      "6a99a09696d08f90b0cf0230"
+      "6a99a09696d08f90b0cf0230",
+      "6a98628a0e1a07689023e3f9",
+      "6a999f3f5d28a882aa86cd2f"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1118,7 +1120,9 @@
       "https://news.ycombinator.com/item?id=49535284",
       "https://news.ycombinator.com/item?id=49541256",
       "https://news.ycombinator.com/item?id=49536375",
-      "https://news.ycombinator.com/item?id=49554643"
+      "https://news.ycombinator.com/item?id=49554643",
+      "https://news.ycombinator.com/item?id=49551096",
+      "https://news.ycombinator.com/item?id=49554520"
     ]
   },
   "mercado": {
@@ -1575,7 +1579,10 @@
       "https://olhardigital.com.br/?p=1369345",
       "https://olhardigital.com.br/?p=1369503",
       "https://olhardigital.com.br/?p=1369687",
-      "https://olhardigital.com.br/?p=1369672"
+      "https://olhardigital.com.br/?p=1369672",
+      "https://olhardigital.com.br/?p=1369712",
+      "https://olhardigital.com.br/?p=1369736",
+      "https://olhardigital.com.br/?p=1369744"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1656,7 +1663,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=928353",
       "https://tecnoblog.net/?post_type=noticias&p=928631",
       "https://tecnoblog.net/?post_type=noticias&p=928496",
-      "https://tecnoblog.net/?post_type=noticias&p=929006"
+      "https://tecnoblog.net/?post_type=noticias&p=929006",
+      "https://tecnoblog.net/?post_type=noticias&p=929331"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -1828,7 +1836,8 @@
       "https://canaltech.com.br/inteligencia-artificial/40-dos-projetos-de-ia-agentica-serao-cancelados-ate-o-fim-de-2027-mas-o-problema-nao-e-a-ia/",
       "https://canaltech.com.br/mercado/falta-de-talentos-e-barreira-para-escalar-ia-avalia-executiva-da-aws/",
       "https://canaltech.com.br/mercado/nvidia-da-r-66-bilhoes-a-hugging-face-e-vira-dona-do-maior-polo-de-ia-do-mundo/",
-      "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-astra-seu-modelo-mais-inteligente-e-tambem-mais-critico/"
+      "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-astra-seu-modelo-mais-inteligente-e-tambem-mais-critico/",
+      "https://canaltech.com.br/games/lixo-de-ia-criadores-do-emulador-de-ps3-detonam-novo-dlss-5-da-nvidia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2015,7 +2024,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/03/openai-apresenta-gpt-6-astra-e-diz-que-modelo-foca-em-alinhamento.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/openai-lanca-novo-modelo-astra-em-meio-ao-crescente-escrutinio-sobre-seguranca-de-agentes.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/nvidia-define-outubro-como-data-de-lancamento-de-pcs-rtx-spark-com-ia.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/03/nova-era-mundial-o-que-e-agi-que-openai-diz-ter-alcancado-em-novo-modelo-de-ia.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/03/nova-era-mundial-o-que-e-agi-que-openai-diz-ter-alcancado-em-novo-modelo-de-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/openai-promete-us1-bi-para-defesa-digital-em-meio-a-duvidas-sobreseguranca-da-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2065,7 +2075,8 @@
       "https://braziljournal.com/?p=102281",
       "https://braziljournal.com/?p=102328",
       "https://braziljournal.com/?p=102397",
-      "https://braziljournal.com/?p=102436"
+      "https://braziljournal.com/?p=102436",
+      "https://braziljournal.com/?p=102553"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -2168,116 +2179,12 @@
       "https://www.mobiletime.com.br/?p=862872",
       "https://www.mobiletime.com.br/?p=862954",
       "https://www.mobiletime.com.br/?p=862968",
-      "https://www.mobiletime.com.br/?p=862992"
+      "https://www.mobiletime.com.br/?p=862992",
+      "https://www.mobiletime.com.br/?p=863086",
+      "https://www.mobiletime.com.br/?p=863104"
     ]
   },
   "_titulos_recentes": [
-    [
-      "canva",
-      "criar",
-      "desafiar",
-      "ferramenta",
-      "google",
-      "imagens",
-      "lancar"
-    ],
-    [
-      "consulta",
-      "editoras",
-      "exclusao",
-      "google",
-      "opcao",
-      "pesquisa"
-    ],
-    [
-      "dados",
-      "glamouroso",
-      "lado",
-      "menos",
-      "personalizacao"
-    ],
-    [
-      "astra",
-      "capabilities",
-      "critical",
-      "frontier",
-      "path",
-      "safeguards"
-    ],
-    [
-      "2026",
-      "announced",
-      "august",
-      "latest",
-      "news"
-    ],
-    [
-      "agentic",
-      "crowdstrike",
-      "cybersecurity",
-      "frontier",
-      "nvidia",
-      "strengthen"
-    ],
-    [
-      "anthropic",
-      "cheaper",
-      "fable",
-      "less",
-      "release",
-      "restrictive"
-    ],
-    [
-      "accessibility",
-      "android",
-      "google",
-      "more",
-      "motion",
-      "sickness",
-      "tackles",
-      "update"
-    ],
-    [
-      "astra",
-      "breaking",
-      "computer",
-      "good",
-      "into",
-      "model",
-      "open",
-      "systems",
-      "very"
-    ],
-    [
-      "8216",
-      "8217",
-      "civilizations",
-      "corporate",
-      "fall",
-      "responsibility",
-      "rise"
-    ],
-    [
-      "after",
-      "delayed",
-      "development",
-      "face",
-      "hack",
-      "hugging",
-      "model",
-      "openai"
-    ],
-    [
-      "anthropic",
-      "better",
-      "claude",
-      "coding",
-      "fable",
-      "less",
-      "percent",
-      "promises",
-      "research"
-    ],
     [
       "anthropic",
       "checkers",
@@ -3996,6 +3903,104 @@
       "tera",
       "tese",
       "voce"
+    ],
+    [
+      "arrested",
+      "banned",
+      "betting",
+      "getting",
+      "market",
+      "people",
+      "prediction"
+    ],
+    [
+      "anthropic",
+      "nobody",
+      "openai",
+      "outages",
+      "saying",
+      "today"
+    ],
+    [
+      "claude",
+      "down",
+      "grok",
+      "openai",
+      "simultaneously",
+      "were"
+    ],
+    [
+      "1500",
+      "available",
+      "cerebras",
+      "qwen",
+      "tokens"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "desconecta",
+      "hackers",
+      "login",
+      "roubarem",
+      "sessoes",
+      "usuarios"
+    ],
+    [
+      "chegado",
+      "openai",
+      "podemos"
+    ],
+    [
+      "anuncia",
+      "bilhoes",
+      "ciberseguranca",
+      "openai",
+      "reforcar"
+    ],
+    [
+      "astra",
+      "chega",
+      "meio",
+      "polemicas",
+      "promessas",
+      "seguranca"
+    ],
+    [
+      "criadores",
+      "detonam",
+      "dlss",
+      "emulador",
+      "lixo",
+      "nvidia"
+    ],
+    [
+      "defesa",
+      "digital",
+      "duvidas",
+      "meio",
+      "openai",
+      "promete",
+      "seguranca"
+    ],
+    [
+      "face",
+      "futuro",
+      "hedge",
+      "hugging",
+      "nvidia",
+      "opiniao"
+    ],
+    [
+      "cenarios",
+      "clientes",
+      "espaco",
+      "inaugura",
+      "microsoft",
+      "nuvem",
+      "reais",
+      "solucoes",
+      "testarem"
     ]
   ]
 }
