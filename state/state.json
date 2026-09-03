@@ -713,7 +713,8 @@
       "https://the-decoder.com/?p=39700",
       "https://the-decoder.com/?p=39705",
       "https://the-decoder.com/?p=39718",
-      "https://the-decoder.com/?p=39728"
+      "https://the-decoder.com/?p=39728",
+      "https://the-decoder.com/?p=39735"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -972,7 +973,8 @@
       "6a7dd5ceadfa954d38d64589",
       "6a9583dc88d28650c32558cc",
       "6a98445d5b3846267183e587",
-      "6a98b7478c9d6f1d2a0923d6"
+      "6a98b7478c9d6f1d2a0923d6",
+      "6a8726cd18568cdcce1a1065"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1214,7 +1216,8 @@
       "108357849",
       "108358045",
       "108357387",
-      "108358053"
+      "108358053",
+      "108350818"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1332,7 +1335,8 @@
       "https://mittechreview.com.br/?p=263532",
       "https://mittechreview.com.br/?p=264396",
       "https://mittechreview.com.br/?p=264580",
-      "https://mittechreview.com.br/?p=264765"
+      "https://mittechreview.com.br/?p=264765",
+      "https://mittechreview.com.br/?p=265017"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1938,7 +1942,10 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/02/apple-acusa-ex-funcionario-de-apagar-provas-para-a-openai.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/chefe-de-comercio-dos-eua-afirma-que-anthropic-esta-de-volta-ao-lado-certo-com-trump-diz-axios.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/openai-desenvolve-recursos-de-desligamento-automatico-para-ferramentas-de-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/hpe-eleva-previsao-para-o-ano-impulsionada-por-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/hpe-eleva-previsao-para-o-ano-impulsionada-por-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/03/do-linkedin-ao-maps-e-spotify-por-que-plataformas-criam-dedo-duro-da-ia.ghtm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/03/nova-ia-da-openai-usa-tecnica-secreta-e-e-a-1-com-risco-critico.htm",
+      "https://economia.uol.com.br/colunas/gustavo-miller/2026/09/03/talvez-voce-esteja-se-apaixonando-por-uma-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -1969,7 +1976,8 @@
       "https://neofeed.com.br/?p=234524",
       "https://neofeed.com.br/?p=234672",
       "https://neofeed.com.br/?p=234797",
-      "https://neofeed.com.br/?p=235466"
+      "https://neofeed.com.br/?p=235466",
+      "https://neofeed.com.br/?p=235480"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -2087,75 +2095,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alta",
-      "custos",
-      "gastos",
-      "huawei",
-      "lucro",
-      "semestre"
-    ],
-    [
-      "amplia",
-      "cibernetico",
-      "financeiro",
-      "internacional",
-      "orgao",
-      "risco",
-      "sistema"
-    ],
-    [
-      "chips",
-      "fabricante",
-      "investira",
-      "mediatek",
-      "nvidia"
-    ],
-    [
-      "anualizada",
-      "atinge",
-      "bilhao",
-      "negocio",
-      "openai",
-      "publicidade",
-      "receita"
-    ],
-    [
-      "domina",
-      "ganha",
-      "hoje",
-      "numeros",
-      "precisa",
-      "quem",
-      "saber",
-      "voce"
-    ],
-    [
-      "alerta",
-      "contas",
-      "instagram",
-      "recomendacoes",
-      "selo",
-      "sumir"
-    ],
-    [
-      "chatgpt",
-      "enquadra",
-      "esta",
-      "hoje",
-      "nasa",
-      "rolando",
-      "telescopio"
-    ],
-    [
-      "autonomos",
-      "carros",
-      "corrida",
-      "depois",
-      "eletrificacao",
-      "investe",
-      "pelos"
-    ],
     [
       "anual",
       "anuncios",
@@ -3930,6 +3869,74 @@
       "eleicoes",
       "especialistas",
       "veem"
+    ],
+    [
+      "anthropic",
+      "billion",
+      "claude",
+      "deal",
+      "infrastructure",
+      "lambda",
+      "ramps"
+    ],
+    [
+      "cops",
+      "flock",
+      "search",
+      "tool"
+    ],
+    [
+      "america",
+      "boom",
+      "center",
+      "china",
+      "data",
+      "dollar",
+      "emerging",
+      "hidden",
+      "multibillion",
+      "risks"
+    ],
+    [
+      "alfa",
+      "centauri",
+      "interestelar",
+      "jornada",
+      "tracou"
+    ],
+    [
+      "criam",
+      "dedo",
+      "duro",
+      "linkedin",
+      "maps",
+      "plataformas",
+      "spotify"
+    ],
+    [
+      "criada",
+      "critico",
+      "openai",
+      "risco",
+      "secreta",
+      "tecnica"
+    ],
+    [
+      "apaixonando",
+      "esteja",
+      "talvez",
+      "voce"
+    ],
+    [
+      "aquilo",
+      "caro",
+      "escasso",
+      "executa",
+      "fica",
+      "humano",
+      "maquina",
+      "paradoxo",
+      "quanto"
     ]
   ]
 }
