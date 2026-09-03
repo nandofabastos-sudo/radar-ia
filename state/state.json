@@ -63,7 +63,8 @@
       "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
       "https://openai.com/index/ai-native-company-workflows",
       "https://openai.com/index/path-to-astra",
-      "https://openai.com/index/gilbert-tobin"
+      "https://openai.com/index/gilbert-tobin",
+      "https://openai.com/index/atv-big-air-tour"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -424,7 +425,8 @@
       "https://techcrunch.com/?post_type=tc_video&p=3160054",
       "https://techcrunch.com/?p=3160225",
       "https://techcrunch.com/?p=3149903",
-      "https://techcrunch.com/?p=3160290"
+      "https://techcrunch.com/?p=3160290",
+      "https://techcrunch.com/?p=3137969"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -862,7 +864,8 @@
       "15C64D3em3253lEUbjwbaC",
       "5y4rN5jTTfve3yoAywKzOC",
       "5hjE3knOPtbI6vYTTZgLrp",
-      "2SbszvFzBQ4ybmzBr8vV2B"
+      "2SbszvFzBQ4ybmzBr8vV2B",
+      "6gLMM2qCQXQ5Vr0OpxtRvl"
     ],
     "mit_tech_review_ai": [
       "https://www.technologyreview.com/?p=1140346",
@@ -1066,7 +1069,8 @@
       "https://news.ycombinator.com/item?id=49526069",
       "https://news.ycombinator.com/item?id=49527396",
       "https://news.ycombinator.com/item?id=49537553",
-      "https://news.ycombinator.com/item?id=49535284"
+      "https://news.ycombinator.com/item?id=49535284",
+      "https://news.ycombinator.com/item?id=49541256"
     ]
   },
   "mercado": {
@@ -1206,7 +1210,8 @@
       "108356853",
       "108357528",
       "108357849",
-      "108358045"
+      "108358045",
+      "108357387"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1508,7 +1513,8 @@
       "https://olhardigital.com.br/?p=1368971",
       "https://olhardigital.com.br/?p=1369185",
       "https://olhardigital.com.br/?p=1369220",
-      "https://olhardigital.com.br/?p=1369270"
+      "https://olhardigital.com.br/?p=1369270",
+      "https://olhardigital.com.br/?p=1369323"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2076,62 +2082,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "backwards",
-      "centers",
-      "communities",
-      "could",
-      "data",
-      "opposing",
-      "poor",
-      "trump"
-    ],
-    [
-      "chatgpt",
-      "experiencing",
-      "microsoft",
-      "openai",
-      "outages",
-      "outlook",
-      "user",
-      "work"
-    ],
-    [
-      "black",
-      "committee",
-      "house",
-      "intelligence",
-      "risks",
-      "swan",
-      "warns"
-    ],
-    [
-      "bill",
-      "gates",
-      "humano",
-      "preservar",
-      "qual",
-      "quer",
-      "trabalho"
-    ],
-    [
-      "combater",
-      "criados",
-      "fakes",
-      "influenciadores",
-      "instagram",
-      "promete"
-    ],
-    [
-      "coreia",
-      "gratuita",
-      "integrada",
-      "nacional",
-      "prepara",
-      "programa",
-      "publicos",
-      "servicos"
-    ],
     [
       "chatgpt",
       "falha",
@@ -3911,6 +3861,62 @@
       "defende",
       "governo",
       "plano"
+    ],
+    [
+      "chatgpt",
+      "days",
+      "hours",
+      "into",
+      "tour",
+      "turned",
+      "work"
+    ],
+    [
+      "2026",
+      "brings",
+      "builders",
+      "disrupt",
+      "practical",
+      "scaling",
+      "stage",
+      "startups",
+      "strategies",
+      "techcrunch"
+    ],
+    [
+      "agents",
+      "built",
+      "cyber",
+      "flash",
+      "gemini",
+      "google",
+      "hunts",
+      "twin",
+      "vulnerabilities",
+      "while"
+    ],
+    [
+      "muse",
+      "spark"
+    ],
+    [
+      "boom",
+      "center",
+      "data",
+      "dollar",
+      "equinix",
+      "found",
+      "multitrillion",
+      "niche"
+    ],
+    [
+      "ceos",
+      "favoraveis",
+      "governo",
+      "politicas",
+      "pressionam",
+      "tecnologia",
+      "trump"
     ]
   ]
 }
