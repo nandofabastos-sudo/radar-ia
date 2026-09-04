@@ -446,7 +446,8 @@
       "https://techcrunch.com/?p=3160462",
       "https://techcrunch.com/?p=3160448",
       "https://techcrunch.com/?p=3160633",
-      "https://techcrunch.com/?p=3160771"
+      "https://techcrunch.com/?p=3160771",
+      "https://techcrunch.com/?p=3160707"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -2191,18 +2192,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acquisition",
-      "alto",
-      "beats",
-      "continues",
-      "demand",
-      "estimates",
-      "networks",
-      "palo",
-      "quarterly",
-      "spree"
-    ],
     [
       "anthropic",
       "claude",
@@ -3992,6 +3981,15 @@
       "genesys",
       "rapida",
       "seus"
+    ],
+    [
+      "behind",
+      "generated",
+      "menus",
+      "problem",
+      "sameness",
+      "those",
+      "unappetizing"
     ]
   ]
 }
