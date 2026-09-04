@@ -453,7 +453,8 @@
       "https://techcrunch.com/?p=3160870",
       "https://techcrunch.com/?post_type=tc_podcast&p=3160877",
       "https://techcrunch.com/?p=3160899",
-      "https://techcrunch.com/?post_type=tc_video&p=3160884"
+      "https://techcrunch.com/?post_type=tc_video&p=3160884",
+      "https://techcrunch.com/?p=3160981"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1430,7 +1431,10 @@
       "https://mittechreview.com.br/?p=264765",
       "https://mittechreview.com.br/?p=265017",
       "https://mittechreview.com.br/?p=265002",
-      "https://mittechreview.com.br/?p=265023"
+      "https://mittechreview.com.br/?p=265023",
+      "https://mittechreview.com.br/?p=265460",
+      "https://mittechreview.com.br/?p=265515",
+      "https://mittechreview.com.br/?p=265537"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1627,7 +1631,8 @@
       "https://olhardigital.com.br/?p=1369800",
       "https://olhardigital.com.br/?p=1369807",
       "https://olhardigital.com.br/?p=1370016",
-      "https://olhardigital.com.br/?p=1370041"
+      "https://olhardigital.com.br/?p=1370041",
+      "https://olhardigital.com.br/?p=1370038"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1890,7 +1895,9 @@
       "https://canaltech.com.br/mercado/hugging-face-continuara-aberto-depois-da-compra-pela-nvidia/",
       "https://canaltech.com.br/inteligencia-artificial/atualizacao-do-google-muda-o-jeito-que-voce-usa-o-gmail-docs-e-keep-no-celular/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-agi-e-por-que-ela-representa-uma-nova-era-mundial-na-ia/",
-      "https://canaltech.com.br/games/the-last-of-us-part-3-vem-ai-druckmann-revela-que-trabalha-em-multiplos-jogos-da-saga/"
+      "https://canaltech.com.br/games/the-last-of-us-part-3-vem-ai-druckmann-revela-que-trabalha-em-multiplos-jogos-da-saga/",
+      "https://canaltech.com.br/inteligencia-artificial/google-fotos-ganha-ia-que-edita-organiza-e-compartilha-fotos-sozinha/",
+      "https://canaltech.com.br/inteligencia-artificial/virou-bagunca-detector-de-ia-do-instagram-rotula-fotos-reais-e-ignora-imagens-100-falsas/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2180,7 +2187,8 @@
       "https://startups.com.br/?p=340496",
       "https://startups.com.br/?p=340502",
       "https://startups.com.br/?p=340513",
-      "https://startups.com.br/?p=340536"
+      "https://startups.com.br/?p=340536",
+      "https://startups.com.br/?p=340543"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -2247,92 +2255,11 @@
       "https://www.mobiletime.com.br/?p=863086",
       "https://www.mobiletime.com.br/?p=863104",
       "https://www.mobiletime.com.br/?p=863125",
-      "https://www.mobiletime.com.br/?p=863151"
+      "https://www.mobiletime.com.br/?p=863151",
+      "https://www.mobiletime.com.br/?p=863208"
     ]
   },
   "_titulos_recentes": [
-    [
-      "capacidade",
-      "comeca",
-      "construir",
-      "imaginacao",
-      "imaginar",
-      "pela",
-      "saber"
-    ],
-    [
-      "ajuda",
-      "astra",
-      "conter",
-      "gigantes",
-      "openai",
-      "pede",
-      "seguranca"
-    ],
-    [
-      "apple",
-      "direcao",
-      "mantera",
-      "prestigio"
-    ],
-    [
-      "base",
-      "danos",
-      "evite",
-      "executivo",
-      "nvidia",
-      "pede",
-      "presidente",
-      "regulamentacoes",
-      "teoricos"
-    ],
-    [
-      "dental",
-      "dentes",
-      "escova",
-      "jato",
-      "potente",
-      "seus",
-      "substitui"
-    ],
-    [
-      "agentica",
-      "evolui",
-      "genesys",
-      "plataforma"
-    ],
-    [
-      "construction",
-      "copilot",
-      "drive",
-      "finlay",
-      "group",
-      "industry",
-      "kier",
-      "louisa",
-      "productivity",
-      "safety",
-      "using"
-    ],
-    [
-      "detection",
-      "fake",
-      "harder",
-      "pangram",
-      "real",
-      "spero",
-      "than"
-    ],
-    [
-      "backs",
-      "case",
-      "copyright",
-      "department",
-      "fair",
-      "justice",
-      "landmark",
-      "training"
-    ],
     [
       "feds",
       "forced",
@@ -4039,6 +3966,84 @@
       "pivotou",
       "startup",
       "vale"
+    ],
+    [
+      "compute",
+      "financing",
+      "looking",
+      "nscale",
+      "provider"
+    ],
+    [
+      "arte",
+      "espelho",
+      "explicabilidade",
+      "interrogavel",
+      "literacia",
+      "maquinas",
+      "perguntar"
+    ],
+    [
+      "algoritmo",
+      "analise",
+      "investimento",
+      "originar",
+      "passa",
+      "quando",
+      "situations",
+      "special"
+    ],
+    [
+      "menos",
+      "trabalhar",
+      "voce"
+    ],
+    [
+      "contra",
+      "decisao",
+      "falsos",
+      "leis",
+      "muda",
+      "nudes"
+    ],
+    [
+      "compartilha",
+      "edita",
+      "fotos",
+      "ganha",
+      "google",
+      "organiza",
+      "sozinha"
+    ],
+    [
+      "bagunca",
+      "detector",
+      "falsas",
+      "fotos",
+      "ignora",
+      "imagens",
+      "instagram",
+      "reais",
+      "rotula",
+      "virou"
+    ],
+    [
+      "anima",
+      "avanco",
+      "ensino",
+      "meio",
+      "modelo",
+      "redesenha"
+    ],
+    [
+      "artificial",
+      "colombiano",
+      "energia",
+      "exportar",
+      "governo",
+      "inteligencia",
+      "roteiro",
+      "significa"
     ]
   ]
 }
