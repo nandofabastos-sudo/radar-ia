@@ -445,7 +445,8 @@
       "https://techcrunch.com/?p=3160480",
       "https://techcrunch.com/?p=3160462",
       "https://techcrunch.com/?p=3160448",
-      "https://techcrunch.com/?p=3160633"
+      "https://techcrunch.com/?p=3160633",
+      "https://techcrunch.com/?p=3160771"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1040,7 +1041,8 @@
       "6a878a3e8b62a000012676aa",
       "6a8f71e06fefcd00018a3fe4",
       "6a90c3e141033e0001e785f8",
-      "6a9610144f68b90001e85e1f"
+      "6a9610144f68b90001e85e1f",
+      "6a99f86c55ee7500014f71bf"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -1269,7 +1271,8 @@
       "108357139",
       "108358214",
       "108358077",
-      "108358347"
+      "108358347",
+      "108355613"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1582,7 +1585,8 @@
       "https://olhardigital.com.br/?p=1369672",
       "https://olhardigital.com.br/?p=1369712",
       "https://olhardigital.com.br/?p=1369736",
-      "https://olhardigital.com.br/?p=1369744"
+      "https://olhardigital.com.br/?p=1369744",
+      "https://olhardigital.com.br/?p=1369747"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2181,73 +2185,12 @@
       "https://www.mobiletime.com.br/?p=862968",
       "https://www.mobiletime.com.br/?p=862992",
       "https://www.mobiletime.com.br/?p=863086",
-      "https://www.mobiletime.com.br/?p=863104"
+      "https://www.mobiletime.com.br/?p=863104",
+      "https://www.mobiletime.com.br/?p=863125",
+      "https://www.mobiletime.com.br/?p=863151"
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "checkers",
-      "claude",
-      "detection",
-      "fact",
-      "media",
-      "opens",
-      "others",
-      "regulators",
-      "text"
-    ],
-    [
-      "abilities",
-      "about",
-      "critical",
-      "cyber",
-      "first",
-      "model",
-      "openai",
-      "release"
-    ],
-    [
-      "evidence",
-      "here",
-      "investments",
-      "looking",
-      "meta",
-      "paying",
-      "ways"
-    ],
-    [
-      "bonanza",
-      "centers",
-      "data",
-      "gopro",
-      "into",
-      "joins",
-      "pivot",
-      "shares",
-      "skyrocket"
-    ],
-    [
-      "2027",
-      "after",
-      "dell",
-      "fiscal",
-      "forecast",
-      "lifting",
-      "server",
-      "strength",
-      "surges"
-    ],
-    [
-      "astra",
-      "capability",
-      "critical",
-      "crosses",
-      "cybersecurity",
-      "first",
-      "model",
-      "openai"
-    ],
     [
       "acquisition",
       "alto",
@@ -4001,6 +3944,54 @@
       "reais",
       "solucoes",
       "testarem"
+    ],
+    [
+      "crusoe",
+      "raises",
+      "reportedly",
+      "valuation"
+    ],
+    [
+      "away",
+      "gets",
+      "google"
+    ],
+    [
+      "academic",
+      "korea",
+      "preferences",
+      "rally",
+      "reality",
+      "reshaping",
+      "romance",
+      "shows",
+      "south"
+    ],
+    [
+      "derrubou",
+      "desculpa",
+      "falha",
+      "grok",
+      "horas",
+      "spacexai"
+    ],
+    [
+      "agentes",
+      "bsps",
+      "diretor",
+      "ecossistema",
+      "meta",
+      "papel",
+      "reforca"
+    ],
+    [
+      "adocao",
+      "agentes",
+      "brasil",
+      "espera",
+      "genesys",
+      "rapida",
+      "seus"
     ]
   ]
 }
