@@ -835,7 +835,8 @@
       "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
       "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
       "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-      "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
+      "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1156,7 +1157,8 @@
       "https://news.ycombinator.com/item?id=49550375",
       "https://news.ycombinator.com/item?id=49551760",
       "https://news.ycombinator.com/item?id=49563355",
-      "https://news.ycombinator.com/item?id=49563386"
+      "https://news.ycombinator.com/item?id=49563386",
+      "https://news.ycombinator.com/item?id=49568506"
     ]
   },
   "mercado": {
@@ -1897,7 +1899,8 @@
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-agi-e-por-que-ela-representa-uma-nova-era-mundial-na-ia/",
       "https://canaltech.com.br/games/the-last-of-us-part-3-vem-ai-druckmann-revela-que-trabalha-em-multiplos-jogos-da-saga/",
       "https://canaltech.com.br/inteligencia-artificial/google-fotos-ganha-ia-que-edita-organiza-e-compartilha-fotos-sozinha/",
-      "https://canaltech.com.br/inteligencia-artificial/virou-bagunca-detector-de-ia-do-instagram-rotula-fotos-reais-e-ignora-imagens-100-falsas/"
+      "https://canaltech.com.br/inteligencia-artificial/virou-bagunca-detector-de-ia-do-instagram-rotula-fotos-reais-e-ignora-imagens-100-falsas/",
+      "https://canaltech.com.br/hardware/nvidia-garante-que-dlss-5-tambem-chegara-as-placas-antigas/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2260,42 +2263,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "feds",
-      "forced",
-      "reveal",
-      "rules",
-      "safety",
-      "secret",
-      "testing",
-      "trump"
-    ],
-    [
-      "admin",
-      "claude",
-      "cookies",
-      "corporate",
-      "gmail",
-      "grants",
-      "reach",
-      "revoke",
-      "session",
-      "stolen",
-      "through"
-    ],
-    [
-      "each",
-      "mathematicians",
-      "models",
-      "other",
-      "russian",
-      "talk",
-      "taught",
-      "these",
-      "using",
-      "without",
-      "words"
-    ],
     [
       "being",
       "data",
@@ -4044,6 +4011,32 @@
       "inteligencia",
       "roteiro",
       "significa"
+    ],
+    [
+      "agents",
+      "discussed",
+      "escape",
+      "openai",
+      "public",
+      "sandbox",
+      "their",
+      "ways",
+      "wiki"
+    ],
+    [
+      "fermat",
+      "formalizing",
+      "last",
+      "theorem"
+    ],
+    [
+      "antigas",
+      "chegara",
+      "dlss",
+      "garante",
+      "nvidia",
+      "placas",
+      "tambem"
     ]
   ]
 }
