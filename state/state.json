@@ -557,7 +557,11 @@
       "https://www.theverge.com/?p=989503",
       "https://www.theverge.com/?p=989508",
       "https://www.theverge.com/?p=989435",
-      "https://www.theverge.com/?p=989601"
+      "https://www.theverge.com/?p=989601",
+      "https://www.theverge.com/?p=990006",
+      "https://www.theverge.com/?p=990060",
+      "https://www.theverge.com/?p=990051",
+      "https://www.theverge.com/?p=989376"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -748,7 +752,9 @@
       "https://the-decoder.com/?p=39753",
       "https://the-decoder.com/?p=39757",
       "https://the-decoder.com/?p=39765",
-      "https://the-decoder.com/?p=39770"
+      "https://the-decoder.com/?p=39770",
+      "https://the-decoder.com/?p=39779",
+      "https://the-decoder.com/?p=39782"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -940,7 +946,8 @@
       "https://www.technologyreview.com/?p=1141949",
       "https://www.technologyreview.com/?p=1143013",
       "https://www.technologyreview.com/?p=1143180",
-      "https://www.technologyreview.com/?p=1142879"
+      "https://www.technologyreview.com/?p=1142879",
+      "https://www.technologyreview.com/?p=1143452"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1021,7 +1028,8 @@
       "6a98617d3d2b77debeec8dca",
       "6a99a09696d08f90b0cf0230",
       "6a98628a0e1a07689023e3f9",
-      "6a999f3f5d28a882aa86cd2f"
+      "6a999f3f5d28a882aa86cd2f",
+      "6a974df9e160e2c30a556099"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1125,7 +1133,10 @@
       "https://news.ycombinator.com/item?id=49536375",
       "https://news.ycombinator.com/item?id=49554643",
       "https://news.ycombinator.com/item?id=49551096",
-      "https://news.ycombinator.com/item?id=49554520"
+      "https://news.ycombinator.com/item?id=49554520",
+      "https://news.ycombinator.com/item?id=49544762",
+      "https://news.ycombinator.com/item?id=49550375",
+      "https://news.ycombinator.com/item?id=49551760"
     ]
   },
   "mercado": {
@@ -1273,7 +1284,9 @@
       "108358214",
       "108358077",
       "108358347",
-      "108355613"
+      "108355613",
+      "108357553",
+      "108358839"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1348,7 +1361,8 @@
       "https://news.crunchbase.com/?p=94018",
       "https://news.crunchbase.com/?p=94023",
       "https://news.crunchbase.com/?p=94028",
-      "https://news.crunchbase.com/?p=94032"
+      "https://news.crunchbase.com/?p=94032",
+      "https://news.crunchbase.com/?p=94041"
     ]
   },
   "brasil": {
@@ -1394,7 +1408,8 @@
       "https://mittechreview.com.br/?p=264580",
       "https://mittechreview.com.br/?p=264765",
       "https://mittechreview.com.br/?p=265017",
-      "https://mittechreview.com.br/?p=265002"
+      "https://mittechreview.com.br/?p=265002",
+      "https://mittechreview.com.br/?p=265023"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1587,7 +1602,9 @@
       "https://olhardigital.com.br/?p=1369712",
       "https://olhardigital.com.br/?p=1369736",
       "https://olhardigital.com.br/?p=1369744",
-      "https://olhardigital.com.br/?p=1369747"
+      "https://olhardigital.com.br/?p=1369747",
+      "https://olhardigital.com.br/?p=1369800",
+      "https://olhardigital.com.br/?p=1369807"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2030,7 +2047,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/openai-lanca-novo-modelo-astra-em-meio-ao-crescente-escrutinio-sobre-seguranca-de-agentes.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/nvidia-define-outubro-como-data-de-lancamento-de-pcs-rtx-spark-com-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/03/nova-era-mundial-o-que-e-agi-que-openai-diz-ter-alcancado-em-novo-modelo-de-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/openai-promete-us1-bi-para-defesa-digital-em-meio-a-duvidas-sobreseguranca-da-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/openai-promete-us1-bi-para-defesa-digital-em-meio-a-duvidas-sobreseguranca-da-ia.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/04/critico-como-e-escala-que-openai-usa-para-classificar-perigo-dos-modelos.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2192,163 +2210,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "claude",
-      "custo",
-      "desempenho",
-      "fable",
-      "lanca",
-      "menor",
-      "menos",
-      "restricoes"
-    ],
-    [
-      "corrigir",
-      "escolas",
-      "muda",
-      "podera",
-      "provas",
-      "redacoes",
-      "veja"
-    ],
-    [
-      "derruba",
-      "dlss",
-      "estreia",
-      "grafico",
-      "nvidia",
-      "real",
-      "salto"
-    ],
-    [
-      "dell",
-      "demanda",
-      "eleva",
-      "impulsionada",
-      "novamente",
-      "previsoes"
-    ],
-    [
-      "afirma",
-      "avancado",
-      "exige",
-      "medidas",
-      "modelo",
-      "openai",
-      "proximo",
-      "rigorosas",
-      "seguranca"
-    ],
-    [
-      "apple",
-      "atrasada",
-      "caros",
-      "chips",
-      "heranca",
-      "john",
-      "recebeu",
-      "ternus"
-    ],
-    [
-      "anthropic",
-      "anuncia",
-      "claude",
-      "fable",
-      "mythos",
-      "novas",
-      "versoes"
-    ],
-    [
-      "afterquery",
-      "becomes",
-      "combinator",
-      "ever",
-      "fastest",
-      "reportedly",
-      "unicorn",
-      "valued"
-    ],
-    [
-      "8217",
-      "agentic",
-      "anthropic",
-      "cheaper",
-      "claude",
-      "fable",
-      "launches",
-      "percent",
-      "work"
-    ],
-    [
-      "google",
-      "hollywood",
-      "more",
-      "need",
-      "needs",
-      "studios",
-      "than"
-    ],
-    [
-      "accurate",
-      "been",
-      "have",
-      "predictions",
-      "skeptic",
-      "zitron"
-    ],
-    [
-      "alto",
-      "cybersecurity",
-      "infrastructure",
-      "palo",
-      "ready",
-      "trillion"
-    ],
-    [
-      "adia",
-      "astra",
-      "ciberseguranca",
-      "critico",
-      "modelo",
-      "openai",
-      "risco",
-      "testes"
-    ],
-    [
-      "anthropic",
-      "enfrentar",
-      "google",
-      "openai",
-      "prepara",
-      "programacao",
-      "recuperar",
-      "terreno"
-    ],
-    [
-      "conversas",
-      "lanca",
-      "meta",
-      "muito",
-      "real",
-      "tempo",
-      "transcreve"
-    ],
-    [
-      "brasil",
-      "chatgpt",
-      "faccionado",
-      "policia",
-      "quer"
-    ],
-    [
-      "firm",
-      "gilbert",
-      "governs",
-      "openai",
-      "scales",
-      "tobin"
-    ],
     [
       "android",
       "anuncia",
@@ -3990,6 +3851,165 @@
       "sameness",
       "those",
       "unappetizing"
+    ],
+    [
+      "company",
+      "home",
+      "local",
+      "smart",
+      "wants",
+      "your"
+    ],
+    [
+      "8216",
+      "8217",
+      "altman",
+      "apologizes",
+      "astra",
+      "locked",
+      "messy",
+      "paying",
+      "rollout",
+      "users"
+    ],
+    [
+      "developers",
+      "distraction",
+      "experience",
+      "free",
+      "microsoft",
+      "project",
+      "windows",
+      "zenith"
+    ],
+    [
+      "food",
+      "like",
+      "looks"
+    ],
+    [
+      "astra",
+      "beating",
+      "benchmarks",
+      "chollet",
+      "disagree",
+      "efficiency",
+      "forecast",
+      "forward",
+      "human",
+      "pulls"
+    ],
+    [
+      "data",
+      "drones",
+      "fueling",
+      "marketplace",
+      "ukraine",
+      "west",
+      "wild"
+    ],
+    [
+      "creating",
+      "doom",
+      "infinite",
+      "loop",
+      "market"
+    ],
+    [
+      "defeats",
+      "grandmaster",
+      "handicap",
+      "katago",
+      "shin",
+      "stone"
+    ],
+    [
+      "1993",
+      "68000",
+      "amiga",
+      "assembly",
+      "game",
+      "godot",
+      "porting",
+      "reading"
+    ],
+    [
+      "connected",
+      "fleet",
+      "horizon",
+      "models",
+      "open"
+    ],
+    [
+      "backer",
+      "becomes",
+      "billion",
+      "chip",
+      "companies",
+      "giant",
+      "grow",
+      "investments",
+      "major",
+      "nvidia"
+    ],
+    [
+      "about",
+      "acquire",
+      "chips",
+      "defensive",
+      "face",
+      "hugging",
+      "more",
+      "move",
+      "much",
+      "nvidia",
+      "than"
+    ],
+    [
+      "built",
+      "corporate",
+      "counsel",
+      "general",
+      "knew",
+      "lawyers",
+      "needed",
+      "startup",
+      "what"
+    ],
+    [
+      "ataque",
+      "culturais",
+      "face",
+      "hugging",
+      "indicar",
+      "openai",
+      "pode",
+      "problemas"
+    ],
+    [
+      "demissoes",
+      "falando",
+      "musk",
+      "openai",
+      "resumo",
+      "robotaxi"
+    ],
+    [
+      "criam",
+      "forum",
+      "openai",
+      "robos",
+      "secreto",
+      "sequestram",
+      "site"
+    ],
+    [
+      "classificar",
+      "critico",
+      "escala",
+      "modelos",
+      "openai",
+      "perigo"
     ]
   ]
 }
