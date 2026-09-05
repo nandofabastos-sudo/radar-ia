@@ -457,7 +457,8 @@
       "https://techcrunch.com/?post_type=tc_video&p=3160884",
       "https://techcrunch.com/?p=3160981",
       "https://techcrunch.com/?p=3160997",
-      "https://techcrunch.com/?p=3161014"
+      "https://techcrunch.com/?p=3161014",
+      "https://techcrunch.com/?p=3161042"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -777,7 +778,8 @@
       "https://the-decoder.com/?p=39817",
       "https://the-decoder.com/?p=39824",
       "https://the-decoder.com/?p=39827",
-      "https://the-decoder.com/?p=39837"
+      "https://the-decoder.com/?p=39837",
+      "https://the-decoder.com/?p=39843"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1169,7 +1171,8 @@
       "https://news.ycombinator.com/item?id=49563355",
       "https://news.ycombinator.com/item?id=49563386",
       "https://news.ycombinator.com/item?id=49568506",
-      "https://news.ycombinator.com/item?id=49569366"
+      "https://news.ycombinator.com/item?id=49569366",
+      "https://news.ycombinator.com/item?id=49574167"
     ]
   },
   "mercado": {
@@ -1322,7 +1325,8 @@
       "108358839",
       "108356686",
       "108355981",
-      "108358020"
+      "108358020",
+      "108358966"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2284,36 +2288,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "brasil",
-      "centers",
-      "corrida",
-      "data",
-      "economia",
-      "energia",
-      "sustentar"
-    ],
-    [
-      "area",
-      "computacao",
-      "federada",
-      "propoe",
-      "rota",
-      "saude"
-    ],
-    [
-      "automatico",
-      "desenvolve",
-      "desligamento",
-      "ferramentas",
-      "openai",
-      "recursos"
-    ],
-    [
-      "eleva",
-      "impulsionada",
-      "previsao"
-    ],
     [
       "aposta",
       "financeira",
@@ -4047,6 +4021,47 @@
       "reconhece",
       "transparencia",
       "wiki"
+    ],
+    [
+      "confirms",
+      "disclosure",
+      "framework",
+      "incident",
+      "more",
+      "openai",
+      "wiki",
+      "working"
+    ],
+    [
+      "after",
+      "analysis",
+      "artificial",
+      "astra",
+      "drew",
+      "index",
+      "intelligence",
+      "overhauls",
+      "scoring",
+      "skepticism"
+    ],
+    [
+      "engineers",
+      "handles",
+      "incidents",
+      "lose",
+      "systems",
+      "their",
+      "touch"
+    ],
+    [
+      "defensive",
+      "last",
+      "more",
+      "raised",
+      "stocks",
+      "street",
+      "wall",
+      "week"
     ]
   ]
 }
