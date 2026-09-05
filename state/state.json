@@ -458,7 +458,8 @@
       "https://techcrunch.com/?p=3160981",
       "https://techcrunch.com/?p=3160997",
       "https://techcrunch.com/?p=3161014",
-      "https://techcrunch.com/?p=3161042"
+      "https://techcrunch.com/?p=3161042",
+      "https://techcrunch.com/?p=3161045"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1652,7 +1653,9 @@
       "https://olhardigital.com.br/?p=1370016",
       "https://olhardigital.com.br/?p=1370041",
       "https://olhardigital.com.br/?p=1370038",
-      "https://olhardigital.com.br/?p=1370182"
+      "https://olhardigital.com.br/?p=1370182",
+      "https://olhardigital.com.br/?p=1370308",
+      "https://olhardigital.com.br/?p=1370320"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1920,7 +1923,8 @@
       "https://canaltech.com.br/inteligencia-artificial/virou-bagunca-detector-de-ia-do-instagram-rotula-fotos-reais-e-ignora-imagens-100-falsas/",
       "https://canaltech.com.br/hardware/nvidia-garante-que-dlss-5-tambem-chegara-as-placas-antigas/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-gemini-faz-melhor-que-claude/",
-      "https://canaltech.com.br/mercado/magalu-cloud-debate-soberania-de-dados-ia-e-seguranca-no-cloud-futures-2026/"
+      "https://canaltech.com.br/mercado/magalu-cloud-debate-soberania-de-dados-ia-e-seguranca-no-cloud-futures-2026/",
+      "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-melhorar-qualquer-texto/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2288,41 +2292,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "aposta",
-      "financeira",
-      "picpay",
-      "secretaria",
-      "transformar"
-    ],
-    [
-      "abel",
-      "artificial",
-      "berkshire",
-      "buffett",
-      "energia",
-      "greg",
-      "inteligencia",
-      "tech"
-    ],
-    [
-      "augusto",
-      "combate",
-      "corrupcao",
-      "cury",
-      "defende",
-      "governo",
-      "plano"
-    ],
-    [
-      "chatgpt",
-      "days",
-      "hours",
-      "into",
-      "tour",
-      "turned",
-      "work"
-    ],
     [
       "2026",
       "brings",
@@ -4062,6 +4031,40 @@
       "street",
       "wall",
       "week"
+    ],
+    [
+      "after",
+      "gemini",
+      "google",
+      "hikers",
+      "planning",
+      "rescued",
+      "using"
+    ],
+    [
+      "adiado",
+      "anthropic",
+      "avaliacao",
+      "outubro"
+    ],
+    [
+      "agentes",
+      "alemao",
+      "hackearam",
+      "incidente",
+      "openai",
+      "site",
+      "wiki"
+    ],
+    [
+      "chatgpt",
+      "criar",
+      "melhoram",
+      "palavras",
+      "prompts",
+      "qualquer",
+      "texto",
+      "voce"
     ]
   ]
 }
