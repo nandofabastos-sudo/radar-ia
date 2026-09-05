@@ -771,7 +771,9 @@
       "https://the-decoder.com/?p=39782",
       "https://the-decoder.com/?p=39787",
       "https://the-decoder.com/?p=39794",
-      "https://the-decoder.com/?p=39798"
+      "https://the-decoder.com/?p=39798",
+      "https://the-decoder.com/?p=39804",
+      "https://the-decoder.com/?p=39817"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1051,7 +1053,8 @@
       "6a98628a0e1a07689023e3f9",
       "6a999f3f5d28a882aa86cd2f",
       "6a974df9e160e2c30a556099",
-      "6a99cf877b162d837701baf2"
+      "6a99cf877b162d837701baf2",
+      "6a9acd6e4c28b30a706b709a"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2100,7 +2103,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/ia-daopenai-invadiu-site-alemao.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/04/ia-rebelde-da-openai-faz-novo-ataque-e-usa-site-para-confabular-longe-de-humanos.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/eua-e-china-se-preparam-para-dialogo-sobre-seguranca-em-iaem-meados-de-setembro.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/empresa-xai-de-elon-musk-perde-acao-judicial-para-impedir-proibicao-de-imagens-de-nudez-feitaspor-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/empresa-xai-de-elon-musk-perde-acao-judicial-para-impedir-proibicao-de-imagens-de-nudez-feitaspor-ia.htm",
+      "https://tab.uol.com.br/noticias/redacao/2026/09/05/ia-sai-do-controle-os-proprios-criadores-comecam-a-discutir-os-riscos.htm",
+      "https://www.uol.com.br/flash/?c=6a9ac511cd5ca6e51801c459"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2268,44 +2273,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "antecessor",
-      "chega",
-      "ciberseguranca",
-      "flash",
-      "ganha",
-      "gemini",
-      "semanas",
-      "versao"
-    ],
-    [
-      "celular",
-      "completo",
-      "gemini",
-      "google",
-      "guia",
-      "navegador",
-      "recursos",
-      "usar"
-    ],
-    [
-      "anthropic",
-      "certo",
-      "esta",
-      "governo",
-      "lado",
-      "secretario",
-      "trump",
-      "volta"
-    ],
-    [
-      "acao",
-      "autorais",
-      "defende",
-      "direitos",
-      "governo",
-      "openai"
-    ],
     [
       "acusa",
       "apple",
@@ -4038,6 +4005,44 @@
       "astra",
       "generation",
       "intelligence"
+    ],
+    [
+      "astra",
+      "chatgpt",
+      "half",
+      "openai",
+      "plans",
+      "rate",
+      "rolls",
+      "tier"
+    ],
+    [
+      "agents",
+      "cheaters",
+      "converts",
+      "deepmind",
+      "into",
+      "room",
+      "sorted",
+      "they",
+      "whistleblowers"
+    ],
+    [
+      "comecam",
+      "controle",
+      "criadores",
+      "discutir",
+      "proprios",
+      "riscos",
+      "saira"
+    ],
+    [
+      "astra",
+      "desconfianca",
+      "gera",
+      "lancamento",
+      "pode",
+      "rebelar"
     ]
   ]
 }
