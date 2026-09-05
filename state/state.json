@@ -68,7 +68,8 @@
       "https://openai.com/index/legora-financial-statement-review-with-astra",
       "https://openai.com/index/playco-game-prototyping-with-astra",
       "https://openai.com/index/safety-overview-gpt-6-astra",
-      "https://openai.com/index/daybreak-for-frontline-defenders"
+      "https://openai.com/index/daybreak-for-frontline-defenders",
+      "https://openai.com/index/gpt-6-astra"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -2268,17 +2269,6 @@
   },
   "_titulos_recentes": [
     [
-      "autoral",
-      "briga",
-      "contra",
-      "direito",
-      "entra",
-      "openai",
-      "times",
-      "trump",
-      "york"
-    ],
-    [
       "antecessor",
       "chega",
       "ciberseguranca",
@@ -4043,6 +4033,11 @@
       "pode",
       "trilhoes",
       "valor"
+    ],
+    [
+      "astra",
+      "generation",
+      "intelligence"
     ]
   ]
 }
