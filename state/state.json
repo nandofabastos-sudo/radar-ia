@@ -454,7 +454,9 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3160877",
       "https://techcrunch.com/?p=3160899",
       "https://techcrunch.com/?post_type=tc_video&p=3160884",
-      "https://techcrunch.com/?p=3160981"
+      "https://techcrunch.com/?p=3160981",
+      "https://techcrunch.com/?p=3160997",
+      "https://techcrunch.com/?p=3161014"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1634,7 +1636,8 @@
       "https://olhardigital.com.br/?p=1369807",
       "https://olhardigital.com.br/?p=1370016",
       "https://olhardigital.com.br/?p=1370041",
-      "https://olhardigital.com.br/?p=1370038"
+      "https://olhardigital.com.br/?p=1370038",
+      "https://olhardigital.com.br/?p=1370182"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2259,39 +2262,11 @@
       "https://www.mobiletime.com.br/?p=863104",
       "https://www.mobiletime.com.br/?p=863125",
       "https://www.mobiletime.com.br/?p=863151",
-      "https://www.mobiletime.com.br/?p=863208"
+      "https://www.mobiletime.com.br/?p=863208",
+      "https://www.mobiletime.com.br/?p=863229"
     ]
   },
   "_titulos_recentes": [
-    [
-      "being",
-      "data",
-      "input",
-      "output",
-      "training",
-      "used"
-    ],
-    [
-      "165m",
-      "apple",
-      "engineers",
-      "former",
-      "lyte",
-      "physical",
-      "raises",
-      "startup",
-      "valuation"
-    ],
-    [
-      "google",
-      "maiores",
-      "modo",
-      "mostra",
-      "pesquisa",
-      "precos",
-      "teste",
-      "tradicional"
-    ],
     [
       "autoral",
       "briga",
@@ -4037,6 +4012,37 @@
       "nvidia",
       "placas",
       "tambem"
+    ],
+    [
+      "agents",
+      "escaping",
+      "formal",
+      "investigate",
+      "keep",
+      "openai",
+      "process",
+      "rogue",
+      "them"
+    ],
+    [
+      "just",
+      "months",
+      "series",
+      "stealth",
+      "talks",
+      "three",
+      "valuation",
+      "xdof"
+    ],
+    [
+      "adia",
+      "anthropic",
+      "bolsa",
+      "chegar",
+      "lancamento",
+      "pode",
+      "trilhoes",
+      "valor"
     ]
   ]
 }
