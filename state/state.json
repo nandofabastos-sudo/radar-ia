@@ -1168,7 +1168,8 @@
       "https://news.ycombinator.com/item?id=49551760",
       "https://news.ycombinator.com/item?id=49563355",
       "https://news.ycombinator.com/item?id=49563386",
-      "https://news.ycombinator.com/item?id=49568506"
+      "https://news.ycombinator.com/item?id=49568506",
+      "https://news.ycombinator.com/item?id=49569366"
     ]
   },
   "mercado": {
@@ -1913,7 +1914,9 @@
       "https://canaltech.com.br/games/the-last-of-us-part-3-vem-ai-druckmann-revela-que-trabalha-em-multiplos-jogos-da-saga/",
       "https://canaltech.com.br/inteligencia-artificial/google-fotos-ganha-ia-que-edita-organiza-e-compartilha-fotos-sozinha/",
       "https://canaltech.com.br/inteligencia-artificial/virou-bagunca-detector-de-ia-do-instagram-rotula-fotos-reais-e-ignora-imagens-100-falsas/",
-      "https://canaltech.com.br/hardware/nvidia-garante-que-dlss-5-tambem-chegara-as-placas-antigas/"
+      "https://canaltech.com.br/hardware/nvidia-garante-que-dlss-5-tambem-chegara-as-placas-antigas/",
+      "https://canaltech.com.br/inteligencia-artificial/o-que-gemini-faz-melhor-que-claude/",
+      "https://canaltech.com.br/mercado/magalu-cloud-debate-soberania-de-dados-ia-e-seguranca-no-cloud-futures-2026/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2111,7 +2114,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/eua-e-china-se-preparam-para-dialogo-sobre-seguranca-em-iaem-meados-de-setembro.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/empresa-xai-de-elon-musk-perde-acao-judicial-para-impedir-proibicao-de-imagens-de-nudez-feitaspor-ia.htm",
       "https://tab.uol.com.br/noticias/redacao/2026/09/05/ia-sai-do-controle-os-proprios-criadores-comecam-a-discutir-os-riscos.htm",
-      "https://www.uol.com.br/flash/?c=6a9ac511cd5ca6e51801c459"
+      "https://www.uol.com.br/flash/?c=6a9ac511cd5ca6e51801c459",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/05/openai-reconhece-incidente-do-wiki-e-necessidade-de-maior-transparencia-sobre-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2280,50 +2284,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "ahead",
-      "chips",
-      "enterprises",
-      "evaluation",
-      "gpus",
-      "lists",
-      "next",
-      "nvidia",
-      "points",
-      "their"
-    ],
-    [
-      "diarization",
-      "enterprises",
-      "hour",
-      "meta",
-      "muse",
-      "prices",
-      "real",
-      "speakers",
-      "steal",
-      "time",
-      "transcribe",
-      "voice"
-    ],
-    [
-      "broadcom",
-      "delivers",
-      "earnings",
-      "growth",
-      "labs",
-      "strong",
-      "touts",
-      "view"
-    ],
-    [
-      "coding",
-      "healthy",
-      "momentum",
-      "results",
-      "snowflake",
-      "spikes"
-    ],
     [
       "brasil",
       "centers",
@@ -4057,6 +4017,36 @@
       "nicolelis",
       "quem",
       "reflexoes"
+    ],
+    [
+      "boards",
+      "circuit",
+      "design"
+    ],
+    [
+      "claude",
+      "coisas",
+      "gemini",
+      "melhor"
+    ],
+    [
+      "2026",
+      "cloud",
+      "dados",
+      "debate",
+      "futures",
+      "magalu",
+      "seguranca",
+      "soberania"
+    ],
+    [
+      "incidente",
+      "maior",
+      "necessidade",
+      "openai",
+      "reconhece",
+      "transparencia",
+      "wiki"
     ]
   ]
 }
