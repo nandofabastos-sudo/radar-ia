@@ -575,7 +575,8 @@
       "https://www.theverge.com/?p=989617",
       "https://www.theverge.com/?p=990149",
       "https://www.theverge.com/?p=990267",
-      "https://www.theverge.com/?p=990197"
+      "https://www.theverge.com/?p=990197",
+      "https://www.theverge.com/?p=990773"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -773,7 +774,10 @@
       "https://the-decoder.com/?p=39794",
       "https://the-decoder.com/?p=39798",
       "https://the-decoder.com/?p=39804",
-      "https://the-decoder.com/?p=39817"
+      "https://the-decoder.com/?p=39817",
+      "https://the-decoder.com/?p=39824",
+      "https://the-decoder.com/?p=39827",
+      "https://the-decoder.com/?p=39837"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1315,7 +1319,9 @@
       "108355613",
       "108357553",
       "108358839",
-      "108356686"
+      "108356686",
+      "108355981",
+      "108358020"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2142,7 +2148,8 @@
       "https://neofeed.com.br/?p=235455",
       "https://neofeed.com.br/?p=235577",
       "https://neofeed.com.br/?p=235605",
-      "https://neofeed.com.br/?p=235018"
+      "https://neofeed.com.br/?p=235018",
+      "https://neofeed.com.br/?p=235718"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -2273,66 +2280,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acusa",
-      "apple",
-      "confidenciais",
-      "dados",
-      "funcionario",
-      "openai",
-      "usar"
-    ],
-    [
-      "alarms",
-      "experts",
-      "openai",
-      "reasoning",
-      "safety",
-      "technique"
-    ],
-    [
-      "2026",
-      "animals",
-      "disrupt",
-      "extinct",
-      "features",
-      "nvidia",
-      "real",
-      "robots",
-      "stage",
-      "techcrunch",
-      "world"
-    ],
-    [
-      "500m",
-      "alto",
-      "backed",
-      "console",
-      "networks",
-      "paid",
-      "palo",
-      "sources",
-      "thrive"
-    ],
-    [
-      "amazon",
-      "assistant",
-      "company",
-      "emails",
-      "fake",
-      "spot"
-    ],
-    [
-      "cost",
-      "flash",
-      "gemini",
-      "google",
-      "harder",
-      "might",
-      "model",
-      "more",
-      "works"
-    ],
     [
       "ahead",
       "chips",
@@ -4043,6 +3990,73 @@
       "lancamento",
       "pode",
       "rebelar"
+    ],
+    [
+      "admits",
+      "after",
+      "agents",
+      "autonomous",
+      "disclosure",
+      "german",
+      "hacked",
+      "need",
+      "openai",
+      "practices",
+      "wiki",
+      "work"
+    ],
+    [
+      "beat",
+      "beliefs",
+      "chatbot",
+      "conspiracy",
+      "experiments",
+      "fact",
+      "minutes",
+      "reducing",
+      "seven",
+      "sheet"
+    ],
+    [
+      "astra",
+      "blocklist",
+      "including",
+      "openai",
+      "prompting",
+      "shares",
+      "slop",
+      "tips",
+      "words"
+    ],
+    [
+      "ciso",
+      "cybersecurity",
+      "front",
+      "line",
+      "meet",
+      "star"
+    ],
+    [
+      "about",
+      "america",
+      "booms",
+      "business",
+      "centers",
+      "data",
+      "feel",
+      "like",
+      "many",
+      "rest",
+      "truckers"
+    ],
+    [
+      "humanos",
+      "manda",
+      "maquinas",
+      "miguel",
+      "nicolelis",
+      "quem",
+      "reflexoes"
     ]
   ]
 }
