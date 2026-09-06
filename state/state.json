@@ -785,7 +785,9 @@
       "https://the-decoder.com/?p=39806",
       "https://the-decoder.com/?p=39851",
       "https://the-decoder.com/?p=39858",
-      "https://the-decoder.com/?p=39861"
+      "https://the-decoder.com/?p=39861",
+      "https://the-decoder.com/?p=39867",
+      "https://the-decoder.com/?p=39877"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1067,7 +1069,8 @@
       "6a974df9e160e2c30a556099",
       "6a99cf877b162d837701baf2",
       "6a9acd6e4c28b30a706b709a",
-      "6a9841fc882152f5a8e0044d"
+      "6a9841fc882152f5a8e0044d",
+      "6a97057af5cd56d0322d3a8e"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1179,7 +1182,8 @@
       "https://news.ycombinator.com/item?id=49563386",
       "https://news.ycombinator.com/item?id=49568506",
       "https://news.ycombinator.com/item?id=49569366",
-      "https://news.ycombinator.com/item?id=49574167"
+      "https://news.ycombinator.com/item?id=49574167",
+      "https://news.ycombinator.com/item?id=49580164"
     ]
   },
   "mercado": {
@@ -1333,7 +1337,8 @@
       "108356686",
       "108355981",
       "108358020",
-      "108358966"
+      "108358966",
+      "108358678"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1661,7 +1666,8 @@
       "https://olhardigital.com.br/?p=1370038",
       "https://olhardigital.com.br/?p=1370182",
       "https://olhardigital.com.br/?p=1370308",
-      "https://olhardigital.com.br/?p=1370320"
+      "https://olhardigital.com.br/?p=1370320",
+      "https://olhardigital.com.br/?p=1369510"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1930,7 +1936,8 @@
       "https://canaltech.com.br/hardware/nvidia-garante-que-dlss-5-tambem-chegara-as-placas-antigas/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-gemini-faz-melhor-que-claude/",
       "https://canaltech.com.br/mercado/magalu-cloud-debate-soberania-de-dados-ia-e-seguranca-no-cloud-futures-2026/",
-      "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-melhorar-qualquer-texto/"
+      "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-melhorar-qualquer-texto/",
+      "https://canaltech.com.br/inteligencia-artificial/como-criar-assistente-pessoal-de-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2300,68 +2307,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "dificeis",
-      "modelos",
-      "monitorar",
-      "openai",
-      "pode",
-      "seus",
-      "tecnica",
-      "tornar"
-    ],
-    [
-      "basilar",
-      "decisao",
-      "deepfake",
-      "definir",
-      "eleicoes",
-      "especialistas",
-      "veem"
-    ],
-    [
-      "anthropic",
-      "billion",
-      "claude",
-      "deal",
-      "infrastructure",
-      "lambda",
-      "ramps"
-    ],
-    [
-      "cops",
-      "flock",
-      "search",
-      "tool"
-    ],
-    [
-      "america",
-      "boom",
-      "center",
-      "china",
-      "data",
-      "dollar",
-      "emerging",
-      "hidden",
-      "multibillion",
-      "risks"
-    ],
-    [
-      "alfa",
-      "centauri",
-      "interestelar",
-      "jornada",
-      "tracou"
-    ],
-    [
-      "criam",
-      "dedo",
-      "duro",
-      "linkedin",
-      "maps",
-      "plataformas",
-      "spotify"
-    ],
     [
       "criada",
       "critico",
@@ -4075,6 +4020,67 @@
       "microsoft",
       "openai",
       "processam"
+    ],
+    [
+      "data",
+      "directly",
+      "ditches",
+      "google",
+      "learns",
+      "live",
+      "physics",
+      "satellite",
+      "simulations",
+      "weather",
+      "weathernext"
+    ],
+    [
+      "built",
+      "chamber",
+      "chatbots",
+      "decide",
+      "echo",
+      "exists",
+      "psychiatry",
+      "psychosis"
+    ],
+    [
+      "brief",
+      "fling",
+      "siri",
+      "summer"
+    ],
+    [
+      "cognitive",
+      "llms",
+      "virus"
+    ],
+    [
+      "fatigue",
+      "frenetic",
+      "labs",
+      "model",
+      "pace",
+      "race",
+      "roll",
+      "sets",
+      "versions"
+    ],
+    [
+      "agentes",
+      "fluentes",
+      "formar",
+      "ingles",
+      "jovens",
+      "urgencia"
+    ],
+    [
+      "assistente",
+      "criar",
+      "entende",
+      "pessoal",
+      "regras",
+      "suas"
     ]
   ]
 }
