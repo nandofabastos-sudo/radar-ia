@@ -459,7 +459,8 @@
       "https://techcrunch.com/?p=3160997",
       "https://techcrunch.com/?p=3161014",
       "https://techcrunch.com/?p=3161042",
-      "https://techcrunch.com/?p=3161045"
+      "https://techcrunch.com/?p=3161045",
+      "https://techcrunch.com/?p=3161049"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -2293,18 +2294,6 @@
   },
   "_titulos_recentes": [
     [
-      "2026",
-      "brings",
-      "builders",
-      "disrupt",
-      "practical",
-      "scaling",
-      "stage",
-      "startups",
-      "strategies",
-      "techcrunch"
-    ],
-    [
       "agents",
       "built",
       "cyber",
@@ -4065,6 +4054,15 @@
       "qualquer",
       "texto",
       "voce"
+    ],
+    [
+      "latest",
+      "microsoft",
+      "newsday",
+      "openai",
+      "publications",
+      "seattle",
+      "times"
     ]
   ]
 }
