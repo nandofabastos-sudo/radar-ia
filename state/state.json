@@ -781,7 +781,11 @@
       "https://the-decoder.com/?p=39824",
       "https://the-decoder.com/?p=39827",
       "https://the-decoder.com/?p=39837",
-      "https://the-decoder.com/?p=39843"
+      "https://the-decoder.com/?p=39843",
+      "https://the-decoder.com/?p=39806",
+      "https://the-decoder.com/?p=39851",
+      "https://the-decoder.com/?p=39858",
+      "https://the-decoder.com/?p=39861"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1062,7 +1066,8 @@
       "6a999f3f5d28a882aa86cd2f",
       "6a974df9e160e2c30a556099",
       "6a99cf877b162d837701baf2",
-      "6a9acd6e4c28b30a706b709a"
+      "6a9acd6e4c28b30a706b709a",
+      "6a9841fc882152f5a8e0044d"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2124,7 +2129,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/empresa-xai-de-elon-musk-perde-acao-judicial-para-impedir-proibicao-de-imagens-de-nudez-feitaspor-ia.htm",
       "https://tab.uol.com.br/noticias/redacao/2026/09/05/ia-sai-do-controle-os-proprios-criadores-comecam-a-discutir-os-riscos.htm",
       "https://www.uol.com.br/flash/?c=6a9ac511cd5ca6e51801c459",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/05/openai-reconhece-incidente-do-wiki-e-necessidade-de-maior-transparencia-sobre-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/05/openai-reconhece-incidente-do-wiki-e-necessidade-de-maior-transparencia-sobre-ia.htm",
+      "https://www.uol.com.br/flash/?c=6a9b18fa94e24318b2913e5b",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/06/jornais-dos-eua-processam-openai-e-microsoft-por-uso-de-conteudo.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2293,73 +2300,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agents",
-      "built",
-      "cyber",
-      "flash",
-      "gemini",
-      "google",
-      "hunts",
-      "twin",
-      "vulnerabilities",
-      "while"
-    ],
-    [
-      "muse",
-      "spark"
-    ],
-    [
-      "boom",
-      "center",
-      "data",
-      "dollar",
-      "equinix",
-      "found",
-      "multitrillion",
-      "niche"
-    ],
-    [
-      "ceos",
-      "favoraveis",
-      "governo",
-      "politicas",
-      "pressionam",
-      "tecnologia",
-      "trump"
-    ],
-    [
-      "agent",
-      "eases",
-      "employees",
-      "meta",
-      "pushes",
-      "tokenmaxxing"
-    ],
-    [
-      "best",
-      "cites",
-      "made",
-      "pages",
-      "perplexity",
-      "sites",
-      "software",
-      "them",
-      "three"
-    ],
-    [
-      "after",
-      "decade",
-      "google",
-      "longest",
-      "losing",
-      "momentum",
-      "monthly",
-      "over",
-      "september",
-      "starts",
-      "streak"
-    ],
     [
       "dificeis",
       "modelos",
@@ -4063,6 +4003,78 @@
       "publications",
       "seattle",
       "times"
+    ],
+    [
+      "commercial",
+      "guardrails",
+      "models",
+      "open",
+      "safety",
+      "service",
+      "stripping",
+      "turnkey",
+      "weight"
+    ],
+    [
+      "assistants",
+      "audio",
+      "foundation",
+      "listening",
+      "meta",
+      "model",
+      "never",
+      "real",
+      "stop",
+      "time"
+    ],
+    [
+      "brings",
+      "directly",
+      "gemini",
+      "generation",
+      "google",
+      "into",
+      "lyria",
+      "model",
+      "music"
+    ],
+    [
+      "astra",
+      "boosted",
+      "claims",
+      "developer",
+      "forward",
+      "months",
+      "much",
+      "openai",
+      "plans",
+      "productivity",
+      "pulled",
+      "some"
+    ],
+    [
+      "bogeyman",
+      "center",
+      "china",
+      "data",
+      "enthusiasts",
+      "just",
+      "quit"
+    ],
+    [
+      "medicina",
+      "novidades",
+      "risco",
+      "semana",
+      "tecnologia",
+      "ultima"
+    ],
+    [
+      "conteudo",
+      "jornais",
+      "microsoft",
+      "openai",
+      "processam"
     ]
   ]
 }
