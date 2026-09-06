@@ -70,7 +70,8 @@
       "https://openai.com/index/safety-overview-gpt-6-astra",
       "https://openai.com/index/daybreak-for-frontline-defenders",
       "https://openai.com/index/gpt-6-astra",
-      "https://openai.com/index/research-acceleration-view-inside-openai"
+      "https://openai.com/index/research-acceleration-view-inside-openai",
+      "https://openai.com/index/an-alien-mind"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -461,7 +462,8 @@
       "https://techcrunch.com/?p=3161014",
       "https://techcrunch.com/?p=3161042",
       "https://techcrunch.com/?p=3161045",
-      "https://techcrunch.com/?p=3161049"
+      "https://techcrunch.com/?p=3161049",
+      "https://techcrunch.com/?p=3161054"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1184,7 +1186,8 @@
       "https://news.ycombinator.com/item?id=49568506",
       "https://news.ycombinator.com/item?id=49569366",
       "https://news.ycombinator.com/item?id=49574167",
-      "https://news.ycombinator.com/item?id=49580164"
+      "https://news.ycombinator.com/item?id=49580164",
+      "https://news.ycombinator.com/item?id=49586898"
     ]
   },
   "mercado": {
@@ -1668,7 +1671,8 @@
       "https://olhardigital.com.br/?p=1370182",
       "https://olhardigital.com.br/?p=1370308",
       "https://olhardigital.com.br/?p=1370320",
-      "https://olhardigital.com.br/?p=1369510"
+      "https://olhardigital.com.br/?p=1369510",
+      "https://olhardigital.com.br/?p=1370443"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2308,38 +2312,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "apaixonando",
-      "esteja",
-      "talvez",
-      "voce"
-    ],
-    [
-      "aquilo",
-      "caro",
-      "escasso",
-      "executa",
-      "fica",
-      "humano",
-      "maquina",
-      "paradoxo",
-      "quanto"
-    ],
-    [
-      "acquire",
-      "face",
-      "hugging",
-      "nvidia"
-    ],
-    [
-      "2k27",
-      "coming",
-      "dlss",
-      "games",
-      "geforce",
-      "leads",
-      "nvidia"
-    ],
     [
       "billion",
       "confirms",
@@ -4081,6 +4053,33 @@
       "openai",
       "research",
       "view"
+    ],
+    [
+      "alien",
+      "mind"
+    ],
+    [
+      "atoms",
+      "business",
+      "getting",
+      "into",
+      "kalanick",
+      "might",
+      "robotaxi",
+      "travis"
+    ],
+    [
+      "down",
+      "human",
+      "shuts",
+      "stay"
+    ],
+    [
+      "autorizacao",
+      "conteudo",
+      "encara",
+      "openai",
+      "processo"
     ]
   ]
 }
