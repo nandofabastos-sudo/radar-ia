@@ -463,7 +463,8 @@
       "https://techcrunch.com/?p=3161042",
       "https://techcrunch.com/?p=3161045",
       "https://techcrunch.com/?p=3161049",
-      "https://techcrunch.com/?p=3161054"
+      "https://techcrunch.com/?p=3161054",
+      "https://techcrunch.com/?p=3161058"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -2313,14 +2314,6 @@
   },
   "_titulos_recentes": [
     [
-      "billion",
-      "confirms",
-      "face",
-      "hugging",
-      "nvidia",
-      "will"
-    ],
-    [
       "closes",
       "meta",
       "muse",
@@ -4080,6 +4073,17 @@
       "encara",
       "openai",
       "processo"
+    ],
+    [
+      "agents",
+      "anthropic",
+      "authors",
+      "back",
+      "publishers",
+      "push",
+      "seek",
+      "settlement",
+      "share"
     ]
   ]
 }
