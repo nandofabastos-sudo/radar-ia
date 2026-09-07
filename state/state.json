@@ -71,7 +71,8 @@
       "https://openai.com/index/daybreak-for-frontline-defenders",
       "https://openai.com/index/gpt-6-astra",
       "https://openai.com/index/research-acceleration-view-inside-openai",
-      "https://openai.com/index/an-alien-mind"
+      "https://openai.com/index/an-alien-mind",
+      "https://openai.com/index/supporting-independent-journalism-in-ukraine"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -860,7 +861,8 @@
       "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
       "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
       "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+      "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1075,7 +1077,8 @@
       "6a99cf877b162d837701baf2",
       "6a9acd6e4c28b30a706b709a",
       "6a9841fc882152f5a8e0044d",
-      "6a97057af5cd56d0322d3a8e"
+      "6a97057af5cd56d0322d3a8e",
+      "6a985e26ae63a30d70e113b7"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1346,7 +1349,8 @@
       "108355981",
       "108358020",
       "108358966",
-      "108358678"
+      "108358678",
+      "108359403"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1473,7 +1477,9 @@
       "https://mittechreview.com.br/?p=265023",
       "https://mittechreview.com.br/?p=265460",
       "https://mittechreview.com.br/?p=265515",
-      "https://mittechreview.com.br/?p=265537"
+      "https://mittechreview.com.br/?p=265537",
+      "https://mittechreview.com.br/?p=265550",
+      "https://mittechreview.com.br/?p=265204"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1676,7 +1682,8 @@
       "https://olhardigital.com.br/?p=1370308",
       "https://olhardigital.com.br/?p=1370320",
       "https://olhardigital.com.br/?p=1369510",
-      "https://olhardigital.com.br/?p=1370443"
+      "https://olhardigital.com.br/?p=1370443",
+      "https://olhardigital.com.br/?p=1370479"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2147,7 +2154,8 @@
       "https://www.uol.com.br/flash/?c=6a9ac511cd5ca6e51801c459",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/05/openai-reconhece-incidente-do-wiki-e-necessidade-de-maior-transparencia-sobre-ia.htm",
       "https://www.uol.com.br/flash/?c=6a9b18fa94e24318b2913e5b",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/06/jornais-dos-eua-processam-openai-e-microsoft-por-uso-de-conteudo.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/06/jornais-dos-eua-processam-openai-e-microsoft-por-uso-de-conteudo.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/07/taiwan-demonstra-forca-na-diplomacia-dos-chips-enquanto-enfrenta-pressao-para-compartilhar-beneficios-da-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2316,88 +2324,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "about",
-      "consciousness",
-      "philosophers",
-      "questions",
-      "reaching",
-      "scientists",
-      "systems",
-      "their"
-    ],
-    [
-      "1653",
-      "centuries",
-      "claude",
-      "decoded",
-      "fable",
-      "hidden",
-      "message",
-      "plain",
-      "royalist",
-      "sight",
-      "since"
-    ],
-    [
-      "buys",
-      "closed",
-      "design",
-      "door",
-      "front",
-      "increasingly",
-      "labs",
-      "nvidia",
-      "open",
-      "silicon",
-      "their"
-    ],
-    [
-      "elevenlabs",
-      "google",
-      "microsoft",
-      "openai",
-      "price",
-      "speed",
-      "transcribe",
-      "undercuts"
-    ],
-    [
-      "answers",
-      "brands",
-      "disappear",
-      "great",
-      "visibility"
-    ],
-    [
-      "first",
-      "here",
-      "nvidia",
-      "spark",
-      "superchip"
-    ],
-    [
-      "anthropic",
-      "battle",
-      "china",
-      "concerns",
-      "dark",
-      "distillation",
-      "swell",
-      "turns"
-    ],
-    [
-      "acquisition",
-      "ahead",
-      "approached",
-      "cnbc",
-      "face",
-      "huang",
-      "hugging",
-      "nvidia",
-      "tells",
-      "weeks"
-    ],
     [
       "earnings",
       "ford",
@@ -4082,6 +4008,69 @@
     [
       "alien",
       "mind"
+    ],
+    [
+      "independent",
+      "journalism",
+      "supporting",
+      "ukraine"
+    ],
+    [
+      "behind",
+      "billion",
+      "center",
+      "complex",
+      "corporate",
+      "data"
+    ],
+    [
+      "complaints",
+      "customer",
+      "feedback",
+      "future",
+      "into",
+      "phone",
+      "whispering",
+      "your"
+    ],
+    [
+      "billions",
+      "dollars",
+      "hundreds",
+      "made",
+      "posting",
+      "spree",
+      "stocks",
+      "trump"
+    ],
+    [
+      "acoes",
+      "contra",
+      "fiscaliza",
+      "nino",
+      "super"
+    ],
+    [
+      "comuns",
+      "tragedia"
+    ],
+    [
+      "anthropic",
+      "iphone",
+      "regulamentacao",
+      "resumo"
+    ],
+    [
+      "beneficios",
+      "chips",
+      "compartilhar",
+      "demonstra",
+      "diplomacia",
+      "enfrenta",
+      "enquanto",
+      "forca",
+      "pressao",
+      "taiwan"
     ]
   ]
 }
