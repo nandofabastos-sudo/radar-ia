@@ -1189,7 +1189,9 @@
       "https://news.ycombinator.com/item?id=49569366",
       "https://news.ycombinator.com/item?id=49574167",
       "https://news.ycombinator.com/item?id=49580164",
-      "https://news.ycombinator.com/item?id=49586898"
+      "https://news.ycombinator.com/item?id=49586898",
+      "https://news.ycombinator.com/item?id=49585644",
+      "https://news.ycombinator.com/item?id=49588080"
     ]
   },
   "mercado": {
@@ -2314,24 +2316,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "closes",
-      "meta",
-      "muse",
-      "price",
-      "rivals",
-      "spark",
-      "undercuts"
-    ],
-    [
-      "altman",
-      "buildout",
-      "compute",
-      "openai",
-      "silliness",
-      "unsustainable",
-      "warns"
-    ],
     [
       "about",
       "consciousness",
@@ -4085,6 +4069,19 @@
       "seek",
       "settlement",
       "share"
+    ],
+    [
+      "2025",
+      "author",
+      "intellectual",
+      "open",
+      "post",
+      "when",
+      "your"
+    ],
+    [
+      "alien",
+      "mind"
     ]
   ]
 }
