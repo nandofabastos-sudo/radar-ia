@@ -72,7 +72,9 @@
       "https://openai.com/index/gpt-6-astra",
       "https://openai.com/index/research-acceleration-view-inside-openai",
       "https://openai.com/index/an-alien-mind",
-      "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+      "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "https://openai.com/index/the-work-now-within-reach"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -115,7 +117,8 @@
       "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
       "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+      "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
     ],
     "google_ai_blog": [
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -467,7 +470,8 @@
       "https://techcrunch.com/?p=3161049",
       "https://techcrunch.com/?p=3161054",
       "https://techcrunch.com/?p=3161058",
-      "https://techcrunch.com/?p=2973217"
+      "https://techcrunch.com/?p=2973217",
+      "https://techcrunch.com/?p=3161251"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -587,7 +591,9 @@
       "https://www.theverge.com/?p=990267",
       "https://www.theverge.com/?p=990197",
       "https://www.theverge.com/?p=990773",
-      "https://www.theverge.com/?p=990932"
+      "https://www.theverge.com/?p=990932",
+      "https://www.theverge.com/?p=991133",
+      "https://www.theverge.com/?p=991180"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -805,7 +811,10 @@
       "https://the-decoder.com/?p=39921",
       "https://the-decoder.com/?p=39928",
       "https://the-decoder.com/?p=39932",
-      "https://the-decoder.com/?p=39935"
+      "https://the-decoder.com/?p=39935",
+      "https://the-decoder.com/?p=39938",
+      "https://the-decoder.com/?p=39941",
+      "https://the-decoder.com/?p=39942"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1210,7 +1219,8 @@
       "https://news.ycombinator.com/item?id=49585644",
       "https://news.ycombinator.com/item?id=49588080",
       "https://news.ycombinator.com/item?id=49552299",
-      "https://news.ycombinator.com/item?id=49605767"
+      "https://news.ycombinator.com/item?id=49605767",
+      "https://news.ycombinator.com/item?id=49610538"
     ]
   },
   "mercado": {
@@ -1369,7 +1379,8 @@
       "108359403",
       "108359469",
       "108359589",
-      "108359609"
+      "108359609",
+      "108359735"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1983,7 +1994,9 @@
       "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-melhorar-qualquer-texto/",
       "https://canaltech.com.br/inteligencia-artificial/como-criar-assistente-pessoal-de-ia/",
       "https://canaltech.com.br/inteligencia-artificial/ia-poderosa-demais-pode-ameacar-humanidade-alerta-onu/",
-      "https://canaltech.com.br/produtos/samsung-quer-apresentar-primeiro-robo-humanoide-na-ces-2027/"
+      "https://canaltech.com.br/produtos/samsung-quer-apresentar-primeiro-robo-humanoide-na-ces-2027/",
+      "https://canaltech.com.br/inteligencia-artificial/com-riscos-de-seguranca-quem-pode-usar-o-gpt-6-astra-da-openai/",
+      "https://canaltech.com.br/inteligencia-artificial/trend-dos-anos-80-aprenda-a-criar-sua-foto-com-visual-da-epoca/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2188,7 +2201,14 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/07/taiwan-demonstra-forca-na-diplomacia-dos-chips-enquanto-enfrenta-pressao-para-compartilhar-beneficios-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/07/china-endurece-regras-contra-deepfakes-e-clonagem-de-voz-por-ia.htm",
       "https://www.uol.com.br/tilt/ultimas-noticias/rfi/2026/09/07/sem-controle-modelos-de-ia-representam-risco-existencial-para-humanidade-alerta-onu.htm",
-      "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/07/dezenas-de-robos-protestam-contra-uso-descontrolado-da-ia-na-polonia.htm"
+      "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/07/dezenas-de-robos-protestam-contra-uso-descontrolado-da-ia-na-polonia.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/08/trend-anos-80-foto.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/08/febre-da-inteligencia-artificial-gera-corrida-por-data-centers-na-patagonia.htm",
+      "https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/09/08/ia-avancada-pode-ser-risco-existencial-diz-chefe-de-direitos-da-onu.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/08/ternus-enfrenta-teste-de-ia-da-apple-enquanto-iphone-dobravel-ganha-destaque.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/08/ue-investiga-agentes-da-openai-que-burlaram-site-alemao.ghtm",
+      "https://economia.uol.com.br/noticias/reuters/2026/09/08/qualcomm-e-amazon-fecham-acordo-de-us4-bi-para-chips-personalizados.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/08/startup-na-india-usa-ia-e-caes-para-tentar-detectar-cancer-pelo-halito.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2228,7 +2248,8 @@
       "https://neofeed.com.br/?p=235018",
       "https://neofeed.com.br/?p=235718",
       "https://neofeed.com.br/?p=234743",
-      "https://neofeed.com.br/?p=235906"
+      "https://neofeed.com.br/?p=235906",
+      "https://neofeed.com.br/?p=236107"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -2287,7 +2308,8 @@
       "https://startups.com.br/?p=340513",
       "https://startups.com.br/?p=340536",
       "https://startups.com.br/?p=340543",
-      "https://startups.com.br/?p=340549"
+      "https://startups.com.br/?p=340549",
+      "https://startups.com.br/?p=340564"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -2361,165 +2383,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "botao",
-      "cria",
-      "desligar",
-      "elas",
-      "emergencia",
-      "openai",
-      "rebelarem"
-    ],
-    [
-      "adotam",
-      "ainda",
-      "brasileiras",
-      "dificuldade",
-      "empresas",
-      "medir",
-      "retorno"
-    ],
-    [
-      "apagao",
-      "chatgpt",
-      "claude",
-      "funcionar",
-      "grok",
-      "instabilidade",
-      "voltam"
-    ],
-    [
-      "astra",
-      "complexas",
-      "foco",
-      "lanca",
-      "openai",
-      "seguranca",
-      "tarefas"
-    ],
-    [
-      "brasil",
-      "estao",
-      "geracao",
-      "lideram",
-      "prontas",
-      "proxima",
-      "startups"
-    ],
-    [
-      "550m",
-      "brasil",
-      "chegar",
-      "meses",
-      "poucos",
-      "serie",
-      "wonderful"
-    ],
-    [
-      "astra",
-      "overview",
-      "safety"
-    ],
-    [
-      "daybreak",
-      "defenders",
-      "essential",
-      "frontline",
-      "protect",
-      "services"
-    ],
-    [
-      "grok"
-    ],
-    [
-      "grok"
-    ],
-    [
-      "abliteration",
-      "business",
-      "guardrails",
-      "making",
-      "removing"
-    ],
-    [
-      "accel",
-      "lead",
-      "machines",
-      "reportedly",
-      "round",
-      "talks",
-      "thinking",
-      "valuation"
-    ],
-    [
-      "astra",
-      "declare",
-      "first",
-      "making",
-      "model",
-      "openai",
-      "willing"
-    ],
-    [
-      "astra"
-    ],
-    [
-      "agua",
-      "amazon",
-      "brasil",
-      "desperdicio",
-      "evitar",
-      "litros",
-      "milhoes"
-    ],
-    [
-      "brasil",
-      "centers",
-      "construcao",
-      "data",
-      "incentivar",
-      "senado",
-      "tributos",
-      "zera"
-    ],
-    [
-      "2027",
-      "agentica",
-      "cancelados",
-      "problema",
-      "projetos",
-      "serao"
-    ],
-    [
-      "avalia",
-      "barreira",
-      "escalar",
-      "executiva",
-      "falta",
-      "talentos"
-    ],
-    [
-      "bilhoes",
-      "dona",
-      "face",
-      "hugging",
-      "maior",
-      "mundo",
-      "nvidia",
-      "polo",
-      "vira"
-    ],
-    [
-      "agentes",
-      "astra",
-      "crescente",
-      "escrutinio",
-      "lanca",
-      "meio",
-      "modelo",
-      "openai",
-      "seguranca"
-    ],
     [
       "data",
       "define",
@@ -4112,6 +3975,190 @@
       "infraestrutura",
       "institucional",
       "principios"
+    ],
+    [
+      "classrooms",
+      "expands",
+      "initiatives",
+      "journalism",
+      "newsrooms",
+      "openai",
+      "support"
+    ],
+    [
+      "reach",
+      "within",
+      "work"
+    ],
+    [
+      "alphagenome",
+      "atlas",
+      "change",
+      "every",
+      "genome",
+      "human",
+      "letter",
+      "possible",
+      "predictive"
+    ],
+    [
+      "becomes",
+      "business",
+      "mistral",
+      "raises",
+      "sovereign"
+    ],
+    [
+      "adobe",
+      "generators",
+      "idiot",
+      "make",
+      "premiere",
+      "proof",
+      "trying"
+    ],
+    [
+      "atlas",
+      "could",
+      "genome",
+      "google",
+      "human",
+      "pave",
+      "treatments"
+    ],
+    [
+      "after",
+      "backfires",
+      "drops",
+      "engineer",
+      "meta",
+      "performance",
+      "reviews",
+      "tokenmaxxing",
+      "usage"
+    ],
+    [
+      "asml",
+      "break",
+      "grip",
+      "huawei",
+      "intel",
+      "locks",
+      "races",
+      "samsung",
+      "tsmc",
+      "while"
+    ],
+    [
+      "centers",
+      "data",
+      "including",
+      "patagonia",
+      "resistance",
+      "want",
+      "what"
+    ],
+    [
+      "after",
+      "breaks",
+      "declaring",
+      "download",
+      "features",
+      "libreoffice",
+      "records"
+    ],
+    [
+      "acquire",
+      "amazon",
+      "billion",
+      "chipmaker",
+      "deal",
+      "infrastructure",
+      "issues",
+      "part",
+      "qualcomm",
+      "stock",
+      "warrants",
+      "worth"
+    ],
+    [
+      "astra",
+      "openai",
+      "pode",
+      "quem",
+      "riscos",
+      "seguranca",
+      "usar"
+    ],
+    [
+      "anos",
+      "aprenda",
+      "criar",
+      "epoca",
+      "foto",
+      "trend",
+      "visual"
+    ],
+    [
+      "artificial",
+      "centers",
+      "corrida",
+      "data",
+      "febre",
+      "gera",
+      "inteligencia",
+      "patagonia"
+    ],
+    [
+      "avancada",
+      "chefe",
+      "direitos",
+      "existencial",
+      "pode",
+      "risco"
+    ],
+    [
+      "apple",
+      "destaque",
+      "dobravel",
+      "enfrenta",
+      "enquanto",
+      "ganha",
+      "iphone",
+      "ternus",
+      "teste"
+    ],
+    [
+      "amazon",
+      "chips",
+      "fecham",
+      "parceria",
+      "qualcomm"
+    ],
+    [
+      "caes",
+      "cancer",
+      "detectar",
+      "halito",
+      "india",
+      "pelo",
+      "startup",
+      "tentar"
+    ],
+    [
+      "apple",
+      "atraso",
+      "fogo",
+      "iphone",
+      "reinventar",
+      "superar",
+      "teste"
+    ],
+    [
+      "levanta",
+      "mistral",
+      "samsung",
+      "vale"
     ]
   ]
 }
