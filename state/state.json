@@ -245,7 +245,8 @@
       "https://mistral.ai/news/shieldstral",
       "https://mistral.ai/news/regional-inference-open-models-new-compute",
       "https://mistral.ai/news/agentic-search",
-      "https://mistral.ai/news/mistral-x-humain"
+      "https://mistral.ai/news/mistral-x-humain",
+      "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
     ]
   },
   "imprensa": {
@@ -1361,7 +1362,8 @@
       "108358020",
       "108358966",
       "108358678",
-      "108359403"
+      "108359403",
+      "108359469"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2349,25 +2351,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "center",
-      "computers",
-      "data",
-      "free",
-      "idle",
-      "into",
-      "launches",
-      "links",
-      "nvidia",
-      "personal",
-      "tool"
-    ],
-    [
-      "entered",
-      "model",
-      "next",
-      "openai"
-    ],
     [
       "biggest",
       "flaw",
@@ -4114,6 +4097,20 @@
       "desafio",
       "encontrar",
       "pode"
+    ],
+    [
+      "mistral"
+    ],
+    [
+      "bags",
+      "billion",
+      "champion",
+      "europe",
+      "funding",
+      "leads",
+      "mistral",
+      "samsung",
+      "valuation"
     ]
   ]
 }
