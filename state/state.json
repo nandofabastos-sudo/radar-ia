@@ -1699,7 +1699,8 @@
       "https://olhardigital.com.br/?p=1370636",
       "https://olhardigital.com.br/?p=1370641",
       "https://olhardigital.com.br/?p=1370644",
-      "https://olhardigital.com.br/?p=1370655"
+      "https://olhardigital.com.br/?p=1370655",
+      "https://olhardigital.com.br/?p=1370670"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2348,14 +2349,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "chat",
-      "docs",
-      "gmail",
-      "google",
-      "keep",
-      "lets"
-    ],
     [
       "center",
       "computers",
@@ -4113,6 +4106,14 @@
       "cientista",
       "openai",
       "pede"
+    ],
+    [
+      "cancer",
+      "chips",
+      "cura",
+      "desafio",
+      "encontrar",
+      "pode"
     ]
   ]
 }
