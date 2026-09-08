@@ -804,7 +804,8 @@
       "https://the-decoder.com/?p=39915",
       "https://the-decoder.com/?p=39921",
       "https://the-decoder.com/?p=39928",
-      "https://the-decoder.com/?p=39932"
+      "https://the-decoder.com/?p=39932",
+      "https://the-decoder.com/?p=39935"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1003,7 +1004,8 @@
       "https://www.technologyreview.com/?p=1143180",
       "https://www.technologyreview.com/?p=1142879",
       "https://www.technologyreview.com/?p=1143452",
-      "https://www.technologyreview.com/?p=1140872"
+      "https://www.technologyreview.com/?p=1140872",
+      "https://www.technologyreview.com/?p=1142088"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1206,7 +1208,9 @@
       "https://news.ycombinator.com/item?id=49580164",
       "https://news.ycombinator.com/item?id=49586898",
       "https://news.ycombinator.com/item?id=49585644",
-      "https://news.ycombinator.com/item?id=49588080"
+      "https://news.ycombinator.com/item?id=49588080",
+      "https://news.ycombinator.com/item?id=49552299",
+      "https://news.ycombinator.com/item?id=49605767"
     ]
   },
   "mercado": {
@@ -1363,7 +1367,9 @@
       "108358966",
       "108358678",
       "108359403",
-      "108359469"
+      "108359469",
+      "108359589",
+      "108359609"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1702,7 +1708,9 @@
       "https://olhardigital.com.br/?p=1370641",
       "https://olhardigital.com.br/?p=1370644",
       "https://olhardigital.com.br/?p=1370655",
-      "https://olhardigital.com.br/?p=1370670"
+      "https://olhardigital.com.br/?p=1370670",
+      "https://olhardigital.com.br/?p=1370695",
+      "https://olhardigital.com.br/?p=1370705"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1974,7 +1982,8 @@
       "https://canaltech.com.br/mercado/magalu-cloud-debate-soberania-de-dados-ia-e-seguranca-no-cloud-futures-2026/",
       "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-melhorar-qualquer-texto/",
       "https://canaltech.com.br/inteligencia-artificial/como-criar-assistente-pessoal-de-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/ia-poderosa-demais-pode-ameacar-humanidade-alerta-onu/"
+      "https://canaltech.com.br/inteligencia-artificial/ia-poderosa-demais-pode-ameacar-humanidade-alerta-onu/",
+      "https://canaltech.com.br/produtos/samsung-quer-apresentar-primeiro-robo-humanoide-na-ces-2027/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2347,107 +2356,11 @@
       "https://www.mobiletime.com.br/?p=863125",
       "https://www.mobiletime.com.br/?p=863151",
       "https://www.mobiletime.com.br/?p=863208",
-      "https://www.mobiletime.com.br/?p=863229"
+      "https://www.mobiletime.com.br/?p=863229",
+      "https://www.mobiletime.com.br/?p=863311"
     ]
   },
   "_titulos_recentes": [
-    [
-      "biggest",
-      "flaw",
-      "into",
-      "pangram",
-      "public",
-      "scores",
-      "shaming",
-      "turning",
-      "users"
-    ],
-    [
-      "downtime",
-      "four",
-      "major",
-      "models",
-      "overlapping",
-      "rare",
-      "suffer"
-    ],
-    [
-      "best",
-      "broadly",
-      "come",
-      "developers",
-      "frontier",
-      "meta",
-      "model",
-      "muse",
-      "performance",
-      "results",
-      "spark"
-    ],
-    [
-      "backdoored",
-      "china",
-      "companies",
-      "executives",
-      "exploiting",
-      "hackers",
-      "laptops",
-      "linked",
-      "using",
-      "weren"
-    ],
-    [
-      "astra",
-      "launches",
-      "openai",
-      "welcome"
-    ],
-    [
-      "avoid",
-      "billion",
-      "customer",
-      "dollar",
-      "elon",
-      "musk",
-      "openai"
-    ],
-    [
-      "astra",
-      "here",
-      "kick",
-      "openai",
-      "thinks"
-    ],
-    [
-      "advanced",
-      "after",
-      "astra",
-      "begins",
-      "capabilities",
-      "cyber",
-      "model",
-      "openai",
-      "rolling",
-      "warning"
-    ],
-    [
-      "apresenta",
-      "chatgpt",
-      "feira",
-      "fora",
-      "instabilidade",
-      "nesta",
-      "quinta"
-    ],
-    [
-      "cartao",
-      "chega",
-      "claude",
-      "consulta",
-      "fatura",
-      "libera",
-      "picpay"
-    ],
     [
       "botao",
       "cria",
@@ -4111,6 +4024,94 @@
       "mistral",
       "samsung",
       "valuation"
+    ],
+    [
+      "behind",
+      "billion",
+      "despite",
+      "europe",
+      "euros",
+      "ever",
+      "funding",
+      "lagging",
+      "largest",
+      "mistral",
+      "raises",
+      "rivals",
+      "round",
+      "tech"
+    ],
+    [
+      "agents",
+      "ahead",
+      "developing",
+      "entrepreneur",
+      "plan",
+      "unexpected"
+    ],
+    [
+      "weathernext"
+    ],
+    [
+      "mistral",
+      "raises"
+    ],
+    [
+      "asml",
+      "chipmaking",
+      "commit",
+      "demand",
+      "drives",
+      "newest",
+      "samsung",
+      "tools",
+      "tsmc"
+    ],
+    [
+      "algorithm",
+      "australia",
+      "based",
+      "blow",
+      "feeds",
+      "fresh",
+      "media",
+      "social",
+      "tech",
+      "users"
+    ],
+    [
+      "alunos",
+      "brasil",
+      "estudar",
+      "metade",
+      "quase",
+      "tecnologia"
+    ],
+    [
+      "aprende",
+      "brasileiro",
+      "dobraveis",
+      "estudante",
+      "guerra",
+      "iphone",
+      "resumo"
+    ],
+    [
+      "2027",
+      "apresentar",
+      "humanoide",
+      "primeiro",
+      "quer",
+      "robo",
+      "samsung"
+    ],
+    [
+      "estado",
+      "executa",
+      "falta",
+      "infraestrutura",
+      "institucional",
+      "principios"
     ]
   ]
 }
