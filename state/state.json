@@ -1034,7 +1034,8 @@
       "https://www.technologyreview.com/?p=1142879",
       "https://www.technologyreview.com/?p=1143452",
       "https://www.technologyreview.com/?p=1140872",
-      "https://www.technologyreview.com/?p=1142088"
+      "https://www.technologyreview.com/?p=1142088",
+      "https://www.technologyreview.com/?p=1143747"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1245,7 +1246,8 @@
       "https://news.ycombinator.com/item?id=49605767",
       "https://news.ycombinator.com/item?id=49610538",
       "https://news.ycombinator.com/item?id=49611251",
-      "https://news.ycombinator.com/item?id=49613262"
+      "https://news.ycombinator.com/item?id=49613262",
+      "https://news.ycombinator.com/item?id=49615537"
     ]
   },
   "mercado": {
@@ -1758,7 +1760,10 @@
       "https://olhardigital.com.br/?p=1370949",
       "https://olhardigital.com.br/?p=1370941",
       "https://olhardigital.com.br/?p=1370959",
-      "https://olhardigital.com.br/?p=1370963"
+      "https://olhardigital.com.br/?p=1370963",
+      "https://olhardigital.com.br/?p=1370974",
+      "https://olhardigital.com.br/?p=1371009",
+      "https://olhardigital.com.br/?p=1371016"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2439,42 +2444,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "aberto",
-      "compra",
-      "continuara",
-      "depois",
-      "face",
-      "hugging",
-      "nvidia",
-      "pela"
-    ],
-    [
-      "audiencia",
-      "estudo",
-      "google",
-      "perda",
-      "resumos",
-      "wikipedia"
-    ],
-    [
-      "bytedance",
-      "dizem",
-      "emprestimo",
-      "fontes",
-      "garantia",
-      "impulsionar",
-      "obtem"
-    ],
-    [
-      "astra",
-      "chamada",
-      "chatgpt",
-      "mundial",
-      "pode",
-      "quem",
-      "usar"
-    ],
     [
       "alemao",
       "invadiu",
@@ -4224,6 +4193,37 @@
       "openai",
       "paises",
       "revela"
+    ],
+    [
+      "about",
+      "controversy",
+      "future",
+      "latest",
+      "math",
+      "openai",
+      "tells",
+      "what"
+    ],
+    [
+      "agent",
+      "meta",
+      "muse",
+      "personal"
+    ],
+    [
+      "aprendizado",
+      "fala",
+      "pisa",
+      "revela"
+    ],
+    [
+      "anthropic",
+      "controle",
+      "deixa",
+      "empresa",
+      "medo",
+      "pesquisador",
+      "sair"
     ]
   ]
 }
