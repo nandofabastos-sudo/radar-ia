@@ -499,7 +499,10 @@
       "https://techcrunch.com/?post_type=tc_video&p=3162044",
       "https://techcrunch.com/?p=3162083",
       "https://techcrunch.com/?p=3162127",
-      "https://techcrunch.com/?p=3162124"
+      "https://techcrunch.com/?p=3162124",
+      "https://techcrunch.com/?p=3162168",
+      "https://techcrunch.com/?p=3162222",
+      "https://techcrunch.com/?p=3162193"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -629,7 +632,9 @@
       "https://www.theverge.com/?p=991927",
       "https://www.theverge.com/?p=991956",
       "https://www.theverge.com/?p=991809",
-      "https://www.theverge.com/?p=992359"
+      "https://www.theverge.com/?p=992359",
+      "https://www.theverge.com/?p=992766",
+      "https://www.theverge.com/?p=992919"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -858,7 +863,8 @@
       "https://the-decoder.com/?p=39995",
       "https://the-decoder.com/?p=39990",
       "https://the-decoder.com/?p=40006",
-      "https://the-decoder.com/?p=40011"
+      "https://the-decoder.com/?p=40011",
+      "https://the-decoder.com/?p=40019"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -934,7 +940,8 @@
       "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
       "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
       "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
-      "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/"
+      "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1155,7 +1162,8 @@
       "6a985e26ae63a30d70e113b7",
       "6aa019df196e8ca64468263f",
       "6a9b2b6de2d6587d5e6b3c23",
-      "6a986e558a0ee29aae9e184f"
+      "6a986e558a0ee29aae9e184f",
+      "6a99c117ea54a6b9ca0b7009"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1903,7 +1911,10 @@
       "https://tecnoblog.net/?post_type=noticias&p=930274",
       "https://tecnoblog.net/?post_type=noticias&p=930364",
       "https://tecnoblog.net/?post_type=noticias&p=930413",
-      "https://tecnoblog.net/?post_type=noticias&p=930451"
+      "https://tecnoblog.net/?post_type=noticias&p=930451",
+      "https://tecnoblog.net/?post_type=noticias&p=930883",
+      "https://tecnoblog.net/?post_type=noticias&p=930842",
+      "https://tecnoblog.net/?post_type=noticias&p=930499"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -2100,7 +2111,9 @@
       "https://canaltech.com.br/entretenimento/trailer-do-filme-sobre-a-openai-e-chocante-e-traz-andrew-garfield-como-sam-altman/",
       "https://canaltech.com.br/apps/nova-siri-ai-ja-tem-data-para-comecar-a-falar-portugues-no-iphone-confira/",
       "https://canaltech.com.br/smartphone/iphone-18-pro-ganha-recurso-para-provar-que-foto-nao-foi-criada-por-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/apple-leva-uma-das-maiores-frustracoes-do-chatgpt-para-a-ia-do-iphone/"
+      "https://canaltech.com.br/inteligencia-artificial/apple-leva-uma-das-maiores-frustracoes-do-chatgpt-para-a-ia-do-iphone/",
+      "https://canaltech.com.br/mercado/magalu-cloud-anuncia-ia-mais-barata-e-parceria-com-alibaba-cloud/",
+      "https://canaltech.com.br/inteligencia-artificial/cientista-da-dona-do-claude-ve-mais-de-10-de-chance-de-ia-exterminar-humanidade/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2331,7 +2344,11 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/09/elbit-systems-lanca-unidade-de-tecnologia-militar-autonoma-baseada-em-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/09/agu-aciona-youtube-para-remover-medicos-falsos-criados-por-ia.ghtm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/09/cientista-chefe-de-alinhamento-da-anthropic-diz-ver-10-de-chance-de-ia-matar-todos-na-proxima-decada.htm",
-      "https://economia.uol.com.br/noticias/redacao/2026/09/09/google-anuncia-investimento-de-13-bilhoes-de-euros-em-ia-na-finlandia.ghtm"
+      "https://economia.uol.com.br/noticias/redacao/2026/09/09/google-anuncia-investimento-de-13-bilhoes-de-euros-em-ia-na-finlandia.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/09/ia-rebelde-da-openai-utilizou-pelo-menos-mais-10-sites-para-comunicacoes-nao-autorizadas.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/09/anthropic-relata-4-incidente-de-seguranca-envolvendo-versao-do-claude.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/09/robo-humanoide-que-prestou-continencia-a-lula-e-da-china-e-custa-r-160-mil.ghtm",
+      "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/09/o-que-e-o-enigma-matematico-milionario-que-a-openai-diz-ter-solucionado.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2390,7 +2407,8 @@
       "https://braziljournal.com/?p=102397",
       "https://braziljournal.com/?p=102436",
       "https://braziljournal.com/?p=102553",
-      "https://braziljournal.com/?p=102712"
+      "https://braziljournal.com/?p=102712",
+      "https://braziljournal.com/?p=102753"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -2437,7 +2455,9 @@
       "https://startups.com.br/?p=340564",
       "https://startups.com.br/?p=340578",
       "https://startups.com.br/?p=340594",
-      "https://startups.com.br/?p=340613"
+      "https://startups.com.br/?p=340613",
+      "https://startups.com.br/?p=340624",
+      "https://startups.com.br/?p=340620"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -2510,190 +2530,11 @@
       "https://www.mobiletime.com.br/?p=863311",
       "https://www.mobiletime.com.br/?p=863332",
       "https://www.mobiletime.com.br/?p=863358",
-      "https://www.mobiletime.com.br/?p=863369"
+      "https://www.mobiletime.com.br/?p=863369",
+      "https://www.mobiletime.com.br/?p=863452"
     ]
   },
   "_titulos_recentes": [
-    [
-      "assistants",
-      "audio",
-      "foundation",
-      "listening",
-      "meta",
-      "model",
-      "never",
-      "real",
-      "stop",
-      "time"
-    ],
-    [
-      "brings",
-      "directly",
-      "gemini",
-      "generation",
-      "google",
-      "into",
-      "lyria",
-      "model",
-      "music"
-    ],
-    [
-      "astra",
-      "boosted",
-      "claims",
-      "developer",
-      "forward",
-      "months",
-      "much",
-      "openai",
-      "plans",
-      "productivity",
-      "pulled",
-      "some"
-    ],
-    [
-      "bogeyman",
-      "center",
-      "china",
-      "data",
-      "enthusiasts",
-      "just",
-      "quit"
-    ],
-    [
-      "medicina",
-      "novidades",
-      "risco",
-      "semana",
-      "tecnologia",
-      "ultima"
-    ],
-    [
-      "conteudo",
-      "jornais",
-      "microsoft",
-      "openai",
-      "processam"
-    ],
-    [
-      "data",
-      "directly",
-      "ditches",
-      "google",
-      "learns",
-      "live",
-      "physics",
-      "satellite",
-      "simulations",
-      "weather",
-      "weathernext"
-    ],
-    [
-      "built",
-      "chamber",
-      "chatbots",
-      "decide",
-      "echo",
-      "exists",
-      "psychiatry",
-      "psychosis"
-    ],
-    [
-      "brief",
-      "fling",
-      "siri",
-      "summer"
-    ],
-    [
-      "cognitive",
-      "llms",
-      "virus"
-    ],
-    [
-      "fatigue",
-      "frenetic",
-      "labs",
-      "model",
-      "pace",
-      "race",
-      "roll",
-      "sets",
-      "versions"
-    ],
-    [
-      "agentes",
-      "fluentes",
-      "formar",
-      "ingles",
-      "jovens",
-      "urgencia"
-    ],
-    [
-      "assistente",
-      "criar",
-      "entende",
-      "pessoal",
-      "regras",
-      "suas"
-    ],
-    [
-      "acceleration",
-      "inside",
-      "openai",
-      "research",
-      "view"
-    ],
-    [
-      "alien",
-      "mind"
-    ],
-    [
-      "atoms",
-      "business",
-      "getting",
-      "into",
-      "kalanick",
-      "might",
-      "robotaxi",
-      "travis"
-    ],
-    [
-      "down",
-      "human",
-      "shuts",
-      "stay"
-    ],
-    [
-      "autorizacao",
-      "conteudo",
-      "encara",
-      "openai",
-      "processo"
-    ],
-    [
-      "agents",
-      "anthropic",
-      "authors",
-      "back",
-      "publishers",
-      "push",
-      "seek",
-      "settlement",
-      "share"
-    ],
-    [
-      "2025",
-      "author",
-      "intellectual",
-      "open",
-      "post",
-      "when",
-      "your"
-    ],
-    [
-      "alien",
-      "mind"
-    ],
     [
       "independent",
       "journalism",
@@ -4293,6 +4134,185 @@
       "matar",
       "risco",
       "todos"
+    ],
+    [
+      "apple",
+      "built",
+      "foldable",
+      "hinge",
+      "phone"
+    ],
+    [
+      "always",
+      "announced",
+      "apple",
+      "event",
+      "everything",
+      "fall",
+      "foldable",
+      "iphone",
+      "listening",
+      "watch"
+    ],
+    [
+      "always",
+      "apple",
+      "features",
+      "idea",
+      "listening",
+      "normalizing",
+      "technology",
+      "watch"
+    ],
+    [
+      "apple",
+      "camera",
+      "iphone",
+      "mode",
+      "photo",
+      "promises",
+      "prove",
+      "your"
+    ],
+    [
+      "apple",
+      "document",
+      "explaining",
+      "features",
+      "listening",
+      "privacy",
+      "protect",
+      "read",
+      "still",
+      "your"
+    ],
+    [
+      "anthropic",
+      "bleakest",
+      "built",
+      "economic",
+      "forecasts",
+      "frames",
+      "model",
+      "outlier",
+      "scenario"
+    ],
+    [
+      "accused",
+      "aggressively",
+      "chinese",
+      "copying",
+      "firms",
+      "frontier",
+      "models"
+    ],
+    [
+      "again",
+      "agent",
+      "gadgets",
+      "hack"
+    ],
+    [
+      "chegam",
+      "setembro",
+      "siri",
+      "versao"
+    ],
+    [
+      "airpods",
+      "cancelamento",
+      "melhorado",
+      "ruido",
+      "trazem"
+    ],
+    [
+      "celular",
+      "jogos",
+      "revela",
+      "rodar"
+    ],
+    [
+      "alibaba",
+      "anuncia",
+      "barata",
+      "cloud",
+      "magalu",
+      "parceria"
+    ],
+    [
+      "chance",
+      "cientista",
+      "claude",
+      "dona",
+      "exterminar",
+      "humanidade"
+    ],
+    [
+      "agentes",
+      "autorizadas",
+      "comunicacoes",
+      "menos",
+      "openai",
+      "sites",
+      "utilizaram"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "envolvendo",
+      "incidente",
+      "relata",
+      "seguranca",
+      "versao"
+    ],
+    [
+      "china",
+      "continencia",
+      "custa",
+      "humanoide",
+      "lula",
+      "prestou",
+      "robo"
+    ],
+    [
+      "enigma",
+      "matematico",
+      "milionario",
+      "openai",
+      "solucionado"
+    ],
+    [
+      "aperta",
+      "botao",
+      "could",
+      "kill",
+      "panico",
+      "quem"
+    ],
+    [
+      "acelerar",
+      "agentes",
+      "compra",
+      "meta",
+      "startup",
+      "sueca",
+      "whatsapp"
+    ],
+    [
+      "empresas",
+      "entrega",
+      "escalar",
+      "maturidade",
+      "todas"
+    ],
+    [
+      "adotada",
+      "aponta",
+      "brasileiras",
+      "empresas",
+      "forma",
+      "fragmentada",
+      "pesquisa"
     ]
   ]
 }
