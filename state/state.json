@@ -80,7 +80,8 @@
       "https://openai.com/index/navier-stokes-solution",
       "https://openai.com/index/introducing-chatgpt-images-2-5",
       "https://openai.com/index/codex-quantum-computing-experiments",
-      "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+      "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "https://openai.com/index/gpt-6-astra-next-generation-work"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -502,7 +503,9 @@
       "https://techcrunch.com/?p=3162124",
       "https://techcrunch.com/?p=3162168",
       "https://techcrunch.com/?p=3162222",
-      "https://techcrunch.com/?p=3162193"
+      "https://techcrunch.com/?p=3162193",
+      "https://techcrunch.com/?p=3162041",
+      "https://techcrunch.com/?p=3162350"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -634,7 +637,9 @@
       "https://www.theverge.com/?p=991809",
       "https://www.theverge.com/?p=992359",
       "https://www.theverge.com/?p=992766",
-      "https://www.theverge.com/?p=992919"
+      "https://www.theverge.com/?p=992919",
+      "https://www.theverge.com/?p=992953",
+      "https://www.theverge.com/?p=991977"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1163,7 +1168,9 @@
       "6aa019df196e8ca64468263f",
       "6a9b2b6de2d6587d5e6b3c23",
       "6a986e558a0ee29aae9e184f",
-      "6a99c117ea54a6b9ca0b7009"
+      "6a99c117ea54a6b9ca0b7009",
+      "6aa1a26ea58b3128b9c68bcb",
+      "6aa18ecc989080f6e79c9e38"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1289,7 +1296,8 @@
       "https://news.ycombinator.com/item?id=49615537",
       "https://news.ycombinator.com/item?id=49616968",
       "https://news.ycombinator.com/item?id=49623754",
-      "https://news.ycombinator.com/item?id=49624603"
+      "https://news.ycombinator.com/item?id=49624603",
+      "https://news.ycombinator.com/item?id=49627370"
     ]
   },
   "mercado": {
@@ -1821,7 +1829,9 @@
       "https://olhardigital.com.br/?p=1371140",
       "https://olhardigital.com.br/?p=1371137",
       "https://olhardigital.com.br/?p=1371279",
-      "https://olhardigital.com.br/?p=1371291"
+      "https://olhardigital.com.br/?p=1371291",
+      "https://olhardigital.com.br/?p=1371437",
+      "https://olhardigital.com.br/?p=1371447"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2113,7 +2123,9 @@
       "https://canaltech.com.br/smartphone/iphone-18-pro-ganha-recurso-para-provar-que-foto-nao-foi-criada-por-ia/",
       "https://canaltech.com.br/inteligencia-artificial/apple-leva-uma-das-maiores-frustracoes-do-chatgpt-para-a-ia-do-iphone/",
       "https://canaltech.com.br/mercado/magalu-cloud-anuncia-ia-mais-barata-e-parceria-com-alibaba-cloud/",
-      "https://canaltech.com.br/inteligencia-artificial/cientista-da-dona-do-claude-ve-mais-de-10-de-chance-de-ia-exterminar-humanidade/"
+      "https://canaltech.com.br/inteligencia-artificial/cientista-da-dona-do-claude-ve-mais-de-10-de-chance-de-ia-exterminar-humanidade/",
+      "https://canaltech.com.br/inteligencia-artificial/ladroes-de-ia-hackers-roubam-contas-do-claude-e-drenam-assinaturas-no-sigilo/",
+      "https://canaltech.com.br/inteligencia-artificial/sem-assinatura-gemini-libera-recurso-que-le-e-mails-e-oferece-resumo-diario-de-graca/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2531,111 +2543,11 @@
       "https://www.mobiletime.com.br/?p=863332",
       "https://www.mobiletime.com.br/?p=863358",
       "https://www.mobiletime.com.br/?p=863369",
-      "https://www.mobiletime.com.br/?p=863452"
+      "https://www.mobiletime.com.br/?p=863452",
+      "https://www.mobiletime.com.br/?p=863510"
     ]
   },
   "_titulos_recentes": [
-    [
-      "independent",
-      "journalism",
-      "supporting",
-      "ukraine"
-    ],
-    [
-      "behind",
-      "billion",
-      "center",
-      "complex",
-      "corporate",
-      "data"
-    ],
-    [
-      "complaints",
-      "customer",
-      "feedback",
-      "future",
-      "into",
-      "phone",
-      "whispering",
-      "your"
-    ],
-    [
-      "billions",
-      "dollars",
-      "hundreds",
-      "made",
-      "posting",
-      "spree",
-      "stocks",
-      "trump"
-    ],
-    [
-      "acoes",
-      "contra",
-      "fiscaliza",
-      "nino",
-      "super"
-    ],
-    [
-      "comuns",
-      "tragedia"
-    ],
-    [
-      "anthropic",
-      "iphone",
-      "regulamentacao",
-      "resumo"
-    ],
-    [
-      "beneficios",
-      "chips",
-      "compartilhar",
-      "demonstra",
-      "diplomacia",
-      "enfrenta",
-      "enquanto",
-      "forca",
-      "pressao",
-      "taiwan"
-    ],
-    [
-      "brakes",
-      "drive",
-      "expect",
-      "explanation",
-      "just",
-      "maneuver",
-      "match",
-      "qwen",
-      "tells"
-    ],
-    [
-      "bans",
-      "city",
-      "eighth",
-      "grade",
-      "public",
-      "schools",
-      "through",
-      "tools",
-      "york"
-    ],
-    [
-      "about",
-      "interns",
-      "openai",
-      "pace",
-      "reports",
-      "research",
-      "same",
-      "time",
-      "warns"
-    ],
-    [
-      "condition",
-      "landing",
-      "skills"
-    ],
     [
       "entire",
       "industry",
@@ -4313,6 +4225,111 @@
       "forma",
       "fragmentada",
       "pesquisa"
+    ],
+    [
+      "astra",
+      "generation",
+      "intelligence",
+      "next",
+      "work"
+    ],
+    [
+      "centers",
+      "clean",
+      "data",
+      "hits",
+      "massachusetts",
+      "power",
+      "rules"
+    ],
+    [
+      "adds",
+      "board",
+      "directors",
+      "doomer",
+      "openai",
+      "prominent"
+    ],
+    [
+      "academia",
+      "breakthrough",
+      "chill",
+      "mathematical",
+      "openai",
+      "sends",
+      "through"
+    ],
+    [
+      "first",
+      "help",
+      "industry",
+      "made",
+      "model",
+      "music",
+      "record",
+      "releases",
+      "suno"
+    ],
+    [
+      "abuse",
+      "allowing",
+      "child",
+      "francisco",
+      "meta",
+      "orders",
+      "stop"
+    ],
+    [
+      "anthropic",
+      "crunch",
+      "humanity",
+      "just",
+      "quit",
+      "researcher",
+      "time"
+    ],
+    [
+      "astra",
+      "hidden",
+      "looped",
+      "reasoning",
+      "transformers"
+    ],
+    [
+      "agentes",
+      "autorizacao",
+      "comunicar",
+      "openai",
+      "sites",
+      "usaram"
+    ],
+    [
+      "assinaturas",
+      "claude",
+      "contas",
+      "drenam",
+      "hackers",
+      "ladroes",
+      "roubam",
+      "sigilo"
+    ],
+    [
+      "assinatura",
+      "diario",
+      "gemini",
+      "graca",
+      "libera",
+      "mails",
+      "oferece",
+      "recurso",
+      "resumo"
+    ],
+    [
+      "apple",
+      "apresenta",
+      "iphone",
+      "reformulada",
+      "siri"
     ]
   ]
 }
