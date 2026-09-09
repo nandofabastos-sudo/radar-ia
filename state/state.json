@@ -609,7 +609,8 @@
       "https://www.theverge.com/?p=990313",
       "https://www.theverge.com/?p=991216",
       "https://www.theverge.com/?p=991727",
-      "https://www.theverge.com/?p=991710"
+      "https://www.theverge.com/?p=991710",
+      "https://www.theverge.com/?p=991927"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1247,7 +1248,8 @@
       "https://news.ycombinator.com/item?id=49610538",
       "https://news.ycombinator.com/item?id=49611251",
       "https://news.ycombinator.com/item?id=49613262",
-      "https://news.ycombinator.com/item?id=49615537"
+      "https://news.ycombinator.com/item?id=49615537",
+      "https://news.ycombinator.com/item?id=49616968"
     ]
   },
   "mercado": {
@@ -1411,7 +1413,10 @@
       "108359227",
       "108357925",
       "108360049",
-      "108360013"
+      "108360013",
+      "108360183",
+      "108360215",
+      "108360205"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1763,7 +1768,8 @@
       "https://olhardigital.com.br/?p=1370963",
       "https://olhardigital.com.br/?p=1370974",
       "https://olhardigital.com.br/?p=1371009",
-      "https://olhardigital.com.br/?p=1371016"
+      "https://olhardigital.com.br/?p=1371016",
+      "https://olhardigital.com.br/?p=1371030"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2263,7 +2269,9 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/08/australia-quer-deixar-usuario-sair-dos-algoritmos-nas-redes.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/08/openai-diz-que-ia-resolveu-problema-do-navier-stokes-e-gera-disputa-por-autoria.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/08/chatgpt-passa-a-editar-imagens-com-rabiscos-e-comandos-visuais.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/08/meta-lanca-agente-de-ia-capaz-de-acessar-outros-aplicativos-para-enviaremails-e-fazer-pagamentos.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/08/meta-lanca-agente-de-ia-capaz-de-acessar-outros-aplicativos-para-enviaremails-e-fazer-pagamentos.htm",
+      "https://www.uol.com.br/flash/?c=6aa0754e976e00d7addfb50a",
+      "https://economia.uol.com.br/colunas/gustavo-miller/2026/09/09/a-trend-dos-anos-80-saiu-de-graca-voce-e-que-pagou.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2444,51 +2452,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alemao",
-      "invadiu",
-      "openai",
-      "site"
-    ],
-    [
-      "confabular",
-      "humanos",
-      "invasao",
-      "openai",
-      "rebelde",
-      "site"
-    ],
-    [
-      "fundador",
-      "liderar",
-      "precisa",
-      "transformacao",
-      "zoox"
-    ],
-    [
-      "grok"
-    ],
-    [
-      "apple",
-      "begins",
-      "bets",
-      "nvidia",
-      "stack",
-      "ternus",
-      "whole"
-    ],
-    [
-      "agents",
-      "another",
-      "frontier",
-      "internet",
-      "knowledge",
-      "open",
-      "openai",
-      "reached",
-      "swarm",
-      "without"
-    ],
     [
       "apple",
       "john",
@@ -4224,6 +4187,63 @@
       "medo",
       "pesquisador",
       "sair"
+    ],
+    [
+      "after",
+      "anthropic",
+      "chance",
+      "colleague",
+      "could",
+      "humans",
+      "kill",
+      "lead",
+      "more",
+      "quits",
+      "safety",
+      "than"
+    ],
+    [
+      "being",
+      "math",
+      "mined",
+      "open",
+      "problems",
+      "renewably"
+    ],
+    [
+      "billion",
+      "europe",
+      "google",
+      "infrastructure",
+      "invest",
+      "record",
+      "texas"
+    ],
+    [
+      "base",
+      "dobravel",
+      "estatal",
+      "iphone",
+      "lunar",
+      "nasa",
+      "resumo",
+      "whatsapp"
+    ],
+    [
+      "agem",
+      "agentes",
+      "contra",
+      "humana",
+      "moderacao",
+      "propria",
+      "rebelam"
+    ],
+    [
+      "anos",
+      "entregou",
+      "graca",
+      "trend",
+      "voce"
     ]
   ]
 }
