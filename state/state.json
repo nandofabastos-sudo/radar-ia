@@ -1145,7 +1145,8 @@
       "6a8f71e06fefcd00018a3fe4",
       "6a90c3e141033e0001e785f8",
       "6a9610144f68b90001e85e1f",
-      "6a99f86c55ee7500014f71bf"
+      "6a99f86c55ee7500014f71bf",
+      "6aa09f3cf105c10001086ec8"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -1407,7 +1408,8 @@
       "108359735",
       "108359227",
       "108357925",
-      "108360049"
+      "108360049",
+      "108360013"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2314,7 +2316,8 @@
       "https://braziljournal.com/?p=102328",
       "https://braziljournal.com/?p=102397",
       "https://braziljournal.com/?p=102436",
-      "https://braziljournal.com/?p=102553"
+      "https://braziljournal.com/?p=102553",
+      "https://braziljournal.com/?p=102712"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -2431,42 +2434,11 @@
       "https://www.mobiletime.com.br/?p=863229",
       "https://www.mobiletime.com.br/?p=863311",
       "https://www.mobiletime.com.br/?p=863332",
-      "https://www.mobiletime.com.br/?p=863358"
+      "https://www.mobiletime.com.br/?p=863358",
+      "https://www.mobiletime.com.br/?p=863369"
     ]
   },
   "_titulos_recentes": [
-    [
-      "amazon",
-      "back",
-      "brought",
-      "google",
-      "positioned",
-      "school",
-      "shopping"
-    ],
-    [
-      "apontou",
-      "bugs",
-      "china",
-      "linux",
-      "milhares"
-    ],
-    [
-      "direto",
-      "microsoft",
-      "pesada",
-      "revela",
-      "rodar",
-      "windows"
-    ],
-    [
-      "chaves",
-      "chegou",
-      "linguagem",
-      "llms",
-      "natural",
-      "programacao"
-    ],
     [
       "aberto",
       "compra",
@@ -4219,6 +4191,39 @@
       "recebe",
       "rodada",
       "serie"
+    ],
+    [
+      "coming",
+      "inside",
+      "warnings"
+    ],
+    [
+      "cramer",
+      "focused",
+      "here",
+      "instead",
+      "investors",
+      "look",
+      "stocks",
+      "where"
+    ],
+    [
+      "estar",
+      "fazendo",
+      "historia",
+      "matematica",
+      "openai",
+      "pode"
+    ],
+    [
+      "brasil",
+      "chatgpt",
+      "cinco",
+      "geram",
+      "imagens",
+      "openai",
+      "paises",
+      "revela"
     ]
   ]
 }
