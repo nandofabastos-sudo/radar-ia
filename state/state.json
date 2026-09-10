@@ -526,7 +526,8 @@
       "https://techcrunch.com/?p=3162897",
       "https://techcrunch.com/?p=3162919",
       "https://techcrunch.com/?p=3162967",
-      "https://techcrunch.com/?p=3162704"
+      "https://techcrunch.com/?p=3162704",
+      "https://techcrunch.com/?p=3162873"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1212,7 +1213,8 @@
       "6aa18ecc989080f6e79c9e38",
       "6aa178485ff5f87d9a4e6267",
       "6a971655b7b1a625defc4dd9",
-      "6aa1efe41fbc971c9b4403e6"
+      "6aa1efe41fbc971c9b4403e6",
+      "6aa2f5da9bfef15e7a640b9f"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1342,7 +1344,8 @@
       "https://news.ycombinator.com/item?id=49627370",
       "https://news.ycombinator.com/item?id=49639090",
       "https://news.ycombinator.com/item?id=49643556",
-      "https://news.ycombinator.com/item?id=49639408"
+      "https://news.ycombinator.com/item?id=49639408",
+      "https://news.ycombinator.com/item?id=49645443"
     ]
   },
   "mercado": {
@@ -1892,7 +1895,9 @@
       "https://olhardigital.com.br/?p=1371657",
       "https://olhardigital.com.br/?p=1371727",
       "https://olhardigital.com.br/?p=1371742",
-      "https://olhardigital.com.br/?p=1371781"
+      "https://olhardigital.com.br/?p=1371781",
+      "https://olhardigital.com.br/?p=1371816",
+      "https://olhardigital.com.br/?p=1371826"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2441,7 +2446,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/10/anthropic-bloqueia-cientistas-que-tentaram-usar-ia-em-pesquisas-ligadas-a-armas-biologicas.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/openai-lanca-chatgpt-para-setor-de-servicos-financeiros.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/oracle-tem-receita-acima-do-esperado-impulsionada-por-boom-da-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/anthropic-corta-campanhas-de-ia-russas-e-chinesas-direcionadas-ao-claude.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/anthropic-corta-campanhas-de-ia-russas-e-chinesas-direcionadas-ao-claude.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/10/openai-pede-ao-congresso-dos-eua-normas-de-seguranca-obrigatorias-para-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2629,73 +2635,12 @@
       "https://www.mobiletime.com.br/?p=863499",
       "https://www.mobiletime.com.br/?p=863058",
       "https://www.mobiletime.com.br/?p=863557",
-      "https://www.mobiletime.com.br/?p=863597"
+      "https://www.mobiletime.com.br/?p=863597",
+      "https://www.mobiletime.com.br/?p=863622",
+      "https://www.mobiletime.com.br/?p=863612"
     ]
   },
   "_titulos_recentes": [
-    [
-      "doozy",
-      "microsoft",
-      "month",
-      "patch",
-      "release"
-    ],
-    [
-      "agents",
-      "built",
-      "entirely",
-      "firm",
-      "fund",
-      "hedge",
-      "manager",
-      "powered"
-    ],
-    [
-      "announcements",
-      "corning",
-      "deal",
-      "infrastructure",
-      "qualcomm",
-      "rally",
-      "stocks"
-    ],
-    [
-      "chatgpt",
-      "chega",
-      "imagens",
-      "images",
-      "precisas",
-      "rapidas"
-    ],
-    [
-      "acusam",
-      "avancados",
-      "chinesas",
-      "copiar",
-      "custos",
-      "empresas",
-      "modelos",
-      "reduzir"
-    ],
-    [
-      "dificeis",
-      "matematica",
-      "openai",
-      "problemas",
-      "resolve"
-    ],
-    [
-      "agente",
-      "compra",
-      "envia",
-      "lanca",
-      "mails",
-      "meta",
-      "muse",
-      "produtos",
-      "reserva",
-      "viagens"
-    ],
     [
       "astra",
       "captcha",
@@ -4413,6 +4358,73 @@
       "nunca",
       "papel",
       "tempos"
+    ],
+    [
+      "astounding",
+      "explains",
+      "grow",
+      "huang",
+      "jensen",
+      "next",
+      "nvidia",
+      "will",
+      "year"
+    ],
+    [
+      "even",
+      "industry",
+      "know",
+      "legal",
+      "openai",
+      "slowdown",
+      "wants",
+      "would"
+    ],
+    [
+      "astra",
+      "cognition",
+      "fable",
+      "launches",
+      "model",
+      "rivaling"
+    ],
+    [
+      "assinaturas",
+      "astra",
+      "chatgpt",
+      "demanda",
+      "enorme",
+      "novas",
+      "openai",
+      "pelo",
+      "suspende"
+    ],
+    [
+      "capacidade",
+      "centers",
+      "conta",
+      "data",
+      "microsoft",
+      "quer",
+      "triplicar"
+    ],
+    [
+      "congresso",
+      "normas",
+      "obrigatorias",
+      "openai",
+      "pede",
+      "seguranca"
+    ],
+    [
+      "capacidade",
+      "dizem",
+      "escalar",
+      "executivos",
+      "inep",
+      "organizacional",
+      "petrobras",
+      "requer"
     ]
   ]
 }
