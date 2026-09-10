@@ -260,7 +260,8 @@
       "https://mistral.ai/news/agentic-search",
       "https://mistral.ai/news/mistral-x-humain",
       "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-      "https://mistral.ai/news/legacy-code-modernization"
+      "https://mistral.ai/news/legacy-code-modernization",
+      "https://mistral.ai/news/mistral-x-cloudera"
     ]
   },
   "imprensa": {
@@ -641,7 +642,8 @@
       "https://www.theverge.com/?p=992766",
       "https://www.theverge.com/?p=992919",
       "https://www.theverge.com/?p=992953",
-      "https://www.theverge.com/?p=991977"
+      "https://www.theverge.com/?p=991977",
+      "https://www.theverge.com/?p=993263"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -871,7 +873,9 @@
       "https://the-decoder.com/?p=39990",
       "https://the-decoder.com/?p=40006",
       "https://the-decoder.com/?p=40011",
-      "https://the-decoder.com/?p=40019"
+      "https://the-decoder.com/?p=40019",
+      "https://the-decoder.com/?p=40027",
+      "https://the-decoder.com/?p=40036"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1079,7 +1083,8 @@
       "https://www.technologyreview.com/?p=1143452",
       "https://www.technologyreview.com/?p=1140872",
       "https://www.technologyreview.com/?p=1142088",
-      "https://www.technologyreview.com/?p=1143747"
+      "https://www.technologyreview.com/?p=1143747",
+      "https://www.technologyreview.com/?p=1141649"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1172,7 +1177,9 @@
       "6a986e558a0ee29aae9e184f",
       "6a99c117ea54a6b9ca0b7009",
       "6aa1a26ea58b3128b9c68bcb",
-      "6aa18ecc989080f6e79c9e38"
+      "6aa18ecc989080f6e79c9e38",
+      "6aa178485ff5f87d9a4e6267",
+      "6a971655b7b1a625defc4dd9"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1299,7 +1306,8 @@
       "https://news.ycombinator.com/item?id=49616968",
       "https://news.ycombinator.com/item?id=49623754",
       "https://news.ycombinator.com/item?id=49624603",
-      "https://news.ycombinator.com/item?id=49627370"
+      "https://news.ycombinator.com/item?id=49627370",
+      "https://news.ycombinator.com/item?id=49639090"
     ]
   },
   "mercado": {
@@ -1470,7 +1478,8 @@
       "108360230",
       "108360377",
       "108360432",
-      "108360920"
+      "108360920",
+      "108361026"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1551,7 +1560,8 @@
       "https://news.crunchbase.com/?p=94041",
       "https://news.crunchbase.com/?p=94044",
       "https://news.crunchbase.com/?p=94048",
-      "https://news.crunchbase.com/?p=94046"
+      "https://news.crunchbase.com/?p=94046",
+      "https://news.crunchbase.com/?p=94061"
     ]
   },
   "brasil": {
@@ -1929,7 +1939,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=930451",
       "https://tecnoblog.net/?post_type=noticias&p=930883",
       "https://tecnoblog.net/?post_type=noticias&p=930842",
-      "https://tecnoblog.net/?post_type=noticias&p=930499"
+      "https://tecnoblog.net/?post_type=noticias&p=930499",
+      "https://tecnoblog.net/?post_type=noticias&p=931068"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -2130,7 +2141,8 @@
       "https://canaltech.com.br/mercado/magalu-cloud-anuncia-ia-mais-barata-e-parceria-com-alibaba-cloud/",
       "https://canaltech.com.br/inteligencia-artificial/cientista-da-dona-do-claude-ve-mais-de-10-de-chance-de-ia-exterminar-humanidade/",
       "https://canaltech.com.br/inteligencia-artificial/ladroes-de-ia-hackers-roubam-contas-do-claude-e-drenam-assinaturas-no-sigilo/",
-      "https://canaltech.com.br/inteligencia-artificial/sem-assinatura-gemini-libera-recurso-que-le-e-mails-e-oferece-resumo-diario-de-graca/"
+      "https://canaltech.com.br/inteligencia-artificial/sem-assinatura-gemini-libera-recurso-que-le-e-mails-e-oferece-resumo-diario-de-graca/",
+      "https://canaltech.com.br/eletro/xiaomi-cria-fogao-com-ia-que-desliga-o-gas-se-voce-esquecer-a-panela/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2365,7 +2377,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/09/ia-rebelde-da-openai-utilizou-pelo-menos-mais-10-sites-para-comunicacoes-nao-autorizadas.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/09/anthropic-relata-4-incidente-de-seguranca-envolvendo-versao-do-claude.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/09/robo-humanoide-que-prestou-continencia-a-lula-e-da-china-e-custa-r-160-mil.ghtm",
-      "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/09/o-que-e-o-enigma-matematico-milionario-que-a-openai-diz-ter-solucionado.htm"
+      "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/09/o-que-e-o-enigma-matematico-milionario-que-a-openai-diz-ter-solucionado.htm",
+      "https://economia.uol.com.br/colunas/2026/09/10/o-que-levou-a-china-a-ter-7-dos-10-modelos-de-ia-mais-usados-no-mundo.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2554,122 +2567,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "crescimentum",
-      "diretor",
-      "estrategia",
-      "inovacao",
-      "traz"
-    ],
-    [
-      "know",
-      "opaque",
-      "other",
-      "probably",
-      "recurrence",
-      "should",
-      "terms"
-    ],
-    [
-      "astra",
-      "beat",
-      "finish",
-      "help",
-      "hours",
-      "human",
-      "portal",
-      "start",
-      "under",
-      "without"
-    ],
-    [
-      "about",
-      "after",
-      "amodei",
-      "anthropic",
-      "billion",
-      "compute",
-      "dario",
-      "deals",
-      "reckless",
-      "reportedly",
-      "risk",
-      "rivals",
-      "signs",
-      "warned"
-    ],
-    [
-      "avanco",
-      "contra",
-      "polonia",
-      "protestam",
-      "robos",
-      "ruas"
-    ],
-    [
-      "anos",
-      "chatgpt",
-      "fazer",
-      "trend",
-      "veja",
-      "viraliza"
-    ],
-    [
-      "alerta",
-      "ameacar",
-      "demais",
-      "humanidade",
-      "pode",
-      "poderosa"
-    ],
-    [
-      "artigo",
-      "decisao",
-      "humana",
-      "migra",
-      "valor"
-    ],
-    [
-      "clona",
-      "fundadores",
-      "guanaes",
-      "livro",
-      "marketing",
-      "mente",
-      "nizan",
-      "plataforma",
-      "prepara"
-    ],
-    [
-      "avanco",
-      "cautela",
-      "chefe",
-      "cientista",
-      "openai",
-      "pede"
-    ],
-    [
-      "cancer",
-      "chips",
-      "cura",
-      "desafio",
-      "encontrar",
-      "pode"
-    ],
-    [
-      "mistral"
-    ],
-    [
-      "bags",
-      "billion",
-      "champion",
-      "europe",
-      "funding",
-      "leads",
-      "mistral",
-      "samsung",
-      "valuation"
-    ],
     [
       "behind",
       "billion",
@@ -4336,6 +4233,107 @@
       "confiar",
       "empresas",
       "gastarao"
+    ],
+    [
+      "mistral"
+    ],
+    [
+      "didn",
+      "mathematicians",
+      "openai",
+      "proof",
+      "their",
+      "want",
+      "work"
+    ],
+    [
+      "august",
+      "costs",
+      "employee",
+      "nearly",
+      "percent",
+      "spenders"
+    ],
+    [
+      "after",
+      "anthropic",
+      "goes",
+      "land",
+      "mainstream",
+      "news",
+      "panic",
+      "researcher",
+      "safety",
+      "warnings"
+    ],
+    [
+      "architecture",
+      "powering",
+      "problem"
+    ],
+    [
+      "clearview",
+      "cops",
+      "life",
+      "online",
+      "testing",
+      "tool",
+      "unearth",
+      "would",
+      "your"
+    ],
+    [
+      "everything",
+      "siri"
+    ],
+    [
+      "deepseek",
+      "flash"
+    ],
+    [
+      "anthropic",
+      "calls",
+      "extinction",
+      "join",
+      "more",
+      "openai",
+      "ramp",
+      "researchers",
+      "slowdown",
+      "warnings"
+    ],
+    [
+      "august",
+      "board",
+      "companies",
+      "joined",
+      "semiconductors",
+      "software",
+      "unicorn"
+    ],
+    [
+      "alerta",
+      "anthropic",
+      "demissao",
+      "desenvolvedor",
+      "pede",
+      "perigos"
+    ],
+    [
+      "cria",
+      "desliga",
+      "esquecer",
+      "fogao",
+      "panela",
+      "voce",
+      "xiaomi"
+    ],
+    [
+      "china",
+      "levou",
+      "modelos",
+      "mundo",
+      "usados"
     ]
   ]
 }
