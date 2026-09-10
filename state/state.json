@@ -81,7 +81,8 @@
       "https://openai.com/index/introducing-chatgpt-images-2-5",
       "https://openai.com/index/codex-quantum-computing-experiments",
       "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "https://openai.com/index/gpt-6-astra-next-generation-work"
+      "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "https://openai.com/index/ai-policy-window"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -505,7 +506,8 @@
       "https://techcrunch.com/?p=3162222",
       "https://techcrunch.com/?p=3162193",
       "https://techcrunch.com/?p=3162041",
-      "https://techcrunch.com/?p=3162350"
+      "https://techcrunch.com/?p=3162350",
+      "https://techcrunch.com/?p=3162445"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1831,7 +1833,9 @@
       "https://olhardigital.com.br/?p=1371279",
       "https://olhardigital.com.br/?p=1371291",
       "https://olhardigital.com.br/?p=1371437",
-      "https://olhardigital.com.br/?p=1371447"
+      "https://olhardigital.com.br/?p=1371447",
+      "https://olhardigital.com.br/?p=1371487",
+      "https://olhardigital.com.br/?p=1371493"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2548,46 +2552,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "entire",
-      "industry",
-      "nairobi",
-      "wiped"
-    ],
-    [
-      "appears",
-      "back",
-      "biological",
-      "body",
-      "clock",
-      "designed",
-      "drug",
-      "early",
-      "trial",
-      "turn"
-    ],
-    [
-      "back",
-      "brief",
-      "chatgpt",
-      "claws",
-      "comeback",
-      "fades",
-      "gemini",
-      "percent",
-      "share",
-      "traffic"
-    ],
-    [
-      "brasil",
-      "consumidor",
-      "definir",
-      "pode",
-      "produtor",
-      "regulacao",
-      "sera",
-      "tecnologia"
-    ],
     [
       "china",
       "clonagem",
@@ -4330,6 +4294,42 @@
       "iphone",
       "reformulada",
       "siri"
+    ],
+    [
+      "need",
+      "open",
+      "policy",
+      "window"
+    ],
+    [
+      "funding",
+      "labs",
+      "listen",
+      "research",
+      "round",
+      "salesforce",
+      "scrubbed",
+      "startup",
+      "talks"
+    ],
+    [
+      "matematico",
+      "metodo",
+      "openai",
+      "pesquisadores",
+      "problema",
+      "questionam",
+      "resolver"
+    ],
+    [
+      "apoio",
+      "gravadoras",
+      "lanca",
+      "mudou",
+      "musical",
+      "suno",
+      "treinada",
+      "veja"
     ]
   ]
 }
