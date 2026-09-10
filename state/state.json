@@ -87,7 +87,8 @@
       "https://openai.com/index/put-data-to-work",
       "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "https://openai.com/index/introducing-chatgpt-financial-services",
-      "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+      "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "https://openai.com/index/introducing-the-agents-api"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -521,7 +522,11 @@
       "https://techcrunch.com/?p=3162108",
       "https://techcrunch.com/?p=3162667",
       "https://techcrunch.com/?p=3162605",
-      "https://techcrunch.com/?p=3162739"
+      "https://techcrunch.com/?p=3162739",
+      "https://techcrunch.com/?p=3162897",
+      "https://techcrunch.com/?p=3162919",
+      "https://techcrunch.com/?p=3162967",
+      "https://techcrunch.com/?p=3162704"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -659,7 +664,9 @@
       "https://www.theverge.com/?p=993263",
       "https://www.theverge.com/?p=992141",
       "https://www.theverge.com/?p=993391",
-      "https://www.theverge.com/?p=993465"
+      "https://www.theverge.com/?p=993465",
+      "https://www.theverge.com/?p=993308",
+      "https://www.theverge.com/?p=989853"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1204,7 +1211,8 @@
       "6aa1a26ea58b3128b9c68bcb",
       "6aa18ecc989080f6e79c9e38",
       "6aa178485ff5f87d9a4e6267",
-      "6a971655b7b1a625defc4dd9"
+      "6a971655b7b1a625defc4dd9",
+      "6aa1efe41fbc971c9b4403e6"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1333,7 +1341,8 @@
       "https://news.ycombinator.com/item?id=49624603",
       "https://news.ycombinator.com/item?id=49627370",
       "https://news.ycombinator.com/item?id=49639090",
-      "https://news.ycombinator.com/item?id=49643556"
+      "https://news.ycombinator.com/item?id=49643556",
+      "https://news.ycombinator.com/item?id=49639408"
     ]
   },
   "mercado": {
@@ -1881,7 +1890,9 @@
       "https://olhardigital.com.br/?p=1371493",
       "https://olhardigital.com.br/?p=1371633",
       "https://olhardigital.com.br/?p=1371657",
-      "https://olhardigital.com.br/?p=1371727"
+      "https://olhardigital.com.br/?p=1371727",
+      "https://olhardigital.com.br/?p=1371742",
+      "https://olhardigital.com.br/?p=1371781"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -1976,7 +1987,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=930842",
       "https://tecnoblog.net/?post_type=noticias&p=930499",
       "https://tecnoblog.net/?post_type=noticias&p=931068",
-      "https://tecnoblog.net/?post_type=noticias&p=931404"
+      "https://tecnoblog.net/?post_type=noticias&p=931404",
+      "https://tecnoblog.net/?post_type=responde&p=931466"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -2182,7 +2194,8 @@
       "https://canaltech.com.br/inteligencia-artificial/meat-proxy-porque-usar-ia-todos-os-dias-nao-significa-maturidade-para-trabalhar-com-ela/",
       "https://canaltech.com.br/inteligencia-artificial/robos-da-openai-criaram-rede-clandestina-para-se-comunicarem-sem-autorizacao/",
       "https://canaltech.com.br/mercado/hotmart-fire-2026-com-launchpad-plataforma-aposta-em-ia-que-cria-aplicativos-e-vira-equipe-do-empreendedor/",
-      "https://canaltech.com.br/internet-e-redes-sociais/por-que-o-instagram-nao-tem-feed-cronologico-chefao-explica-uso-de-algoritmo/"
+      "https://canaltech.com.br/internet-e-redes-sociais/por-que-o-instagram-nao-tem-feed-cronologico-chefao-explica-uso-de-algoritmo/",
+      "https://canaltech.com.br/inteligencia-artificial/as-vesperas-das-eleicoes-meta-terceiriza-combate-as-fake-news-entenda-os-perigos/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2426,7 +2439,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/parlamentares-dos-eua-pedem-novas-regras-para-ia-apos-alertas-de-seguranca-de-pesquisador-daanthropic.htm",
       "https://www.uol.com.br/flash/?c=6aa2f47c976e003b31dfb760",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/10/anthropic-bloqueia-cientistas-que-tentaram-usar-ia-em-pesquisas-ligadas-a-armas-biologicas.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/openai-lanca-chatgpt-para-setor-de-servicos-financeiros.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/openai-lanca-chatgpt-para-setor-de-servicos-financeiros.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/oracle-tem-receita-acima-do-esperado-impulsionada-por-boom-da-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/anthropic-corta-campanhas-de-ia-russas-e-chinesas-direcionadas-ao-claude.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2613,142 +2628,11 @@
       "https://www.mobiletime.com.br/?p=863510",
       "https://www.mobiletime.com.br/?p=863499",
       "https://www.mobiletime.com.br/?p=863058",
-      "https://www.mobiletime.com.br/?p=863557"
+      "https://www.mobiletime.com.br/?p=863557",
+      "https://www.mobiletime.com.br/?p=863597"
     ]
   },
   "_titulos_recentes": [
-    [
-      "astra",
-      "comecou",
-      "mesmo"
-    ],
-    [
-      "alcancou",
-      "astra",
-      "nvidia",
-      "openai"
-    ],
-    [
-      "ameaca",
-      "artificial",
-      "cinema",
-      "contra",
-      "franca",
-      "inteligencia",
-      "lideres",
-      "unem"
-    ],
-    [
-      "coreia",
-      "graca",
-      "ilimitada",
-      "populacao"
-    ],
-    [
-      "briga",
-      "cientifica",
-      "equacao",
-      "gera",
-      "impossivel",
-      "kasparov",
-      "momento",
-      "resolve"
-    ],
-    [
-      "bilhoes",
-      "capta",
-      "europa",
-      "francesa",
-      "mistral",
-      "soberana",
-      "terceira"
-    ],
-    [
-      "algoritmo",
-      "australia",
-      "feed",
-      "obrigar",
-      "propoe",
-      "redes"
-    ],
-    [
-      "autoria",
-      "disputa",
-      "milionario",
-      "openai",
-      "problema",
-      "resolveu",
-      "vira"
-    ],
-    [
-      "chatgpt",
-      "comandos",
-      "editar",
-      "imagens",
-      "passa",
-      "rabiscos",
-      "visuais"
-    ],
-    [
-      "brasil",
-      "clientes",
-      "cognition",
-      "levanta",
-      "operacao"
-    ],
-    [
-      "empresas",
-      "estudo",
-      "maior",
-      "mapeamento",
-      "parte",
-      "possui",
-      "zappts"
-    ],
-    [
-      "computing",
-      "experiments",
-      "helps",
-      "quantum"
-    ],
-    [
-      "believe",
-      "coding",
-      "cognition",
-      "hits",
-      "investors",
-      "market",
-      "signaling",
-      "take",
-      "valuation",
-      "winner"
-    ],
-    [
-      "claude",
-      "hackers",
-      "stealing",
-      "subscribers",
-      "tokens"
-    ],
-    [
-      "chatgpt",
-      "detailed",
-      "drawings",
-      "images",
-      "into",
-      "sketch",
-      "turns",
-      "your"
-    ],
-    [
-      "around",
-      "drama",
-      "legendary",
-      "mathematical",
-      "milestone",
-      "openai",
-      "swirls"
-    ],
     [
       "doozy",
       "microsoft",
@@ -4394,6 +4278,141 @@
       "humano",
       "procuracao",
       "sugere"
+    ],
+    [
+      "agents",
+      "introducing"
+    ],
+    [
+      "agent",
+      "meta",
+      "muse"
+    ],
+    [
+      "alibaba",
+      "anthropic",
+      "campaigns",
+      "deepseek",
+      "details",
+      "distillation",
+      "moonshot"
+    ],
+    [
+      "astra",
+      "demand",
+      "hold",
+      "openai",
+      "puts",
+      "subscriptions"
+    ],
+    [
+      "2026",
+      "about",
+      "coming",
+      "disrupt",
+      "mark",
+      "talk",
+      "techcrunch",
+      "wahlberg",
+      "wants",
+      "work",
+      "your"
+    ],
+    [
+      "catching",
+      "playbook",
+      "schools",
+      "tech"
+    ],
+    [
+      "charts",
+      "chats",
+      "code",
+      "inside",
+      "interactive",
+      "reports",
+      "slack",
+      "vibe"
+    ],
+    [
+      "actually",
+      "going",
+      "kill"
+    ],
+    [
+      "about",
+      "math",
+      "more",
+      "openai",
+      "questions",
+      "researchers",
+      "trust",
+      "unpublished",
+      "whether"
+    ],
+    [
+      "anthropic",
+      "armas",
+      "biologicas",
+      "bloqueia",
+      "claude",
+      "levar",
+      "pesquisas",
+      "podem"
+    ],
+    [
+      "analisa",
+      "apresentacoes",
+      "chatgpt",
+      "cria",
+      "dados",
+      "empresas",
+      "monta",
+      "openai",
+      "pesquisa"
+    ],
+    [
+      "agua",
+      "conheca",
+      "conteudos",
+      "marca",
+      "synthid"
+    ],
+    [
+      "combate",
+      "eleicoes",
+      "entenda",
+      "fake",
+      "meta",
+      "news",
+      "perigos",
+      "terceiriza",
+      "vesperas"
+    ],
+    [
+      "acima",
+      "boom",
+      "esperado",
+      "impulsionada",
+      "oracle",
+      "receita"
+    ],
+    [
+      "anthropic",
+      "campanhas",
+      "chinesas",
+      "claude",
+      "corta",
+      "direcionadas",
+      "russas"
+    ],
+    [
+      "executivo",
+      "humano",
+      "importante",
+      "nunca",
+      "papel",
+      "tempos"
     ]
   ]
 }
