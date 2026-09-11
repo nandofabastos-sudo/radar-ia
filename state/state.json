@@ -531,7 +531,11 @@
       "https://techcrunch.com/?p=3162873",
       "https://techcrunch.com/?p=3163102",
       "https://techcrunch.com/?post_type=tc_podcast&p=3163177",
-      "https://techcrunch.com/?p=3163189"
+      "https://techcrunch.com/?p=3163189",
+      "https://techcrunch.com/?p=3163158",
+      "https://techcrunch.com/?p=3162257",
+      "https://techcrunch.com/?p=3163181",
+      "https://techcrunch.com/?p=3163179"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -673,7 +677,8 @@
       "https://www.theverge.com/?p=993308",
       "https://www.theverge.com/?p=989853",
       "https://www.theverge.com/?p=993974",
-      "https://www.theverge.com/?p=994064"
+      "https://www.theverge.com/?p=994064",
+      "https://www.theverge.com/?p=994207"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1000,7 +1005,8 @@
       "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
       "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
       "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-      "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/"
+      "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1132,7 +1138,8 @@
       "https://www.technologyreview.com/?p=1140872",
       "https://www.technologyreview.com/?p=1142088",
       "https://www.technologyreview.com/?p=1143747",
-      "https://www.technologyreview.com/?p=1141649"
+      "https://www.technologyreview.com/?p=1141649",
+      "https://www.technologyreview.com/?p=1143936"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1366,7 +1373,8 @@
       "https://news.ycombinator.com/item?id=49639408",
       "https://news.ycombinator.com/item?id=49645443",
       "https://news.ycombinator.com/item?id=49649213",
-      "https://news.ycombinator.com/item?id=49656225"
+      "https://news.ycombinator.com/item?id=49656225",
+      "https://news.ycombinator.com/item?id=49662371"
     ]
   },
   "mercado": {
@@ -1938,7 +1946,8 @@
       "https://olhardigital.com.br/?p=1371854",
       "https://olhardigital.com.br/?p=1372024",
       "https://olhardigital.com.br/?p=1372056",
-      "https://olhardigital.com.br/?p=1372119"
+      "https://olhardigital.com.br/?p=1372119",
+      "https://olhardigital.com.br/?p=1372199"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2035,7 +2044,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=931068",
       "https://tecnoblog.net/?post_type=noticias&p=931404",
       "https://tecnoblog.net/?post_type=responde&p=931466",
-      "https://tecnoblog.net/?post_type=noticias&p=931492"
+      "https://tecnoblog.net/?post_type=noticias&p=931492",
+      "https://tecnoblog.net/?post_type=noticias&p=931715"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -2250,7 +2260,10 @@
       "https://canaltech.com.br/mercado/por-dentro-do-launchpad-como-a-hotmart-usou-time-enxuto-e-ia-para-criar-plataforma-de-apps-com-checkout-global/",
       "https://canaltech.com.br/mercado/fundador-do-google-retorna-a-empresa-para-tentar-salvar-o-gemini/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-o-chatgpt-para-descobrir-quem-nao-segue-voce-no-instagram/",
-      "https://canaltech.com.br/inteligencia-artificial/o-que-muda-com-nova-regra-do-governo-que-proibe-ia-de-corrigir-redacoes-e-provas/"
+      "https://canaltech.com.br/inteligencia-artificial/o-que-muda-com-nova-regra-do-governo-que-proibe-ia-de-corrigir-redacoes-e-provas/",
+      "https://canaltech.com.br/inteligencia-artificial/openai-comeca-a-negar-novos-assinantes-porque-nao-da-conta-da-demanda-pelo-astra/",
+      "https://canaltech.com.br/inteligencia-artificial/gemini-chega-ao-planilhas-no-celular-para-decifrar-tabelas-gigantes-para-voce/",
+      "https://canaltech.com.br/internet-e-redes-sociais/investigacao-revela-fotos-de-abuso-infantil-no-x-e-falhas-graves-no-grok/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2700,127 +2713,11 @@
       "https://www.mobiletime.com.br/?p=863597",
       "https://www.mobiletime.com.br/?p=863622",
       "https://www.mobiletime.com.br/?p=863612",
-      "https://www.mobiletime.com.br/?p=863632"
+      "https://www.mobiletime.com.br/?p=863632",
+      "https://www.mobiletime.com.br/?p=863722"
     ]
   },
   "_titulos_recentes": [
-    [
-      "adversary",
-      "connor",
-      "controlai",
-      "leahy",
-      "superintelligence",
-      "weapon"
-    ],
-    [
-      "coming",
-      "should",
-      "superintelligence"
-    ],
-    [
-      "apple",
-      "best",
-      "device",
-      "iphone",
-      "john",
-      "still",
-      "ternus"
-    ],
-    [
-      "apple",
-      "aren",
-      "iphone",
-      "photos",
-      "prove",
-      "slop",
-      "your"
-    ],
-    [
-      "apple",
-      "calculate",
-      "health",
-      "readiness",
-      "revamped",
-      "score",
-      "will",
-      "your"
-    ],
-    [
-      "microsoft",
-      "privacy",
-      "rules",
-      "schools"
-    ],
-    [
-      "base",
-      "change",
-      "evaluates",
-      "every",
-      "genome",
-      "google",
-      "possible",
-      "system"
-    ],
-    [
-      "blue",
-      "button",
-      "cart",
-      "change",
-      "claude"
-    ],
-    [
-      "capable",
-      "cheaper",
-      "deepseek",
-      "flash",
-      "launching",
-      "more",
-      "than"
-    ],
-    [
-      "chalks",
-      "change",
-      "coreweave",
-      "frightening",
-      "public",
-      "pushback",
-      "speed"
-    ],
-    [
-      "5070",
-      "5080",
-      "chip",
-      "lancar",
-      "nvidia",
-      "pode",
-      "usado",
-      "versao"
-    ],
-    [
-      "entende",
-      "esta",
-      "mails",
-      "siri",
-      "tela",
-      "tudo"
-    ],
-    [
-      "comecar",
-      "confira",
-      "data",
-      "falar",
-      "iphone",
-      "portugues",
-      "siri"
-    ],
-    [
-      "criada",
-      "foto",
-      "ganha",
-      "iphone",
-      "provar",
-      "recurso"
-    ],
     [
       "apple",
       "chatgpt",
@@ -4521,6 +4418,133 @@
       "incorpora",
       "preditiva",
       "startup"
+    ],
+    [
+      "2026",
+      "call",
+      "disrupt",
+      "events",
+      "final",
+      "side",
+      "techcrunch"
+    ],
+    [
+      "2026",
+      "book",
+      "disrupt",
+      "exhibit",
+      "left",
+      "table",
+      "techcrunch",
+      "week",
+      "your"
+    ],
+    [
+      "escalating",
+      "feud",
+      "mathematicians",
+      "only",
+      "openai"
+    ],
+    [
+      "combinator",
+      "distill",
+      "frontier",
+      "garry",
+      "labs",
+      "models",
+      "open",
+      "wants",
+      "weight"
+    ],
+    [
+      "case",
+      "fined",
+      "hallucinated",
+      "lawyer",
+      "murder",
+      "over",
+      "witnesses"
+    ],
+    [
+      "chatgpt",
+      "citing",
+      "fake",
+      "lawyer",
+      "made",
+      "punished",
+      "testimony",
+      "using",
+      "witnesses"
+    ],
+    [
+      "apocalypse",
+      "crisis",
+      "roundtables"
+    ],
+    [
+      "mathematics",
+      "misalignment"
+    ],
+    [
+      "anos",
+      "buraco",
+      "cria",
+      "dados",
+      "jato",
+      "negro",
+      "partir",
+      "video"
+    ],
+    [
+      "corrige",
+      "criancas",
+      "ferramenta",
+      "invasivas",
+      "meta",
+      "perguntas",
+      "sugerir"
+    ],
+    [
+      "assinantes",
+      "astra",
+      "comeca",
+      "conta",
+      "demanda",
+      "negar",
+      "novos",
+      "openai",
+      "pelo",
+      "porque"
+    ],
+    [
+      "celular",
+      "chega",
+      "decifrar",
+      "gemini",
+      "gigantes",
+      "planilhas",
+      "tabelas",
+      "voce"
+    ],
+    [
+      "abuso",
+      "falhas",
+      "fotos",
+      "graves",
+      "grok",
+      "infantil",
+      "investigacao",
+      "revela"
+    ],
+    [
+      "borda",
+      "critica",
+      "lanca",
+      "missao",
+      "nokia",
+      "rcps",
+      "solucao"
     ]
   ]
 }
