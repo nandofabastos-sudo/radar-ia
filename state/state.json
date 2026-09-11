@@ -529,7 +529,9 @@
       "https://techcrunch.com/?p=3162967",
       "https://techcrunch.com/?p=3162704",
       "https://techcrunch.com/?p=3162873",
-      "https://techcrunch.com/?p=3163102"
+      "https://techcrunch.com/?p=3163102",
+      "https://techcrunch.com/?post_type=tc_podcast&p=3163177",
+      "https://techcrunch.com/?p=3163189"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -917,7 +919,9 @@
       "https://the-decoder.com/?p=40071",
       "https://the-decoder.com/?p=40025",
       "https://the-decoder.com/?p=40116",
-      "https://the-decoder.com/?p=40132"
+      "https://the-decoder.com/?p=40132",
+      "https://the-decoder.com/?p=40136",
+      "https://the-decoder.com/?p=40119"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1227,7 +1231,8 @@
       "6aa1efe41fbc971c9b4403e6",
       "6aa2f5da9bfef15e7a640b9f",
       "6aa1ae63f598338e8d128f12",
-      "6aa2ebafac09546d4c4d2127"
+      "6aa2ebafac09546d4c4d2127",
+      "6aa40fffad39288c906c2baf"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1542,7 +1547,8 @@
       "108361623",
       "108361659",
       "108361644",
-      "108361337"
+      "108361337",
+      "108361921"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1588,7 +1594,9 @@
       "https://techcrunch.com/?p=3161658",
       "https://techcrunch.com/?p=3161574",
       "https://techcrunch.com/?p=3162108",
-      "https://techcrunch.com/?p=3162605"
+      "https://techcrunch.com/?p=3162605",
+      "https://techcrunch.com/?post_type=tc_podcast&p=3163177",
+      "https://techcrunch.com/?p=3163117"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -1684,7 +1692,8 @@
       "https://mittechreview.com.br/?p=266806",
       "https://mittechreview.com.br/?p=266862",
       "https://mittechreview.com.br/?p=266969",
-      "https://mittechreview.com.br/?p=266982"
+      "https://mittechreview.com.br/?p=266982",
+      "https://mittechreview.com.br/?p=267492"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1928,7 +1937,8 @@
       "https://olhardigital.com.br/?p=1371846",
       "https://olhardigital.com.br/?p=1371854",
       "https://olhardigital.com.br/?p=1372024",
-      "https://olhardigital.com.br/?p=1372056"
+      "https://olhardigital.com.br/?p=1372056",
+      "https://olhardigital.com.br/?p=1372119"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2238,7 +2248,9 @@
       "https://canaltech.com.br/mercado/seu-proximo-personal-shopper-pode-ser-uma-ia-e-o-varejo-ja-esta-se-preparando/",
       "https://canaltech.com.br/inteligencia-artificial/claude-dedura-paises-que-tentaram-usar-ia-para-criar-armas-biologicas/",
       "https://canaltech.com.br/mercado/por-dentro-do-launchpad-como-a-hotmart-usou-time-enxuto-e-ia-para-criar-plataforma-de-apps-com-checkout-global/",
-      "https://canaltech.com.br/mercado/fundador-do-google-retorna-a-empresa-para-tentar-salvar-o-gemini/"
+      "https://canaltech.com.br/mercado/fundador-do-google-retorna-a-empresa-para-tentar-salvar-o-gemini/",
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-o-chatgpt-para-descobrir-quem-nao-segue-voce-no-instagram/",
+      "https://canaltech.com.br/inteligencia-artificial/o-que-muda-com-nova-regra-do-governo-que-proibe-ia-de-corrigir-redacoes-e-provas/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2489,7 +2501,10 @@
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/11/armas-biologicas-e-guerra-contra-china-o-que-claude-revelou-em-relatorio-de-ameacas.htm",
       "https://www.uol.com.br/flash/?c=6a99b176788e80105ed19592",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/11/altman-diz-a-funcionarios-que-openai-avalia-desacelerar-ia-por-seguranca.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/anthropic-corta-esforcos-de-pesquisa-de-armas-biologicas-ataques-russos-e-uso-indevido-do-claude-pela-china.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/anthropic-corta-esforcos-de-pesquisa-de-armas-biologicas-ataques-russos-e-uso-indevido-do-claude-pela-china.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/chatgpt-gerou-depoimentos-falsos-em-recurso-de-caso-de-homicidio-nos-eua-diz-tribunal.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/como-anthropic-dizque-claude-foi-manipulado-para-armas-espionagem-e-golpes.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/11/emirados-usaram-ia-contra-especialistas-da-onu-sobre-sudao-diz-anthropic.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2531,7 +2546,8 @@
       "https://neofeed.com.br/?p=234743",
       "https://neofeed.com.br/?p=235906",
       "https://neofeed.com.br/?p=236107",
-      "https://neofeed.com.br/?p=235621"
+      "https://neofeed.com.br/?p=235621",
+      "https://neofeed.com.br/?p=235352"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -2601,7 +2617,8 @@
       "https://startups.com.br/?p=340613",
       "https://startups.com.br/?p=340624",
       "https://startups.com.br/?p=340620",
-      "https://startups.com.br/?p=340697"
+      "https://startups.com.br/?p=340697",
+      "https://startups.com.br/?p=340739"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -2687,142 +2704,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "centenaria",
-      "decifrar",
-      "equacao",
-      "fluidos",
-      "openai",
-      "robos",
-      "usou"
-    ],
-    [
-      "altman",
-      "andrew",
-      "chocante",
-      "filme",
-      "garfield",
-      "openai",
-      "trailer",
-      "traz"
-    ],
-    [
-      "bilhoes",
-      "euros",
-      "finlandia",
-      "google",
-      "infraestrutura",
-      "investir"
-    ],
-    [
-      "acusa",
-      "anthropic",
-      "brincar",
-      "empresas",
-      "nossas",
-      "openai",
-      "pesquisador",
-      "vidas"
-    ],
-    [
-      "acusam",
-      "china",
-      "laboratorios",
-      "pais",
-      "roubar",
-      "tecnologia"
-    ],
-    [
-      "bilhao",
-      "centro",
-      "criar",
-      "dados",
-      "egito",
-      "nvidia",
-      "planeja"
-    ],
-    [
-      "autonoma",
-      "baseada",
-      "elbit",
-      "lanca",
-      "militar",
-      "systems",
-      "tecnologia",
-      "unidade"
-    ],
-    [
-      "aciona",
-      "criados",
-      "falsos",
-      "medicos",
-      "remover",
-      "youtube"
-    ],
-    [
-      "acqui",
-      "adquire",
-      "atividades",
-      "encerra",
-      "hire",
-      "strattum",
-      "tropicalia"
-    ],
-    [
-      "assinantes",
-      "claude",
-      "deteccao",
-      "malware",
-      "rouba",
-      "tokens"
-    ],
-    [
-      "board",
-      "christiano",
-      "foundation",
-      "joins",
-      "openai",
-      "paul"
-    ],
-    [
-      "brings",
-      "broadcast",
-      "global",
-      "nvidia",
-      "real",
-      "sports",
-      "streaming",
-      "time"
-    ],
-    [
-      "mistral"
-    ],
-    [
-      "assistant",
-      "becomes",
-      "delivery",
-      "latest",
-      "shipt",
-      "shopping"
-    ],
-    [
-      "against",
-      "anthropic",
-      "gambling",
-      "improving",
-      "lives",
-      "quits",
-      "researcher",
-      "self",
-      "warns"
-    ],
-    [
-      "address",
-      "assistant",
-      "email",
-      "instinct",
-      "viral"
-    ],
     [
       "adversary",
       "connor",
@@ -4485,6 +4366,161 @@
       "pela",
       "pesquisa",
       "russos"
+    ],
+    [
+      "anthropic",
+      "comes",
+      "doomsday",
+      "interesting",
+      "researcher",
+      "time",
+      "very",
+      "warning"
+    ],
+    [
+      "annual",
+      "billion",
+      "kimi",
+      "maker",
+      "moonshot",
+      "revenue",
+      "targets"
+    ],
+    [
+      "argues",
+      "bengio",
+      "dangerous",
+      "deep",
+      "itself",
+      "learning",
+      "makes",
+      "pioneer",
+      "process",
+      "training"
+    ],
+    [
+      "coming",
+      "deepmind",
+      "explosion",
+      "improvement",
+      "intelligence",
+      "self",
+      "trigger",
+      "vinyals"
+    ],
+    [
+      "data",
+      "face",
+      "meta",
+      "over",
+      "recognition",
+      "sued",
+      "systems",
+      "training"
+    ],
+    [
+      "agenda",
+      "altimeter",
+      "blasts",
+      "extinction",
+      "gerstner",
+      "political",
+      "questions",
+      "researchers",
+      "voicing",
+      "warnings"
+    ],
+    [
+      "2026",
+      "battlefield",
+      "central",
+      "cerberus",
+      "eurasia",
+      "looq",
+      "names",
+      "road",
+      "weglobal",
+      "winners"
+    ],
+    [
+      "democracia",
+      "diante",
+      "estufa",
+      "liberal",
+      "liberdade",
+      "opiniao"
+    ],
+    [
+      "anthropic",
+      "bloqueia",
+      "dissidentes",
+      "minorias",
+      "usada",
+      "vigiar"
+    ],
+    [
+      "chatgpt",
+      "descobrir",
+      "instagram",
+      "quem",
+      "segue",
+      "usar",
+      "voce"
+    ],
+    [
+      "corrigir",
+      "governo",
+      "muda",
+      "proibe",
+      "provas",
+      "redacoes",
+      "regra"
+    ],
+    [
+      "caso",
+      "chatgpt",
+      "depoimentos",
+      "falsos",
+      "gerou",
+      "homicidio",
+      "recurso",
+      "tribunal"
+    ],
+    [
+      "anthropic",
+      "armas",
+      "claude",
+      "espionagem",
+      "golpes",
+      "manipulado"
+    ],
+    [
+      "anthropic",
+      "contra",
+      "emirados",
+      "especialistas",
+      "sudao",
+      "usaram"
+    ],
+    [
+      "alem",
+      "algoritmo",
+      "aluno",
+      "cogna",
+      "diploma",
+      "gerar",
+      "receita",
+      "recorrente",
+      "reter"
+    ],
+    [
+      "alema",
+      "compra",
+      "empion",
+      "factorial",
+      "incorpora",
+      "preditiva",
+      "startup"
     ]
   ]
 }
