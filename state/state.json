@@ -907,7 +907,9 @@
       "https://the-decoder.com/?p=40080",
       "https://the-decoder.com/?p=40087",
       "https://the-decoder.com/?p=40092",
-      "https://the-decoder.com/?p=40100"
+      "https://the-decoder.com/?p=40100",
+      "https://the-decoder.com/?p=40105",
+      "https://the-decoder.com/?p=40075"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2454,7 +2456,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/openai-lanca-chatgpt-para-setor-de-servicos-financeiros.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/oracle-tem-receita-acima-do-esperado-impulsionada-por-boom-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/anthropic-corta-campanhas-de-ia-russas-e-chinesas-direcionadas-ao-claude.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/10/openai-pede-ao-congresso-dos-eua-normas-de-seguranca-obrigatorias-para-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/10/openai-pede-ao-congresso-dos-eua-normas-de-seguranca-obrigatorias-para-ia.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/11/armas-biologicas-e-guerra-contra-china-o-que-claude-revelou-em-relatorio-de-ameacas.htm",
+      "https://www.uol.com.br/flash/?c=6a99b176788e80105ed19592"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2649,44 +2653,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "cramer",
-      "focused",
-      "here",
-      "instead",
-      "investors",
-      "look",
-      "stocks",
-      "where"
-    ],
-    [
-      "estar",
-      "fazendo",
-      "historia",
-      "matematica",
-      "openai",
-      "pode"
-    ],
-    [
-      "brasil",
-      "chatgpt",
-      "cinco",
-      "geram",
-      "imagens",
-      "openai",
-      "paises",
-      "revela"
-    ],
-    [
-      "about",
-      "controversy",
-      "future",
-      "latest",
-      "math",
-      "openai",
-      "tells",
-      "what"
-    ],
     [
       "agent",
       "meta",
@@ -4436,6 +4402,49 @@
       "investimento",
       "neste",
       "passar"
+    ],
+    [
+      "agents",
+      "behind",
+      "chatgpt",
+      "codex",
+      "developers",
+      "gives",
+      "infrastructure",
+      "openai"
+    ],
+    [
+      "anthropic",
+      "authors",
+      "billion",
+      "book",
+      "chaos",
+      "descends",
+      "fight",
+      "gets",
+      "into",
+      "over",
+      "paid",
+      "publishers",
+      "settlement"
+    ],
+    [
+      "armas",
+      "biologicas",
+      "china",
+      "claude",
+      "contra",
+      "guerra",
+      "relatorio",
+      "revelou"
+    ],
+    [
+      "adaptam",
+      "automacao",
+      "industrias",
+      "movimentos",
+      "mudam",
+      "robos"
     ]
   ]
 }
