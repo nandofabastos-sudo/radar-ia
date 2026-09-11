@@ -1237,7 +1237,8 @@
       "6a90c3e141033e0001e785f8",
       "6a9610144f68b90001e85e1f",
       "6a99f86c55ee7500014f71bf",
-      "6aa09f3cf105c10001086ec8"
+      "6aa09f3cf105c10001086ec8",
+      "6aa344a64b93b60001265a41"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -1520,7 +1521,9 @@
       "108361026",
       "108361100",
       "108361203",
-      "108361276"
+      "108361276",
+      "108361552",
+      "108361537"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1897,7 +1900,11 @@
       "https://olhardigital.com.br/?p=1371742",
       "https://olhardigital.com.br/?p=1371781",
       "https://olhardigital.com.br/?p=1371816",
-      "https://olhardigital.com.br/?p=1371826"
+      "https://olhardigital.com.br/?p=1371826",
+      "https://olhardigital.com.br/?p=1371828",
+      "https://olhardigital.com.br/?p=1371831",
+      "https://olhardigital.com.br/?p=1371846",
+      "https://olhardigital.com.br/?p=1371854"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2637,72 +2644,11 @@
       "https://www.mobiletime.com.br/?p=863557",
       "https://www.mobiletime.com.br/?p=863597",
       "https://www.mobiletime.com.br/?p=863622",
-      "https://www.mobiletime.com.br/?p=863612"
+      "https://www.mobiletime.com.br/?p=863612",
+      "https://www.mobiletime.com.br/?p=863632"
     ]
   },
   "_titulos_recentes": [
-    [
-      "astra",
-      "captcha",
-      "certificado",
-      "conclui",
-      "humano",
-      "jogo",
-      "recebe"
-    ],
-    [
-      "agora",
-      "chatgpt",
-      "imagem",
-      "pronta",
-      "qualquer",
-      "rabisco",
-      "transforma"
-    ],
-    [
-      "abuso",
-      "anuncios",
-      "centenas",
-      "detectar",
-      "falha",
-      "infantil",
-      "meta"
-    ],
-    [
-      "acessa",
-      "agente",
-      "apps",
-      "emails",
-      "enviar",
-      "fazer",
-      "lanca",
-      "meta",
-      "pagamentos"
-    ],
-    [
-      "acelera",
-      "ainda",
-      "bicho",
-      "cabecas",
-      "pequenos",
-      "sete",
-      "varejistas",
-      "varejo"
-    ],
-    [
-      "aporte",
-      "bilhoes",
-      "euros",
-      "mistral",
-      "recebe",
-      "rodada",
-      "serie"
-    ],
-    [
-      "coming",
-      "inside",
-      "warnings"
-    ],
     [
       "cramer",
       "focused",
@@ -4425,6 +4371,71 @@
       "organizacional",
       "petrobras",
       "requer"
+    ],
+    [
+      "safety",
+      "shift",
+      "vibe"
+    ],
+    [
+      "anthropic",
+      "chinese",
+      "claude",
+      "exchanges",
+      "labs",
+      "millions",
+      "models",
+      "secretly",
+      "their",
+      "train",
+      "used"
+    ],
+    [
+      "about",
+      "accuse",
+      "china",
+      "combinator",
+      "copying",
+      "distillation",
+      "garry",
+      "giants",
+      "nothing",
+      "tech",
+      "their"
+    ],
+    [
+      "acoes",
+      "balanco",
+      "boom",
+      "expectativas",
+      "oracle",
+      "subirem",
+      "supera"
+    ],
+    [
+      "alerta",
+      "anthropic",
+      "assustador",
+      "extincao",
+      "fazem",
+      "humana",
+      "levar",
+      "pesquisadores",
+      "pode"
+    ],
+    [
+      "bilhoes",
+      "emprestimo",
+      "infraestrutura",
+      "negocia",
+      "pentagono"
+    ],
+    [
+      "bilhoes",
+      "deve",
+      "investimento",
+      "neste",
+      "passar"
     ]
   ]
 }
