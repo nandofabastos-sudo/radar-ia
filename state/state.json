@@ -684,7 +684,8 @@
       "https://www.theverge.com/?p=994064",
       "https://www.theverge.com/?p=994207",
       "https://www.theverge.com/?p=994255",
-      "https://www.theverge.com/?p=994112"
+      "https://www.theverge.com/?p=994112",
+      "https://www.theverge.com/?p=994337"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1576,7 +1577,8 @@
       "108361337",
       "108361921",
       "108359719",
-      "108358074"
+      "108358074",
+      "108362160"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1972,7 +1974,8 @@
       "https://olhardigital.com.br/?p=1372239",
       "https://olhardigital.com.br/?p=1372254",
       "https://olhardigital.com.br/?p=1370855",
-      "https://olhardigital.com.br/?p=1372347"
+      "https://olhardigital.com.br/?p=1372347",
+      "https://olhardigital.com.br/?p=1372351"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2290,7 +2293,8 @@
       "https://canaltech.com.br/inteligencia-artificial/gemini-chega-ao-planilhas-no-celular-para-decifrar-tabelas-gigantes-para-voce/",
       "https://canaltech.com.br/internet-e-redes-sociais/investigacao-revela-fotos-de-abuso-infantil-no-x-e-falhas-graves-no-grok/",
       "https://canaltech.com.br/entretenimento/novo-documentario-netflix-apocalipse-da-ia-conheca/",
-      "https://canaltech.com.br/inteligencia-artificial/usar-claude-outros-apps-melhores-conectores/"
+      "https://canaltech.com.br/inteligencia-artificial/usar-claude-outros-apps-melhores-conectores/",
+      "https://canaltech.com.br/inteligencia-artificial/como-editar-a-memoria-do-claude/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2546,7 +2550,10 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/como-anthropic-dizque-claude-foi-manipulado-para-armas-espionagem-e-golpes.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/11/emirados-usaram-ia-contra-especialistas-da-onu-sobre-sudao-diz-anthropic.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/11/grupo-de-matematicos-alerta-para-efeito-destrutivo-da-ia-na-disciplina.htm",
-      "https://www.uol.com.br/flash/?c=6aa43d43e7b43e8fca1dc022"
+      "https://www.uol.com.br/flash/?c=6aa43d43e7b43e8fca1dc022",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/12/ceo-da-anthropic-defende-desacelerar-ia-poderosa-sem-parar-progresso.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/12/ceo-da-anthropic-pede-contencao-de-desenvolvimento-de-modelos-de-ia-por-receio-de-uso-indevido.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/12/altman-e-musk-concordam-com-ceo-da-anthropic-sobre-desacelerar-desenvolvimento-da-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2747,60 +2754,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "abuse",
-      "allowing",
-      "child",
-      "francisco",
-      "meta",
-      "orders",
-      "stop"
-    ],
-    [
-      "anthropic",
-      "crunch",
-      "humanity",
-      "just",
-      "quit",
-      "researcher",
-      "time"
-    ],
-    [
-      "astra",
-      "hidden",
-      "looped",
-      "reasoning",
-      "transformers"
-    ],
-    [
-      "agentes",
-      "autorizacao",
-      "comunicar",
-      "openai",
-      "sites",
-      "usaram"
-    ],
-    [
-      "assinaturas",
-      "claude",
-      "contas",
-      "drenam",
-      "hackers",
-      "ladroes",
-      "roubam",
-      "sigilo"
-    ],
-    [
-      "assinatura",
-      "diario",
-      "gemini",
-      "graca",
-      "libera",
-      "mails",
-      "oferece",
-      "recurso",
-      "resumo"
-    ],
     [
       "apple",
       "apresenta",
@@ -4591,6 +4544,52 @@
       "rehearse",
       "time",
       "your"
+    ],
+    [
+      "anthropic",
+      "brakes",
+      "pump",
+      "time"
+    ],
+    [
+      "alerta",
+      "anthropic",
+      "dominar",
+      "freio",
+      "internet",
+      "pede",
+      "pode",
+      "tecnologia"
+    ],
+    [
+      "claude",
+      "editar",
+      "memoria"
+    ],
+    [
+      "anthropic",
+      "defende",
+      "desacelerar",
+      "parar",
+      "poderosa",
+      "progresso"
+    ],
+    [
+      "anthropic",
+      "contencao",
+      "desenvolvimento",
+      "indevido",
+      "modelos",
+      "pede",
+      "receio"
+    ],
+    [
+      "altman",
+      "anthropic",
+      "concordam",
+      "desacelerar",
+      "desenvolvimento",
+      "musk"
     ]
   ]
 }
