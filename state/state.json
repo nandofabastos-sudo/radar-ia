@@ -1378,7 +1378,8 @@
       "https://news.ycombinator.com/item?id=49649213",
       "https://news.ycombinator.com/item?id=49656225",
       "https://news.ycombinator.com/item?id=49662371",
-      "https://news.ycombinator.com/item?id=49662672"
+      "https://news.ycombinator.com/item?id=49662672",
+      "https://news.ycombinator.com/item?id=49666735"
     ]
   },
   "mercado": {
@@ -1952,7 +1953,8 @@
       "https://olhardigital.com.br/?p=1372056",
       "https://olhardigital.com.br/?p=1372119",
       "https://olhardigital.com.br/?p=1372199",
-      "https://olhardigital.com.br/?p=1372239"
+      "https://olhardigital.com.br/?p=1372239",
+      "https://olhardigital.com.br/?p=1372254"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2724,29 +2726,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "apple",
-      "document",
-      "explaining",
-      "features",
-      "listening",
-      "privacy",
-      "protect",
-      "read",
-      "still",
-      "your"
-    ],
-    [
-      "anthropic",
-      "bleakest",
-      "built",
-      "economic",
-      "forecasts",
-      "frames",
-      "model",
-      "outlier",
-      "scenario"
-    ],
     [
       "accused",
       "aggressively",
@@ -4553,6 +4532,21 @@
       "efeito",
       "grupo",
       "matematicos"
+    ],
+    [
+      "agents",
+      "attack",
+      "carried",
+      "openai",
+      "rubygems",
+      "undisclosed"
+    ],
+    [
+      "anthropic",
+      "bilhoes",
+      "estuda",
+      "investir",
+      "nvidia"
     ]
   ]
 }
