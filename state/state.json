@@ -681,7 +681,8 @@
       "https://www.theverge.com/?p=989853",
       "https://www.theverge.com/?p=993974",
       "https://www.theverge.com/?p=994064",
-      "https://www.theverge.com/?p=994207"
+      "https://www.theverge.com/?p=994207",
+      "https://www.theverge.com/?p=994255"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -930,7 +931,9 @@
       "https://the-decoder.com/?p=40132",
       "https://the-decoder.com/?p=40136",
       "https://the-decoder.com/?p=40119",
-      "https://the-decoder.com/?p=40144"
+      "https://the-decoder.com/?p=40144",
+      "https://the-decoder.com/?p=40148",
+      "https://the-decoder.com/?p=40157"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1010,7 +1013,8 @@
       "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
       "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
       "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
+      "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1243,7 +1247,8 @@
       "6aa2f5da9bfef15e7a640b9f",
       "6aa1ae63f598338e8d128f12",
       "6aa2ebafac09546d4c4d2127",
-      "6aa40fffad39288c906c2baf"
+      "6aa40fffad39288c906c2baf",
+      "6aa461bc4de88ba2f8bc1d47"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1957,7 +1962,8 @@
       "https://olhardigital.com.br/?p=1372119",
       "https://olhardigital.com.br/?p=1372199",
       "https://olhardigital.com.br/?p=1372239",
-      "https://olhardigital.com.br/?p=1372254"
+      "https://olhardigital.com.br/?p=1372254",
+      "https://olhardigital.com.br/?p=1370855"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2273,7 +2279,9 @@
       "https://canaltech.com.br/inteligencia-artificial/o-que-muda-com-nova-regra-do-governo-que-proibe-ia-de-corrigir-redacoes-e-provas/",
       "https://canaltech.com.br/inteligencia-artificial/openai-comeca-a-negar-novos-assinantes-porque-nao-da-conta-da-demanda-pelo-astra/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-chega-ao-planilhas-no-celular-para-decifrar-tabelas-gigantes-para-voce/",
-      "https://canaltech.com.br/internet-e-redes-sociais/investigacao-revela-fotos-de-abuso-infantil-no-x-e-falhas-graves-no-grok/"
+      "https://canaltech.com.br/internet-e-redes-sociais/investigacao-revela-fotos-de-abuso-infantil-no-x-e-falhas-graves-no-grok/",
+      "https://canaltech.com.br/entretenimento/novo-documentario-netflix-apocalipse-da-ia-conheca/",
+      "https://canaltech.com.br/inteligencia-artificial/usar-claude-outros-apps-melhores-conectores/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2730,70 +2738,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "celular",
-      "jogos",
-      "revela",
-      "rodar"
-    ],
-    [
-      "alibaba",
-      "anuncia",
-      "barata",
-      "cloud",
-      "magalu",
-      "parceria"
-    ],
-    [
-      "chance",
-      "cientista",
-      "claude",
-      "dona",
-      "exterminar",
-      "humanidade"
-    ],
-    [
-      "agentes",
-      "autorizadas",
-      "comunicacoes",
-      "menos",
-      "openai",
-      "sites",
-      "utilizaram"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "envolvendo",
-      "incidente",
-      "relata",
-      "seguranca",
-      "versao"
-    ],
-    [
-      "china",
-      "continencia",
-      "custa",
-      "humanoide",
-      "lula",
-      "prestou",
-      "robo"
-    ],
-    [
-      "enigma",
-      "matematico",
-      "milionario",
-      "openai",
-      "solucionado"
-    ],
-    [
-      "aperta",
-      "botao",
-      "could",
-      "kill",
-      "panico",
-      "quem"
-    ],
     [
       "acelerar",
       "agentes",
@@ -4560,6 +4504,70 @@
       "inteligencia",
       "sera",
       "servico"
+    ],
+    [
+      "just",
+      "openai",
+      "wants"
+    ],
+    [
+      "data",
+      "discount",
+      "future",
+      "google",
+      "model",
+      "predicts",
+      "sales",
+      "schedules",
+      "weather"
+    ],
+    [
+      "agents",
+      "anyone",
+      "collect",
+      "could",
+      "cyberattack",
+      "data",
+      "google",
+      "just",
+      "launched",
+      "openai",
+      "package",
+      "rubygems"
+    ],
+    [
+      "china",
+      "robot",
+      "spent"
+    ],
+    [
+      "bioweapons",
+      "claude",
+      "everywhere",
+      "hacks",
+      "misuse"
+    ],
+    [
+      "distribuida",
+      "esta",
+      "inteligencia",
+      "vantagem"
+    ],
+    [
+      "apocalipse",
+      "conheca",
+      "documentario",
+      "netflix",
+      "olha",
+      "otimismo"
+    ],
+    [
+      "anthropic",
+      "apps",
+      "claude",
+      "conectores",
+      "outros",
+      "usar"
     ]
   ]
 }
