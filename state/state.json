@@ -539,7 +539,8 @@
       "https://techcrunch.com/?p=3163181",
       "https://techcrunch.com/?p=3163179",
       "https://techcrunch.com/?p=3163323",
-      "https://techcrunch.com/?p=3163373"
+      "https://techcrunch.com/?p=3163373",
+      "https://techcrunch.com/?p=3163386"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1724,7 +1725,8 @@
       "https://mittechreview.com.br/?p=266969",
       "https://mittechreview.com.br/?p=266982",
       "https://mittechreview.com.br/?p=267492",
-      "https://mittechreview.com.br/?p=267204"
+      "https://mittechreview.com.br/?p=267204",
+      "https://mittechreview.com.br/?p=267568"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -2294,7 +2296,8 @@
       "https://canaltech.com.br/internet-e-redes-sociais/investigacao-revela-fotos-de-abuso-infantil-no-x-e-falhas-graves-no-grok/",
       "https://canaltech.com.br/entretenimento/novo-documentario-netflix-apocalipse-da-ia-conheca/",
       "https://canaltech.com.br/inteligencia-artificial/usar-claude-outros-apps-melhores-conectores/",
-      "https://canaltech.com.br/inteligencia-artificial/como-editar-a-memoria-do-claude/"
+      "https://canaltech.com.br/inteligencia-artificial/como-editar-a-memoria-do-claude/",
+      "https://canaltech.com.br/inteligencia-artificial/como-a-ia-pode-impactar-negativamente-as-eleicoes-2026/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2754,30 +2757,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "apple",
-      "apresenta",
-      "iphone",
-      "reformulada",
-      "siri"
-    ],
-    [
-      "need",
-      "open",
-      "policy",
-      "window"
-    ],
-    [
-      "funding",
-      "labs",
-      "listen",
-      "research",
-      "round",
-      "salesforce",
-      "scrubbed",
-      "startup",
-      "talks"
-    ],
     [
       "matematico",
       "metodo",
@@ -4590,6 +4569,25 @@
       "desacelerar",
       "desenvolvimento",
       "musk"
+    ],
+    [
+      "2026",
+      "advised",
+      "altman",
+      "openai",
+      "public",
+      "would"
+    ],
+    [
+      "maquina",
+      "soberania"
+    ],
+    [
+      "2026",
+      "eleicoes",
+      "impactar",
+      "negativamente",
+      "pode"
     ]
   ]
 }
