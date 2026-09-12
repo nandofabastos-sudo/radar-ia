@@ -538,7 +538,8 @@
       "https://techcrunch.com/?p=3162257",
       "https://techcrunch.com/?p=3163181",
       "https://techcrunch.com/?p=3163179",
-      "https://techcrunch.com/?p=3163323"
+      "https://techcrunch.com/?p=3163323",
+      "https://techcrunch.com/?p=3163373"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -682,7 +683,8 @@
       "https://www.theverge.com/?p=993974",
       "https://www.theverge.com/?p=994064",
       "https://www.theverge.com/?p=994207",
-      "https://www.theverge.com/?p=994255"
+      "https://www.theverge.com/?p=994255",
+      "https://www.theverge.com/?p=994112"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -933,7 +935,12 @@
       "https://the-decoder.com/?p=40119",
       "https://the-decoder.com/?p=40144",
       "https://the-decoder.com/?p=40148",
-      "https://the-decoder.com/?p=40157"
+      "https://the-decoder.com/?p=40157",
+      "https://the-decoder.com/?p=40163",
+      "https://the-decoder.com/?p=40166",
+      "https://the-decoder.com/?p=40177",
+      "https://the-decoder.com/?p=40181",
+      "https://the-decoder.com/?p=40186"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1568,7 +1575,8 @@
       "108361644",
       "108361337",
       "108361921",
-      "108359719"
+      "108359719",
+      "108358074"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1963,7 +1971,8 @@
       "https://olhardigital.com.br/?p=1372199",
       "https://olhardigital.com.br/?p=1372239",
       "https://olhardigital.com.br/?p=1372254",
-      "https://olhardigital.com.br/?p=1370855"
+      "https://olhardigital.com.br/?p=1370855",
+      "https://olhardigital.com.br/?p=1372347"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2738,75 +2747,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acelerar",
-      "agentes",
-      "compra",
-      "meta",
-      "startup",
-      "sueca",
-      "whatsapp"
-    ],
-    [
-      "empresas",
-      "entrega",
-      "escalar",
-      "maturidade",
-      "todas"
-    ],
-    [
-      "adotada",
-      "aponta",
-      "brasileiras",
-      "empresas",
-      "forma",
-      "fragmentada",
-      "pesquisa"
-    ],
-    [
-      "astra",
-      "generation",
-      "intelligence",
-      "next",
-      "work"
-    ],
-    [
-      "centers",
-      "clean",
-      "data",
-      "hits",
-      "massachusetts",
-      "power",
-      "rules"
-    ],
-    [
-      "adds",
-      "board",
-      "directors",
-      "doomer",
-      "openai",
-      "prominent"
-    ],
-    [
-      "academia",
-      "breakthrough",
-      "chill",
-      "mathematical",
-      "openai",
-      "sends",
-      "through"
-    ],
-    [
-      "first",
-      "help",
-      "industry",
-      "made",
-      "model",
-      "music",
-      "record",
-      "releases",
-      "suno"
-    ],
     [
       "abuse",
       "allowing",
@@ -4568,6 +4508,89 @@
       "conectores",
       "outros",
       "usar"
+    ],
+    [
+      "anthropic",
+      "frontier",
+      "outlines",
+      "pace",
+      "plan"
+    ],
+    [
+      "centers",
+      "data",
+      "giving",
+      "pass",
+      "pollute",
+      "trump"
+    ],
+    [
+      "astra",
+      "fewer",
+      "guardrails",
+      "leaner",
+      "needs",
+      "openai",
+      "prompts",
+      "recommends"
+    ],
+    [
+      "correspond",
+      "distinct",
+      "finds",
+      "internal",
+      "models",
+      "patterns",
+      "reasoning",
+      "steps",
+      "study",
+      "written"
+    ],
+    [
+      "anthropic",
+      "billion",
+      "breaking",
+      "into",
+      "nvidia",
+      "pour",
+      "record",
+      "wants"
+    ],
+    [
+      "appears",
+      "astra",
+      "based",
+      "benchmarks",
+      "change",
+      "early",
+      "reasoning",
+      "show",
+      "spatial",
+      "step"
+    ],
+    [
+      "amodei",
+      "anthropic",
+      "before",
+      "control",
+      "human",
+      "improvement",
+      "limits",
+      "outpaces",
+      "self",
+      "speed",
+      "wants"
+    ],
+    [
+      "before",
+      "chats",
+      "manager",
+      "meeting",
+      "might",
+      "performance",
+      "rehearse",
+      "time",
+      "your"
     ]
   ]
 }
