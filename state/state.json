@@ -89,7 +89,9 @@
       "https://openai.com/index/introducing-chatgpt-financial-services",
       "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "https://openai.com/index/introducing-the-agents-api",
-      "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+      "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "https://openai.com/index/cognition-devin-testing-with-astra",
+      "https://openai.com/index/perplexity-improving-accuracy-with-astra"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -535,7 +537,8 @@
       "https://techcrunch.com/?p=3163158",
       "https://techcrunch.com/?p=3162257",
       "https://techcrunch.com/?p=3163181",
-      "https://techcrunch.com/?p=3163179"
+      "https://techcrunch.com/?p=3163179",
+      "https://techcrunch.com/?p=3163323"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1374,7 +1377,8 @@
       "https://news.ycombinator.com/item?id=49645443",
       "https://news.ycombinator.com/item?id=49649213",
       "https://news.ycombinator.com/item?id=49656225",
-      "https://news.ycombinator.com/item?id=49662371"
+      "https://news.ycombinator.com/item?id=49662371",
+      "https://news.ycombinator.com/item?id=49662672"
     ]
   },
   "mercado": {
@@ -1947,7 +1951,8 @@
       "https://olhardigital.com.br/?p=1372024",
       "https://olhardigital.com.br/?p=1372056",
       "https://olhardigital.com.br/?p=1372119",
-      "https://olhardigital.com.br/?p=1372199"
+      "https://olhardigital.com.br/?p=1372199",
+      "https://olhardigital.com.br/?p=1372239"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2517,7 +2522,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/anthropic-corta-esforcos-de-pesquisa-de-armas-biologicas-ataques-russos-e-uso-indevido-do-claude-pela-china.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/chatgpt-gerou-depoimentos-falsos-em-recurso-de-caso-de-homicidio-nos-eua-diz-tribunal.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/como-anthropic-dizque-claude-foi-manipulado-para-armas-espionagem-e-golpes.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/11/emirados-usaram-ia-contra-especialistas-da-onu-sobre-sudao-diz-anthropic.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/11/emirados-usaram-ia-contra-especialistas-da-onu-sobre-sudao-diz-anthropic.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/11/grupo-de-matematicos-alerta-para-efeito-destrutivo-da-ia-na-disciplina.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2718,62 +2724,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "apple",
-      "chatgpt",
-      "frustracoes",
-      "iphone",
-      "leva",
-      "maiores"
-    ],
-    [
-      "anos",
-      "anthropic",
-      "humanos",
-      "lider",
-      "matar",
-      "risco",
-      "todos"
-    ],
-    [
-      "apple",
-      "built",
-      "foldable",
-      "hinge",
-      "phone"
-    ],
-    [
-      "always",
-      "announced",
-      "apple",
-      "event",
-      "everything",
-      "fall",
-      "foldable",
-      "iphone",
-      "listening",
-      "watch"
-    ],
-    [
-      "always",
-      "apple",
-      "features",
-      "idea",
-      "listening",
-      "normalizing",
-      "technology",
-      "watch"
-    ],
-    [
-      "apple",
-      "camera",
-      "iphone",
-      "mode",
-      "photo",
-      "promises",
-      "prove",
-      "your"
-    ],
     [
       "apple",
       "document",
@@ -4545,6 +4495,64 @@
       "nokia",
       "rcps",
       "solucao"
+    ],
+    [
+      "astra",
+      "cognition",
+      "devin",
+      "helps",
+      "test",
+      "work"
+    ],
+    [
+      "astra",
+      "perplexity",
+      "systems",
+      "trusts"
+    ],
+    [
+      "500m",
+      "amid",
+      "data",
+      "deal",
+      "mecka",
+      "nears",
+      "robot",
+      "rush",
+      "sequoia",
+      "training",
+      "valuation"
+    ],
+    [
+      "center",
+      "data",
+      "planning",
+      "pollution",
+      "public",
+      "review",
+      "rules",
+      "scrap"
+    ],
+    [
+      "agentes",
+      "antes",
+      "atacado",
+      "controle",
+      "face",
+      "fora",
+      "hugging",
+      "openai",
+      "outra",
+      "plataforma",
+      "teriam"
+    ],
+    [
+      "alerta",
+      "destrutivo",
+      "disciplina",
+      "efeito",
+      "grupo",
+      "matematicos"
     ]
   ]
 }
