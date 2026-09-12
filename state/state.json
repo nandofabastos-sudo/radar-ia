@@ -686,7 +686,9 @@
       "https://www.theverge.com/?p=994207",
       "https://www.theverge.com/?p=994255",
       "https://www.theverge.com/?p=994112",
-      "https://www.theverge.com/?p=994337"
+      "https://www.theverge.com/?p=994337",
+      "https://www.theverge.com/?p=994384",
+      "https://www.theverge.com/?p=994383"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1394,7 +1396,9 @@
       "https://news.ycombinator.com/item?id=49656225",
       "https://news.ycombinator.com/item?id=49662371",
       "https://news.ycombinator.com/item?id=49662672",
-      "https://news.ycombinator.com/item?id=49666735"
+      "https://news.ycombinator.com/item?id=49666735",
+      "https://news.ycombinator.com/item?id=49645480",
+      "https://news.ycombinator.com/item?id=49673098"
     ]
   },
   "mercado": {
@@ -2757,39 +2761,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "matematico",
-      "metodo",
-      "openai",
-      "pesquisadores",
-      "problema",
-      "questionam",
-      "resolver"
-    ],
-    [
-      "apoio",
-      "gravadoras",
-      "lanca",
-      "mudou",
-      "musical",
-      "suno",
-      "treinada",
-      "veja"
-    ],
-    [
-      "august",
-      "chipmaker",
-      "contract",
-      "high",
-      "largest",
-      "over",
-      "record",
-      "revenue",
-      "sees",
-      "surge",
-      "tsmc",
-      "world"
-    ],
     [
       "2029",
       "bilhoes",
@@ -4588,6 +4559,28 @@
       "impactar",
       "negativamente",
       "pode"
+    ],
+    [
+      "another",
+      "company",
+      "hack",
+      "openai",
+      "rogue",
+      "tried"
+    ],
+    [
+      "claims",
+      "concerns",
+      "denies",
+      "snooping",
+      "spying",
+      "tracking",
+      "true"
+    ],
+    [
+      "bank",
+      "central",
+      "nvidia"
     ]
   ]
 }
