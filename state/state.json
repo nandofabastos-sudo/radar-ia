@@ -929,7 +929,8 @@
       "https://the-decoder.com/?p=40116",
       "https://the-decoder.com/?p=40132",
       "https://the-decoder.com/?p=40136",
-      "https://the-decoder.com/?p=40119"
+      "https://the-decoder.com/?p=40119",
+      "https://the-decoder.com/?p=40144"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1561,7 +1562,8 @@
       "108361659",
       "108361644",
       "108361337",
-      "108361921"
+      "108361921",
+      "108359719"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1706,7 +1708,8 @@
       "https://mittechreview.com.br/?p=266862",
       "https://mittechreview.com.br/?p=266969",
       "https://mittechreview.com.br/?p=266982",
-      "https://mittechreview.com.br/?p=267492"
+      "https://mittechreview.com.br/?p=267492",
+      "https://mittechreview.com.br/?p=267204"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -2525,7 +2528,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/chatgpt-gerou-depoimentos-falsos-em-recurso-de-caso-de-homicidio-nos-eua-diz-tribunal.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/como-anthropic-dizque-claude-foi-manipulado-para-armas-espionagem-e-golpes.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/11/emirados-usaram-ia-contra-especialistas-da-onu-sobre-sudao-diz-anthropic.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/11/grupo-de-matematicos-alerta-para-efeito-destrutivo-da-ia-na-disciplina.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/11/grupo-de-matematicos-alerta-para-efeito-destrutivo-da-ia-na-disciplina.htm",
+      "https://www.uol.com.br/flash/?c=6aa43d43e7b43e8fca1dc022"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2726,34 +2730,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "accused",
-      "aggressively",
-      "chinese",
-      "copying",
-      "firms",
-      "frontier",
-      "models"
-    ],
-    [
-      "again",
-      "agent",
-      "gadgets",
-      "hack"
-    ],
-    [
-      "chegam",
-      "setembro",
-      "siri",
-      "versao"
-    ],
-    [
-      "airpods",
-      "cancelamento",
-      "melhorado",
-      "ruido",
-      "trazem"
-    ],
     [
       "celular",
       "jogos",
@@ -4547,6 +4523,43 @@
       "estuda",
       "investir",
       "nvidia"
+    ],
+    [
+      "dumber",
+      "fear",
+      "field",
+      "leading",
+      "making",
+      "mathematicians",
+      "next",
+      "rest",
+      "their",
+      "warn"
+    ],
+    [
+      "bonds",
+      "catastrophe",
+      "centers",
+      "could",
+      "data",
+      "market",
+      "next"
+    ],
+    [
+      "controversia",
+      "futuro",
+      "matematica",
+      "openai",
+      "recente"
+    ],
+    [
+      "artificial",
+      "coreia",
+      "essencial",
+      "gratis",
+      "inteligencia",
+      "sera",
+      "servico"
     ]
   ]
 }
