@@ -541,7 +541,8 @@
       "https://techcrunch.com/?p=3163323",
       "https://techcrunch.com/?p=3163373",
       "https://techcrunch.com/?p=3163386",
-      "https://techcrunch.com/?p=3163436"
+      "https://techcrunch.com/?p=3163436",
+      "https://techcrunch.com/?p=3163449"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -689,7 +690,8 @@
       "https://www.theverge.com/?p=994112",
       "https://www.theverge.com/?p=994337",
       "https://www.theverge.com/?p=994384",
-      "https://www.theverge.com/?p=994383"
+      "https://www.theverge.com/?p=994383",
+      "https://www.theverge.com/?p=994441"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1997,7 +1999,8 @@
       "https://olhardigital.com.br/?p=1372347",
       "https://olhardigital.com.br/?p=1372351",
       "https://olhardigital.com.br/?p=1370856",
-      "https://olhardigital.com.br/?p=1372451"
+      "https://olhardigital.com.br/?p=1372451",
+      "https://olhardigital.com.br/?p=1372475"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2581,7 +2584,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/12/ceo-da-anthropic-pede-contencao-de-desenvolvimento-de-modelos-de-ia-por-receio-de-uso-indevido.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/12/altman-e-musk-concordam-com-ceo-da-anthropic-sobre-desacelerar-desenvolvimento-da-ia.htm",
       "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/09/13/ia-extinguira-humanos-risco-supea-10-na-proxima-decada-diz-especialista.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/13/estatisticas-fresquinhas-de-ia-que-voce-precisa-saber-hoje.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/13/estatisticas-fresquinhas-de-ia-que-voce-precisa-saber-hoje.htm",
+      "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/13/trump-minimiza-apelos-de-big-techs-para-frear-ia-e-diz-que-eua-nao-podem-ficar-atras-da-china.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2782,41 +2786,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "creeps",
-      "meta",
-      "muse",
-      "works"
-    ],
-    [
-      "elevenlabs",
-      "launching",
-      "music",
-      "platform",
-      "universal"
-    ],
-    [
-      "chains",
-      "million",
-      "nvidia",
-      "operation",
-      "palantir",
-      "part",
-      "starting",
-      "supply",
-      "team"
-    ],
-    [
-      "emails",
-      "muse",
-      "negotiate",
-      "prices",
-      "shop",
-      "through",
-      "users",
-      "whatsapp",
-      "write"
-    ],
     [
       "agents",
       "cuts",
@@ -4614,6 +4583,44 @@
       "washington",
       "while",
       "window"
+    ],
+    [
+      "behind",
+      "doom",
+      "industry",
+      "latest",
+      "warnings",
+      "what"
+    ],
+    [
+      "industry",
+      "johnson",
+      "mike",
+      "overreacting",
+      "think",
+      "trump"
+    ],
+    [
+      "automacao",
+      "centers",
+      "data",
+      "debate",
+      "empregos",
+      "gera",
+      "meta",
+      "robos",
+      "testa"
+    ],
+    [
+      "apelos",
+      "atras",
+      "china",
+      "ficar",
+      "frear",
+      "minimiza",
+      "podem",
+      "techs",
+      "trump"
     ]
   ]
 }
