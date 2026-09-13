@@ -944,7 +944,10 @@
       "https://the-decoder.com/?p=40166",
       "https://the-decoder.com/?p=40177",
       "https://the-decoder.com/?p=40181",
-      "https://the-decoder.com/?p=40186"
+      "https://the-decoder.com/?p=40186",
+      "https://the-decoder.com/?p=40193",
+      "https://the-decoder.com/?p=40199",
+      "https://the-decoder.com/?p=40123"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1259,7 +1262,8 @@
       "6aa1ae63f598338e8d128f12",
       "6aa2ebafac09546d4c4d2127",
       "6aa40fffad39288c906c2baf",
-      "6aa461bc4de88ba2f8bc1d47"
+      "6aa461bc4de88ba2f8bc1d47",
+      "6aa2ae4185a64f1534d84791"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1399,7 +1403,8 @@
       "https://news.ycombinator.com/item?id=49666735",
       "https://news.ycombinator.com/item?id=49645480",
       "https://news.ycombinator.com/item?id=49673098",
-      "https://news.ycombinator.com/item?id=49678683"
+      "https://news.ycombinator.com/item?id=49678683",
+      "https://news.ycombinator.com/item?id=49678969"
     ]
   },
   "mercado": {
@@ -1584,7 +1589,8 @@
       "108361921",
       "108359719",
       "108358074",
-      "108362160"
+      "108362160",
+      "108362179"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1731,7 +1737,8 @@
       "https://mittechreview.com.br/?p=266982",
       "https://mittechreview.com.br/?p=267492",
       "https://mittechreview.com.br/?p=267204",
-      "https://mittechreview.com.br/?p=267568"
+      "https://mittechreview.com.br/?p=267568",
+      "https://mittechreview.com.br/?p=267555"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -1982,7 +1989,8 @@
       "https://olhardigital.com.br/?p=1372254",
       "https://olhardigital.com.br/?p=1370855",
       "https://olhardigital.com.br/?p=1372347",
-      "https://olhardigital.com.br/?p=1372351"
+      "https://olhardigital.com.br/?p=1372351",
+      "https://olhardigital.com.br/?p=1370856"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2302,7 +2310,8 @@
       "https://canaltech.com.br/entretenimento/novo-documentario-netflix-apocalipse-da-ia-conheca/",
       "https://canaltech.com.br/inteligencia-artificial/usar-claude-outros-apps-melhores-conectores/",
       "https://canaltech.com.br/inteligencia-artificial/como-editar-a-memoria-do-claude/",
-      "https://canaltech.com.br/inteligencia-artificial/como-a-ia-pode-impactar-negativamente-as-eleicoes-2026/"
+      "https://canaltech.com.br/inteligencia-artificial/como-a-ia-pode-impactar-negativamente-as-eleicoes-2026/",
+      "https://canaltech.com.br/inteligencia-artificial/dicas-para-economizar-nao-gastar-tokens-plano-de-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2561,7 +2570,9 @@
       "https://www.uol.com.br/flash/?c=6aa43d43e7b43e8fca1dc022",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/12/ceo-da-anthropic-defende-desacelerar-ia-poderosa-sem-parar-progresso.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/12/ceo-da-anthropic-pede-contencao-de-desenvolvimento-de-modelos-de-ia-por-receio-de-uso-indevido.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/12/altman-e-musk-concordam-com-ceo-da-anthropic-sobre-desacelerar-desenvolvimento-da-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/12/altman-e-musk-concordam-com-ceo-da-anthropic-sobre-desacelerar-desenvolvimento-da-ia.htm",
+      "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/09/13/ia-extinguira-humanos-risco-supea-10-na-proxima-decada-diz-especialista.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/13/estatisticas-fresquinhas-de-ia-que-voce-precisa-saber-hoje.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2762,91 +2773,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "mistral"
-    ],
-    [
-      "didn",
-      "mathematicians",
-      "openai",
-      "proof",
-      "their",
-      "want",
-      "work"
-    ],
-    [
-      "august",
-      "costs",
-      "employee",
-      "nearly",
-      "percent",
-      "spenders"
-    ],
-    [
-      "after",
-      "anthropic",
-      "goes",
-      "land",
-      "mainstream",
-      "news",
-      "panic",
-      "researcher",
-      "safety",
-      "warnings"
-    ],
-    [
-      "architecture",
-      "powering",
-      "problem"
-    ],
-    [
-      "clearview",
-      "cops",
-      "life",
-      "online",
-      "testing",
-      "tool",
-      "unearth",
-      "would",
-      "your"
-    ],
-    [
-      "everything",
-      "siri"
-    ],
-    [
-      "deepseek",
-      "flash"
-    ],
-    [
-      "anthropic",
-      "calls",
-      "extinction",
-      "join",
-      "more",
-      "openai",
-      "ramp",
-      "researchers",
-      "slowdown",
-      "warnings"
-    ],
-    [
-      "august",
-      "board",
-      "companies",
-      "joined",
-      "semiconductors",
-      "software",
-      "unicorn"
-    ],
-    [
-      "alerta",
-      "anthropic",
-      "demissao",
-      "desenvolvedor",
-      "pede",
-      "perigos"
-    ],
     [
       "cria",
       "desliga",
@@ -4583,6 +4509,100 @@
       "except",
       "should",
       "slow"
+    ],
+    [
+      "altman",
+      "amodei",
+      "back",
+      "call",
+      "hassabis",
+      "independent",
+      "musk",
+      "oversight"
+    ],
+    [
+      "banning",
+      "classrooms",
+      "finds",
+      "leaves",
+      "students",
+      "study",
+      "university",
+      "worse",
+      "year"
+    ],
+    [
+      "astra",
+      "business",
+      "drone",
+      "pilots",
+      "runs",
+      "surveillance"
+    ],
+    [
+      "agents",
+      "power",
+      "thirsty"
+    ],
+    [
+      "agents",
+      "cheating",
+      "coordinating",
+      "lying"
+    ],
+    [
+      "among",
+      "brics",
+      "china",
+      "cooperation",
+      "countries",
+      "foster",
+      "lead",
+      "take",
+      "tech",
+      "will"
+    ],
+    [
+      "agentes",
+      "deepmind",
+      "dentro",
+      "google",
+      "jogos",
+      "treina"
+    ],
+    [
+      "agentes",
+      "empresa",
+      "estao",
+      "forma",
+      "governada",
+      "orquestrada",
+      "quantos",
+      "sabe",
+      "segura",
+      "trabalhando"
+    ],
+    [
+      "creditos",
+      "dicas",
+      "economizar",
+      "gastar",
+      "plano"
+    ],
+    [
+      "decada",
+      "especialista",
+      "extinguira",
+      "humanos",
+      "proxima",
+      "risco",
+      "supera"
+    ],
+    [
+      "deixar",
+      "fresquinhas",
+      "pensativo",
+      "pesquisas"
     ]
   ]
 }
