@@ -1398,7 +1398,8 @@
       "https://news.ycombinator.com/item?id=49662672",
       "https://news.ycombinator.com/item?id=49666735",
       "https://news.ycombinator.com/item?id=49645480",
-      "https://news.ycombinator.com/item?id=49673098"
+      "https://news.ycombinator.com/item?id=49673098",
+      "https://news.ycombinator.com/item?id=49678683"
     ]
   },
   "mercado": {
@@ -2761,13 +2762,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "2029",
-      "bilhoes",
-      "confiar",
-      "empresas",
-      "gastarao"
-    ],
     [
       "mistral"
     ],
@@ -4581,6 +4575,14 @@
       "bank",
       "central",
       "nvidia"
+    ],
+    [
+      "development",
+      "down",
+      "everyone",
+      "except",
+      "should",
+      "slow"
     ]
   ]
 }
