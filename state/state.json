@@ -947,7 +947,9 @@
       "https://the-decoder.com/?p=40186",
       "https://the-decoder.com/?p=40193",
       "https://the-decoder.com/?p=40199",
-      "https://the-decoder.com/?p=40123"
+      "https://the-decoder.com/?p=40123",
+      "https://the-decoder.com/?p=40208",
+      "https://the-decoder.com/?p=40216"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1590,7 +1592,9 @@
       "108359719",
       "108358074",
       "108362160",
-      "108362179"
+      "108362179",
+      "108358080",
+      "108362191"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1990,7 +1994,8 @@
       "https://olhardigital.com.br/?p=1370855",
       "https://olhardigital.com.br/?p=1372347",
       "https://olhardigital.com.br/?p=1372351",
-      "https://olhardigital.com.br/?p=1370856"
+      "https://olhardigital.com.br/?p=1370856",
+      "https://olhardigital.com.br/?p=1372451"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2311,7 +2316,9 @@
       "https://canaltech.com.br/inteligencia-artificial/usar-claude-outros-apps-melhores-conectores/",
       "https://canaltech.com.br/inteligencia-artificial/como-editar-a-memoria-do-claude/",
       "https://canaltech.com.br/inteligencia-artificial/como-a-ia-pode-impactar-negativamente-as-eleicoes-2026/",
-      "https://canaltech.com.br/inteligencia-artificial/dicas-para-economizar-nao-gastar-tokens-plano-de-ia/"
+      "https://canaltech.com.br/inteligencia-artificial/dicas-para-economizar-nao-gastar-tokens-plano-de-ia/",
+      "https://canaltech.com.br/entretenimento/vezes-que-ficcao-cientifica-acertou-sobre-ia/",
+      "https://canaltech.com.br/carros/como-sao-os-semaforos-inteligentes-que-usam-algoritmos-e-ia-para-acabar-com-o-transito/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2773,73 +2780,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "cria",
-      "desliga",
-      "esquecer",
-      "fogao",
-      "panela",
-      "voce",
-      "xiaomi"
-    ],
-    [
-      "china",
-      "levou",
-      "modelos",
-      "mundo",
-      "usados"
-    ],
-    [
-      "access",
-      "cyber",
-      "defense",
-      "expanding",
-      "federal",
-      "governments",
-      "local",
-      "state",
-      "tribal"
-    ],
-    [
-      "data",
-      "everyone",
-      "work"
-    ],
-    [
-      "businesses",
-      "canadian",
-      "chain",
-      "changes",
-      "company",
-      "everything",
-      "help",
-      "navigate",
-      "supply",
-      "tomorrow",
-      "uncertainty",
-      "using",
-      "what"
-    ],
-    [
-      "adopts",
-      "deployment",
-      "fusion",
-      "matrix",
-      "nvidia",
-      "nvlink",
-      "rack",
-      "scale"
-    ],
-    [
-      "deal",
-      "deployment",
-      "maven",
-      "robot",
-      "robotics",
-      "steal",
-      "wants",
-      "your"
-    ],
     [
       "agents",
       "flooding",
@@ -4603,6 +4543,70 @@
       "fresquinhas",
       "pensativo",
       "pesquisas"
+    ],
+    [
+      "agents",
+      "class",
+      "iris",
+      "mini",
+      "open",
+      "search",
+      "strongest",
+      "their",
+      "weight"
+    ],
+    [
+      "available",
+      "elevenlabs",
+      "free",
+      "makes",
+      "music",
+      "options",
+      "tier"
+    ],
+    [
+      "american",
+      "attention",
+      "drawing",
+      "more",
+      "potential",
+      "pressure",
+      "role",
+      "under",
+      "wages",
+      "workers"
+    ],
+    [
+      "amodei",
+      "anthropic",
+      "china",
+      "dilemma",
+      "presents",
+      "proposed",
+      "slowdown",
+      "toughest"
+    ],
+    [
+      "2026",
+      "altman",
+      "fara",
+      "openai",
+      "questoes",
+      "seguranca"
+    ],
+    [
+      "acertou",
+      "cientifica",
+      "ficcao",
+      "vezes"
+    ],
+    [
+      "acabar",
+      "algoritmos",
+      "inteligentes",
+      "semaforos",
+      "transito",
+      "usam"
     ]
   ]
 }
