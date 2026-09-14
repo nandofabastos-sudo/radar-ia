@@ -952,7 +952,8 @@
       "https://the-decoder.com/?p=40199",
       "https://the-decoder.com/?p=40123",
       "https://the-decoder.com/?p=40208",
-      "https://the-decoder.com/?p=40216"
+      "https://the-decoder.com/?p=40216",
+      "https://the-decoder.com/?p=40220"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1268,7 +1269,8 @@
       "6aa2ebafac09546d4c4d2127",
       "6aa40fffad39288c906c2baf",
       "6aa461bc4de88ba2f8bc1d47",
-      "6aa2ae4185a64f1534d84791"
+      "6aa2ae4185a64f1534d84791",
+      "6a9585f1b479cd2d026f6fc0"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1601,7 +1603,10 @@
       "108358080",
       "108362191",
       "108362188",
-      "108362230"
+      "108362230",
+      "108362277",
+      "108362283",
+      "108362285"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2326,7 +2331,8 @@
       "https://canaltech.com.br/inteligencia-artificial/como-a-ia-pode-impactar-negativamente-as-eleicoes-2026/",
       "https://canaltech.com.br/inteligencia-artificial/dicas-para-economizar-nao-gastar-tokens-plano-de-ia/",
       "https://canaltech.com.br/entretenimento/vezes-que-ficcao-cientifica-acertou-sobre-ia/",
-      "https://canaltech.com.br/carros/como-sao-os-semaforos-inteligentes-que-usam-algoritmos-e-ia-para-acabar-com-o-transito/"
+      "https://canaltech.com.br/carros/como-sao-os-semaforos-inteligentes-que-usam-algoritmos-e-ia-para-acabar-com-o-transito/",
+      "https://canaltech.com.br/apps/como-gravar-transcrever-e-resumir-reunioes-com-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2588,7 +2594,9 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/12/altman-e-musk-concordam-com-ceo-da-anthropic-sobre-desacelerar-desenvolvimento-da-ia.htm",
       "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/09/13/ia-extinguira-humanos-risco-supea-10-na-proxima-decada-diz-especialista.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/13/estatisticas-fresquinhas-de-ia-que-voce-precisa-saber-hoje.htm",
-      "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/13/trump-minimiza-apelos-de-big-techs-para-frear-ia-e-diz-que-eua-nao-podem-ficar-atras-da-china.htm"
+      "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/13/trump-minimiza-apelos-de-big-techs-para-frear-ia-e-diz-que-eua-nao-podem-ficar-atras-da-china.htm",
+      "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/09/14/mpf-e-dpu-vao-a-justica-para-barrar-data-center-de-r-200-bi-do-tiktok.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/14/acoes-ligadas-a-ia-despencam-apos-ceos-das-principais-empresas-do-setor-pedirem-desaceleracao-no-desenvolvimento.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2789,82 +2797,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bearing",
-      "claude",
-      "fable",
-      "language",
-      "less",
-      "load",
-      "predecessor",
-      "than"
-    ],
-    [
-      "allow",
-      "enabling",
-      "keeps",
-      "openai",
-      "setting",
-      "tell",
-      "training"
-    ],
-    [
-      "advertisers",
-      "amazon",
-      "boost",
-      "business",
-      "chatgpt",
-      "gives",
-      "into",
-      "letting",
-      "openai"
-    ],
-    [
-      "chesky",
-      "communacopia",
-      "humans",
-      "need",
-      "rather",
-      "surf",
-      "swallowed",
-      "than",
-      "wave"
-    ],
-    [
-      "juiz",
-      "medico",
-      "pescador"
-    ],
-    [
-      "alerta",
-      "conselheiro",
-      "controle",
-      "openai",
-      "pode",
-      "sair"
-    ],
-    [
-      "anthropic",
-      "cede",
-      "ciberseguranca",
-      "europeus",
-      "libera",
-      "mythos",
-      "orgaos",
-      "pressao",
-      "testes"
-    ],
-    [
-      "dias",
-      "maturidade",
-      "meat",
-      "porque",
-      "proxy",
-      "significa",
-      "todos",
-      "trabalhar",
-      "usar"
-    ],
     [
       "autorizacao",
       "clandestina",
@@ -4627,6 +4559,84 @@
       "second",
       "shares",
       "tumble"
+    ],
+    [
+      "altman",
+      "calls",
+      "continue",
+      "development",
+      "pacing",
+      "progress",
+      "promises",
+      "rapid",
+      "will"
+    ],
+    [
+      "chatbots",
+      "custom",
+      "fiction",
+      "like",
+      "meet",
+      "people",
+      "using",
+      "wife",
+      "write"
+    ],
+    [
+      "after",
+      "ceos",
+      "major",
+      "slide",
+      "slowdown",
+      "stocks",
+      "unite",
+      "urge"
+    ],
+    [
+      "altman",
+      "boss",
+      "control",
+      "could",
+      "down",
+      "industry",
+      "lose",
+      "openai",
+      "slow",
+      "spells",
+      "wants"
+    ],
+    [
+      "call",
+      "ceos",
+      "china",
+      "fear",
+      "mongering",
+      "slowdown"
+    ],
+    [
+      "gravar",
+      "resumir",
+      "reunioes",
+      "transcrever"
+    ],
+    [
+      "barrar",
+      "center",
+      "data",
+      "justica",
+      "tiktok"
+    ],
+    [
+      "acoes",
+      "ceos",
+      "desaceleracao",
+      "desenvolvimento",
+      "despencam",
+      "empresas",
+      "ligadas",
+      "pedirem",
+      "principais",
+      "setor"
     ]
   ]
 }
