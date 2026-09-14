@@ -1600,7 +1600,8 @@
       "108362179",
       "108358080",
       "108362191",
-      "108362188"
+      "108362188",
+      "108362230"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2788,14 +2789,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "astra",
-      "breather",
-      "design",
-      "gives",
-      "mathematicians",
-      "openai"
-    ],
     [
       "bearing",
       "claude",
@@ -4622,6 +4615,18 @@
       "fable",
       "solves",
       "year"
+    ],
+    [
+      "after",
+      "billion",
+      "fundraising",
+      "major",
+      "months",
+      "over",
+      "raise",
+      "second",
+      "shares",
+      "tumble"
     ]
   ]
 }
