@@ -257,7 +257,9 @@
       "https://x.ai/news/designing-grok-bot",
       "https://x.ai/news/grok-bot-for-enterprise",
       "https://x.ai/news/grok-bot-for-enterprise-og",
-      "https://x.ai/news/grok-bot-procurement"
+      "https://x.ai/news/grok-bot-procurement",
+      "https://x.ai/news/grok-bot-procurement-og-split",
+      "https://x.ai/news/grok-bot-for-enterprise-og-split"
     ],
     "mistral_news": [
       "https://mistral.ai/news/vibe-agent",
@@ -706,7 +708,8 @@
       "https://www.theverge.com/?p=994441",
       "https://www.theverge.com/?p=994566",
       "https://www.theverge.com/?p=995079",
-      "https://www.theverge.com/?p=995141"
+      "https://www.theverge.com/?p=995141",
+      "https://www.theverge.com/?p=995186"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1324,7 +1327,8 @@
       "6a9610144f68b90001e85e1f",
       "6a99f86c55ee7500014f71bf",
       "6aa09f3cf105c10001086ec8",
-      "6aa344a64b93b60001265a41"
+      "6aa344a64b93b60001265a41",
+      "6aa87bb088e4080001e715af"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -1644,7 +1648,8 @@
       "108362582",
       "108362653",
       "108362696",
-      "108362673"
+      "108362673",
+      "108362348"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2880,75 +2885,12 @@
       "https://www.mobiletime.com.br/?p=863632",
       "https://www.mobiletime.com.br/?p=863722",
       "https://www.mobiletime.com.br/?p=863809",
-      "https://www.mobiletime.com.br/?p=863865"
+      "https://www.mobiletime.com.br/?p=863865",
+      "https://www.mobiletime.com.br/?p=863887",
+      "https://www.mobiletime.com.br/?p=863898"
     ]
   },
   "_titulos_recentes": [
-    [
-      "billion",
-      "chatgpt",
-      "online",
-      "over",
-      "rapidly",
-      "scaling",
-      "serve",
-      "storage",
-      "users"
-    ],
-    [
-      "adds",
-      "ahead",
-      "board",
-      "exec",
-      "fidji",
-      "former",
-      "nscale",
-      "openai",
-      "potential",
-      "simo"
-    ],
-    [
-      "8217",
-      "after",
-      "changing",
-      "invasive",
-      "meta",
-      "personal",
-      "posing",
-      "questions",
-      "suggestions"
-    ],
-    [
-      "anthropic",
-      "cybersecurity",
-      "over",
-      "spent",
-      "water",
-      "week"
-    ],
-    [
-      "chinese",
-      "claude",
-      "data",
-      "drone",
-      "hackers",
-      "labs",
-      "mined",
-      "missiles",
-      "surveillance",
-      "swarms",
-      "training",
-      "used",
-      "while"
-    ],
-    [
-      "critics",
-      "distract",
-      "doom",
-      "fiercest",
-      "meant",
-      "talk"
-    ],
     [
       "agents",
       "openai"
@@ -4733,6 +4675,50 @@
       "foco",
       "grandes",
       "nosso"
+    ],
+    [
+      "grok",
+      "loose",
+      "procurement",
+      "setting"
+    ],
+    [
+      "grok"
+    ],
+    [
+      "cartel",
+      "pact",
+      "safety",
+      "slowdown",
+      "tech"
+    ],
+    [
+      "doesn",
+      "following",
+      "government",
+      "regulate",
+      "want"
+    ],
+    [
+      "alternatives",
+      "backs",
+      "boom",
+      "chip",
+      "funding",
+      "million",
+      "nvidia",
+      "rival",
+      "round",
+      "samsung"
+    ],
+    [
+      "alta",
+      "avanco",
+      "esta",
+      "inflexao",
+      "mundo",
+      "ponto",
+      "velocidade"
     ]
   ]
 }
