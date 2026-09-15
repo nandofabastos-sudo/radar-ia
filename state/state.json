@@ -579,7 +579,8 @@
       "https://techcrunch.com/?p=3164419",
       "https://techcrunch.com/?p=3164442",
       "https://techcrunch.com/?p=3162590",
-      "https://techcrunch.com/?p=3164453"
+      "https://techcrunch.com/?p=3164453",
+      "https://techcrunch.com/?p=3164506"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1484,7 +1485,8 @@
       "https://news.ycombinator.com/item?id=49685253",
       "https://news.ycombinator.com/item?id=49688695",
       "https://news.ycombinator.com/item?id=49695876",
-      "https://news.ycombinator.com/item?id=49704132"
+      "https://news.ycombinator.com/item?id=49704132",
+      "https://news.ycombinator.com/item?id=49717558"
     ]
   },
   "mercado": {
@@ -1695,7 +1697,10 @@
       "108362993",
       "108363119",
       "108363003",
-      "108362990"
+      "108362990",
+      "108363352",
+      "108363282",
+      "108363344"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2122,7 +2127,8 @@
       "https://olhardigital.com.br/?p=1372920",
       "https://olhardigital.com.br/?p=1373015",
       "https://olhardigital.com.br/?p=1373044",
-      "https://olhardigital.com.br/?p=1373092"
+      "https://olhardigital.com.br/?p=1373092",
+      "https://olhardigital.com.br/?p=1373179"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2747,7 +2753,11 @@
       "https://www.uol.com.br/flash/?c=6aa81d35162bc0428c97d668",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/14/trump-classifica-como-farsa-temor-de-que-ia-pode-destruir-humanidade.htm",
       "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/15/esta-nos-deixando-mais-burros-populacao-mundial-divide-opinioes-sobre-a-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/15/e-preciso-limitar-ia-agora-ou-humanidade-perdera-autonomia-diz-ganhadora-do-nobel.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/15/e-preciso-limitar-ia-agora-ou-humanidade-perdera-autonomia-diz-ganhadora-do-nobel.htm",
+      "https://www.uol.com.br/flash/?c=6aa9886e7f8851332e25bd46",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/15/openai-anthropic-e-google-buscam-criar-orgao-de-supervisao-de-riscos-da-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/15/bernie-sanders-e-bannon-steve-pedem-restricoes-a-ia-em-meio-a-inseguranca-popular.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/15/nova-guerra-fria-como-alertas-sobre-ia-uniram-mentor-de-bolsonaro-e-socialista.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2960,79 +2970,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "brakes",
-      "pump",
-      "time"
-    ],
-    [
-      "alerta",
-      "anthropic",
-      "dominar",
-      "freio",
-      "internet",
-      "pede",
-      "pode",
-      "tecnologia"
-    ],
-    [
-      "claude",
-      "editar",
-      "memoria"
-    ],
-    [
-      "anthropic",
-      "defende",
-      "desacelerar",
-      "parar",
-      "poderosa",
-      "progresso"
-    ],
-    [
-      "anthropic",
-      "contencao",
-      "desenvolvimento",
-      "indevido",
-      "modelos",
-      "pede",
-      "receio"
-    ],
-    [
-      "altman",
-      "anthropic",
-      "concordam",
-      "desacelerar",
-      "desenvolvimento",
-      "musk"
-    ],
-    [
-      "2026",
-      "advised",
-      "altman",
-      "openai",
-      "public",
-      "would"
-    ],
-    [
-      "maquina",
-      "soberania"
-    ],
-    [
-      "2026",
-      "eleicoes",
-      "impactar",
-      "negativamente",
-      "pode"
-    ],
-    [
-      "another",
-      "company",
-      "hack",
-      "openai",
-      "rogue",
-      "tried"
-    ],
     [
       "claims",
       "concerns",
@@ -4816,6 +4753,103 @@
       "redes",
       "sociais",
       "uniao"
+    ],
+    [
+      "boom",
+      "center",
+      "cities",
+      "colliding",
+      "data",
+      "industry",
+      "scarred"
+    ],
+    [
+      "introducing",
+      "models",
+      "system"
+    ],
+    [
+      "attending",
+      "china",
+      "dinner",
+      "huang",
+      "nvidia",
+      "source",
+      "state",
+      "trump"
+    ],
+    [
+      "anthropic",
+      "antitrust",
+      "completely",
+      "huang",
+      "nvidia",
+      "proposal",
+      "rips",
+      "safety",
+      "unnecessary",
+      "waiver"
+    ],
+    [
+      "about",
+      "benioff",
+      "chorus",
+      "growing",
+      "joins",
+      "leaders",
+      "marc",
+      "risks",
+      "salesforce",
+      "tech",
+      "warning"
+    ],
+    [
+      "conversa",
+      "enquanto",
+      "gemini",
+      "google",
+      "lanca",
+      "raciocina",
+      "versao"
+    ],
+    [
+      "branca",
+      "casa",
+      "chega",
+      "evolucao",
+      "polemica",
+      "reage",
+      "trump"
+    ],
+    [
+      "anthropic",
+      "buscam",
+      "criar",
+      "google",
+      "openai",
+      "orgao",
+      "riscos",
+      "supervisao"
+    ],
+    [
+      "bannon",
+      "bernie",
+      "inseguranca",
+      "meio",
+      "pedem",
+      "popular",
+      "restricoes",
+      "sanders",
+      "steve"
+    ],
+    [
+      "alertas",
+      "bolsonaro",
+      "fria",
+      "guerra",
+      "mentor",
+      "socialista",
+      "unem"
     ]
   ]
 }
