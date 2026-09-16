@@ -289,7 +289,8 @@
       "https://mistral.ai/news/mistral-x-humain",
       "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
       "https://mistral.ai/news/legacy-code-modernization",
-      "https://mistral.ai/news/mistral-x-cloudera"
+      "https://mistral.ai/news/mistral-x-cloudera",
+      "https://mistral.ai/news/mistral-x-mozilla"
     ]
   },
   "imprensa": {
@@ -582,7 +583,8 @@
       "https://techcrunch.com/?p=3162590",
       "https://techcrunch.com/?p=3164453",
       "https://techcrunch.com/?p=3164506",
-      "https://techcrunch.com/?p=3164495"
+      "https://techcrunch.com/?p=3164495",
+      "https://techcrunch.com/?p=3164327"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1011,7 +1013,8 @@
       "https://the-decoder.com/?p=40254",
       "https://the-decoder.com/?p=40258",
       "https://the-decoder.com/?p=40252",
-      "https://the-decoder.com/?p=40265"
+      "https://the-decoder.com/?p=40265",
+      "https://the-decoder.com/?p=40269"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1342,7 +1345,8 @@
       "6aa2cc3ca59cde6c55448869",
       "6aa7ba5ebd1baa3b3b2e94a7",
       "6aa7fa05ee6aa1b9c0aa69d0",
-      "6aa43111edca0293d40e617f"
+      "6aa43111edca0293d40e617f",
+      "6aa82f6b6d59a577994203c4"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1802,7 +1806,8 @@
       "https://news.crunchbase.com/?p=94066",
       "https://news.crunchbase.com/?p=94074",
       "https://news.crunchbase.com/?p=94084",
-      "https://news.crunchbase.com/?p=94082"
+      "https://news.crunchbase.com/?p=94082",
+      "https://news.crunchbase.com/?p=94087"
     ]
   },
   "brasil": {
@@ -1864,7 +1869,9 @@
       "https://mittechreview.com.br/?p=267204",
       "https://mittechreview.com.br/?p=267568",
       "https://mittechreview.com.br/?p=267555",
-      "https://mittechreview.com.br/?p=267502"
+      "https://mittechreview.com.br/?p=267502",
+      "https://mittechreview.com.br/?p=268751",
+      "https://mittechreview.com.br/?p=268764"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1359187",
@@ -2137,7 +2144,8 @@
       "https://olhardigital.com.br/?p=1373179",
       "https://olhardigital.com.br/?p=1373178",
       "https://olhardigital.com.br/?p=1373140",
-      "https://olhardigital.com.br/?p=1373208"
+      "https://olhardigital.com.br/?p=1373208",
+      "https://olhardigital.com.br/?p=1373322"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2240,7 +2248,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=931968",
       "https://tecnoblog.net/?post_type=noticias&p=931946",
       "https://tecnoblog.net/?post_type=responde&p=932027",
-      "https://tecnoblog.net/?post_type=noticias&p=932361"
+      "https://tecnoblog.net/?post_type=noticias&p=932361",
+      "https://tecnoblog.net/?post_type=noticias&p=932943"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -2478,7 +2487,8 @@
       "https://canaltech.com.br/carros/radares-com-inteligencia-artificial-aplicam-mais-de-2-mil-multas-em-um-mes-em-sp/",
       "https://canaltech.com.br/inteligencia-artificial/criminosos-precisam-so-de-10-segundos-para-clonar-sua-voz-com-ia-e-aplicar-golpes/",
       "https://canaltech.com.br/mercado/brasileiros-aceitam-ia-nas-compras-mas-querem-manter-controle-revela-estudo/",
-      "https://canaltech.com.br/smartphone/celulares-devem-ficar-ainda-mais-caros-em-2027-devido-a-crise-causada-pela-ia/"
+      "https://canaltech.com.br/smartphone/celulares-devem-ficar-ainda-mais-caros-em-2027-devido-a-crise-causada-pela-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/bill-gates-propoe-acordo-inusitado-para-evitar-caos-com-ia-nao-estamos-preparados/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
@@ -2766,7 +2776,9 @@
       "https://www.uol.com.br/flash/?c=6aa9886e7f8851332e25bd46",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/15/openai-anthropic-e-google-buscam-criar-orgao-de-supervisao-de-riscos-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/15/bernie-sanders-e-bannon-steve-pedem-restricoes-a-ia-em-meio-a-inseguranca-popular.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/15/nova-guerra-fria-como-alertas-sobre-ia-uniram-mentor-de-bolsonaro-e-socialista.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/15/nova-guerra-fria-como-alertas-sobre-ia-uniram-mentor-de-bolsonaro-e-socialista.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/zuckerberg-afirma-que-laboratorios-de-ia-tem-incentivos-suficientes-para-desenvolver-tecnologias-com-seguranca.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/16/zuckerberg-rejeita-frear-ia-e-diz-que-mercado-garante-seguranca.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -2980,104 +2992,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agentes",
-      "empresa",
-      "estao",
-      "forma",
-      "governada",
-      "orquestrada",
-      "quantos",
-      "sabe",
-      "segura",
-      "trabalhando"
-    ],
-    [
-      "creditos",
-      "dicas",
-      "economizar",
-      "gastar",
-      "plano"
-    ],
-    [
-      "decada",
-      "especialista",
-      "extinguira",
-      "humanos",
-      "proxima",
-      "risco",
-      "supera"
-    ],
-    [
-      "deixar",
-      "fresquinhas",
-      "pensativo",
-      "pesquisas"
-    ],
-    [
-      "agents",
-      "class",
-      "iris",
-      "mini",
-      "open",
-      "search",
-      "strongest",
-      "their",
-      "weight"
-    ],
-    [
-      "available",
-      "elevenlabs",
-      "free",
-      "makes",
-      "music",
-      "options",
-      "tier"
-    ],
-    [
-      "american",
-      "attention",
-      "drawing",
-      "more",
-      "potential",
-      "pressure",
-      "role",
-      "under",
-      "wages",
-      "workers"
-    ],
-    [
-      "amodei",
-      "anthropic",
-      "china",
-      "dilemma",
-      "presents",
-      "proposed",
-      "slowdown",
-      "toughest"
-    ],
-    [
-      "2026",
-      "altman",
-      "fara",
-      "openai",
-      "questoes",
-      "seguranca"
-    ],
-    [
-      "acertou",
-      "cientifica",
-      "ficcao",
-      "vezes"
-    ],
-    [
-      "acabar",
-      "algoritmos",
-      "inteligentes",
-      "semaforos",
-      "transito",
-      "usam"
-    ],
     [
       "clear",
       "democrats",
@@ -4868,6 +4782,96 @@
       "ferramentas",
       "usam",
       "visa"
+    ],
+    [
+      "mistral"
+    ],
+    [
+      "alexa",
+      "amazon",
+      "hindi",
+      "india",
+      "launches",
+      "support"
+    ],
+    [
+      "2024",
+      "already",
+      "back",
+      "expected",
+      "extinction",
+      "five",
+      "nearly",
+      "researchers",
+      "scenario"
+    ],
+    [
+      "buying",
+      "call",
+      "china",
+      "silicon",
+      "slowdown",
+      "valley"
+    ],
+    [
+      "hard",
+      "ipos",
+      "software",
+      "year"
+    ],
+    [
+      "algoritmo",
+      "eleicoes",
+      "eleitoral",
+      "santinho",
+      "serie"
+    ],
+    [
+      "cante",
+      "musico",
+      "novamente",
+      "perder",
+      "permite"
+    ],
+    [
+      "agentes",
+      "antes",
+      "ataque",
+      "face",
+      "hugging",
+      "julho",
+      "openai",
+      "testando",
+      "teve"
+    ],
+    [
+      "acordo",
+      "bill",
+      "caos",
+      "estamos",
+      "evitar",
+      "gates",
+      "inusitado",
+      "preparados",
+      "propoe"
+    ],
+    [
+      "afirma",
+      "desenvolver",
+      "incentivos",
+      "laboratorios",
+      "seguranca",
+      "suficientes",
+      "tecnologias",
+      "zuckerberg"
+    ],
+    [
+      "frear",
+      "garante",
+      "mercado",
+      "rejeita",
+      "seguranca",
+      "zuckerberg"
     ]
   ]
 }
