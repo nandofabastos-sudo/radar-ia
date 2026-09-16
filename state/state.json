@@ -227,7 +227,8 @@
       "https://blogs.nvidia.com/?p=98202",
       "https://blogs.nvidia.com/?p=98260",
       "https://blogs.nvidia.com/?p=98178",
-      "https://blogs.nvidia.com/?p=98194"
+      "https://blogs.nvidia.com/?p=98194",
+      "https://blogs.nvidia.com/?p=98313"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -1488,7 +1489,8 @@
       "https://news.ycombinator.com/item?id=49688695",
       "https://news.ycombinator.com/item?id=49695876",
       "https://news.ycombinator.com/item?id=49704132",
-      "https://news.ycombinator.com/item?id=49717558"
+      "https://news.ycombinator.com/item?id=49717558",
+      "https://news.ycombinator.com/item?id=49715947"
     ]
   },
   "mercado": {
@@ -1703,7 +1705,8 @@
       "108363352",
       "108363282",
       "108363344",
-      "108362253"
+      "108362253",
+      "108363406"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2132,7 +2135,9 @@
       "https://olhardigital.com.br/?p=1373044",
       "https://olhardigital.com.br/?p=1373092",
       "https://olhardigital.com.br/?p=1373179",
-      "https://olhardigital.com.br/?p=1373178"
+      "https://olhardigital.com.br/?p=1373178",
+      "https://olhardigital.com.br/?p=1373140",
+      "https://olhardigital.com.br/?p=1373208"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2970,60 +2975,11 @@
       "https://www.mobiletime.com.br/?p=863809",
       "https://www.mobiletime.com.br/?p=863865",
       "https://www.mobiletime.com.br/?p=863887",
-      "https://www.mobiletime.com.br/?p=863898"
+      "https://www.mobiletime.com.br/?p=863898",
+      "https://www.mobiletime.com.br/?p=864007"
     ]
   },
   "_titulos_recentes": [
-    [
-      "banning",
-      "classrooms",
-      "finds",
-      "leaves",
-      "students",
-      "study",
-      "university",
-      "worse",
-      "year"
-    ],
-    [
-      "astra",
-      "business",
-      "drone",
-      "pilots",
-      "runs",
-      "surveillance"
-    ],
-    [
-      "agents",
-      "power",
-      "thirsty"
-    ],
-    [
-      "agents",
-      "cheating",
-      "coordinating",
-      "lying"
-    ],
-    [
-      "among",
-      "brics",
-      "china",
-      "cooperation",
-      "countries",
-      "foster",
-      "lead",
-      "take",
-      "tech",
-      "will"
-    ],
-    [
-      "agentes",
-      "deepmind",
-      "dentro",
-      "google",
-      "jogos",
-      "treina"
-    ],
     [
       "agentes",
       "empresa",
@@ -4860,6 +4816,58 @@
       "lados",
       "opostos",
       "tecnologia"
+    ],
+    [
+      "across",
+      "earth",
+      "forecast",
+      "manchester",
+      "nvidia",
+      "pollution",
+      "university",
+      "uses"
+    ],
+    [
+      "extended",
+      "gemini",
+      "live",
+      "thinking"
+    ],
+    [
+      "debate",
+      "huang",
+      "mark",
+      "meta",
+      "nvidia",
+      "safety",
+      "sides",
+      "slowdown",
+      "zuckerberg"
+    ],
+    [
+      "fala",
+      "milenio",
+      "problemas",
+      "resolveu"
+    ],
+    [
+      "critica",
+      "desaceleracao",
+      "laboratorios",
+      "mira",
+      "proposta",
+      "rivais",
+      "zuckerberg"
+    ],
+    [
+      "brasileiros",
+      "compras",
+      "consumidores",
+      "durante",
+      "estudo",
+      "ferramentas",
+      "usam",
+      "visa"
     ]
   ]
 }
