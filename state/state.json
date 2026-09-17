@@ -305,8 +305,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3148764",
-      "https://techcrunch.com/?p=3149151",
       "https://techcrunch.com/?p=3149128",
       "https://techcrunch.com/?p=3149254",
       "https://techcrunch.com/?p=3149146",
@@ -604,7 +602,9 @@
       "https://techcrunch.com/?p=3164815",
       "https://techcrunch.com/?p=3164427",
       "https://techcrunch.com/?p=3164997",
-      "https://techcrunch.com/?p=3165076"
+      "https://techcrunch.com/?p=3165076",
+      "https://techcrunch.com/?p=3165204",
+      "https://techcrunch.com/?p=3165213"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -767,7 +767,8 @@
       "https://www.theverge.com/?p=996310",
       "https://www.theverge.com/?p=996321",
       "https://www.theverge.com/?p=996470",
-      "https://www.theverge.com/?p=996499"
+      "https://www.theverge.com/?p=996499",
+      "https://www.theverge.com/?p=996078"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1535,7 +1536,8 @@
       "https://news.ycombinator.com/item?id=49717558",
       "https://news.ycombinator.com/item?id=49715947",
       "https://news.ycombinator.com/item?id=49715927",
-      "https://news.ycombinator.com/item?id=49723408"
+      "https://news.ycombinator.com/item?id=49723408",
+      "https://news.ycombinator.com/item?id=49724881"
     ]
   },
   "mercado": {
@@ -1761,7 +1763,8 @@
       "108364077",
       "108364127",
       "108364113",
-      "108363904"
+      "108363904",
+      "108363981"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1818,7 +1821,8 @@
       "https://techcrunch.com/?p=3163310",
       "https://techcrunch.com/?p=3152543",
       "https://techcrunch.com/?p=3164631",
-      "https://techcrunch.com/?post_type=tc_video&p=3164906"
+      "https://techcrunch.com/?post_type=tc_video&p=3164906",
+      "https://techcrunch.com/?p=3164644"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -2203,7 +2207,11 @@
       "https://olhardigital.com.br/?p=1373322",
       "https://olhardigital.com.br/?p=1373394",
       "https://olhardigital.com.br/?p=1373425",
-      "https://olhardigital.com.br/?p=1373536"
+      "https://olhardigital.com.br/?p=1373536",
+      "https://olhardigital.com.br/?p=1373587",
+      "https://olhardigital.com.br/?p=1373589",
+      "https://olhardigital.com.br/?p=1373574",
+      "https://olhardigital.com.br/?p=1373603"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2855,7 +2863,8 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/16/estamos-perdendo-o-controle-diz-pioneira-da-tecnologia-sobre-avanco-da-ia.htm",
       "https://www.uol.com.br/flash/?c=6aaaa6b7f2a0f76317f9065c",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/16/claude-cria-seu-proprio-word-e-expande-guerra-contra-microsoft-e-google.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/lideres-do-setor-de-tecnologia-e-governos-se-mostram-divididos-sobre-fim-do-mundo-pela-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/lideres-do-setor-de-tecnologia-e-governos-se-mostram-divididos-sobre-fim-do-mundo-pela-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/16/california-exige-que-anuncios-identifiquem-artistas-criados-por-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3074,103 +3083,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "aposta",
-      "emilia",
-      "investe",
-      "prosus",
-      "restaurantes",
-      "sobe"
-    ],
-    [
-      "2035",
-      "corporativos",
-      "lucros",
-      "movimentar",
-      "pode",
-      "trilhoes"
-    ],
-    [
-      "agente",
-      "empreendedor",
-      "prompt"
-    ],
-    [
-      "brasil",
-      "defende",
-      "metarregulacao",
-      "orlando",
-      "silva"
-    ],
-    [
-      "buys",
-      "camera",
-      "glass",
-      "imaging",
-      "maker",
-      "million",
-      "openai",
-      "report",
-      "smartphone"
-    ],
-    [
-      "going",
-      "happen",
-      "huang",
-      "jensen",
-      "nvidia",
-      "slowdown",
-      "tells",
-      "trump"
-    ],
-    [
-      "about",
-      "development",
-      "down",
-      "execs",
-      "politicians",
-      "saying",
-      "slowing",
-      "what"
-    ],
-    [
-      "bots",
-      "flooding",
-      "jackie",
-      "media",
-      "slop",
-      "social",
-      "timmy"
-    ],
-    [
-      "about",
-      "bots",
-      "caching",
-      "knew",
-      "openai",
-      "rubygems",
-      "vulnerability"
-    ],
-    [
-      "calls",
-      "center",
-      "data",
-      "hoax",
-      "huang",
-      "nvidia",
-      "opposition",
-      "phones",
-      "summit",
-      "trump"
-    ],
-    [
-      "anthropic",
-      "bottle",
-      "crowdstrike",
-      "genie",
-      "safety",
-      "warning"
-    ],
     [
       "addresses",
       "anthropic",
@@ -4909,6 +4821,122 @@
       "outubro",
       "portugues",
       "siri"
+    ],
+    [
+      "about",
+      "centers",
+      "data",
+      "gore",
+      "industry",
+      "leaders",
+      "real",
+      "risk",
+      "warning",
+      "what"
+    ],
+    [
+      "again",
+      "case",
+      "glasses",
+      "make",
+      "smart",
+      "snap",
+      "tries"
+    ],
+    [
+      "coming",
+      "launching",
+      "snap",
+      "specs",
+      "tool"
+    ],
+    [
+      "announces",
+      "native",
+      "nvidia",
+      "programming",
+      "rust"
+    ],
+    [
+      "bring",
+      "enterprise",
+      "glasses",
+      "market",
+      "nvidia",
+      "partnering",
+      "salesforce",
+      "snap",
+      "tries"
+    ],
+    [
+      "2026",
+      "agent",
+      "changes",
+      "disrupt",
+      "explain",
+      "gusto",
+      "insight",
+      "leland",
+      "might",
+      "next",
+      "partners",
+      "startup",
+      "teammate",
+      "techcrunch",
+      "what",
+      "your"
+    ],
+    [
+      "critica",
+      "debate",
+      "decisoes",
+      "humanas",
+      "leao",
+      "meio",
+      "papa",
+      "seguranca",
+      "tecnologia"
+    ],
+    [
+      "burlar",
+      "casos",
+      "dados",
+      "erros",
+      "esconder",
+      "inventar",
+      "novos",
+      "openai",
+      "seis",
+      "tentaram",
+      "testes"
+    ],
+    [
+      "acelera",
+      "amanha",
+      "cautela",
+      "descompasso",
+      "entre",
+      "olhar",
+      "pede",
+      "quem"
+    ],
+    [
+      "altman",
+      "disputa",
+      "global",
+      "jantar",
+      "jinping",
+      "meio",
+      "pela",
+      "trump"
+    ],
+    [
+      "anuncios",
+      "artistas",
+      "california",
+      "criados",
+      "exige",
+      "identifiquem"
     ]
   ]
 }
