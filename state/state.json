@@ -307,10 +307,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3151503",
-      "https://techcrunch.com/?p=3151570",
-      "https://techcrunch.com/?p=3151655",
-      "https://techcrunch.com/?p=3151767",
       "https://techcrunch.com/?p=3151799",
       "https://techcrunch.com/?p=3151643",
       "https://techcrunch.com/?p=3151819",
@@ -606,7 +602,11 @@
       "https://techcrunch.com/?p=3164863",
       "https://techcrunch.com/?p=3165059",
       "https://techcrunch.com/?p=3165707",
-      "https://techcrunch.com/?p=3165739"
+      "https://techcrunch.com/?p=3165739",
+      "https://techcrunch.com/?p=3165784",
+      "https://techcrunch.com/?p=3165541",
+      "https://techcrunch.com/?p=3165803",
+      "https://techcrunch.com/?p=3165830"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1156,7 +1156,8 @@
       "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
       "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
       "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"
+      "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1406,7 +1407,8 @@
       "6aa7f834acf46bff2d9b3648",
       "6aaadab9f7b6740fa1cfa011",
       "6aaae0665ca28e1671fc4400",
-      "6aaaac63b59fdcc43578b89d"
+      "6aaaac63b59fdcc43578b89d",
+      "6aaafc193814031c9547cb9e"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1794,7 +1796,8 @@
       "108363889",
       "108364460",
       "108362832",
-      "108363793"
+      "108363793",
+      "108364666"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1853,7 +1856,8 @@
       "https://techcrunch.com/?p=3164631",
       "https://techcrunch.com/?post_type=tc_video&p=3164906",
       "https://techcrunch.com/?p=3164644",
-      "https://techcrunch.com/?p=3165085"
+      "https://techcrunch.com/?p=3165085",
+      "https://techcrunch.com/?p=3165541"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -2612,7 +2616,8 @@
       "https://canaltech.com.br/inteligencia-artificial/claude-faz-fusao-importante-de-ferramentas-para-combater-office-e-google/",
       "https://canaltech.com.br/apps/ifood-lanca-ia-que-ajuda-restaurantes-a-vender-mais-e-envia-relatorios-pelo-whatsapp/",
       "https://canaltech.com.br/carros/hyundai-usa-sustos-do-transito-real-para-ensinar-seus-carros-a-dirigir-sozinhos/",
-      "https://canaltech.com.br/inteligencia-artificial/pinterest-ganha-ia-que-muda-a-decoracao-do-seu-quarto-por-foto/"
+      "https://canaltech.com.br/inteligencia-artificial/pinterest-ganha-ia-que-muda-a-decoracao-do-seu-quarto-por-foto/",
+      "https://canaltech.com.br/inteligencia-artificial/claude-code-atualiza-projetos-para-executar-tarefas-com-multiplos-agentes-de-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/04/viagem-de-influenciadores-com-openai-vira-alvo-de-criticas-nas-redes.ghtm",
@@ -2979,7 +2984,8 @@
       "https://braziljournal.com/?p=102753",
       "https://braziljournal.com/?p=102815",
       "https://braziljournal.com/?p=102833",
-      "https://braziljournal.com/?p=103037"
+      "https://braziljournal.com/?p=103037",
+      "https://braziljournal.com/?p=103050"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -3132,91 +3138,11 @@
       "https://www.mobiletime.com.br/?p=863898",
       "https://www.mobiletime.com.br/?p=864007",
       "https://www.mobiletime.com.br/?p=864058",
-      "https://www.mobiletime.com.br/?p=864078"
+      "https://www.mobiletime.com.br/?p=864078",
+      "https://www.mobiletime.com.br/?p=864170"
     ]
   },
   "_titulos_recentes": [
-    [
-      "actor",
-      "lives",
-      "matter",
-      "norwood",
-      "tilly",
-      "told"
-    ],
-    [
-      "anthropic",
-      "behind",
-      "firm",
-      "hacking",
-      "meta",
-      "openai",
-      "scandals",
-      "single"
-    ],
-    [
-      "anthropic",
-      "collaboration",
-      "discussing",
-      "google",
-      "issues",
-      "openai",
-      "safety"
-    ],
-    [
-      "emphasizes",
-      "friar",
-      "need",
-      "openai",
-      "risks",
-      "safety",
-      "sarah",
-      "seriously",
-      "take"
-    ],
-    [
-      "camps",
-      "debate",
-      "emerged",
-      "have",
-      "over",
-      "regulation",
-      "safety"
-    ],
-    [
-      "facial",
-      "fotos",
-      "instagram",
-      "meta",
-      "processada",
-      "publicas",
-      "reconhecimento",
-      "suposto"
-    ],
-    [
-      "avanca",
-      "chatbots",
-      "europeia",
-      "menores",
-      "proibicao",
-      "redes",
-      "sociais",
-      "uniao"
-    ],
-    [
-      "boom",
-      "center",
-      "cities",
-      "colliding",
-      "data",
-      "industry",
-      "scarred"
-    ],
-    [
-      "introducing",
-      "models",
-      "system"
-    ],
     [
       "attending",
       "china",
@@ -4996,6 +4922,86 @@
       "inteligencia",
       "possivel",
       "realmente"
+    ],
+    [
+      "875m",
+      "plan",
+      "traffic",
+      "worth"
+    ],
+    [
+      "change",
+      "hopes",
+      "prismml",
+      "tiny",
+      "will"
+    ],
+    [
+      "build",
+      "centers",
+      "crusoe",
+      "data",
+      "factories",
+      "massive",
+      "modular",
+      "raises",
+      "small"
+    ],
+    [
+      "attack",
+      "autonomously",
+      "battlefield",
+      "drones",
+      "identify",
+      "models",
+      "small",
+      "targets"
+    ],
+    [
+      "apocalypse",
+      "could",
+      "here",
+      "like",
+      "look",
+      "what"
+    ],
+    [
+      "anthropic",
+      "companies",
+      "development",
+      "help",
+      "metrics",
+      "monitor",
+      "pace",
+      "shares"
+    ],
+    [
+      "agentes",
+      "atualiza",
+      "claude",
+      "code",
+      "executar",
+      "multiplos",
+      "projetos",
+      "tarefas"
+    ],
+    [
+      "agentes",
+      "empresa",
+      "opiniao",
+      "pessoais",
+      "prepare",
+      "vive"
+    ],
+    [
+      "brasil",
+      "conjunto",
+      "debate",
+      "lanca",
+      "medidas",
+      "nortear",
+      "redes",
+      "sociais"
     ]
   ]
 }
