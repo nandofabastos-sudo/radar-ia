@@ -305,8 +305,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3149128",
-      "https://techcrunch.com/?p=3149254",
       "https://techcrunch.com/?p=3149146",
       "https://techcrunch.com/?p=3148841",
       "https://techcrunch.com/?p=3149421",
@@ -604,7 +602,9 @@
       "https://techcrunch.com/?p=3164997",
       "https://techcrunch.com/?p=3165076",
       "https://techcrunch.com/?p=3165204",
-      "https://techcrunch.com/?p=3165213"
+      "https://techcrunch.com/?p=3165213",
+      "https://techcrunch.com/?p=3164644",
+      "https://techcrunch.com/?p=3161035"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1764,7 +1764,8 @@
       "108364127",
       "108364113",
       "108363904",
-      "108363981"
+      "108363981",
+      "108363426"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2211,7 +2212,8 @@
       "https://olhardigital.com.br/?p=1373587",
       "https://olhardigital.com.br/?p=1373589",
       "https://olhardigital.com.br/?p=1373574",
-      "https://olhardigital.com.br/?p=1373603"
+      "https://olhardigital.com.br/?p=1373603",
+      "https://olhardigital.com.br/?p=1373625"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2565,7 +2567,6 @@
       "https://canaltech.com.br/mercado/ifood-prepara-investida-contra-rivais-chineses-com-ia-e-entrega-turbo/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/08/03/agentes-de-ia-invadem-whatsapp-e-sao-usados-por-1-milhao-no-brasil.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/03/openai-diz-que-nova-ia-resolveu-10-misterios-matematicos-em-novo-marco-da-tecnologia.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/03/casa-branca-convoca-empresas-de-ia-para-discutir-autorregulacao.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/04/deu-tilt-ep-78.ghtm",
@@ -2864,7 +2865,8 @@
       "https://www.uol.com.br/flash/?c=6aaaa6b7f2a0f76317f9065c",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/16/claude-cria-seu-proprio-word-e-expande-guerra-contra-microsoft-e-google.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/lideres-do-setor-de-tecnologia-e-governos-se-mostram-divididos-sobre-fim-do-mundo-pela-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/16/california-exige-que-anuncios-identifiquem-artistas-criados-por-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/16/california-exige-que-anuncios-identifiquem-artistas-criados-por-ia.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/17/sem-chat-e-quase-sem-custos-como-e-nova-ia-feita-pelo-cocriador-do-chatgpt.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3083,43 +3085,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "addresses",
-      "anthropic",
-      "broadcom",
-      "changed",
-      "haven",
-      "push",
-      "revenue",
-      "slowdown",
-      "targets"
-    ],
-    [
-      "abrir",
-      "capital",
-      "falta",
-      "finalmente",
-      "openai"
-    ],
-    [
-      "camera",
-      "celular",
-      "dispositivo",
-      "estar",
-      "openai",
-      "pode",
-      "preparando"
-    ],
-    [
-      "armas",
-      "aumentar",
-      "biologicas",
-      "corrida",
-      "dizem",
-      "especialistas",
-      "pode",
-      "risco"
-    ],
     [
       "astronomia",
       "desafios",
@@ -4937,6 +4902,47 @@
       "criados",
       "exige",
       "identifiquem"
+    ],
+    [
+      "based",
+      "iceland",
+      "million",
+      "platform",
+      "raises",
+      "simulation",
+      "treble",
+      "voice"
+    ],
+    [
+      "anthropic",
+      "chinese",
+      "combined",
+      "group",
+      "making",
+      "models",
+      "more",
+      "openai",
+      "research",
+      "revenue",
+      "rhodium",
+      "than",
+      "times"
+    ],
+    [
+      "centro",
+      "debate",
+      "esta",
+      "resumo",
+      "vaticano"
+    ],
+    [
+      "chat",
+      "chatgpt",
+      "cocriador",
+      "custos",
+      "feita",
+      "pelo",
+      "quase"
     ]
   ]
 }
