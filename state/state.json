@@ -1409,7 +1409,8 @@
       "6aaadab9f7b6740fa1cfa011",
       "6aaae0665ca28e1671fc4400",
       "6aaaac63b59fdcc43578b89d",
-      "6aaafc193814031c9547cb9e"
+      "6aaafc193814031c9547cb9e",
+      "6aa832d28fc669b965aa43c5"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1564,7 +1565,8 @@
       "https://news.ycombinator.com/item?id=49724881",
       "https://news.ycombinator.com/item?id=49737922",
       "https://news.ycombinator.com/item?id=49745940",
-      "https://news.ycombinator.com/item?id=49746163"
+      "https://news.ycombinator.com/item?id=49746163",
+      "https://news.ycombinator.com/item?id=49749656"
     ]
   },
   "mercado": {
@@ -2628,8 +2630,6 @@
       "https://canaltech.com.br/inteligencia-artificial/claude-code-atualiza-projetos-para-executar-tarefas-com-multiplos-agentes-de-ia/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/04/viagem-de-influenciadores-com-openai-vira-alvo-de-criticas-nas-redes.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/10/nvidia-e-gigantes-de-wall-street-articulam-fundo-de-us500-bi-para-infraestrutura-de-ia-diz-fonte.htm",
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/08/10/em-ensaio-zuckerberg-ve-ia-abundante-e-diz-que-mais-importante-sera-como-usa-la.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/10/openai-copia-anthropic-e-diz-que-proximo-modelo-do-chatgpt-e-perigoso-demais-para-ser-lancado.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/11/deu-tilt-ep-79.ghtm",
@@ -2927,7 +2927,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/17/especialistas-de-eua-e-china-propoem-para-ia-acoes-de-seguranca-semelhantes-as-do-setor-nuclear.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/17/ia-chinesa-nao-e-poderosa-o-bastante-para-identificar-riscos-de-ia-rebelde-diz-huawei.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/17/por-r-150-ja-e-possivel-contratar-um-robo-humanoide-para-fazer-faxina.ghtm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/17/e-realmente-possivel-desligar-uma-inteligencia-artificial.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/17/e-realmente-possivel-desligar-uma-inteligencia-artificial.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/18/os-estudos-que-mostram-que-a-ia-ja-tem-causado-rendicao-cognitiva-em-humanos.htm",
+      "https://www.uol.com.br/flash/?c=6aac2e84f2a0f7f58ef90840"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3151,44 +3153,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "huang",
-      "jensen",
-      "leave",
-      "need",
-      "nvidia",
-      "regulation",
-      "safety"
-    ],
-    [
-      "centers",
-      "data",
-      "every",
-      "incredibly",
-      "poll",
-      "unpopular"
-    ],
-    [
-      "direct",
-      "hynix",
-      "inside",
-      "korea",
-      "offering",
-      "programs",
-      "route",
-      "samsung",
-      "south",
-      "university"
-    ],
-    [
-      "acelerar",
-      "coloca",
-      "frear",
-      "gigantes",
-      "lados",
-      "opostos",
-      "tecnologia"
-    ],
     [
       "across",
       "earth",
@@ -4994,6 +4958,41 @@
       "inteligencia",
       "pesquisadores",
       "startup"
+    ],
+    [
+      "bioweapons",
+      "humanity",
+      "likely",
+      "wipe"
+    ],
+    [
+      "compromise",
+      "heap",
+      "internal",
+      "misconfiguration",
+      "openai",
+      "overflow",
+      "repos"
+    ],
+    [
+      "causa",
+      "cognitiva",
+      "estudos",
+      "humanos",
+      "mostram",
+      "rendicao"
+    ],
+    [
+      "chat",
+      "claude",
+      "coisa",
+      "dentro",
+      "isso",
+      "muda",
+      "muita",
+      "slides",
+      "tera",
+      "word"
     ]
   ]
 }
