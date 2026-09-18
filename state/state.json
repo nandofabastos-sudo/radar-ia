@@ -98,7 +98,8 @@
       "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "https://openai.com/index/model-misalignment-reporting-framework",
-      "https://openai.com/index/astra-for-law"
+      "https://openai.com/index/astra-for-law",
+      "https://openai.com/index/cooley-gopublic"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -1433,7 +1434,8 @@
       "6a99f86c55ee7500014f71bf",
       "6aa09f3cf105c10001086ec8",
       "6aa344a64b93b60001265a41",
-      "6aa87bb088e4080001e715af"
+      "6aa87bb088e4080001e715af",
+      "6aac80843f5c1600011de4e6"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -1560,7 +1562,9 @@
       "https://news.ycombinator.com/item?id=49715927",
       "https://news.ycombinator.com/item?id=49723408",
       "https://news.ycombinator.com/item?id=49724881",
-      "https://news.ycombinator.com/item?id=49737922"
+      "https://news.ycombinator.com/item?id=49737922",
+      "https://news.ycombinator.com/item?id=49745940",
+      "https://news.ycombinator.com/item?id=49746163"
     ]
   },
   "mercado": {
@@ -2258,7 +2262,11 @@
       "https://olhardigital.com.br/?p=1373828",
       "https://olhardigital.com.br/?p=1373862",
       "https://olhardigital.com.br/?p=1373875",
-      "https://olhardigital.com.br/?p=1373877"
+      "https://olhardigital.com.br/?p=1373877",
+      "https://olhardigital.com.br/?p=1373917",
+      "https://olhardigital.com.br/?p=1373880",
+      "https://olhardigital.com.br/?p=1373926",
+      "https://olhardigital.com.br/?p=1373928"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3143,89 +3151,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "attending",
-      "china",
-      "dinner",
-      "huang",
-      "nvidia",
-      "source",
-      "state",
-      "trump"
-    ],
-    [
-      "anthropic",
-      "antitrust",
-      "completely",
-      "huang",
-      "nvidia",
-      "proposal",
-      "rips",
-      "safety",
-      "unnecessary",
-      "waiver"
-    ],
-    [
-      "about",
-      "benioff",
-      "chorus",
-      "growing",
-      "joins",
-      "leaders",
-      "marc",
-      "risks",
-      "salesforce",
-      "tech",
-      "warning"
-    ],
-    [
-      "conversa",
-      "enquanto",
-      "gemini",
-      "google",
-      "lanca",
-      "raciocina",
-      "versao"
-    ],
-    [
-      "branca",
-      "casa",
-      "chega",
-      "evolucao",
-      "polemica",
-      "reage",
-      "trump"
-    ],
-    [
-      "anthropic",
-      "buscam",
-      "criar",
-      "google",
-      "openai",
-      "orgao",
-      "riscos",
-      "supervisao"
-    ],
-    [
-      "bannon",
-      "bernie",
-      "inseguranca",
-      "meio",
-      "pedem",
-      "popular",
-      "restricoes",
-      "sanders",
-      "steve"
-    ],
-    [
-      "alertas",
-      "bolsonaro",
-      "fria",
-      "guerra",
-      "mentor",
-      "socialista",
-      "unem"
-    ],
     [
       "huang",
       "jensen",
@@ -5002,6 +4927,73 @@
       "nortear",
       "redes",
       "sociais"
+    ],
+    [
+      "accelerating",
+      "chatgpt",
+      "cooley",
+      "work"
+    ],
+    [
+      "fork",
+      "hard",
+      "what"
+    ],
+    [
+      "astra"
+    ],
+    [
+      "bend",
+      "blocks",
+      "language",
+      "mistakes",
+      "proof"
+    ],
+    [
+      "anthropic",
+      "corrida",
+      "desenvolvimento",
+      "medir",
+      "metricas",
+      "pelo",
+      "revela",
+      "ritmo",
+      "tres"
+    ],
+    [
+      "autonoma",
+      "causa",
+      "dados",
+      "danos",
+      "digital",
+      "direito",
+      "pelos",
+      "quem",
+      "responde",
+      "vazamento"
+    ],
+    [
+      "acessar",
+      "claude",
+      "codigo",
+      "empresa",
+      "interno",
+      "invadir",
+      "openai",
+      "pesquisadores",
+      "sistema",
+      "usam"
+    ],
+    [
+      "artificial",
+      "avaliada",
+      "bilhoes",
+      "criam",
+      "deepmind",
+      "google",
+      "inteligencia",
+      "pesquisadores",
+      "startup"
     ]
   ]
 }
