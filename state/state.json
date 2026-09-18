@@ -99,7 +99,8 @@
       "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "https://openai.com/index/model-misalignment-reporting-framework",
       "https://openai.com/index/astra-for-law",
-      "https://openai.com/index/cooley-gopublic"
+      "https://openai.com/index/cooley-gopublic",
+      "https://openai.com/index/hex-gpt-6-astra"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -312,7 +313,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3152347",
       "https://techcrunch.com/?post_type=tc_video&p=3152427",
       "https://techcrunch.com/?p=3152358",
       "https://techcrunch.com/?p=3152464",
@@ -611,7 +611,8 @@
       "https://techcrunch.com/?p=3166205",
       "https://techcrunch.com/?p=3166240",
       "https://techcrunch.com/?p=3165837",
-      "https://techcrunch.com/?p=3166196"
+      "https://techcrunch.com/?p=3166196",
+      "https://techcrunch.com/?p=3166479"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -785,7 +786,8 @@
       "https://www.theverge.com/?p=997444",
       "https://www.theverge.com/?p=997358",
       "https://www.theverge.com/?p=997516",
-      "https://www.theverge.com/?p=997573"
+      "https://www.theverge.com/?p=997573",
+      "https://www.theverge.com/?p=997633"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38521",
@@ -1597,7 +1599,8 @@
       "https://news.ycombinator.com/item?id=49749656",
       "https://news.ycombinator.com/item?id=49752056",
       "https://news.ycombinator.com/item?id=49747925",
-      "https://news.ycombinator.com/item?id=49747070"
+      "https://news.ycombinator.com/item?id=49747070",
+      "https://news.ycombinator.com/item?id=49757520"
     ]
   },
   "mercado": {
@@ -1843,7 +1846,8 @@
       "108364882",
       "108364924",
       "108364015",
-      "108365054"
+      "108365054",
+      "108365158"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2320,7 +2324,9 @@
       "https://olhardigital.com.br/?p=1374085",
       "https://olhardigital.com.br/?p=1374096",
       "https://olhardigital.com.br/?p=1374159",
-      "https://olhardigital.com.br/?p=1374183"
+      "https://olhardigital.com.br/?p=1374183",
+      "https://olhardigital.com.br/?p=1374250",
+      "https://olhardigital.com.br/?p=1374258"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2682,10 +2688,10 @@
       "https://canaltech.com.br/carros/hyundai-usa-sustos-do-transito-real-para-ensinar-seus-carros-a-dirigir-sozinhos/",
       "https://canaltech.com.br/inteligencia-artificial/pinterest-ganha-ia-que-muda-a-decoracao-do-seu-quarto-por-foto/",
       "https://canaltech.com.br/inteligencia-artificial/claude-code-atualiza-projetos-para-executar-tarefas-com-multiplos-agentes-de-ia/",
-      "https://canaltech.com.br/mercado/onde-a-inteligencia-artificial-realmente-esta-mudando-o-varejo/"
+      "https://canaltech.com.br/mercado/onde-a-inteligencia-artificial-realmente-esta-mudando-o-varejo/",
+      "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-google-sera-estagiario-da-sua-casa-organizando-rotina-da-familia/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/11/claude-tera-marca-dagua-que-indica-se-texto-ou-arquivo-foi-criado-com-ia.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/11/china-aposta-na-previsao-meteorologica-com-ia-em-meio-a-eventos-extremos.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/12/o-que-mark-zuckerberg-realmente-quer-com-seu-mega-manifesto-sobre-futuro-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/assistente-de-ia-invade-sistema-de-academia-e-expoe-falha-na-australia.ghtm",
@@ -2984,7 +2990,8 @@
       "https://www.uol.com.br/flash/?c=6aad58e578c0469f7b9bca89",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/18/ira-e-china-usam-ia-para-criar-redes-de-contas-falsas.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/18/ia-encontra-falhas-e-acessa-camera-e-fotos-em-teste-no-tiktok.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/18/presidente-daopenai-fara-apresentacao-ao-conselho-de-seguranca-da-onu.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/18/presidente-daopenai-fara-apresentacao-ao-conselho-de-seguranca-da-onu.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/18/erro-em-relatorio-de-ia-quase-fez-eua-atacarem-e-abrirem-guerra-contra-china.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3212,76 +3219,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "apple",
-      "building",
-      "chips",
-      "enterprise",
-      "reportedly",
-      "server",
-      "ultra"
-    ],
-    [
-      "agents",
-      "coming",
-      "environment",
-      "escaping",
-      "just",
-      "president",
-      "preview",
-      "their",
-      "warns",
-      "what"
-    ],
-    [
-      "brain",
-      "generate",
-      "ideas",
-      "story",
-      "trained",
-      "wired"
-    ],
-    [
-      "anthropic",
-      "chief",
-      "code",
-      "companies",
-      "expected",
-      "honor",
-      "operate",
-      "policy"
-    ],
-    [
-      "artificial",
-      "camada",
-      "corporativa",
-      "custo",
-      "exige",
-      "infraestrutura",
-      "inteligencia",
-      "invisivel",
-      "legado"
-    ],
-    [
-      "destaques",
-      "esta",
-      "estes",
-      "fedora",
-      "linux",
-      "seus",
-      "vindo"
-    ],
-    [
-      "ceara",
-      "center",
-      "data",
-      "entidades",
-      "imediata",
-      "obras",
-      "paralisacao",
-      "pedem",
-      "tiktok"
-    ],
     [
       "avanco",
       "controle",
@@ -5090,6 +5027,73 @@
       "leitura",
       "personalizar",
       "recomendacoes"
+    ],
+    [
+      "analysis",
+      "astra",
+      "complex",
+      "into",
+      "reports",
+      "turns",
+      "visual"
+    ],
+    [
+      "accenture",
+      "anthropic",
+      "embedded",
+      "evaluator",
+      "first"
+    ],
+    [
+      "doom",
+      "knew",
+      "loop",
+      "microsoft",
+      "openai",
+      "starting",
+      "they",
+      "were"
+    ],
+    [
+      "after",
+      "call",
+      "close",
+      "hallucinated",
+      "intelligence",
+      "military",
+      "report",
+      "using"
+    ],
+    [
+      "anthropic",
+      "avaliadores",
+      "coloca",
+      "dentro",
+      "empresa",
+      "externos",
+      "modelos",
+      "seguranca",
+      "seus",
+      "testar"
+    ],
+    [
+      "casa",
+      "estagiario",
+      "familia",
+      "google",
+      "organizando",
+      "rotina",
+      "sera"
+    ],
+    [
+      "abrirem",
+      "atacarem",
+      "china",
+      "contra",
+      "erro",
+      "gerado",
+      "guerra",
+      "quase"
     ]
   ]
 }
