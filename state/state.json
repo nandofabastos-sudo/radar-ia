@@ -314,8 +314,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3152748",
-      "https://techcrunch.com/?p=3152844",
       "https://techcrunch.com/?p=3152849",
       "https://techcrunch.com/?p=3152914",
       "https://techcrunch.com/?p=3152875",
@@ -613,7 +611,9 @@
       "https://techcrunch.com/?p=3161565",
       "https://techcrunch.com/?p=3166491",
       "https://techcrunch.com/?p=3165814",
-      "https://techcrunch.com/?p=3162545"
+      "https://techcrunch.com/?p=3162545",
+      "https://techcrunch.com/?p=3166647",
+      "https://techcrunch.com/?p=3166662"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1615,7 +1615,8 @@
       "https://news.ycombinator.com/item?id=49747070",
       "https://news.ycombinator.com/item?id=49757520",
       "https://news.ycombinator.com/item?id=49760187",
-      "https://news.ycombinator.com/item?id=49764791"
+      "https://news.ycombinator.com/item?id=49764791",
+      "https://news.ycombinator.com/item?id=49763987"
     ]
   },
   "mercado": {
@@ -2046,7 +2047,6 @@
       "https://mittechreview.com.br/?p=269431"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1361967",
       "https://olhardigital.com.br/?p=1361991",
       "https://olhardigital.com.br/?p=1361844",
       "https://olhardigital.com.br/?p=1362053",
@@ -2345,7 +2345,8 @@
       "https://olhardigital.com.br/?p=1374070",
       "https://olhardigital.com.br/?p=1373467",
       "https://olhardigital.com.br/?p=1374422",
-      "https://olhardigital.com.br/?p=1374426"
+      "https://olhardigital.com.br/?p=1374426",
+      "https://olhardigital.com.br/?p=1374441"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2708,11 +2709,10 @@
       "https://canaltech.com.br/inteligencia-artificial/pinterest-ganha-ia-que-muda-a-decoracao-do-seu-quarto-por-foto/",
       "https://canaltech.com.br/inteligencia-artificial/claude-code-atualiza-projetos-para-executar-tarefas-com-multiplos-agentes-de-ia/",
       "https://canaltech.com.br/mercado/onde-a-inteligencia-artificial-realmente-esta-mudando-o-varejo/",
-      "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-google-sera-estagiario-da-sua-casa-organizando-rotina-da-familia/"
+      "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-google-sera-estagiario-da-sua-casa-organizando-rotina-da-familia/",
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-agentes-de-ia-pesquisas-planilhas/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/por-que-a-anthropic-decidiu-colocar-marca-dagua-em-textos-criados-pelo-claude.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/spacexai-lanca-grok-bot-agente-que-atua-como-colega-e-executa-tarefas.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/coo-historico-da-openai-brad-lightcap-deixa-empresa-e-planeja-novo-negocio.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/12/grupo-de-defesa-alemao-apresenta-queixa-criminal-contra-oculos-de-ia-da-meta.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/com-ia-para-robo-humanos-pensarao-duas-vezes-antes-de-bullying-com-maquina.ghtm",
@@ -3010,7 +3010,9 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/18/eua-newsom-assina-decreto-para-criar-interruptor-de-emergencia-para-a-ia.htm",
       "https://www.uol.com.br/flash/?c=6aad5e3278c046f0e39bca9d",
       "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/19/ia-da-google-hackeou-tres-empresas-durante-testes.htm",
-      "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/19/anthropic-e-accenture-investirao-ao-menos-us-2-bi-para-avaliar-seguranca-de-ia.htm"
+      "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/19/anthropic-e-accenture-investirao-ao-menos-us-2-bi-para-avaliar-seguranca-de-ia.htm",
+      "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/09/19/fmi-diz-a-ministros-da-ue-que-ia-pode-impulsionar-crescimento-mas-aumentar-tensoes-economicas.htm",
+      "https://economia.uol.com.br/noticias/redacao/2026/09/19/acao-acusa-openai-e-google-de-combinar-freio-no-desenvolvimento-de-ia.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3238,62 +3240,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "explosive",
-      "inside",
-      "safety",
-      "suddenly",
-      "world"
-    ],
-    [
-      "destroyer",
-      "feared",
-      "globally",
-      "jobs"
-    ],
-    [
-      "anthropic",
-      "making",
-      "microsoft",
-      "real",
-      "threats",
-      "worse"
-    ],
-    [
-      "astra",
-      "decrypts",
-      "hours",
-      "message",
-      "nazi",
-      "openai",
-      "radio",
-      "unsolved",
-      "went",
-      "years"
-    ],
-    [
-      "bubble",
-      "chart",
-      "debate",
-      "image",
-      "openrouter",
-      "single",
-      "staggering",
-      "token"
-    ],
-    [
-      "agent",
-      "codex",
-      "developer",
-      "gain",
-      "massive",
-      "openai",
-      "quality",
-      "swarms",
-      "tokens",
-      "waste",
-      "zero"
-    ],
     [
       "aren",
       "injections",
@@ -5103,6 +5049,60 @@
       "avaliar",
       "investirao",
       "seguranca"
+    ],
+    [
+      "also",
+      "creating",
+      "force",
+      "name",
+      "rebranding",
+      "suggests",
+      "trump"
+    ],
+    [
+      "astra",
+      "cipher",
+      "german",
+      "radio",
+      "solves"
+    ],
+    [
+      "acompanhar",
+      "anuncia",
+      "criacao",
+      "czar",
+      "forca",
+      "nomear",
+      "promete",
+      "tecnologia",
+      "trump"
+    ],
+    [
+      "agentes",
+      "automatizar",
+      "pesquisas",
+      "planilhas",
+      "plano",
+      "segundo",
+      "usar"
+    ],
+    [
+      "aumentar",
+      "crescimento",
+      "economicas",
+      "elevar",
+      "pode",
+      "tensoes"
+    ],
+    [
+      "acao",
+      "acusa",
+      "anthropic",
+      "combinarem",
+      "freio",
+      "google",
+      "openai",
+      "spacexai"
     ]
   ]
 }
