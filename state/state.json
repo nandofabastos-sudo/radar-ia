@@ -314,7 +314,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3152849",
       "https://techcrunch.com/?p=3152914",
       "https://techcrunch.com/?p=3152875",
       "https://techcrunch.com/?p=3152870",
@@ -613,7 +612,8 @@
       "https://techcrunch.com/?p=3165814",
       "https://techcrunch.com/?p=3162545",
       "https://techcrunch.com/?p=3166647",
-      "https://techcrunch.com/?p=3166662"
+      "https://techcrunch.com/?p=3166662",
+      "https://techcrunch.com/?p=3166668"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -791,7 +791,8 @@
       "https://www.theverge.com/?p=997633",
       "https://www.theverge.com/?p=997706",
       "https://www.theverge.com/?p=997382",
-      "https://www.theverge.com/?p=997795"
+      "https://www.theverge.com/?p=997795",
+      "https://www.theverge.com/?p=997833"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38525",
@@ -2047,8 +2048,6 @@
       "https://mittechreview.com.br/?p=269431"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1361991",
-      "https://olhardigital.com.br/?p=1361844",
       "https://olhardigital.com.br/?p=1362053",
       "https://olhardigital.com.br/?p=1362130",
       "https://olhardigital.com.br/?p=1362149",
@@ -2346,7 +2345,9 @@
       "https://olhardigital.com.br/?p=1373467",
       "https://olhardigital.com.br/?p=1374422",
       "https://olhardigital.com.br/?p=1374426",
-      "https://olhardigital.com.br/?p=1374441"
+      "https://olhardigital.com.br/?p=1374441",
+      "https://olhardigital.com.br/?p=1374454",
+      "https://olhardigital.com.br/?p=1374463"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2713,7 +2714,6 @@
       "https://canaltech.com.br/inteligencia-artificial/como-usar-agentes-de-ia-pesquisas-planilhas/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/coo-historico-da-openai-brad-lightcap-deixa-empresa-e-planeja-novo-negocio.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/12/grupo-de-defesa-alemao-apresenta-queixa-criminal-contra-oculos-de-ia-da-meta.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/com-ia-para-robo-humanos-pensarao-duas-vezes-antes-de-bullying-com-maquina.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/apple-negocia-acordos-com-jornais-para-dar-noticias-atuais-a-siri-com-ia.ghtm",
@@ -3012,7 +3012,8 @@
       "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/19/ia-da-google-hackeou-tres-empresas-durante-testes.htm",
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/19/anthropic-e-accenture-investirao-ao-menos-us-2-bi-para-avaliar-seguranca-de-ia.htm",
       "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/09/19/fmi-diz-a-ministros-da-ue-que-ia-pode-impulsionar-crescimento-mas-aumentar-tensoes-economicas.htm",
-      "https://economia.uol.com.br/noticias/redacao/2026/09/19/acao-acusa-openai-e-google-de-combinar-freio-no-desenvolvimento-de-ia.ghtm"
+      "https://economia.uol.com.br/noticias/redacao/2026/09/19/acao-acusa-openai-e-google-de-combinar-freio-no-desenvolvimento-de-ia.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/19/ceo-da-nvidia-diz-que-ia-tem-0-de-chance-de-acabar-com-o-mundo-ate-2030.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3240,55 +3241,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "aren",
-      "injections",
-      "into",
-      "kept",
-      "model",
-      "notes",
-      "openai",
-      "prompt",
-      "researchers",
-      "slipping",
-      "still",
-      "sure"
-    ],
-    [
-      "anthropic",
-      "charles",
-      "king",
-      "leaders",
-      "nvidia",
-      "openai",
-      "press",
-      "safety",
-      "summit"
-    ],
-    [
-      "boeing",
-      "concerning",
-      "incidents",
-      "investors",
-      "more",
-      "morning",
-      "openai",
-      "problems",
-      "production",
-      "spooks",
-      "squawk",
-      "warsh"
-    ],
-    [
-      "agentic",
-      "comp",
-      "compliance",
-      "continuously",
-      "eyes",
-      "future",
-      "security",
-      "sets"
-    ],
     [
       "cards",
       "deals",
@@ -5103,6 +5055,44 @@
       "google",
       "openai",
       "spacexai"
+    ],
+    [
+      "buyouts",
+      "employee",
+      "flock",
+      "reportedly",
+      "shrink",
+      "tries",
+      "workforce"
+    ],
+    [
+      "creepy",
+      "maybe",
+      "meta",
+      "muse",
+      "reasons",
+      "think"
+    ],
+    [
+      "acordo",
+      "acusadas",
+      "anthropic",
+      "avanco",
+      "fazer",
+      "frear",
+      "google",
+      "ilegal",
+      "openai",
+      "spacexai"
+    ],
+    [
+      "2030",
+      "acabar",
+      "artificial",
+      "chance",
+      "inteligencia",
+      "mundo",
+      "nvidia"
     ]
   ]
 }
