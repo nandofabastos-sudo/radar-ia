@@ -313,10 +313,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?post_type=tc_video&p=3152427",
-      "https://techcrunch.com/?p=3152358",
-      "https://techcrunch.com/?p=3152464",
-      "https://techcrunch.com/?p=3152082",
       "https://techcrunch.com/?p=3152463",
       "https://techcrunch.com/?p=3152544",
       "https://techcrunch.com/?p=3152533",
@@ -612,7 +608,11 @@
       "https://techcrunch.com/?p=3166240",
       "https://techcrunch.com/?p=3165837",
       "https://techcrunch.com/?p=3166196",
-      "https://techcrunch.com/?p=3166479"
+      "https://techcrunch.com/?p=3166479",
+      "https://techcrunch.com/?p=3166487",
+      "https://techcrunch.com/?p=3166494",
+      "https://techcrunch.com/?p=3166504",
+      "https://techcrunch.com/?p=3166409"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1600,7 +1600,8 @@
       "https://news.ycombinator.com/item?id=49752056",
       "https://news.ycombinator.com/item?id=49747925",
       "https://news.ycombinator.com/item?id=49747070",
-      "https://news.ycombinator.com/item?id=49757520"
+      "https://news.ycombinator.com/item?id=49757520",
+      "https://news.ycombinator.com/item?id=49760187"
     ]
   },
   "mercado": {
@@ -1847,7 +1848,8 @@
       "108364924",
       "108364015",
       "108365054",
-      "108365158"
+      "108365158",
+      "108365229"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -1910,7 +1912,8 @@
       "https://techcrunch.com/?p=3165541",
       "https://techcrunch.com/?p=3165970",
       "https://techcrunch.com/?post_type=tc_podcast&p=3166233",
-      "https://techcrunch.com/?p=3165837"
+      "https://techcrunch.com/?p=3165837",
+      "https://techcrunch.com/?p=3166504"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -2027,8 +2030,6 @@
       "https://mittechreview.com.br/?p=269431"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1359187",
-      "https://olhardigital.com.br/?p=1361618",
       "https://olhardigital.com.br/?p=1361803",
       "https://olhardigital.com.br/?p=1361805",
       "https://olhardigital.com.br/?p=1361822",
@@ -2326,7 +2327,9 @@
       "https://olhardigital.com.br/?p=1374159",
       "https://olhardigital.com.br/?p=1374183",
       "https://olhardigital.com.br/?p=1374250",
-      "https://olhardigital.com.br/?p=1374258"
+      "https://olhardigital.com.br/?p=1374258",
+      "https://olhardigital.com.br/?p=1374279",
+      "https://olhardigital.com.br/?p=1374304"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2692,7 +2695,6 @@
       "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-google-sera-estagiario-da-sua-casa-organizando-rotina-da-familia/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/11/china-aposta-na-previsao-meteorologica-com-ia-em-meio-a-eventos-extremos.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/12/o-que-mark-zuckerberg-realmente-quer-com-seu-mega-manifesto-sobre-futuro-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/assistente-de-ia-invade-sistema-de-academia-e-expoe-falha-na-australia.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/12/gemini-do-google-supera-1-bilhao-de-usuarios-e-acirra-disputa-com-chatgpt.htm",
@@ -2991,7 +2993,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/18/ira-e-china-usam-ia-para-criar-redes-de-contas-falsas.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/18/ia-encontra-falhas-e-acessa-camera-e-fotos-em-teste-no-tiktok.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/18/presidente-daopenai-fara-apresentacao-ao-conselho-de-seguranca-da-onu.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/18/erro-em-relatorio-de-ia-quase-fez-eua-atacarem-e-abrirem-guerra-contra-china.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/18/erro-em-relatorio-de-ia-quase-fez-eua-atacarem-e-abrirem-guerra-contra-china.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/18/eua-newsom-assina-decreto-para-criar-interruptor-de-emergencia-para-a-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3219,74 +3222,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "avanco",
-      "controle",
-      "estamos",
-      "perdendo",
-      "pioneiro",
-      "tecnologia"
-    ],
-    [
-      "dinheiro",
-      "existido",
-      "feitos",
-      "ganham",
-      "influenciadores",
-      "nunca",
-      "terem"
-    ],
-    [
-      "claude",
-      "contra",
-      "cria",
-      "expande",
-      "google",
-      "guerra",
-      "microsoft",
-      "proprio",
-      "word"
-    ],
-    [
-      "divididos",
-      "governos",
-      "lideres",
-      "mostram",
-      "mundo",
-      "pela",
-      "setor",
-      "tecnologia"
-    ],
-    [
-      "dispara",
-      "nvidia",
-      "precisamos",
-      "regulacao"
-    ],
-    [
-      "framework",
-      "misalignment",
-      "model",
-      "reporting"
-    ],
-    [
-      "anthropic",
-      "embed",
-      "evaluators",
-      "independent",
-      "openai",
-      "really",
-      "safety",
-      "they",
-      "want",
-      "will"
-    ],
-    [
-      "anytime",
-      "regulating",
-      "soon",
-      "washington"
-    ],
     [
       "behavior",
       "creates",
@@ -5094,6 +5029,81 @@
       "gerado",
       "guerra",
       "quase"
+    ],
+    [
+      "hallucination",
+      "military",
+      "nearly",
+      "operation",
+      "triggers"
+    ],
+    [
+      "anthropic",
+      "biology",
+      "conducts",
+      "experiments",
+      "operating"
+    ],
+    [
+      "100m",
+      "builds",
+      "other",
+      "physical",
+      "raised",
+      "startup",
+      "startups"
+    ],
+    [
+      "apps",
+      "caller",
+      "feed",
+      "forces",
+      "india",
+      "reports",
+      "spam",
+      "telcos"
+    ],
+    [
+      "becomes",
+      "break",
+      "computer",
+      "gemini",
+      "google",
+      "hack",
+      "latest",
+      "model",
+      "systems"
+    ],
+    [
+      "durante",
+      "empresas",
+      "gemini",
+      "google",
+      "invade",
+      "reais",
+      "seguranca",
+      "sistemas",
+      "teste",
+      "tres"
+    ],
+    [
+      "adia",
+      "anthropic",
+      "debate",
+      "desenvolvimento",
+      "enquanto",
+      "forca",
+      "frear",
+      "ganha",
+      "novembro"
+    ],
+    [
+      "assina",
+      "criar",
+      "decreto",
+      "emergencia",
+      "interruptor",
+      "newsom"
     ]
   ]
 }
