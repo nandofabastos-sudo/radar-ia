@@ -314,7 +314,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3152544",
       "https://techcrunch.com/?p=3152533",
       "https://techcrunch.com/?p=3152741",
       "https://techcrunch.com/?p=3152223",
@@ -613,7 +612,8 @@
       "https://techcrunch.com/?p=3166494",
       "https://techcrunch.com/?p=3166504",
       "https://techcrunch.com/?p=3166409",
-      "https://techcrunch.com/?p=3166469"
+      "https://techcrunch.com/?p=3166469",
+      "https://techcrunch.com/?p=3161565"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -788,10 +788,11 @@
       "https://www.theverge.com/?p=997358",
       "https://www.theverge.com/?p=997516",
       "https://www.theverge.com/?p=997573",
-      "https://www.theverge.com/?p=997633"
+      "https://www.theverge.com/?p=997633",
+      "https://www.theverge.com/?p=997706",
+      "https://www.theverge.com/?p=997382"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=38521",
       "https://the-decoder.com/?p=38525",
       "https://the-decoder.com/?p=38533",
       "https://the-decoder.com/?p=38540",
@@ -1088,7 +1089,10 @@
       "https://the-decoder.com/?p=40376",
       "https://the-decoder.com/?p=40380",
       "https://the-decoder.com/?p=40384",
-      "https://the-decoder.com/?p=40388"
+      "https://the-decoder.com/?p=40388",
+      "https://the-decoder.com/?p=40398",
+      "https://the-decoder.com/?p=40409",
+      "https://the-decoder.com/?p=40414"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1609,7 +1613,8 @@
       "https://news.ycombinator.com/item?id=49747925",
       "https://news.ycombinator.com/item?id=49747070",
       "https://news.ycombinator.com/item?id=49757520",
-      "https://news.ycombinator.com/item?id=49760187"
+      "https://news.ycombinator.com/item?id=49760187",
+      "https://news.ycombinator.com/item?id=49764791"
     ]
   },
   "mercado": {
@@ -1857,7 +1862,8 @@
       "108364015",
       "108365054",
       "108365158",
-      "108365229"
+      "108365229",
+      "108365022"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2038,7 +2044,6 @@
       "https://mittechreview.com.br/?p=269431"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1361852",
       "https://olhardigital.com.br/?p=1361903",
       "https://olhardigital.com.br/?p=1361943",
       "https://olhardigital.com.br/?p=1361967",
@@ -2337,7 +2342,8 @@
       "https://olhardigital.com.br/?p=1374304",
       "https://olhardigital.com.br/?p=1374313",
       "https://olhardigital.com.br/?p=1373951",
-      "https://olhardigital.com.br/?p=1374070"
+      "https://olhardigital.com.br/?p=1374070",
+      "https://olhardigital.com.br/?p=1373467"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2703,7 +2709,6 @@
       "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-google-sera-estagiario-da-sua-casa-organizando-rotina-da-familia/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/assistente-de-ia-invade-sistema-de-academia-e-expoe-falha-na-australia.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/12/gemini-do-google-supera-1-bilhao-de-usuarios-e-acirra-disputa-com-chatgpt.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/por-que-a-anthropic-decidiu-colocar-marca-dagua-em-textos-criados-pelo-claude.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/spacexai-lanca-grok-bot-agente-que-atua-como-colega-e-executa-tarefas.ghtm",
@@ -3002,7 +3007,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/18/presidente-daopenai-fara-apresentacao-ao-conselho-de-seguranca-da-onu.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/18/erro-em-relatorio-de-ia-quase-fez-eua-atacarem-e-abrirem-guerra-contra-china.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/18/eua-newsom-assina-decreto-para-criar-interruptor-de-emergencia-para-a-ia.htm",
-      "https://www.uol.com.br/flash/?c=6aad5e3278c046f0e39bca9d"
+      "https://www.uol.com.br/flash/?c=6aad5e3278c046f0e39bca9d",
+      "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/19/ia-da-google-hackeou-tres-empresas-durante-testes.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3230,101 +3236,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "coming",
-      "launching",
-      "snap",
-      "specs",
-      "tool"
-    ],
-    [
-      "announces",
-      "native",
-      "nvidia",
-      "programming",
-      "rust"
-    ],
-    [
-      "bring",
-      "enterprise",
-      "glasses",
-      "market",
-      "nvidia",
-      "partnering",
-      "salesforce",
-      "snap",
-      "tries"
-    ],
-    [
-      "2026",
-      "agent",
-      "changes",
-      "disrupt",
-      "explain",
-      "gusto",
-      "insight",
-      "leland",
-      "might",
-      "next",
-      "partners",
-      "startup",
-      "teammate",
-      "techcrunch",
-      "what",
-      "your"
-    ],
-    [
-      "critica",
-      "debate",
-      "decisoes",
-      "humanas",
-      "leao",
-      "meio",
-      "papa",
-      "seguranca",
-      "tecnologia"
-    ],
-    [
-      "burlar",
-      "casos",
-      "dados",
-      "erros",
-      "esconder",
-      "inventar",
-      "novos",
-      "openai",
-      "seis",
-      "tentaram",
-      "testes"
-    ],
-    [
-      "acelera",
-      "amanha",
-      "cautela",
-      "descompasso",
-      "entre",
-      "olhar",
-      "pede",
-      "quem"
-    ],
-    [
-      "altman",
-      "disputa",
-      "global",
-      "jantar",
-      "jinping",
-      "meio",
-      "pela",
-      "trump"
-    ],
-    [
-      "anuncios",
-      "artistas",
-      "california",
-      "criados",
-      "exige",
-      "identifiquem"
-    ],
     [
       "based",
       "iceland",
@@ -5109,6 +5020,96 @@
       "isso",
       "noticias",
       "preguicosos"
+    ],
+    [
+      "andreessen",
+      "backed",
+      "become",
+      "benchmarking",
+      "gold",
+      "horowitz",
+      "looking",
+      "standard",
+      "vals"
+    ],
+    [
+      "over",
+      "regulation",
+      "smackdown"
+    ],
+    [
+      "8217",
+      "antitrust",
+      "does",
+      "doesn",
+      "everyone",
+      "exemption",
+      "kill",
+      "need"
+    ],
+    [
+      "arms",
+      "astra",
+      "benchmark",
+      "claude",
+      "fable",
+      "into",
+      "killer",
+      "robot",
+      "robots",
+      "safety",
+      "slapstick",
+      "turn"
+    ],
+    [
+      "agents",
+      "claude",
+      "code",
+      "codex",
+      "launches",
+      "official",
+      "openai",
+      "outdated",
+      "plugins",
+      "stop",
+      "tutorials",
+      "unity",
+      "using"
+    ],
+    [
+      "benchmarks",
+      "flash",
+      "gemini",
+      "google",
+      "matching",
+      "multimodal",
+      "omni",
+      "pricing",
+      "qwen3",
+      "undercuts",
+      "while"
+    ],
+    [
+      "generated",
+      "have",
+      "horrible",
+      "posters"
+    ],
+    [
+      "explained",
+      "kill",
+      "late",
+      "little",
+      "probably",
+      "switch"
+    ],
+    [
+      "2026",
+      "consoles",
+      "culpa",
+      "disparou",
+      "preco",
+      "tambem"
     ]
   ]
 }
