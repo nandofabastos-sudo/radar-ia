@@ -100,7 +100,8 @@
       "https://openai.com/index/model-misalignment-reporting-framework",
       "https://openai.com/index/astra-for-law",
       "https://openai.com/index/cooley-gopublic",
-      "https://openai.com/index/hex-gpt-6-astra"
+      "https://openai.com/index/hex-gpt-6-astra",
+      "https://openai.com/index/australian-youth-safety-blueprint"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -313,7 +314,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3152463",
       "https://techcrunch.com/?p=3152544",
       "https://techcrunch.com/?p=3152533",
       "https://techcrunch.com/?p=3152741",
@@ -612,7 +612,8 @@
       "https://techcrunch.com/?p=3166487",
       "https://techcrunch.com/?p=3166494",
       "https://techcrunch.com/?p=3166504",
-      "https://techcrunch.com/?p=3166409"
+      "https://techcrunch.com/?p=3166409",
+      "https://techcrunch.com/?p=3166469"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -2030,7 +2031,6 @@
       "https://mittechreview.com.br/?p=269431"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1361803",
       "https://olhardigital.com.br/?p=1361805",
       "https://olhardigital.com.br/?p=1361822",
       "https://olhardigital.com.br/?p=1361852",
@@ -2329,7 +2329,8 @@
       "https://olhardigital.com.br/?p=1374250",
       "https://olhardigital.com.br/?p=1374258",
       "https://olhardigital.com.br/?p=1374279",
-      "https://olhardigital.com.br/?p=1374304"
+      "https://olhardigital.com.br/?p=1374304",
+      "https://olhardigital.com.br/?p=1374313"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3222,34 +3223,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "behavior",
-      "creates",
-      "disclose",
-      "framework",
-      "openai"
-    ],
-    [
-      "altman",
-      "attend",
-      "dinner",
-      "openai",
-      "state",
-      "summit",
-      "trump",
-      "washington",
-      "will"
-    ],
-    [
-      "behavior",
-      "concerning",
-      "instances",
-      "march",
-      "model",
-      "openai",
-      "reports",
-      "since"
-    ],
     [
       "chip",
       "confident",
@@ -5104,6 +5077,32 @@
       "emergencia",
       "interruptor",
       "newsom"
+    ],
+    [
+      "australian",
+      "blueprint",
+      "introducing",
+      "safety",
+      "youth"
+    ],
+    [
+      "about",
+      "expect",
+      "going",
+      "norwood",
+      "press",
+      "tilly",
+      "tour",
+      "well"
+    ],
+    [
+      "altman",
+      "artificial",
+      "conselho",
+      "falar",
+      "inteligencia",
+      "reuniao",
+      "seguranca"
     ]
   ]
 }
