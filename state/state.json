@@ -314,9 +314,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3152533",
-      "https://techcrunch.com/?p=3152741",
-      "https://techcrunch.com/?p=3152223",
       "https://techcrunch.com/?p=3152748",
       "https://techcrunch.com/?p=3152844",
       "https://techcrunch.com/?p=3152849",
@@ -613,7 +610,10 @@
       "https://techcrunch.com/?p=3166504",
       "https://techcrunch.com/?p=3166409",
       "https://techcrunch.com/?p=3166469",
-      "https://techcrunch.com/?p=3161565"
+      "https://techcrunch.com/?p=3161565",
+      "https://techcrunch.com/?p=3166491",
+      "https://techcrunch.com/?p=3165814",
+      "https://techcrunch.com/?p=3162545"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -790,7 +790,8 @@
       "https://www.theverge.com/?p=997573",
       "https://www.theverge.com/?p=997633",
       "https://www.theverge.com/?p=997706",
-      "https://www.theverge.com/?p=997382"
+      "https://www.theverge.com/?p=997382",
+      "https://www.theverge.com/?p=997795"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38525",
@@ -1863,7 +1864,8 @@
       "108365054",
       "108365158",
       "108365229",
-      "108365022"
+      "108365022",
+      "108364947"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2044,8 +2046,6 @@
       "https://mittechreview.com.br/?p=269431"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1361903",
-      "https://olhardigital.com.br/?p=1361943",
       "https://olhardigital.com.br/?p=1361967",
       "https://olhardigital.com.br/?p=1361991",
       "https://olhardigital.com.br/?p=1361844",
@@ -2343,7 +2343,9 @@
       "https://olhardigital.com.br/?p=1374313",
       "https://olhardigital.com.br/?p=1373951",
       "https://olhardigital.com.br/?p=1374070",
-      "https://olhardigital.com.br/?p=1373467"
+      "https://olhardigital.com.br/?p=1373467",
+      "https://olhardigital.com.br/?p=1374422",
+      "https://olhardigital.com.br/?p=1374426"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2709,7 +2711,6 @@
       "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-google-sera-estagiario-da-sua-casa-organizando-rotina-da-familia/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/afp/2026/08/12/gemini-do-google-supera-1-bilhao-de-usuarios-e-acirra-disputa-com-chatgpt.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/por-que-a-anthropic-decidiu-colocar-marca-dagua-em-textos-criados-pelo-claude.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/spacexai-lanca-grok-bot-agente-que-atua-como-colega-e-executa-tarefas.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/12/coo-historico-da-openai-brad-lightcap-deixa-empresa-e-planeja-novo-negocio.ghtm",
@@ -3008,7 +3009,8 @@
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/18/erro-em-relatorio-de-ia-quase-fez-eua-atacarem-e-abrirem-guerra-contra-china.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/18/eua-newsom-assina-decreto-para-criar-interruptor-de-emergencia-para-a-ia.htm",
       "https://www.uol.com.br/flash/?c=6aad5e3278c046f0e39bca9d",
-      "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/19/ia-da-google-hackeou-tres-empresas-durante-testes.htm"
+      "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/19/ia-da-google-hackeou-tres-empresas-durante-testes.htm",
+      "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/19/anthropic-e-accenture-investirao-ao-menos-us-2-bi-para-avaliar-seguranca-de-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3236,80 +3238,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "based",
-      "iceland",
-      "million",
-      "platform",
-      "raises",
-      "simulation",
-      "treble",
-      "voice"
-    ],
-    [
-      "anthropic",
-      "chinese",
-      "combined",
-      "group",
-      "making",
-      "models",
-      "more",
-      "openai",
-      "research",
-      "revenue",
-      "rhodium",
-      "than",
-      "times"
-    ],
-    [
-      "centro",
-      "debate",
-      "esta",
-      "resumo",
-      "vaticano"
-    ],
-    [
-      "chat",
-      "chatgpt",
-      "cocriador",
-      "custos",
-      "feita",
-      "pelo",
-      "quase"
-    ],
-    [
-      "anthropic",
-      "centers",
-      "data",
-      "emerald",
-      "find",
-      "google",
-      "grid",
-      "more",
-      "nvidia",
-      "space",
-      "want"
-    ],
-    [
-      "ability",
-      "agents",
-      "both",
-      "calls",
-      "instinct",
-      "make",
-      "meta",
-      "muse",
-      "rival"
-    ],
-    [
-      "2027",
-      "chip",
-      "huawei",
-      "launch",
-      "nvidia",
-      "plans",
-      "takes"
-    ],
     [
       "explosive",
       "inside",
@@ -5110,6 +5038,71 @@
       "disparou",
       "preco",
       "tambem"
+    ],
+    [
+      "days",
+      "disrupt",
+      "prices",
+      "ticket",
+      "your"
+    ],
+    [
+      "conversations",
+      "gotten",
+      "have",
+      "safety",
+      "unbelievable"
+    ],
+    [
+      "changer",
+      "feeder",
+      "game",
+      "homes",
+      "multi",
+      "petlibro",
+      "powered"
+    ],
+    [
+      "fears",
+      "higher",
+      "interest",
+      "last",
+      "market",
+      "rates",
+      "safety",
+      "stock",
+      "test",
+      "week"
+    ],
+    [
+      "2026",
+      "brasil",
+      "eleicao",
+      "executivo",
+      "futuros",
+      "openai",
+      "pleitos",
+      "sera",
+      "teste"
+    ],
+    [
+      "abre",
+      "artificial",
+      "enquete",
+      "extrema",
+      "inteligencia",
+      "nome",
+      "superior",
+      "suprema",
+      "trocar",
+      "trump"
+    ],
+    [
+      "accenture",
+      "anthropic",
+      "avaliar",
+      "investirao",
+      "seguranca"
     ]
   ]
 }
