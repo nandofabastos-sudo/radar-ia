@@ -314,7 +314,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3152914",
       "https://techcrunch.com/?p=3152875",
       "https://techcrunch.com/?p=3152870",
       "https://techcrunch.com/?p=3152760",
@@ -613,7 +612,8 @@
       "https://techcrunch.com/?p=3162545",
       "https://techcrunch.com/?p=3166647",
       "https://techcrunch.com/?p=3166662",
-      "https://techcrunch.com/?p=3166668"
+      "https://techcrunch.com/?p=3166668",
+      "https://techcrunch.com/?p=3166682"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -793,11 +793,10 @@
       "https://www.theverge.com/?p=997382",
       "https://www.theverge.com/?p=997795",
       "https://www.theverge.com/?p=997833",
-      "https://www.theverge.com/?p=997834"
+      "https://www.theverge.com/?p=997834",
+      "https://www.theverge.com/?p=997867"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=38411",
-      "https://the-decoder.com/?p=38560",
       "https://the-decoder.com/?p=38566",
       "https://the-decoder.com/?p=38569",
       "https://the-decoder.com/?p=38806",
@@ -1095,7 +1094,9 @@
       "https://the-decoder.com/?p=40423",
       "https://the-decoder.com/?p=40426",
       "https://the-decoder.com/?p=40434",
-      "https://the-decoder.com/?p=40440"
+      "https://the-decoder.com/?p=40440",
+      "https://the-decoder.com/?p=40450",
+      "https://the-decoder.com/?p=40459"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1872,7 +1873,8 @@
       "108365022",
       "108364947",
       "108365058",
-      "108365109"
+      "108365109",
+      "108358078"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2050,10 +2052,10 @@
       "https://mittechreview.com.br/?p=268713",
       "https://mittechreview.com.br/?p=269069",
       "https://mittechreview.com.br/?p=269429",
-      "https://mittechreview.com.br/?p=269431"
+      "https://mittechreview.com.br/?p=269431",
+      "https://mittechreview.com.br/?p=269284"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1362130",
       "https://olhardigital.com.br/?p=1362149",
       "https://olhardigital.com.br/?p=1362164",
       "https://olhardigital.com.br/?p=1362247",
@@ -2352,7 +2354,8 @@
       "https://olhardigital.com.br/?p=1374441",
       "https://olhardigital.com.br/?p=1374454",
       "https://olhardigital.com.br/?p=1374463",
-      "https://olhardigital.com.br/?p=1374466"
+      "https://olhardigital.com.br/?p=1374466",
+      "https://olhardigital.com.br/?p=1374557"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3247,78 +3250,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic"
-    ],
-    [
-      "feature",
-      "lets",
-      "pinterest",
-      "redesign",
-      "restyle",
-      "room",
-      "teases",
-      "your"
-    ],
-    [
-      "base",
-      "face",
-      "goodfire",
-      "hugging",
-      "labs",
-      "launches",
-      "open",
-      "partnership",
-      "safety",
-      "weight"
-    ],
-    [
-      "after",
-      "astra",
-      "creeper",
-      "crushes",
-      "factorio",
-      "fallout",
-      "farming",
-      "into",
-      "minecraft",
-      "pokemon",
-      "potato",
-      "spirals",
-      "then"
-    ],
-    [
-      "agent",
-      "covert",
-      "details",
-      "incidents",
-      "megalomania",
-      "misaligned",
-      "openai",
-      "uploads"
-    ],
-    [
-      "chinese",
-      "company",
-      "connected",
-      "data",
-      "just",
-      "leading",
-      "model",
-      "providers",
-      "street",
-      "wall"
-    ],
-    [
-      "cnbc",
-      "guidelines",
-      "have",
-      "karp",
-      "needs",
-      "palantir",
-      "reasonable",
-      "tells"
-    ],
     [
       "action",
       "amid",
@@ -5092,6 +5023,73 @@
       "gmail",
       "google",
       "veja"
+    ],
+    [
+      "2026",
+      "ahead",
+      "days",
+      "disrupt",
+      "left",
+      "techcrunch"
+    ],
+    [
+      "force",
+      "form",
+      "trump",
+      "wants"
+    ],
+    [
+      "aims",
+      "background",
+      "gander",
+      "keep",
+      "talking",
+      "tencent",
+      "while",
+      "works"
+    ],
+    [
+      "alibaba",
+      "beat",
+      "billion",
+      "claims",
+      "closed",
+      "generation",
+      "image",
+      "just",
+      "models",
+      "open",
+      "parameters",
+      "qwen",
+      "weight"
+    ],
+    [
+      "become",
+      "department",
+      "future",
+      "reality",
+      "relations",
+      "robot",
+      "workplace"
+    ],
+    [
+      "agentes",
+      "denunciaram",
+      "estavam",
+      "outros",
+      "tambem",
+      "trapaceando"
+    ],
+    [
+      "alertam",
+      "artificial",
+      "hackers",
+      "industria",
+      "inteligencia",
+      "invadiram",
+      "openai",
+      "problema",
+      "seguranca"
     ]
   ]
 }
