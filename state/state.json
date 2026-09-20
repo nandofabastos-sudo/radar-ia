@@ -792,11 +792,10 @@
       "https://www.theverge.com/?p=997706",
       "https://www.theverge.com/?p=997382",
       "https://www.theverge.com/?p=997795",
-      "https://www.theverge.com/?p=997833"
+      "https://www.theverge.com/?p=997833",
+      "https://www.theverge.com/?p=997834"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=38545",
-      "https://the-decoder.com/?p=38551",
       "https://the-decoder.com/?p=38411",
       "https://the-decoder.com/?p=38560",
       "https://the-decoder.com/?p=38566",
@@ -1094,7 +1093,9 @@
       "https://the-decoder.com/?p=40414",
       "https://the-decoder.com/?p=40420",
       "https://the-decoder.com/?p=40423",
-      "https://the-decoder.com/?p=40426"
+      "https://the-decoder.com/?p=40426",
+      "https://the-decoder.com/?p=40434",
+      "https://the-decoder.com/?p=40440"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1454,7 +1455,9 @@
       "6aaae9d2cc7170ac7d27da69",
       "6aad573d7794e8a66ddaa448",
       "6aab158f069f5b268621a0f9",
-      "6aaaaa164e40ce71797f8e63"
+      "6aaaaa164e40ce71797f8e63",
+      "6aad77e18ffbfab4b483ed15",
+      "6aa95711718bdbe1c32c1f53"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1867,7 +1870,9 @@
       "108365158",
       "108365229",
       "108365022",
-      "108364947"
+      "108364947",
+      "108365058",
+      "108365109"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2711,10 +2716,10 @@
       "https://canaltech.com.br/inteligencia-artificial/claude-code-atualiza-projetos-para-executar-tarefas-com-multiplos-agentes-de-ia/",
       "https://canaltech.com.br/mercado/onde-a-inteligencia-artificial-realmente-esta-mudando-o-varejo/",
       "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-google-sera-estagiario-da-sua-casa-organizando-rotina-da-familia/",
-      "https://canaltech.com.br/inteligencia-artificial/como-usar-agentes-de-ia-pesquisas-planilhas/"
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-agentes-de-ia-pesquisas-planilhas/",
+      "https://canaltech.com.br/inteligencia-artificial/como-desativar-google-gemini-do-gmail-docs-drive/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/afp/2026/08/13/videntes-cegos-na-coreia-do-sul-perdem-clientes-para-inteligencia-artificial.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/13/a-semana-em-que-zuckerberg-e-musk-sairam-do-z4-da-ia-e-botaram-medo-nos-lideres.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/whatsapp-testa-alerta-com-ia-no-celular-para-identificar-golpes.ghtm",
       "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/13/adolescente-e-acusado-de-matar-mae-e-irmao-apos-buscas-no-chatgpt.ghtm",
@@ -3013,7 +3018,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/19/ceo-da-nvidia-diz-que-ia-tem-0-de-chance-de-acabar-com-o-mundo-ate-2030.ghtm",
       "https://tilt.uol.com.br/colunas/iagora/2026/09/20/medo-de-ia-ser-destruidora-de-empregos-e-global-o-que-mostram-novas-pesquisas.htm",
       "https://www.uol.com.br/flash/?c=6aac316bbe812c00373baa8c",
-      "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/09/20/ia-nao-esta-afetando-apenas-o-numero-de-empregos-mas-como-trabalhamos.htm"
+      "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/09/20/ia-nao-esta-afetando-apenas-o-numero-de-empregos-mas-como-trabalhamos.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/20/medo-de-ia-ser-destruidora-de-empregos-e-global-o-que-mostram-novas-pesquisas.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3241,84 +3247,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "claude",
-      "combater",
-      "ferramentas",
-      "fusao",
-      "google",
-      "importante",
-      "office"
-    ],
-    [
-      "ajuda",
-      "envia",
-      "ifood",
-      "lanca",
-      "pelo",
-      "relatorios",
-      "restaurantes",
-      "vender",
-      "whatsapp"
-    ],
-    [
-      "carros",
-      "dirigir",
-      "ensinar",
-      "hyundai",
-      "real",
-      "seus",
-      "sozinhos",
-      "sustos",
-      "transito"
-    ],
-    [
-      "aumento",
-      "centers",
-      "data",
-      "encontra",
-      "local",
-      "resistencia",
-      "silicio",
-      "vale"
-    ],
-    [
-      "alerta",
-      "cria",
-      "desvios",
-      "modelos",
-      "openai",
-      "revela",
-      "seis",
-      "sistema"
-    ],
-    [
-      "agentes",
-      "invadem",
-      "noticias",
-      "openai",
-      "rival",
-      "rolando"
-    ],
-    [
-      "alerta",
-      "cair",
-      "charles",
-      "erradas",
-      "existenciais",
-      "lideres",
-      "maos",
-      "riscos",
-      "tecnologia"
-    ],
-    [
-      "acelerar",
-      "america",
-      "expansao",
-      "latina",
-      "levanta",
-      "nuvia"
-    ],
     [
       "anthropic"
     ],
@@ -5086,6 +5014,84 @@
       "esta",
       "numero",
       "trabalhamos"
+    ],
+    [
+      "biggest",
+      "cybersecurity",
+      "energy",
+      "humans",
+      "risk",
+      "rogue",
+      "still",
+      "systems"
+    ],
+    [
+      "daily",
+      "doubled",
+      "just",
+      "months",
+      "more",
+      "than",
+      "usage"
+    ],
+    [
+      "control",
+      "generation",
+      "into",
+      "live",
+      "real",
+      "runway",
+      "stream",
+      "time",
+      "turn",
+      "video",
+      "wants"
+    ],
+    [
+      "centers",
+      "data",
+      "donald",
+      "maga",
+      "trump",
+      "versus"
+    ],
+    [
+      "better",
+      "helping",
+      "meta",
+      "muse",
+      "surveilling",
+      "than"
+    ],
+    [
+      "ally",
+      "debate",
+      "emerges",
+      "huang",
+      "jensen",
+      "nvidia",
+      "safety",
+      "trump"
+    ],
+    [
+      "alarms",
+      "black",
+      "caucus",
+      "center",
+      "congressional",
+      "data",
+      "dominate",
+      "washington",
+      "week"
+    ],
+    [
+      "desativar",
+      "docs",
+      "drive",
+      "gemini",
+      "gmail",
+      "google",
+      "veja"
     ]
   ]
 }
