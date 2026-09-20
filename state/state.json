@@ -795,9 +795,6 @@
       "https://www.theverge.com/?p=997833"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=38525",
-      "https://the-decoder.com/?p=38533",
-      "https://the-decoder.com/?p=38540",
       "https://the-decoder.com/?p=38545",
       "https://the-decoder.com/?p=38551",
       "https://the-decoder.com/?p=38411",
@@ -1094,7 +1091,10 @@
       "https://the-decoder.com/?p=40388",
       "https://the-decoder.com/?p=40398",
       "https://the-decoder.com/?p=40409",
-      "https://the-decoder.com/?p=40414"
+      "https://the-decoder.com/?p=40414",
+      "https://the-decoder.com/?p=40420",
+      "https://the-decoder.com/?p=40423",
+      "https://the-decoder.com/?p=40426"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2714,9 +2714,6 @@
       "https://canaltech.com.br/inteligencia-artificial/como-usar-agentes-de-ia-pesquisas-planilhas/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/12/grupo-de-defesa-alemao-apresenta-queixa-criminal-contra-oculos-de-ia-da-meta.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/com-ia-para-robo-humanos-pensarao-duas-vezes-antes-de-bullying-com-maquina.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/apple-negocia-acordos-com-jornais-para-dar-noticias-atuais-a-siri-com-ia.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/13/videntes-cegos-na-coreia-do-sul-perdem-clientes-para-inteligencia-artificial.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/13/a-semana-em-que-zuckerberg-e-musk-sairam-do-z4-da-ia-e-botaram-medo-nos-lideres.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/13/whatsapp-testa-alerta-com-ia-no-celular-para-identificar-golpes.ghtm",
@@ -3013,7 +3010,10 @@
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/19/anthropic-e-accenture-investirao-ao-menos-us-2-bi-para-avaliar-seguranca-de-ia.htm",
       "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/09/19/fmi-diz-a-ministros-da-ue-que-ia-pode-impulsionar-crescimento-mas-aumentar-tensoes-economicas.htm",
       "https://economia.uol.com.br/noticias/redacao/2026/09/19/acao-acusa-openai-e-google-de-combinar-freio-no-desenvolvimento-de-ia.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/19/ceo-da-nvidia-diz-que-ia-tem-0-de-chance-de-acabar-com-o-mundo-ate-2030.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/19/ceo-da-nvidia-diz-que-ia-tem-0-de-chance-de-acabar-com-o-mundo-ate-2030.ghtm",
+      "https://tilt.uol.com.br/colunas/iagora/2026/09/20/medo-de-ia-ser-destruidora-de-empregos-e-global-o-que-mostram-novas-pesquisas.htm",
+      "https://www.uol.com.br/flash/?c=6aac316bbe812c00373baa8c",
+      "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/09/20/ia-nao-esta-afetando-apenas-o-numero-de-empregos-mas-como-trabalhamos.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3241,60 +3241,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bomba",
-      "hipocrisia",
-      "homens"
-    ],
-    [
-      "artificial",
-      "china",
-      "cobram",
-      "conter",
-      "especialistas",
-      "inteligencia",
-      "limites",
-      "militar",
-      "rigidos",
-      "riscos"
-    ],
-    [
-      "acabar",
-      "hipotese",
-      "humanidade",
-      "neurocientista",
-      "rebate",
-      "sentido"
-    ],
-    [
-      "agentes",
-      "breve",
-      "humanos",
-      "maior",
-      "numero",
-      "passaram",
-      "pela",
-      "sera",
-      "seres",
-      "terra",
-      "todos"
-    ],
-    [
-      "eletronico",
-      "expansao",
-      "lixo",
-      "pode",
-      "provocar",
-      "relatorio",
-      "tsunami"
-    ],
-    [
-      "iphone",
-      "novos",
-      "quais",
-      "recursos",
-      "siri"
-    ],
     [
       "claude",
       "combater",
@@ -5088,6 +5034,58 @@
       "openai",
       "preve",
       "queimar"
+    ],
+    [
+      "also",
+      "anthropic",
+      "following",
+      "openai",
+      "postponing",
+      "reportedly"
+    ],
+    [
+      "announces",
+      "czar",
+      "force",
+      "growth",
+      "plans",
+      "pushes",
+      "trump",
+      "unchecked"
+    ],
+    [
+      "faster",
+      "help",
+      "learn",
+      "make",
+      "mistakes",
+      "realistic",
+      "simulated",
+      "students",
+      "tutors"
+    ],
+    [
+      "destruidora",
+      "empregos",
+      "global",
+      "medo",
+      "mostram",
+      "pesquisas"
+    ],
+    [
+      "chatgpt",
+      "cocriador",
+      "feita",
+      "ferramenta",
+      "pelo"
+    ],
+    [
+      "afetando",
+      "apenas",
+      "empregos",
+      "esta",
+      "numero",
+      "trabalhamos"
     ]
   ]
 }
