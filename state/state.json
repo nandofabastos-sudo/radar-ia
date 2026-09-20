@@ -314,9 +314,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3152875",
-      "https://techcrunch.com/?p=3152870",
-      "https://techcrunch.com/?p=3152760",
       "https://techcrunch.com/?post_type=tc_podcast&p=3153152",
       "https://techcrunch.com/?p=3152944",
       "https://techcrunch.com/?p=3153090",
@@ -613,7 +610,10 @@
       "https://techcrunch.com/?p=3166647",
       "https://techcrunch.com/?p=3166662",
       "https://techcrunch.com/?p=3166668",
-      "https://techcrunch.com/?p=3166682"
+      "https://techcrunch.com/?p=3166682",
+      "https://techcrunch.com/?p=3165886",
+      "https://techcrunch.com/?p=3152751",
+      "https://techcrunch.com/?p=3166716"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -794,7 +794,8 @@
       "https://www.theverge.com/?p=997795",
       "https://www.theverge.com/?p=997833",
       "https://www.theverge.com/?p=997834",
-      "https://www.theverge.com/?p=997867"
+      "https://www.theverge.com/?p=997867",
+      "https://www.theverge.com/?p=997936"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38566",
@@ -1621,7 +1622,10 @@
       "https://news.ycombinator.com/item?id=49757520",
       "https://news.ycombinator.com/item?id=49760187",
       "https://news.ycombinator.com/item?id=49764791",
-      "https://news.ycombinator.com/item?id=49763987"
+      "https://news.ycombinator.com/item?id=49763987",
+      "https://news.ycombinator.com/item?id=49775499",
+      "https://news.ycombinator.com/item?id=49776699",
+      "https://news.ycombinator.com/item?id=49776729"
     ]
   },
   "mercado": {
@@ -2056,7 +2060,6 @@
       "https://mittechreview.com.br/?p=269284"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1362149",
       "https://olhardigital.com.br/?p=1362164",
       "https://olhardigital.com.br/?p=1362247",
       "https://olhardigital.com.br/?p=1362419",
@@ -2355,7 +2358,8 @@
       "https://olhardigital.com.br/?p=1374454",
       "https://olhardigital.com.br/?p=1374463",
       "https://olhardigital.com.br/?p=1374466",
-      "https://olhardigital.com.br/?p=1374557"
+      "https://olhardigital.com.br/?p=1374557",
+      "https://olhardigital.com.br/?p=1374591"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3250,86 +3254,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "action",
-      "amid",
-      "calls",
-      "campaign",
-      "congress",
-      "heads",
-      "home",
-      "house",
-      "urgent"
-    ],
-    [
-      "chips",
-      "huang",
-      "jensen",
-      "many",
-      "next",
-      "nvidia",
-      "sell",
-      "twice",
-      "will",
-      "year"
-    ],
-    [
-      "adorando",
-      "anthropic",
-      "chatbot",
-      "claude",
-      "deus",
-      "engenheiros",
-      "estariam",
-      "rumor",
-      "virou"
-    ],
-    [
-      "chatgpt",
-      "cocriador",
-      "conheca",
-      "conversa",
-      "criada",
-      "decisoes",
-      "dentro",
-      "softwares",
-      "tomar"
-    ],
-    [
-      "amazon",
-      "defende",
-      "discussao",
-      "entra",
-      "rigorosos",
-      "seguranca",
-      "testes"
-    ],
-    [
-      "china",
-      "especialistas",
-      "limites",
-      "militar",
-      "nuclear",
-      "pedem",
-      "regulacao"
-    ],
-    [
-      "bastante",
-      "chinesa",
-      "huawei",
-      "identificar",
-      "poderosa",
-      "rebelde",
-      "riscos"
-    ],
-    [
-      "contratar",
-      "faxina",
-      "fazer",
-      "humanoide",
-      "possivel",
-      "robo"
-    ],
     [
       "fiscalizar",
       "mercado",
@@ -5090,6 +5014,74 @@
       "openai",
       "problema",
       "seguranca"
+    ],
+    [
+      "into",
+      "scrolled",
+      "textbooks",
+      "tiktok",
+      "turn",
+      "wants"
+    ],
+    [
+      "adds",
+      "factor",
+      "form",
+      "meeting",
+      "note",
+      "ring",
+      "taking",
+      "vocci"
+    ],
+    [
+      "down",
+      "industry",
+      "ready",
+      "really",
+      "slow"
+    ],
+    [
+      "8217",
+      "fears",
+      "huang",
+      "jensen",
+      "nvidia",
+      "overblown",
+      "surprised",
+      "thinks"
+    ],
+    [
+      "image",
+      "qwen"
+    ],
+    [
+      "deletion",
+      "face",
+      "models",
+      "pirate",
+      "rescues"
+    ],
+    [
+      "chatgpt",
+      "collector",
+      "knows",
+      "other",
+      "websites",
+      "what"
+    ],
+    [
+      "antes",
+      "china",
+      "comercio",
+      "discutem",
+      "encontro",
+      "entre",
+      "estados",
+      "jinping",
+      "raras",
+      "terras",
+      "trump",
+      "unidos"
     ]
   ]
 }
