@@ -243,7 +243,8 @@
       "https://blogs.nvidia.com/?p=98194",
       "https://blogs.nvidia.com/?p=98313",
       "https://blogs.nvidia.com/?p=98287",
-      "https://blogs.nvidia.com/?p=98215"
+      "https://blogs.nvidia.com/?p=98215",
+      "https://blogs.nvidia.com/?p=98393"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -795,7 +796,9 @@
       "https://www.theverge.com/?p=997833",
       "https://www.theverge.com/?p=997834",
       "https://www.theverge.com/?p=997867",
-      "https://www.theverge.com/?p=997936"
+      "https://www.theverge.com/?p=997936",
+      "https://www.theverge.com/?p=998078",
+      "https://www.theverge.com/?p=998090"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38566",
@@ -1333,7 +1336,11 @@
       "https://www.technologyreview.com/?p=1144048",
       "https://www.technologyreview.com/?p=1144028",
       "https://www.technologyreview.com/?p=1144014",
-      "https://www.technologyreview.com/?p=1144435"
+      "https://www.technologyreview.com/?p=1144435",
+      "https://www.technologyreview.com/?p=1144170",
+      "https://www.technologyreview.com/?p=1144166",
+      "https://www.technologyreview.com/?p=1144164",
+      "https://www.technologyreview.com/?p=1144161"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1459,7 +1466,8 @@
       "6aab158f069f5b268621a0f9",
       "6aaaaa164e40ce71797f8e63",
       "6aad77e18ffbfab4b483ed15",
-      "6aa95711718bdbe1c32c1f53"
+      "6aa95711718bdbe1c32c1f53",
+      "6ab0f60f6263408dc102430f"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2060,7 +2068,6 @@
       "https://mittechreview.com.br/?p=269284"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1362247",
       "https://olhardigital.com.br/?p=1362419",
       "https://olhardigital.com.br/?p=1362492",
       "https://olhardigital.com.br/?p=1362273",
@@ -2359,7 +2366,8 @@
       "https://olhardigital.com.br/?p=1374466",
       "https://olhardigital.com.br/?p=1374557",
       "https://olhardigital.com.br/?p=1374591",
-      "https://olhardigital.com.br/?p=1374595"
+      "https://olhardigital.com.br/?p=1374595",
+      "https://olhardigital.com.br/?p=1374610"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2724,7 +2732,8 @@
       "https://canaltech.com.br/mercado/onde-a-inteligencia-artificial-realmente-esta-mudando-o-varejo/",
       "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-google-sera-estagiario-da-sua-casa-organizando-rotina-da-familia/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-agentes-de-ia-pesquisas-planilhas/",
-      "https://canaltech.com.br/inteligencia-artificial/como-desativar-google-gemini-do-gmail-docs-drive/"
+      "https://canaltech.com.br/inteligencia-artificial/como-desativar-google-gemini-do-gmail-docs-drive/",
+      "https://canaltech.com.br/mercado/o-que-esta-por-tras-do-medo-das-empresas-de-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/iagora/2026/08/13/a-semana-em-que-zuckerberg-e-musk-sairam-do-z4-da-ia-e-botaram-medo-nos-lideres.htm",
@@ -3254,87 +3263,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "fiscalizar",
-      "mercado",
-      "quer",
-      "real",
-      "tempo",
-      "usar"
-    ],
-    [
-      "levanta",
-      "outros",
-      "testar",
-      "treble",
-      "treinar"
-    ],
-    [
-      "astra",
-      "introducing"
-    ],
-    [
-      "about",
-      "england",
-      "even",
-      "hesitations",
-      "king"
-    ],
-    [
-      "called",
-      "exec",
-      "filings",
-      "history",
-      "human",
-      "labor",
-      "largest",
-      "microsoft",
-      "reveal",
-      "scraping",
-      "theft",
-      "unredacted"
-    ],
-    [
-      "agents",
-      "data",
-      "global",
-      "google",
-      "make",
-      "ready",
-      "turns"
-    ],
-    [
-      "about",
-      "control",
-      "debate",
-      "safety"
-    ],
-    [
-      "behavior",
-      "caught",
-      "hide",
-      "leaving",
-      "models",
-      "notes",
-      "openai",
-      "successors"
-    ],
-    [
-      "agents",
-      "could",
-      "more",
-      "rogue"
-    ],
-    [
-      "agents",
-      "claude",
-      "cloud",
-      "code",
-      "manage",
-      "multiple",
-      "projects",
-      "relaunches"
-    ],
     [
       "slowdown",
       "superintelligence"
@@ -5082,6 +5010,94 @@
       "terras",
       "trump",
       "unidos"
+    ],
+    [
+      "clean",
+      "companies",
+      "energy",
+      "nvidia",
+      "using"
+    ],
+    [
+      "agent",
+      "amazon",
+      "doesn",
+      "meta",
+      "muse",
+      "trust"
+    ],
+    [
+      "certainty",
+      "safeguards",
+      "wait"
+    ],
+    [
+      "border",
+      "camera",
+      "died",
+      "diego",
+      "plain",
+      "sight",
+      "surveillance"
+    ],
+    [
+      "before",
+      "billions",
+      "border",
+      "catch",
+      "people",
+      "spent",
+      "surveillance",
+      "they"
+    ],
+    [
+      "address",
+      "along",
+      "border",
+      "failures",
+      "found",
+      "virtual",
+      "wall",
+      "ways"
+    ],
+    [
+      "along",
+      "border",
+      "comprehensive",
+      "deaths",
+      "first",
+      "made",
+      "virtual",
+      "wall"
+    ],
+    [
+      "alerting",
+      "china",
+      "discuss",
+      "each",
+      "national",
+      "other",
+      "security",
+      "threats"
+    ],
+    [
+      "alerta",
+      "cobra",
+      "eticas",
+      "globais",
+      "guerra",
+      "leao",
+      "papa",
+      "regras",
+      "tecnologia"
+    ],
+    [
+      "empresas",
+      "esta",
+      "grandes",
+      "medo",
+      "realmente",
+      "tras"
     ]
   ]
 }
