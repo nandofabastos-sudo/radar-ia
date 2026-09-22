@@ -1909,7 +1909,8 @@
       "108365733",
       "108365835",
       "108365726",
-      "108365882"
+      "108365882",
+      "108365987"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2092,7 +2093,6 @@
       "https://mittechreview.com.br/?p=269284"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1362591",
       "https://olhardigital.com.br/?p=1362706",
       "https://olhardigital.com.br/?p=1362746",
       "https://olhardigital.com.br/?p=1362750",
@@ -2391,7 +2391,8 @@
       "https://olhardigital.com.br/?p=1374756",
       "https://olhardigital.com.br/?p=1374834",
       "https://olhardigital.com.br/?p=1374878",
-      "https://olhardigital.com.br/?p=1374918"
+      "https://olhardigital.com.br/?p=1374918",
+      "https://olhardigital.com.br/?p=1374897"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3303,19 +3304,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "grok"
-    ],
-    [
-      "2026",
-      "clock",
-      "disrupt",
-      "exhibit",
-      "final",
-      "hours",
-      "techcrunch",
-      "ticking"
-    ],
     [
       "2026",
       "abhishek",
@@ -5154,6 +5142,27 @@
       "devem",
       "gartner",
       "responsabilidades"
+    ],
+    [
+      "alibaba",
+      "buildout",
+      "center",
+      "chip",
+      "data",
+      "jump",
+      "plans",
+      "shares",
+      "unveiled"
+    ],
+    [
+      "definir",
+      "futuro",
+      "jinping",
+      "pode",
+      "semana",
+      "silicio",
+      "trump",
+      "vale"
     ]
   ]
 }
