@@ -325,7 +325,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3153329",
       "https://techcrunch.com/?p=3153332",
       "https://techcrunch.com/?p=3153341",
       "https://techcrunch.com/?p=3153419",
@@ -624,7 +623,8 @@
       "https://techcrunch.com/?p=3167032",
       "https://techcrunch.com/?p=3167075",
       "https://techcrunch.com/?p=3167098",
-      "https://techcrunch.com/?p=3167174"
+      "https://techcrunch.com/?p=3167174",
+      "https://techcrunch.com/?p=3167267"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -2092,7 +2092,6 @@
       "https://mittechreview.com.br/?p=269284"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1362588",
       "https://olhardigital.com.br/?p=1362591",
       "https://olhardigital.com.br/?p=1362706",
       "https://olhardigital.com.br/?p=1362746",
@@ -2391,7 +2390,8 @@
       "https://olhardigital.com.br/?p=1374798",
       "https://olhardigital.com.br/?p=1374756",
       "https://olhardigital.com.br/?p=1374834",
-      "https://olhardigital.com.br/?p=1374878"
+      "https://olhardigital.com.br/?p=1374878",
+      "https://olhardigital.com.br/?p=1374918"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2768,7 +2768,8 @@
       "https://canaltech.com.br/produtos/anel-com-ia-grava-ate-8-horas-de-reunioes-mas-levanta-alerta-de-privacidade/",
       "https://canaltech.com.br/inteligencia-artificial/nuvem-ou-dispositivo-onde-a-ia-realmente-roda-esta-se-tornando-a-questao-mais-importante-da-tecnologia/",
       "https://canaltech.com.br/produtos/apple-prepara-rival-do-echo-show-com-siri-ai-e-reconhecimento-de-usuarios/",
-      "https://canaltech.com.br/inteligencia-artificial/quais-celulares-galaxy-receberao-novos-recursos-de-ia-da-one-ui-9/"
+      "https://canaltech.com.br/inteligencia-artificial/quais-celulares-galaxy-receberao-novos-recursos-de-ia-da-one-ui-9/",
+      "https://canaltech.com.br/inteligencia-artificial/amazon-proibe-nova-ia-da-meta-de-fazer-compras-em-seu-site-entenda-o-porque/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/15/nvidia-planeja-investir-us3-bi-na-sb-energy-em-acordopara-centro-de-dados-da-openai-diz-the-information.htm",
@@ -3138,7 +3139,8 @@
       "https://braziljournal.com/?p=102833",
       "https://braziljournal.com/?p=103037",
       "https://braziljournal.com/?p=103050",
-      "https://braziljournal.com/?p=103098"
+      "https://braziljournal.com/?p=103098",
+      "https://braziljournal.com/?p=103187"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -3296,48 +3298,11 @@
       "https://www.mobiletime.com.br/?p=864058",
       "https://www.mobiletime.com.br/?p=864078",
       "https://www.mobiletime.com.br/?p=864170",
-      "https://www.mobiletime.com.br/?p=863958"
+      "https://www.mobiletime.com.br/?p=863958",
+      "https://www.mobiletime.com.br/?p=864508"
     ]
   },
   "_titulos_recentes": [
-    [
-      "ajuda",
-      "claude",
-      "criar",
-      "inteligente",
-      "proprio",
-      "versao"
-    ],
-    [
-      "ajuda",
-      "chatgpt",
-      "claude",
-      "dizem",
-      "invadido",
-      "pesquisadores",
-      "teste"
-    ],
-    [
-      "humanos",
-      "levanta",
-      "mantic",
-      "previsoes",
-      "startup",
-      "superar"
-    ],
-    [
-      "economy",
-      "experts",
-      "google",
-      "join",
-      "team"
-    ],
-    [
-      "grok",
-      "introducing",
-      "transcribe",
-      "voice"
-    ],
     [
       "grok"
     ],
@@ -5146,6 +5111,49 @@
       "mercado",
       "openai",
       "softbank"
+    ],
+    [
+      "apple",
+      "built",
+      "doesn",
+      "shopping",
+      "silicon",
+      "stores",
+      "valley"
+    ],
+    [
+      "amizade",
+      "aponta",
+      "brasil",
+      "chatbots",
+      "governo",
+      "investigacao",
+      "pede",
+      "riscos",
+      "romance",
+      "simulam",
+      "usuarios"
+    ],
+    [
+      "amazon",
+      "compras",
+      "entenda",
+      "fazer",
+      "meta",
+      "porque",
+      "proibe",
+      "site"
+    ],
+    [
+      "chatgpt",
+      "softwares"
+    ],
+    [
+      "assumir",
+      "cios",
+      "devem",
+      "gartner",
+      "responsabilidades"
     ]
   ]
 }
