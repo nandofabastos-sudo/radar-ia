@@ -109,7 +109,8 @@
       "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "https://openai.com/index/priorities-principles-third-party-assessments",
       "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "https://openai.com/index/better-prompt-caching-for-gpt-6"
+      "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -331,8 +332,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3153909",
-      "https://techcrunch.com/?p=3153956",
       "https://techcrunch.com/?p=3154044",
       "https://techcrunch.com/?p=3154081",
       "https://techcrunch.com/?p=3154147",
@@ -630,7 +629,9 @@
       "https://techcrunch.com/?p=3167451",
       "https://techcrunch.com/?p=3167580",
       "https://techcrunch.com/?p=3167633",
-      "https://techcrunch.com/?p=3167713"
+      "https://techcrunch.com/?p=3167713",
+      "https://techcrunch.com/?p=3166854",
+      "https://techcrunch.com/?p=3167901"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -821,7 +822,8 @@
       "https://www.theverge.com/?p=998679",
       "https://www.theverge.com/?p=998816",
       "https://www.theverge.com/?p=998868",
-      "https://www.theverge.com/?p=998813"
+      "https://www.theverge.com/?p=998813",
+      "https://www.theverge.com/?p=999094"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38892",
@@ -1228,7 +1230,8 @@
       "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
       "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
       "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-      "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
+      "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1680,7 +1683,8 @@
       "https://news.ycombinator.com/item?id=49788838",
       "https://news.ycombinator.com/item?id=49801324",
       "https://news.ycombinator.com/item?id=49803892",
-      "https://news.ycombinator.com/item?id=49805509"
+      "https://news.ycombinator.com/item?id=49805509",
+      "https://news.ycombinator.com/item?id=49806430"
     ]
   },
   "mercado": {
@@ -1940,7 +1944,8 @@
       "108365882",
       "108365987",
       "108366203",
-      "108366178"
+      "108366178",
+      "108365852"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2006,7 +2011,8 @@
       "https://techcrunch.com/?p=3165837",
       "https://techcrunch.com/?p=3166504",
       "https://techcrunch.com/?p=3161565",
-      "https://techcrunch.com/?p=3167384"
+      "https://techcrunch.com/?p=3167384",
+      "https://techcrunch.com/?p=3167901"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -2128,8 +2134,6 @@
       "https://mittechreview.com.br/?p=270639"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1362775",
-      "https://olhardigital.com.br/?p=1362799",
       "https://olhardigital.com.br/?p=1362838",
       "https://olhardigital.com.br/?p=1362854",
       "https://olhardigital.com.br/?p=1362879",
@@ -2427,7 +2431,9 @@
       "https://olhardigital.com.br/?p=1374971",
       "https://olhardigital.com.br/?p=1375033",
       "https://olhardigital.com.br/?p=1375105",
-      "https://olhardigital.com.br/?p=1375229"
+      "https://olhardigital.com.br/?p=1375229",
+      "https://olhardigital.com.br/?p=1375244",
+      "https://olhardigital.com.br/?p=1375241"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2814,7 +2820,10 @@
       "https://canaltech.com.br/inteligencia-artificial/mais-de-50-dos-brasileiros-tem-medo-da-ia-acima-da-media-mundial/",
       "https://canaltech.com.br/produtos/robo-humanoide-da-xpeng-nasce-e-ja-sai-andando-sozinho-da-fabrica/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-chatgpt-e-gemini-sem-entregar-seus-maiores-segredos/",
-      "https://canaltech.com.br/inteligencia-artificial/grok-47-estreia-como-a-3-melhor-ia-do-mundo-cobrando-menos/"
+      "https://canaltech.com.br/inteligencia-artificial/grok-47-estreia-como-a-3-melhor-ia-do-mundo-cobrando-menos/",
+      "https://canaltech.com.br/caixa-de-som/lg-xboom-power-chega-ao-brasil-com-440-w-e-karaoke-com-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/samsung-notes-passa-a-avisar-quando-texto-e-criado-por-ia-veja-como-sera/",
+      "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-sol-e-luna-com-menos-erros-pela-metade-do-preco/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/18/ia-cria-novos-empregos-em-mais-da-metade-das-empresas-britanicas-diz-estudo.htm",
@@ -3188,7 +3197,8 @@
       "https://braziljournal.com/?p=103050",
       "https://braziljournal.com/?p=103098",
       "https://braziljournal.com/?p=103187",
-      "https://braziljournal.com/?p=103211"
+      "https://braziljournal.com/?p=103211",
+      "https://braziljournal.com/?p=103231"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -3350,139 +3360,11 @@
       "https://www.mobiletime.com.br/?p=864170",
       "https://www.mobiletime.com.br/?p=863958",
       "https://www.mobiletime.com.br/?p=864508",
-      "https://www.mobiletime.com.br/?p=864520"
+      "https://www.mobiletime.com.br/?p=864520",
+      "https://www.mobiletime.com.br/?p=864557"
     ]
   },
   "_titulos_recentes": [
-    [
-      "abre",
-      "artificial",
-      "enquete",
-      "extrema",
-      "inteligencia",
-      "nome",
-      "superior",
-      "suprema",
-      "trocar",
-      "trump"
-    ],
-    [
-      "accenture",
-      "anthropic",
-      "avaliar",
-      "investirao",
-      "seguranca"
-    ],
-    [
-      "also",
-      "creating",
-      "force",
-      "name",
-      "rebranding",
-      "suggests",
-      "trump"
-    ],
-    [
-      "astra",
-      "cipher",
-      "german",
-      "radio",
-      "solves"
-    ],
-    [
-      "acompanhar",
-      "anuncia",
-      "criacao",
-      "czar",
-      "forca",
-      "nomear",
-      "promete",
-      "tecnologia",
-      "trump"
-    ],
-    [
-      "agentes",
-      "automatizar",
-      "pesquisas",
-      "planilhas",
-      "plano",
-      "segundo",
-      "usar"
-    ],
-    [
-      "aumentar",
-      "crescimento",
-      "economicas",
-      "elevar",
-      "pode",
-      "tensoes"
-    ],
-    [
-      "acao",
-      "acusa",
-      "anthropic",
-      "combinarem",
-      "freio",
-      "google",
-      "openai",
-      "spacexai"
-    ],
-    [
-      "buyouts",
-      "employee",
-      "flock",
-      "reportedly",
-      "shrink",
-      "tries",
-      "workforce"
-    ],
-    [
-      "creepy",
-      "maybe",
-      "meta",
-      "muse",
-      "reasons",
-      "think"
-    ],
-    [
-      "acordo",
-      "acusadas",
-      "anthropic",
-      "avanco",
-      "fazer",
-      "frear",
-      "google",
-      "ilegal",
-      "openai",
-      "spacexai"
-    ],
-    [
-      "2030",
-      "acabar",
-      "artificial",
-      "chance",
-      "inteligencia",
-      "mundo",
-      "nvidia"
-    ],
-    [
-      "2030",
-      "bilhoes",
-      "expansao",
-      "financiar",
-      "infraestrutura",
-      "openai",
-      "preve",
-      "queimar"
-    ],
-    [
-      "also",
-      "anthropic",
-      "following",
-      "openai",
-      "postponing",
-      "reportedly"
-    ],
     [
       "announces",
       "czar",
@@ -5157,6 +5039,136 @@
       "infraestrutura",
       "inovacao",
       "inteligencia"
+    ],
+    [
+      "astra",
+      "cost",
+      "half",
+      "parallel",
+      "research",
+      "time"
+    ],
+    [
+      "chips",
+      "emphasis",
+      "launches",
+      "qualcomm",
+      "smartphone"
+    ],
+    [
+      "booms",
+      "data",
+      "demand",
+      "snorkel",
+      "training",
+      "triples",
+      "valuation"
+    ],
+    [
+      "agent",
+      "doesn",
+      "need",
+      "rabbit"
+    ],
+    [
+      "anthropic",
+      "less",
+      "little",
+      "make",
+      "models",
+      "money",
+      "more",
+      "openai",
+      "promise",
+      "same"
+    ],
+    [
+      "contributed",
+      "iran",
+      "missile",
+      "overreliance",
+      "pentagon",
+      "school",
+      "strike"
+    ],
+    [
+      "android",
+      "built",
+      "chip",
+      "market",
+      "memory",
+      "qualcomm",
+      "releases",
+      "shortage",
+      "smartphone",
+      "weighs"
+    ],
+    [
+      "desempenho",
+      "dinheiro",
+      "lanca",
+      "luna",
+      "menos",
+      "modelos",
+      "novos",
+      "openai",
+      "prometem"
+    ],
+    [
+      "entenda",
+      "eram",
+      "estava",
+      "fazer",
+      "humanos",
+      "lado",
+      "ligacoes",
+      "linha",
+      "meta",
+      "outro",
+      "precisava",
+      "quem",
+      "teste"
+    ],
+    [
+      "brasil",
+      "chega",
+      "karaoke",
+      "power",
+      "xboom"
+    ],
+    [
+      "avisar",
+      "criado",
+      "notes",
+      "passa",
+      "quando",
+      "samsung",
+      "sera",
+      "texto",
+      "veja"
+    ],
+    [
+      "erros",
+      "lanca",
+      "luna",
+      "menos",
+      "metade",
+      "openai",
+      "pela",
+      "preco"
+    ],
+    [
+      "donos",
+      "liability",
+      "medo",
+      "real"
+    ],
+    [
+      "agentes",
+      "empresas",
+      "fluke",
+      "ligacao",
+      "oferecera"
     ]
   ]
 }
