@@ -258,7 +258,8 @@
       "https://blogs.nvidia.com/?p=98372",
       "https://blogs.nvidia.com/?p=98364",
       "https://blogs.nvidia.com/?p=98386",
-      "https://blogs.nvidia.com/?p=98370"
+      "https://blogs.nvidia.com/?p=98370",
+      "https://blogs.nvidia.com/?p=98374"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -332,7 +333,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3154081",
       "https://techcrunch.com/?p=3154147",
       "https://techcrunch.com/?p=3153940",
       "https://techcrunch.com/?p=3154226",
@@ -631,7 +631,8 @@
       "https://techcrunch.com/?p=3167713",
       "https://techcrunch.com/?p=3166854",
       "https://techcrunch.com/?p=3167901",
-      "https://techcrunch.com/?p=3167417"
+      "https://techcrunch.com/?p=3167417",
+      "https://techcrunch.com/?p=3167972"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1947,7 +1948,8 @@
       "108365987",
       "108366203",
       "108366178",
-      "108365852"
+      "108365852",
+      "108366100"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2137,9 +2139,6 @@
       "https://mittechreview.com.br/?p=270639"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1362879",
-      "https://olhardigital.com.br/?p=1362880",
-      "https://olhardigital.com.br/?p=1362955",
       "https://olhardigital.com.br/?p=1362957",
       "https://olhardigital.com.br/?p=1362984",
       "https://olhardigital.com.br/?p=1362850",
@@ -2436,7 +2435,10 @@
       "https://olhardigital.com.br/?p=1375244",
       "https://olhardigital.com.br/?p=1375241",
       "https://olhardigital.com.br/?p=1375310",
-      "https://olhardigital.com.br/?p=1375312"
+      "https://olhardigital.com.br/?p=1375312",
+      "https://olhardigital.com.br/?p=1375293",
+      "https://olhardigital.com.br/?p=1375333",
+      "https://olhardigital.com.br/?p=1375338"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3366,77 +3368,11 @@
       "https://www.mobiletime.com.br/?p=864520",
       "https://www.mobiletime.com.br/?p=864557",
       "https://www.mobiletime.com.br/?p=864624",
-      "https://www.mobiletime.com.br/?p=864659"
+      "https://www.mobiletime.com.br/?p=864659",
+      "https://www.mobiletime.com.br/?p=864658"
     ]
   },
   "_titulos_recentes": [
-    [
-      "control",
-      "generation",
-      "into",
-      "live",
-      "real",
-      "runway",
-      "stream",
-      "time",
-      "turn",
-      "video",
-      "wants"
-    ],
-    [
-      "centers",
-      "data",
-      "donald",
-      "maga",
-      "trump",
-      "versus"
-    ],
-    [
-      "better",
-      "helping",
-      "meta",
-      "muse",
-      "surveilling",
-      "than"
-    ],
-    [
-      "ally",
-      "debate",
-      "emerges",
-      "huang",
-      "jensen",
-      "nvidia",
-      "safety",
-      "trump"
-    ],
-    [
-      "alarms",
-      "black",
-      "caucus",
-      "center",
-      "congressional",
-      "data",
-      "dominate",
-      "washington",
-      "week"
-    ],
-    [
-      "desativar",
-      "docs",
-      "drive",
-      "gemini",
-      "gmail",
-      "google",
-      "veja"
-    ],
-    [
-      "2026",
-      "ahead",
-      "days",
-      "disrupt",
-      "left",
-      "techcrunch"
-    ],
     [
       "force",
       "form",
@@ -5180,6 +5116,77 @@
       "plataformas",
       "qualcomm",
       "voltadas"
+    ],
+    [
+      "across",
+      "advancements",
+      "asia",
+      "nvidia",
+      "partners",
+      "showcase",
+      "singapore",
+      "southeast"
+    ],
+    [
+      "about",
+      "already",
+      "battle",
+      "candid",
+      "fighting",
+      "gets",
+      "greece",
+      "minister",
+      "prime",
+      "yesterday"
+    ],
+    [
+      "companies",
+      "entry",
+      "forcing",
+      "grunt",
+      "hiring",
+      "killing",
+      "level",
+      "rethink",
+      "work"
+    ],
+    [
+      "agora",
+      "divisao",
+      "escancara",
+      "fala"
+    ],
+    [
+      "artificial",
+      "cria",
+      "grupo",
+      "inteligencia",
+      "matematicos",
+      "openai",
+      "polemicas",
+      "resultados",
+      "sequencia"
+    ],
+    [
+      "ameacar",
+      "cameras",
+      "dispositivos",
+      "futuro",
+      "geram",
+      "global",
+      "inteligentes",
+      "microfones",
+      "novos",
+      "oculos",
+      "podem",
+      "reacao"
+    ],
+    [
+      "diagnostico",
+      "lanca",
+      "plataforma",
+      "rede",
+      "virtueyes"
     ]
   ]
 }
