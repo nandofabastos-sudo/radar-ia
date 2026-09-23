@@ -332,7 +332,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3154044",
       "https://techcrunch.com/?p=3154081",
       "https://techcrunch.com/?p=3154147",
       "https://techcrunch.com/?p=3153940",
@@ -631,7 +630,8 @@
       "https://techcrunch.com/?p=3167633",
       "https://techcrunch.com/?p=3167713",
       "https://techcrunch.com/?p=3166854",
-      "https://techcrunch.com/?p=3167901"
+      "https://techcrunch.com/?p=3167901",
+      "https://techcrunch.com/?p=3167417"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -823,7 +823,8 @@
       "https://www.theverge.com/?p=998816",
       "https://www.theverge.com/?p=998868",
       "https://www.theverge.com/?p=998813",
-      "https://www.theverge.com/?p=999094"
+      "https://www.theverge.com/?p=999094",
+      "https://www.theverge.com/?p=999167"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38892",
@@ -1539,7 +1540,8 @@
       "6aa09f3cf105c10001086ec8",
       "6aa344a64b93b60001265a41",
       "6aa87bb088e4080001e715af",
-      "6aac80843f5c1600011de4e6"
+      "6aac80843f5c1600011de4e6",
+      "6ab317e4eff74000018d520b"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2012,7 +2014,8 @@
       "https://techcrunch.com/?p=3166504",
       "https://techcrunch.com/?p=3161565",
       "https://techcrunch.com/?p=3167384",
-      "https://techcrunch.com/?p=3167901"
+      "https://techcrunch.com/?p=3167901",
+      "https://techcrunch.com/?p=3167417"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -2134,8 +2137,6 @@
       "https://mittechreview.com.br/?p=270639"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1362838",
-      "https://olhardigital.com.br/?p=1362854",
       "https://olhardigital.com.br/?p=1362879",
       "https://olhardigital.com.br/?p=1362880",
       "https://olhardigital.com.br/?p=1362955",
@@ -2433,7 +2434,9 @@
       "https://olhardigital.com.br/?p=1375105",
       "https://olhardigital.com.br/?p=1375229",
       "https://olhardigital.com.br/?p=1375244",
-      "https://olhardigital.com.br/?p=1375241"
+      "https://olhardigital.com.br/?p=1375241",
+      "https://olhardigital.com.br/?p=1375310",
+      "https://olhardigital.com.br/?p=1375312"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3361,73 +3364,12 @@
       "https://www.mobiletime.com.br/?p=863958",
       "https://www.mobiletime.com.br/?p=864508",
       "https://www.mobiletime.com.br/?p=864520",
-      "https://www.mobiletime.com.br/?p=864557"
+      "https://www.mobiletime.com.br/?p=864557",
+      "https://www.mobiletime.com.br/?p=864624",
+      "https://www.mobiletime.com.br/?p=864659"
     ]
   },
   "_titulos_recentes": [
-    [
-      "announces",
-      "czar",
-      "force",
-      "growth",
-      "plans",
-      "pushes",
-      "trump",
-      "unchecked"
-    ],
-    [
-      "faster",
-      "help",
-      "learn",
-      "make",
-      "mistakes",
-      "realistic",
-      "simulated",
-      "students",
-      "tutors"
-    ],
-    [
-      "destruidora",
-      "empregos",
-      "global",
-      "medo",
-      "mostram",
-      "pesquisas"
-    ],
-    [
-      "chatgpt",
-      "cocriador",
-      "feita",
-      "ferramenta",
-      "pelo"
-    ],
-    [
-      "afetando",
-      "apenas",
-      "empregos",
-      "esta",
-      "numero",
-      "trabalhamos"
-    ],
-    [
-      "biggest",
-      "cybersecurity",
-      "energy",
-      "humans",
-      "risk",
-      "rogue",
-      "still",
-      "systems"
-    ],
-    [
-      "daily",
-      "doubled",
-      "just",
-      "months",
-      "more",
-      "than",
-      "usage"
-    ],
     [
       "control",
       "generation",
@@ -5169,6 +5111,75 @@
       "fluke",
       "ligacao",
       "oferecera"
+    ],
+    [
+      "agenda",
+      "boston",
+      "founder",
+      "fundraising",
+      "hiring",
+      "insights",
+      "november",
+      "revealed",
+      "summit",
+      "techcrunch",
+      "unlock"
+    ],
+    [
+      "about",
+      "again",
+      "consult",
+      "elite",
+      "fumble",
+      "mathematicians",
+      "openai",
+      "wants"
+    ],
+    [
+      "having",
+      "moment",
+      "muse"
+    ],
+    [
+      "apresenta",
+      "avancados",
+      "elite",
+      "extreme",
+      "graficos",
+      "local",
+      "qualcomm",
+      "snapdragon",
+      "versao",
+      "video"
+    ],
+    [
+      "assistente",
+      "colocar",
+      "enfrenta",
+      "falha",
+      "grave",
+      "meta",
+      "pode",
+      "risco",
+      "seguranca",
+      "usuarios"
+    ],
+    [
+      "ausencia",
+      "bets",
+      "critica",
+      "fala",
+      "lula",
+      "regulacao",
+      "techs"
+    ],
+    [
+      "agentica",
+      "lanca",
+      "moveis",
+      "plataformas",
+      "qualcomm",
+      "voltadas"
     ]
   ]
 }
