@@ -219,7 +219,8 @@
       "https://about.fb.com/?p=50106",
       "https://about.fb.com/?p=50149",
       "https://about.fb.com/?p=50185",
-      "https://about.fb.com/?p=50206"
+      "https://about.fb.com/?p=50206",
+      "https://about.fb.com/?p=50267"
     ],
     "nvidia_blog": [
       "https://blogs.nvidia.com/?p=96644",
@@ -346,8 +347,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3154506",
-      "https://techcrunch.com/?p=3154600",
       "https://techcrunch.com/?p=3154391",
       "https://techcrunch.com/?p=3154766",
       "https://techcrunch.com/?p=3154855",
@@ -645,7 +644,9 @@
       "https://techcrunch.com/?p=3168211",
       "https://techcrunch.com/?p=3168123",
       "https://techcrunch.com/?p=3168173",
-      "https://techcrunch.com/?p=3168393"
+      "https://techcrunch.com/?p=3168393",
+      "https://techcrunch.com/?p=3168463",
+      "https://techcrunch.com/?p=3168626"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -844,7 +845,12 @@
       "https://www.theverge.com/?p=999443",
       "https://www.theverge.com/?p=999470",
       "https://www.theverge.com/?p=999412",
-      "https://www.theverge.com/?p=999526"
+      "https://www.theverge.com/?p=999526",
+      "https://www.theverge.com/?p=998457",
+      "https://www.theverge.com/?post_type=vm_stream&p=998480",
+      "https://www.theverge.com/?p=999454",
+      "https://www.theverge.com/?p=999281",
+      "https://www.theverge.com/?p=999673"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38935",
@@ -1544,7 +1550,8 @@
       "6ab2afc756b93c0e50ac09dc",
       "6ab27a761acebec6d2d49431",
       "6ab15565c9d4d635b849c984",
-      "6ab2911156b93c0e50ac071c"
+      "6ab2911156b93c0e50ac071c",
+      "6ab3f57bd550857dadb49e62"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1719,7 +1726,8 @@
       "https://news.ycombinator.com/item?id=49806430",
       "https://news.ycombinator.com/item?id=49804316",
       "https://news.ycombinator.com/item?id=49812769",
-      "https://news.ycombinator.com/item?id=49814947"
+      "https://news.ycombinator.com/item?id=49814947",
+      "https://news.ycombinator.com/item?id=49820134"
     ]
   },
   "mercado": {
@@ -2179,8 +2187,6 @@
       "https://mittechreview.com.br/?p=270601"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1363189",
-      "https://olhardigital.com.br/?p=1363223",
       "https://olhardigital.com.br/?p=1363210",
       "https://olhardigital.com.br/?p=1363280",
       "https://olhardigital.com.br/?p=1363305",
@@ -2478,7 +2484,9 @@
       "https://olhardigital.com.br/?p=1375498",
       "https://olhardigital.com.br/?p=1375564",
       "https://olhardigital.com.br/?p=1375563",
-      "https://olhardigital.com.br/?p=1375609"
+      "https://olhardigital.com.br/?p=1375609",
+      "https://olhardigital.com.br/?p=1375651",
+      "https://olhardigital.com.br/?p=1375658"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2886,8 +2894,6 @@
       "https://canaltech.com.br/apps/spotify-abre-algoritmo-e-deixa-voce-mudar-recomendacoes-no-app/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/afp/2026/08/19/openai-desacelera-desenvolvimento-de-nova-ia.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/19/o-que-esta-por-tras-da-openai-anunciar-surpreendente-pausa-em-avancos-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/19/stripe-faz-acordo-para-comprar-plataforma-de-desenvolvimento-de-ia-openrouter.htm",
       "https://www.uol.com.br/flash/?c=f245a25d3461d883711b9962a49daf320260819",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/parem-as-maquinas-ceo-conta-como-torrou-us-5-mil-em-1h-com-ia.htm",
@@ -3185,7 +3191,9 @@
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/23/cade-arquiva-investigacao-sobre-parceria-amazon-anthropic-para-desenvolvimento-de-ia-generativa.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/openai-afirma-que-divulgacoes-da-sec-prejudicam-processo-antitruste-daxai.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/23/detectores-de-texto-por-inteligencia-artificial-sao-realmente-confiaveis.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/anthropic-diz-que-claude-ajudou-a-descobrir-novo-sistema-enzimatico.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/anthropic-diz-que-claude-ajudou-a-descobrir-novo-sistema-enzimatico.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/lideres-da-area-de-ia-alertam-onu-sobre-riscos-a-seguranca-internacional.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/23/agente-da-openai-invade-portal-do-medicare-na-australia.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3259,7 +3267,9 @@
       "https://braziljournal.com/?p=103098",
       "https://braziljournal.com/?p=103187",
       "https://braziljournal.com/?p=103211",
-      "https://braziljournal.com/?p=103231"
+      "https://braziljournal.com/?p=103231",
+      "https://braziljournal.com/?p=103272",
+      "https://braziljournal.com/?p=103299"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -3434,150 +3444,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "again",
-      "appetite",
-      "bets",
-      "concentrated",
-      "nscale",
-      "once",
-      "street",
-      "test",
-      "wall",
-      "will"
-    ],
-    [
-      "agent",
-      "attackers",
-      "control",
-      "exploit",
-      "meta",
-      "muse",
-      "patches"
-    ],
-    [
-      "after",
-      "internal",
-      "just",
-      "long",
-      "math",
-      "model",
-      "month",
-      "openai",
-      "over",
-      "problems",
-      "solved",
-      "standing",
-      "training"
-    ],
-    [
-      "affordable",
-      "anthropic",
-      "claude",
-      "flagship",
-      "helped",
-      "leads",
-      "models",
-      "open",
-      "there",
-      "xiaomi"
-    ],
-    [
-      "fooled",
-      "hype",
-      "summer"
-    ],
-    [
-      "intact",
-      "privacy",
-      "your"
-    ],
-    [
-      "ancient",
-      "chatbot",
-      "greek",
-      "records",
-      "secrets",
-      "tattered",
-      "unlock",
-      "wants"
-    ],
-    [
-      "found",
-      "guided",
-      "hive",
-      "humans",
-      "malware",
-      "mind",
-      "sight",
-      "tool"
-    ],
-    [
-      "dreams",
-      "harrison",
-      "patti",
-      "silicon",
-      "smashed",
-      "tech",
-      "them",
-      "utopia",
-      "valley"
-    ],
-    [
-      "built",
-      "clones",
-      "coworkers",
-      "things",
-      "weird"
-    ],
-    [
-      "alumni",
-      "chase",
-      "defense",
-      "fomo",
-      "software",
-      "spacex",
-      "tech",
-      "tourists",
-      "veteran",
-      "warns"
-    ],
-    [
-      "agent",
-      "baselayer",
-      "companies",
-      "decide",
-      "exclusive",
-      "help",
-      "raises",
-      "trust"
-    ],
-    [
-      "agentes",
-      "aprenderam",
-      "artificial",
-      "caixa",
-      "inteligencia",
-      "sair"
-    ],
-    [
-      "batalha",
-      "chega",
-      "china",
-      "pela",
-      "techs"
-    ],
-    [
-      "agentes",
-      "artificial",
-      "ataques",
-      "controle",
-      "debate",
-      "global",
-      "inteligencia",
-      "orgao",
-      "proposta"
-    ],
     [
       "brasil",
       "global",
@@ -5229,6 +5095,138 @@
       "gestao",
       "tecnologia",
       "todos"
+    ],
+    [
+      "audio",
+      "glasses",
+      "introducing",
+      "meta",
+      "more",
+      "styles"
+    ],
+    [
+      "already",
+      "anthropic",
+      "biology",
+      "found",
+      "something"
+    ],
+    [
+      "camera",
+      "free",
+      "glasses",
+      "introduces",
+      "meta"
+    ],
+    [
+      "2026",
+      "blog",
+      "connect",
+      "ground",
+      "launch",
+      "live",
+      "mark",
+      "meta",
+      "next",
+      "product",
+      "zuckerberg"
+    ],
+    [
+      "2026",
+      "announcements",
+      "biggest",
+      "connect",
+      "meta",
+      "news"
+    ],
+    [
+      "chat",
+      "making",
+      "meta",
+      "more",
+      "muse",
+      "powerful",
+      "video",
+      "will"
+    ],
+    [
+      "coming",
+      "glasses",
+      "meta",
+      "muse",
+      "smart"
+    ],
+    [
+      "audio",
+      "features",
+      "glasses",
+      "meta",
+      "prices",
+      "specs"
+    ],
+    [
+      "claude",
+      "crispr",
+      "discovers",
+      "enzyme",
+      "like",
+      "novel",
+      "repeats",
+      "system"
+    ],
+    [
+      "2026",
+      "artificial",
+      "assistente",
+      "chatvote",
+      "duvidas",
+      "eleicoes",
+      "inteligencia",
+      "lanca",
+      "tirar"
+    ],
+    [
+      "acessa",
+      "agente",
+      "australiano",
+      "autorizacao",
+      "openai",
+      "roteiro",
+      "saude",
+      "sistema"
+    ],
+    [
+      "alertam",
+      "area",
+      "internacional",
+      "lideres",
+      "riscos",
+      "seguranca"
+    ],
+    [
+      "agente",
+      "australia",
+      "denuncia",
+      "invadiu",
+      "medicare",
+      "ministro",
+      "openai",
+      "primeiro"
+    ],
+    [
+      "dependem",
+      "empresas",
+      "humana",
+      "inercia",
+      "machuca"
+    ],
+    [
+      "criativa",
+      "fazer",
+      "industria",
+      "mudar",
+      "opiniao",
+      "podemos"
     ]
   ]
 }
