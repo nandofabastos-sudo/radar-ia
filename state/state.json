@@ -119,7 +119,8 @@
       "https://openai.com/index/introducing-mentalhealthbench",
       "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "https://openai.com/index/sam-altman-un-security-council-remarks"
+      "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -347,8 +348,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3154391",
-      "https://techcrunch.com/?p=3154766",
       "https://techcrunch.com/?p=3154855",
       "https://techcrunch.com/?p=3154881",
       "https://techcrunch.com/?p=3154851",
@@ -646,7 +645,9 @@
       "https://techcrunch.com/?p=3168173",
       "https://techcrunch.com/?p=3168393",
       "https://techcrunch.com/?p=3168463",
-      "https://techcrunch.com/?p=3168626"
+      "https://techcrunch.com/?p=3168626",
+      "https://techcrunch.com/?p=3168692",
+      "https://techcrunch.com/?p=3168527"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -850,7 +851,8 @@
       "https://www.theverge.com/?post_type=vm_stream&p=998480",
       "https://www.theverge.com/?p=999454",
       "https://www.theverge.com/?p=999281",
-      "https://www.theverge.com/?p=999673"
+      "https://www.theverge.com/?p=999673",
+      "https://www.theverge.com/?p=999750"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38935",
@@ -1992,7 +1994,9 @@
       "108366100",
       "108366047",
       "108362200",
-      "108366914"
+      "108366914",
+      "108367188",
+      "108367213"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2187,8 +2191,6 @@
       "https://mittechreview.com.br/?p=270601"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1363210",
-      "https://olhardigital.com.br/?p=1363280",
       "https://olhardigital.com.br/?p=1363305",
       "https://olhardigital.com.br/?p=1363293",
       "https://olhardigital.com.br/?p=1363304",
@@ -2486,7 +2488,9 @@
       "https://olhardigital.com.br/?p=1375563",
       "https://olhardigital.com.br/?p=1375609",
       "https://olhardigital.com.br/?p=1375651",
-      "https://olhardigital.com.br/?p=1375658"
+      "https://olhardigital.com.br/?p=1375658",
+      "https://olhardigital.com.br/?p=1375625",
+      "https://olhardigital.com.br/?p=1375700"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2894,7 +2898,6 @@
       "https://canaltech.com.br/apps/spotify-abre-algoritmo-e-deixa-voce-mudar-recomendacoes-no-app/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/19/stripe-faz-acordo-para-comprar-plataforma-de-desenvolvimento-de-ia-openrouter.htm",
       "https://www.uol.com.br/flash/?c=f245a25d3461d883711b9962a49daf320260819",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/parem-as-maquinas-ceo-conta-como-torrou-us-5-mil-em-1h-com-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/robos-estao-prestes-a-viver-momento-chatgpt-diz-ceo-da-unitree.htm",
@@ -3193,7 +3196,8 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/23/detectores-de-texto-por-inteligencia-artificial-sao-realmente-confiaveis.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/anthropic-diz-que-claude-ajudou-a-descobrir-novo-sistema-enzimatico.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/lideres-da-area-de-ia-alertam-onu-sobre-riscos-a-seguranca-internacional.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/23/agente-da-openai-invade-portal-do-medicare-na-australia.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/23/agente-da-openai-invade-portal-do-medicare-na-australia.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/23/meta-lanca-ray-ban-com-ia-sem-camera-e-visor-de-realidade-virtual.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3440,72 +3444,11 @@
       "https://www.mobiletime.com.br/?p=864624",
       "https://www.mobiletime.com.br/?p=864659",
       "https://www.mobiletime.com.br/?p=864658",
-      "https://www.mobiletime.com.br/?p=864690"
+      "https://www.mobiletime.com.br/?p=864690",
+      "https://www.mobiletime.com.br/?p=864765"
     ]
   },
   "_titulos_recentes": [
-    [
-      "brasil",
-      "global",
-      "media",
-      "medo",
-      "pesquisa",
-      "supera"
-    ],
-    [
-      "anos",
-      "astra",
-      "codigo",
-      "decifra",
-      "entenda",
-      "feito",
-      "guerra",
-      "secreto"
-    ],
-    [
-      "armado",
-      "ataque",
-      "britanica",
-      "canada",
-      "columbia",
-      "escola",
-      "openai",
-      "processa"
-    ],
-    [
-      "aderem",
-      "defendem",
-      "lideres",
-      "medidas",
-      "mundiais",
-      "seguranca"
-    ],
-    [
-      "acoes",
-      "alibaba",
-      "aposta",
-      "chip",
-      "intensifica",
-      "modelo",
-      "robusto",
-      "sobem"
-    ],
-    [
-      "americanos",
-      "danos",
-      "empresas",
-      "evitem",
-      "pesquisa",
-      "temem"
-    ],
-    [
-      "400m",
-      "agentica",
-      "biblioteca",
-      "construir",
-      "firecrawl",
-      "levanta"
-    ],
     [
       "anpd",
       "companhia",
@@ -5227,6 +5170,72 @@
       "mudar",
       "opiniao",
       "podemos"
+    ],
+    [
+      "asia",
+      "chatgpt",
+      "expands",
+      "southeast",
+      "taiwan"
+    ],
+    [
+      "agent",
+      "like",
+      "made",
+      "meta",
+      "muse",
+      "tamagotchi",
+      "wearable"
+    ],
+    [
+      "after",
+      "billion",
+      "bond",
+      "fund",
+      "issuance",
+      "jump",
+      "openai",
+      "over",
+      "shares",
+      "softbank"
+    ],
+    [
+      "amanha",
+      "categoria",
+      "elastica",
+      "internacional",
+      "olhar",
+      "seguranca",
+      "virar"
+    ],
+    [
+      "dispositivo",
+      "equipado",
+      "lembra",
+      "meta",
+      "muse",
+      "tamagotchi",
+      "trabalha",
+      "usar"
+    ],
+    [
+      "audio",
+      "cameras",
+      "lanca",
+      "meta",
+      "modelo",
+      "oculos"
+    ],
+    [
+      "agente",
+      "cinco",
+      "glasses",
+      "lanca",
+      "leve",
+      "meta",
+      "oculos",
+      "quest",
+      "vezes"
     ]
   ]
 }
