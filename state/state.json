@@ -852,7 +852,8 @@
       "https://www.theverge.com/?p=999454",
       "https://www.theverge.com/?p=999281",
       "https://www.theverge.com/?p=999673",
-      "https://www.theverge.com/?p=999750"
+      "https://www.theverge.com/?p=999750",
+      "https://www.theverge.com/?p=999802"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38935",
@@ -1729,7 +1730,9 @@
       "https://news.ycombinator.com/item?id=49804316",
       "https://news.ycombinator.com/item?id=49812769",
       "https://news.ycombinator.com/item?id=49814947",
-      "https://news.ycombinator.com/item?id=49820134"
+      "https://news.ycombinator.com/item?id=49820134",
+      "https://news.ycombinator.com/item?id=49817615",
+      "https://news.ycombinator.com/item?id=49823582"
     ]
   },
   "mercado": {
@@ -1996,7 +1999,9 @@
       "108362200",
       "108366914",
       "108367188",
-      "108367213"
+      "108367213",
+      "108366900",
+      "108367241"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2191,8 +2196,6 @@
       "https://mittechreview.com.br/?p=270601"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1363305",
-      "https://olhardigital.com.br/?p=1363293",
       "https://olhardigital.com.br/?p=1363304",
       "https://olhardigital.com.br/?p=1363354",
       "https://olhardigital.com.br/?p=1363355",
@@ -2490,7 +2493,9 @@
       "https://olhardigital.com.br/?p=1375651",
       "https://olhardigital.com.br/?p=1375658",
       "https://olhardigital.com.br/?p=1375625",
-      "https://olhardigital.com.br/?p=1375700"
+      "https://olhardigital.com.br/?p=1375700",
+      "https://olhardigital.com.br/?p=1375704",
+      "https://olhardigital.com.br/?p=1375708"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2898,7 +2903,6 @@
       "https://canaltech.com.br/apps/spotify-abre-algoritmo-e-deixa-voce-mudar-recomendacoes-no-app/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/flash/?c=f245a25d3461d883711b9962a49daf320260819",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/parem-as-maquinas-ceo-conta-como-torrou-us-5-mil-em-1h-com-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/20/robos-estao-prestes-a-viver-momento-chatgpt-diz-ceo-da-unitree.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/20/codigo-para-remover-marca-dagua-do-claude-viraliza-apos-anuncio-da-anthropic.ghtm",
@@ -3197,7 +3201,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/anthropic-diz-que-claude-ajudou-a-descobrir-novo-sistema-enzimatico.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/lideres-da-area-de-ia-alertam-onu-sobre-riscos-a-seguranca-internacional.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/23/agente-da-openai-invade-portal-do-medicare-na-australia.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/23/meta-lanca-ray-ban-com-ia-sem-camera-e-visor-de-realidade-virtual.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/23/meta-lanca-ray-ban-com-ia-sem-camera-e-visor-de-realidade-virtual.ghtm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/24/nova-era-e-corrida-de-ia-acabou-de-comecar---e-zuckerberg-renasce-das-cinzas.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3449,87 +3454,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anpd",
-      "companhia",
-      "investigar",
-      "mjsp",
-      "pede",
-      "servicos"
-    ],
-    [
-      "center",
-      "construction",
-      "data",
-      "dislike",
-      "everyone",
-      "find",
-      "reason"
-    ],
-    [
-      "2026",
-      "added",
-      "chance",
-      "disrupt",
-      "exhibit",
-      "last",
-      "showcase",
-      "startup",
-      "tables",
-      "techcrunch",
-      "your"
-    ],
-    [
-      "2026",
-      "aaron",
-      "brings",
-      "disrupt",
-      "edsinger",
-      "hello",
-      "life",
-      "onstage",
-      "robot",
-      "stretch",
-      "techcrunch"
-    ],
-    [
-      "2026",
-      "agenda",
-      "disrupt",
-      "every",
-      "five",
-      "founder",
-      "have",
-      "safety",
-      "sessions",
-      "should",
-      "techcrunch",
-      "their"
-    ],
-    [
-      "astroforge",
-      "command",
-      "next",
-      "putting",
-      "spacecraft"
-    ],
-    [
-      "anthropic",
-      "fable",
-      "level",
-      "lower",
-      "opus",
-      "performance",
-      "prices",
-      "releases"
-    ],
-    [
-      "intelligence",
-      "officially",
-      "renaming",
-      "super",
-      "trump"
-    ],
     [
       "anthropic",
       "claude",
@@ -5236,6 +5160,70 @@
       "oculos",
       "quest",
       "vezes"
+    ],
+    [
+      "almost",
+      "chief",
+      "deepmind",
+      "gemini",
+      "google",
+      "ready"
+    ],
+    [
+      "gemini",
+      "speech",
+      "text"
+    ],
+    [
+      "coming",
+      "linux",
+      "series",
+      "snapdragon",
+      "support"
+    ],
+    [
+      "arms",
+      "blitz",
+      "china",
+      "chip",
+      "choke",
+      "message",
+      "trump"
+    ],
+    [
+      "agent",
+      "australian",
+      "being",
+      "government",
+      "hacked",
+      "openai",
+      "told",
+      "website",
+      "without"
+    ],
+    [
+      "governo",
+      "invadir",
+      "mandar",
+      "ninguem",
+      "openai",
+      "sites",
+      "tentou",
+      "universidade"
+    ],
+    [
+      "brasil",
+      "lancamentos",
+      "meta",
+      "nino",
+      "resumo"
+    ],
+    [
+      "agentes",
+      "bombam",
+      "cinzas",
+      "renasce",
+      "zuckerberg"
     ]
   ]
 }
