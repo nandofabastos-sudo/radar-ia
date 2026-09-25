@@ -349,7 +349,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?post_type=tc_podcast&p=3155475",
       "https://techcrunch.com/?p=3155284",
       "https://techcrunch.com/?p=3155585",
       "https://techcrunch.com/?p=3155131",
@@ -648,7 +647,8 @@
       "https://techcrunch.com/?p=3169009",
       "https://techcrunch.com/?p=3169077",
       "https://techcrunch.com/?p=3169128",
-      "https://techcrunch.com/?p=3169215"
+      "https://techcrunch.com/?p=3169215",
+      "https://techcrunch.com/?p=3169287"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1603,7 +1603,8 @@
       "6aa344a64b93b60001265a41",
       "6aa87bb088e4080001e715af",
       "6aac80843f5c1600011de4e6",
-      "6ab317e4eff74000018d520b"
+      "6ab317e4eff74000018d520b",
+      "6ab5b2de903dc10001d4d74f"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2102,7 +2103,8 @@
       "https://techcrunch.com/?p=3168701",
       "https://techcrunch.com/?p=3168750",
       "https://techcrunch.com/?p=3169157",
-      "https://techcrunch.com/?p=3169128"
+      "https://techcrunch.com/?p=3169128",
+      "https://techcrunch.com/?p=3169287"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -2230,7 +2232,6 @@
       "https://mittechreview.com.br/?p=271426"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1363088",
       "https://olhardigital.com.br/?p=1363087",
       "https://olhardigital.com.br/?p=1363633",
       "https://olhardigital.com.br/?p=1363647",
@@ -2529,7 +2530,8 @@
       "https://olhardigital.com.br/?p=1375889",
       "https://olhardigital.com.br/?p=1375935",
       "https://olhardigital.com.br/?p=1376001",
-      "https://olhardigital.com.br/?p=1376026"
+      "https://olhardigital.com.br/?p=1376026",
+      "https://olhardigital.com.br/?p=1376055"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3506,43 +3508,11 @@
       "https://www.mobiletime.com.br/?p=864659",
       "https://www.mobiletime.com.br/?p=864658",
       "https://www.mobiletime.com.br/?p=864690",
-      "https://www.mobiletime.com.br/?p=864765"
+      "https://www.mobiletime.com.br/?p=864765",
+      "https://www.mobiletime.com.br/?p=864848"
     ]
   },
   "_titulos_recentes": [
-    [
-      "ainda",
-      "anthropic",
-      "anuncia",
-      "capacidade",
-      "claude",
-      "maior",
-      "opus"
-    ],
-    [
-      "agentes",
-      "colocou",
-      "concluirem",
-      "humanos",
-      "meta",
-      "seres",
-      "tarefas"
-    ],
-    [
-      "anos",
-      "bilhoes",
-      "criada",
-      "jovem",
-      "vale"
-    ],
-    [
-      "alertarao",
-      "ameaca",
-      "controle",
-      "criadores",
-      "fora",
-      "global"
-    ],
     [
       "broches",
       "debate",
@@ -5370,6 +5340,41 @@
       "setor",
       "tecnologia",
       "trump"
+    ],
+    [
+      "250m",
+      "early",
+      "focusing",
+      "fund",
+      "india",
+      "lightspeed",
+      "stage",
+      "targets"
+    ],
+    [
+      "forget",
+      "make",
+      "metaverse",
+      "muse"
+    ],
+    [
+      "artificial",
+      "camara",
+      "ceos",
+      "inteligencia",
+      "presidente",
+      "reuniao",
+      "tecnologia",
+      "terao",
+      "terca",
+      "trump"
+    ],
+    [
+      "empreendedores",
+      "mercado",
+      "milhoes",
+      "pago",
+      "usaram"
     ]
   ]
 }
