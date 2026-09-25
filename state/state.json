@@ -2226,10 +2226,10 @@
       "https://mittechreview.com.br/?p=269284",
       "https://mittechreview.com.br/?p=270279",
       "https://mittechreview.com.br/?p=270639",
-      "https://mittechreview.com.br/?p=270601"
+      "https://mittechreview.com.br/?p=270601",
+      "https://mittechreview.com.br/?p=271426"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1363086",
       "https://olhardigital.com.br/?p=1363088",
       "https://olhardigital.com.br/?p=1363087",
       "https://olhardigital.com.br/?p=1363633",
@@ -2528,7 +2528,8 @@
       "https://olhardigital.com.br/?p=1375805",
       "https://olhardigital.com.br/?p=1375889",
       "https://olhardigital.com.br/?p=1375935",
-      "https://olhardigital.com.br/?p=1376001"
+      "https://olhardigital.com.br/?p=1376001",
+      "https://olhardigital.com.br/?p=1376026"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2954,7 +2955,6 @@
       "https://canaltech.com.br/mercado/o-que-falta-para-o-google-construir-um-novo-data-center-no-brasil/"
     ],
     "tilt_uol": [
-      "https://www3.uol.com.br/redirect-flash/como-a-ia-pode-aprofundar-nosso-pensamento-e-acessar-o-que-nao-sabemos.htm",
       "https://www3.uol.com.br/redirect-flash/como-ia-entrou-no-combate-ao-cancer-com-vacinas.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/entidades-pedem-que-mpf-investiguem-oculos-com-ia-da-meta.ghtm",
       "https://www.uol.com.br/flash/?c=c9e42624888b2c27b887db0ca7949e220260821",
@@ -3253,7 +3253,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/24/estudo-chatbot-internetlab.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/24/anthropic-e-openevidence-firmam-parceria-para-ia-medica.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/24/dispositivo-charm-da-meta-carrega-grandes-ambicoes-de-zuckerberg-em-relacao-a-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/24/oracle-invoca-forca-maior-em-projeto-de-data-center-nos-eua-diz-fonte.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/24/oracle-invoca-forca-maior-em-projeto-de-data-center-nos-eua-diz-fonte.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/24/trump-e-ceos-do-setor-de-tecnologia-discutirao-ia-na-3-feira-diz-fonte.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3509,29 +3510,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agent",
-      "emerging",
-      "security"
-    ],
-    [
-      "jumbo",
-      "rise",
-      "rounds",
-      "series",
-      "sized"
-    ],
-    [
-      "2030",
-      "corrida",
-      "devem",
-      "disparar",
-      "humanoides",
-      "maquinas",
-      "milhao",
-      "robos",
-      "vendas"
-    ],
     [
       "ainda",
       "anthropic",
@@ -5359,6 +5337,39 @@
       "incrementar",
       "planilhas",
       "startup"
+    ],
+    [
+      "antes",
+      "bilhoes",
+      "conseguem",
+      "detectar",
+      "deter",
+      "elas",
+      "fronteira",
+      "gastaram",
+      "morram",
+      "pessoas",
+      "vigilancia"
+    ],
+    [
+      "anthropic",
+      "artificial",
+      "criar",
+      "google",
+      "inteligencia",
+      "openai",
+      "orgao",
+      "seguranca",
+      "unem"
+    ],
+    [
+      "ceos",
+      "discutirao",
+      "feira",
+      "fonte",
+      "setor",
+      "tecnologia",
+      "trump"
     ]
   ]
 }
