@@ -871,9 +871,6 @@
       "https://www.theverge.com/?p=1000328"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39041",
-      "https://the-decoder.com/?p=39052",
-      "https://the-decoder.com/?p=39061",
       "https://the-decoder.com/?p=39071",
       "https://the-decoder.com/?p=39076",
       "https://the-decoder.com/?p=39093",
@@ -1170,7 +1167,10 @@
       "https://the-decoder.com/?p=40618",
       "https://the-decoder.com/?p=40623",
       "https://the-decoder.com/?p=40629",
-      "https://the-decoder.com/?p=40632"
+      "https://the-decoder.com/?p=40632",
+      "https://the-decoder.com/?p=40641",
+      "https://the-decoder.com/?p=40645",
+      "https://the-decoder.com/?p=40649"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1284,7 +1284,8 @@
       "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
       "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
       "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-      "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/"
+      "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+      "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1429,7 +1430,8 @@
       "https://www.technologyreview.com/?p=1144161",
       "https://www.technologyreview.com/?p=1144867",
       "https://www.technologyreview.com/?p=1144890",
-      "https://www.technologyreview.com/?p=1144940"
+      "https://www.technologyreview.com/?p=1144940",
+      "https://www.technologyreview.com/?p=1145144"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -2029,7 +2031,8 @@
       "108366877",
       "108366749",
       "108367403",
-      "108367513"
+      "108367513",
+      "108367951"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2156,7 +2159,8 @@
       "https://news.crunchbase.com/?p=94104",
       "https://news.crunchbase.com/?p=94105",
       "https://news.crunchbase.com/?p=94110",
-      "https://news.crunchbase.com/?p=94108"
+      "https://news.crunchbase.com/?p=94108",
+      "https://news.crunchbase.com/?p=94113"
     ]
   },
   "brasil": {
@@ -2232,8 +2236,6 @@
       "https://mittechreview.com.br/?p=271426"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1363087",
-      "https://olhardigital.com.br/?p=1363633",
       "https://olhardigital.com.br/?p=1363647",
       "https://olhardigital.com.br/?p=1363677",
       "https://olhardigital.com.br/?p=1363693",
@@ -2531,7 +2533,9 @@
       "https://olhardigital.com.br/?p=1375935",
       "https://olhardigital.com.br/?p=1376001",
       "https://olhardigital.com.br/?p=1376026",
-      "https://olhardigital.com.br/?p=1376055"
+      "https://olhardigital.com.br/?p=1376055",
+      "https://olhardigital.com.br/?p=1376074",
+      "https://olhardigital.com.br/?p=1376084"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2657,7 +2661,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=935651",
       "https://tecnoblog.net/?post_type=noticias&p=935731",
       "https://tecnoblog.net/?post_type=noticias&p=935878",
-      "https://tecnoblog.net/?post_type=noticias&p=935950"
+      "https://tecnoblog.net/?post_type=noticias&p=935950",
+      "https://tecnoblog.net/?post_type=noticias&p=936178"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
@@ -2954,11 +2959,10 @@
       "https://canaltech.com.br/inteligencia-artificial/gemini-agora-clona-sua-voz-em-30-segundos-e-atua-com-risos-e-sussurros/",
       "https://canaltech.com.br/inteligencia-artificial/ia-da-openai-nao-achou-o-que-queria-entao-hackeou-site-do-governo-por-conta-propria/",
       "https://canaltech.com.br/inteligencia-artificial/google-libera-ia-de-criacao-de-video-de-graca-para-todo-mundo/",
-      "https://canaltech.com.br/mercado/o-que-falta-para-o-google-construir-um-novo-data-center-no-brasil/"
+      "https://canaltech.com.br/mercado/o-que-falta-para-o-google-construir-um-novo-data-center-no-brasil/",
+      "https://canaltech.com.br/produtos/xiaomi-lanca-camera-de-visao-noturna-com-ia-que-acompanha-pessoas-e-animais/"
     ],
     "tilt_uol": [
-      "https://www3.uol.com.br/redirect-flash/como-ia-entrou-no-combate-ao-cancer-com-vacinas.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/21/entidades-pedem-que-mpf-investiguem-oculos-com-ia-da-meta.ghtm",
       "https://www.uol.com.br/flash/?c=c9e42624888b2c27b887db0ca7949e220260821",
       "https://www.uol.com.br/tilt/noticias/afp/2026/08/21/uber-leva-multa-de-r-5-bi-na-europa-por-desligar-motoristas-com-algoritmo.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/22/ceo-conta-segredo-para-formar-jovens-quando-ia-ja-faz-tudo-testadores.htm",
@@ -3256,7 +3260,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/24/anthropic-e-openevidence-firmam-parceria-para-ia-medica.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/24/dispositivo-charm-da-meta-carrega-grandes-ambicoes-de-zuckerberg-em-relacao-a-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/24/oracle-invoca-forca-maior-em-projeto-de-data-center-nos-eua-diz-fonte.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/24/trump-e-ceos-do-setor-de-tecnologia-discutirao-ia-na-3-feira-diz-fonte.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/24/trump-e-ceos-do-setor-de-tecnologia-discutirao-ia-na-3-feira-diz-fonte.htm",
+      "https://www.uol.com.br/tilt/colunas/lilian-cintra-de-melo/2026/09/25/os-companheiros-de-ia-e-os-perigos-ao-alcance-de-criancas-e-adolescentes.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/25/ia-vira-gps-do-coracao-de-cirurgia-cardiaca-e-paciente-sai-no-mesmo-dia.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3513,104 +3519,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "broches",
-      "debate",
-      "global",
-      "oculos",
-      "privacidade",
-      "reabrem"
-    ],
-    [
-      "boom",
-      "commodities",
-      "infraestrutura",
-      "pressiona"
-    ],
-    [
-      "academy",
-      "openai",
-      "years"
-    ],
-    [
-      "agents",
-      "calls",
-      "customer",
-      "openai",
-      "resolve",
-      "ringg"
-    ],
-    [
-      "gemini",
-      "hello",
-      "speech",
-      "text"
-    ],
-    [
-      "advancing",
-      "compute",
-      "memory",
-      "private",
-      "secure",
-      "server",
-      "side"
-    ],
-    [
-      "fiza",
-      "hardware",
-      "helps",
-      "nvidia",
-      "sakeena",
-      "scale",
-      "succeed"
-    ],
-    [
-      "algorithm",
-      "giving",
-      "keys",
-      "launch",
-      "profile",
-      "recommendation",
-      "spotify",
-      "taste"
-    ],
-    [
-      "2026",
-      "connections",
-      "days",
-      "disrupt",
-      "impactful",
-      "left",
-      "make",
-      "save",
-      "techcrunch"
-    ],
-    [
-      "2026",
-      "capital",
-      "changing",
-      "disrupt",
-      "inside",
-      "rules",
-      "strictlyvc",
-      "techcrunch",
-      "venture"
-    ],
-    [
-      "creators",
-      "features",
-      "releases",
-      "studio",
-      "within",
-      "youtube"
-    ],
-    [
-      "algorithm",
-      "build",
-      "will",
-      "your",
-      "youtube"
-    ],
     [
       "conversational",
       "features",
@@ -5375,6 +5283,133 @@
       "milhoes",
       "pago",
       "usaram"
+    ],
+    [
+      "anthropic",
+      "before",
+      "british",
+      "house",
+      "models",
+      "openai",
+      "review",
+      "sharing",
+      "tells",
+      "testers",
+      "them",
+      "white"
+    ],
+    [
+      "code",
+      "creator",
+      "done",
+      "hand",
+      "rails",
+      "ruby",
+      "writing"
+    ],
+    [
+      "akamai",
+      "anthropic",
+      "billion",
+      "cloud",
+      "compute",
+      "deal",
+      "past",
+      "pushing",
+      "signs",
+      "spending",
+      "under",
+      "year"
+    ],
+    [
+      "admin",
+      "care",
+      "deny",
+      "disastrous",
+      "experiment",
+      "medical",
+      "seniors",
+      "trump",
+      "using"
+    ],
+    [
+      "build",
+      "detector",
+      "million",
+      "pentagon",
+      "powered",
+      "wants"
+    ],
+    [
+      "about",
+      "biggest",
+      "dined",
+      "here",
+      "know",
+      "names",
+      "talks",
+      "tech",
+      "trump",
+      "what"
+    ],
+    [
+      "2025",
+      "companies",
+      "layoffs",
+      "outpace",
+      "shift",
+      "spending",
+      "tech"
+    ],
+    [
+      "altman",
+      "branca",
+      "casa",
+      "dita",
+      "futuro",
+      "jantar",
+      "musk",
+      "quem",
+      "reune",
+      "tecnologia",
+      "trump",
+      "zuckerberg"
+    ],
+    [
+      "adobe",
+      "claude",
+      "ferramentas",
+      "firefly",
+      "gemini",
+      "leva",
+      "lightroom",
+      "photoshop",
+      "reune"
+    ],
+    [
+      "acompanha",
+      "animais",
+      "camera",
+      "lanca",
+      "noturna",
+      "pessoas",
+      "visao",
+      "xiaomi"
+    ],
+    [
+      "adolescentes",
+      "alcance",
+      "companheiros",
+      "criancas",
+      "perigos"
+    ],
+    [
+      "cardiaca",
+      "cirurgia",
+      "coracao",
+      "mesmo",
+      "paciente",
+      "vira"
     ]
   ]
 }
