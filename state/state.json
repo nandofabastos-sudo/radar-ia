@@ -350,7 +350,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3156075",
       "https://techcrunch.com/?p=3156161",
       "https://techcrunch.com/?p=3156453",
       "https://techcrunch.com/?p=3154850",
@@ -649,7 +648,8 @@
       "https://techcrunch.com/?p=3170070",
       "https://techcrunch.com/?p=3170030",
       "https://techcrunch.com/?p=3169081",
-      "https://techcrunch.com/?p=3167791"
+      "https://techcrunch.com/?p=3167791",
+      "https://techcrunch.com/?p=3170285"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -2265,7 +2265,6 @@
       "https://mittechreview.com.br/?p=271024"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1364095",
       "https://olhardigital.com.br/?p=1364159",
       "https://olhardigital.com.br/?p=1362454",
       "https://olhardigital.com.br/?p=1364170",
@@ -2564,7 +2563,8 @@
       "https://olhardigital.com.br/?p=1376132",
       "https://olhardigital.com.br/?p=1375043",
       "https://olhardigital.com.br/?p=1376503",
-      "https://olhardigital.com.br/?p=1376510"
+      "https://olhardigital.com.br/?p=1376510",
+      "https://olhardigital.com.br/?p=1376522"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2694,7 +2694,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=936178",
       "https://tecnoblog.net/?post_type=noticias&p=936003",
       "https://tecnoblog.net/?post_type=noticias&p=936227",
-      "https://tecnoblog.net/?post_type=noticias&p=936438"
+      "https://tecnoblog.net/?post_type=noticias&p=936438",
+      "https://tecnoblog.net/?post_type=noticias&p=936595"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/gemini-vai-liberar-criacao-de-assistentes-de-ia-no-celular-sem-plano-profissional/",
@@ -3561,34 +3562,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agent",
-      "australian",
-      "being",
-      "government",
-      "hacked",
-      "openai",
-      "told",
-      "website",
-      "without"
-    ],
-    [
-      "governo",
-      "invadir",
-      "mandar",
-      "ninguem",
-      "openai",
-      "sites",
-      "tentou",
-      "universidade"
-    ],
-    [
-      "brasil",
-      "lancamentos",
-      "meta",
-      "nino",
-      "resumo"
-    ],
     [
       "agentes",
       "bombam",
@@ -5488,6 +5461,30 @@
       "comunicacao",
       "cupula",
       "trump"
+    ],
+    [
+      "already",
+      "claim",
+      "costs",
+      "healthcare",
+      "increasing",
+      "insurers"
+    ],
+    [
+      "amplia",
+      "comportamento",
+      "incidentes",
+      "modelos",
+      "novos",
+      "openai",
+      "revisao"
+    ],
+    [
+      "bill",
+      "cobra",
+      "empresas",
+      "gates",
+      "regras"
     ]
   ]
 }
