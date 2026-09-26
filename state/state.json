@@ -877,9 +877,6 @@
       "https://www.theverge.com/?p=1000784"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39046",
-      "https://the-decoder.com/?p=38942",
-      "https://the-decoder.com/?p=39098",
       "https://the-decoder.com/?p=38699",
       "https://the-decoder.com/?p=39057",
       "https://the-decoder.com/?p=39104",
@@ -1176,7 +1173,10 @@
       "https://the-decoder.com/?p=40652",
       "https://the-decoder.com/?p=40672",
       "https://the-decoder.com/?p=40676",
-      "https://the-decoder.com/?p=40679"
+      "https://the-decoder.com/?p=40679",
+      "https://the-decoder.com/?p=40682",
+      "https://the-decoder.com/?p=40665",
+      "https://the-decoder.com/?p=40688"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1590,7 +1590,8 @@
       "6ab333f8f51e7fb8c39cc78e",
       "6ab2e8c97e5544c7a3b97b6f",
       "6ab69b4edd296d4bba528714",
-      "6ab6c7201da71b80b195349d"
+      "6ab6c7201da71b80b195349d",
+      "6ab67d95c4da8f2e1f68c67c"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1772,7 +1773,8 @@
       "https://news.ycombinator.com/item?id=49823582",
       "https://news.ycombinator.com/item?id=49827794",
       "https://news.ycombinator.com/item?id=49845977",
-      "https://news.ycombinator.com/item?id=49849985"
+      "https://news.ycombinator.com/item?id=49849985",
+      "https://news.ycombinator.com/item?id=49840054"
     ]
   },
   "mercado": {
@@ -2051,7 +2053,8 @@
       "108368142",
       "108368200",
       "108367686",
-      "108367947"
+      "108367947",
+      "108368048"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2254,11 +2257,10 @@
       "https://mittechreview.com.br/?p=270279",
       "https://mittechreview.com.br/?p=270639",
       "https://mittechreview.com.br/?p=270601",
-      "https://mittechreview.com.br/?p=271426"
+      "https://mittechreview.com.br/?p=271426",
+      "https://mittechreview.com.br/?p=271024"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1363980",
-      "https://olhardigital.com.br/?p=1364015",
       "https://olhardigital.com.br/?p=1364047",
       "https://olhardigital.com.br/?p=1364073",
       "https://olhardigital.com.br/?p=1364095",
@@ -2556,7 +2558,9 @@
       "https://olhardigital.com.br/?p=1376304",
       "https://olhardigital.com.br/?p=1376312",
       "https://olhardigital.com.br/?p=1376394",
-      "https://olhardigital.com.br/?p=1376413"
+      "https://olhardigital.com.br/?p=1376413",
+      "https://olhardigital.com.br/?p=1376132",
+      "https://olhardigital.com.br/?p=1375043"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2987,12 +2991,10 @@
       "https://canaltech.com.br/produtos/xiaomi-lanca-camera-de-visao-noturna-com-ia-que-acompanha-pessoas-e-animais/",
       "https://canaltech.com.br/inteligencia-artificial/google-promete-gemini-4-antes-do-previsto-veja-o-que-ainda-falta-no-modelo/",
       "https://canaltech.com.br/mercado/google-esta-levando-seus-data-centers-de-ia-para-o-espaco-mas-por-que/",
-      "https://canaltech.com.br/inteligencia-artificial/china-esta-construindo-nova-hollywood-para-fazer-filmes-inteiramente-com-ia/"
+      "https://canaltech.com.br/inteligencia-artificial/china-esta-construindo-nova-hollywood-para-fazer-filmes-inteiramente-com-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-claude/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/08/25/motor-da-ia-racha-a-direita-nos-eua-e-ameaca-eleicao-vital-para-trump.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/musk-diz-que-spacex-vai-lancar-primeiros-satelites-de-ia-no-fim-de-2026.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/nvidia-enfrenta-teste-de-crescimento-com-estreia-do-rubin-em-meio-a-escrutinio-sobre-financiamento-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/chatgpt-libera-criacao-de-packs-de-figurinhas-para-whatsapp-e-imessage.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/pesquisadores-desenvolvem-modelo-de-ia-que-processa-quantidade-muito-maior-de-informacoes.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/google-expande-plataforma-de-ia-para-escritorios-de-advocacia-e-advogados.htm",
@@ -3289,7 +3291,10 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/25/perplexity-e-processada-por-startup-por-supostamente-roubar-tecnologia-de-palavra-de-ativacao.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/25/tribunal-dos-eua-mantem-veto-do-pentagono-a-ia-da-anthropic.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/25/bill-gates-diz-que-ia-ja-tem-poder-para-matar-1-bilhao-de-pessoas.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/25/openai-tenta-entender-todo-alcance-de-atividade-nao-autorizada-de-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/25/openai-tenta-entender-todo-alcance-de-atividade-nao-autorizada-de-ia.htm",
+      "https://www.uol.com.br/flash/?c=6ab6be9634e2fe231d7848cf",
+      "https://www.uol.com.br/flash/?c=6ab56c01989ca059cff93612",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/26/openai-reconhece-publicacao-por-engano-de-imagens-de-usuarios-do-chatgpt.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3551,108 +3556,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "camera",
-      "free",
-      "glasses",
-      "introduces",
-      "meta"
-    ],
-    [
-      "2026",
-      "blog",
-      "connect",
-      "ground",
-      "launch",
-      "live",
-      "mark",
-      "meta",
-      "next",
-      "product",
-      "zuckerberg"
-    ],
-    [
-      "2026",
-      "announcements",
-      "biggest",
-      "connect",
-      "meta",
-      "news"
-    ],
-    [
-      "chat",
-      "making",
-      "meta",
-      "more",
-      "muse",
-      "powerful",
-      "video",
-      "will"
-    ],
-    [
-      "coming",
-      "glasses",
-      "meta",
-      "muse",
-      "smart"
-    ],
-    [
-      "audio",
-      "features",
-      "glasses",
-      "meta",
-      "prices",
-      "specs"
-    ],
-    [
-      "claude",
-      "crispr",
-      "discovers",
-      "enzyme",
-      "like",
-      "novel",
-      "repeats",
-      "system"
-    ],
-    [
-      "2026",
-      "artificial",
-      "assistente",
-      "chatvote",
-      "duvidas",
-      "eleicoes",
-      "inteligencia",
-      "lanca",
-      "tirar"
-    ],
-    [
-      "acessa",
-      "agente",
-      "australiano",
-      "autorizacao",
-      "openai",
-      "roteiro",
-      "saude",
-      "sistema"
-    ],
-    [
-      "alertam",
-      "area",
-      "internacional",
-      "lideres",
-      "riscos",
-      "seguranca"
-    ],
-    [
-      "agente",
-      "australia",
-      "denuncia",
-      "invadiu",
-      "medicare",
-      "ministro",
-      "openai",
-      "primeiro"
-    ],
     [
       "dependem",
       "empresas",
@@ -5467,6 +5370,104 @@
       "plataforma",
       "robos",
       "tentaram"
+    ],
+    [
+      "after",
+      "agents",
+      "capable",
+      "data",
+      "exploit",
+      "leak",
+      "loopholes",
+      "models",
+      "most",
+      "openai",
+      "pauses"
+    ],
+    [
+      "astra",
+      "exactly",
+      "ikea",
+      "openai",
+      "screwed",
+      "shelf",
+      "tell",
+      "where",
+      "your"
+    ],
+    [
+      "agent",
+      "coding",
+      "cuts",
+      "half",
+      "harness",
+      "nearly",
+      "nvidia",
+      "optimizing",
+      "system",
+      "token",
+      "usage"
+    ],
+    [
+      "adults",
+      "does",
+      "kids",
+      "like",
+      "look",
+      "meta",
+      "muse",
+      "only"
+    ],
+    [
+      "dead",
+      "mode",
+      "plan"
+    ],
+    [
+      "boom",
+      "center",
+      "china",
+      "data",
+      "here",
+      "wants"
+    ],
+    [
+      "biologia",
+      "cria",
+      "dados",
+      "esta",
+      "modelos",
+      "openai",
+      "pagando",
+      "precisam"
+    ],
+    [
+      "artificial",
+      "burrice",
+      "inevitavel",
+      "inteligencia"
+    ],
+    [
+      "claude",
+      "funciona",
+      "memoria"
+    ],
+    [
+      "cinzas",
+      "mark",
+      "meta",
+      "muse",
+      "renascerem",
+      "zuckerberg"
+    ],
+    [
+      "chatgpt",
+      "engano",
+      "imagens",
+      "openai",
+      "publicacao",
+      "reconhece",
+      "usuarios"
     ]
   ]
 }
