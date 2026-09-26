@@ -350,7 +350,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3156230",
       "https://techcrunch.com/?p=3156075",
       "https://techcrunch.com/?p=3156161",
       "https://techcrunch.com/?p=3156453",
@@ -649,7 +648,8 @@
       "https://techcrunch.com/?p=3170007",
       "https://techcrunch.com/?p=3170070",
       "https://techcrunch.com/?p=3170030",
-      "https://techcrunch.com/?p=3169081"
+      "https://techcrunch.com/?p=3169081",
+      "https://techcrunch.com/?p=3167791"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -874,7 +874,9 @@
       "https://www.theverge.com/?p=1000321",
       "https://www.theverge.com/?p=1000644",
       "https://www.theverge.com/?p=1000758",
-      "https://www.theverge.com/?p=1000784"
+      "https://www.theverge.com/?p=1000784",
+      "https://www.theverge.com/?p=1000344",
+      "https://www.theverge.com/?p=1001049"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=38699",
@@ -2054,7 +2056,8 @@
       "108368200",
       "108367686",
       "108367947",
-      "108368048"
+      "108368048",
+      "108358040"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2261,7 +2264,6 @@
       "https://mittechreview.com.br/?p=271024"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1364047",
       "https://olhardigital.com.br/?p=1364073",
       "https://olhardigital.com.br/?p=1364095",
       "https://olhardigital.com.br/?p=1364159",
@@ -2560,7 +2562,8 @@
       "https://olhardigital.com.br/?p=1376394",
       "https://olhardigital.com.br/?p=1376413",
       "https://olhardigital.com.br/?p=1376132",
-      "https://olhardigital.com.br/?p=1375043"
+      "https://olhardigital.com.br/?p=1375043",
+      "https://olhardigital.com.br/?p=1376503"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2693,7 +2696,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=936438"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
       "https://canaltech.com.br/apps/tim-cook-sugere-que-siri-com-ia-pode-custar-caro-para-heavy-users/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-vai-liberar-criacao-de-assistentes-de-ia-no-celular-sem-plano-profissional/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-spark-ganha-integracao-no-chrome-para-navegar-sozinho-por-ai/",
@@ -2992,7 +2994,8 @@
       "https://canaltech.com.br/inteligencia-artificial/google-promete-gemini-4-antes-do-previsto-veja-o-que-ainda-falta-no-modelo/",
       "https://canaltech.com.br/mercado/google-esta-levando-seus-data-centers-de-ia-para-o-espaco-mas-por-que/",
       "https://canaltech.com.br/inteligencia-artificial/china-esta-construindo-nova-hollywood-para-fazer-filmes-inteiramente-com-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-claude/"
+      "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-claude/",
+      "https://canaltech.com.br/inteligencia-artificial/gpt-sol-luna-entenda-diferencas-e-qual-escolher/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/chatgpt-libera-criacao-de-packs-de-figurinhas-para-whatsapp-e-imessage.ghtm",
@@ -3343,7 +3346,8 @@
       "https://neofeed.com.br/?p=237827",
       "https://neofeed.com.br/?p=237947",
       "https://neofeed.com.br/?p=238097",
-      "https://neofeed.com.br/?p=238102"
+      "https://neofeed.com.br/?p=238102",
+      "https://neofeed.com.br/?p=237647"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -3556,58 +3560,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "dependem",
-      "empresas",
-      "humana",
-      "inercia",
-      "machuca"
-    ],
-    [
-      "criativa",
-      "fazer",
-      "industria",
-      "mudar",
-      "opiniao",
-      "podemos"
-    ],
-    [
-      "asia",
-      "chatgpt",
-      "expands",
-      "southeast",
-      "taiwan"
-    ],
-    [
-      "agent",
-      "like",
-      "made",
-      "meta",
-      "muse",
-      "tamagotchi",
-      "wearable"
-    ],
-    [
-      "after",
-      "billion",
-      "bond",
-      "fund",
-      "issuance",
-      "jump",
-      "openai",
-      "over",
-      "shares",
-      "softbank"
-    ],
-    [
-      "amanha",
-      "categoria",
-      "elastica",
-      "internacional",
-      "olhar",
-      "seguranca",
-      "virar"
-    ],
     [
       "dispositivo",
       "equipado",
@@ -5468,6 +5420,60 @@
       "publicacao",
       "reconhece",
       "usuarios"
+    ],
+    [
+      "avatar",
+      "created",
+      "digital",
+      "interactive",
+      "myself",
+      "talk"
+    ],
+    [
+      "cloudflare",
+      "matthew",
+      "prince",
+      "save"
+    ],
+    [
+      "backlash",
+      "blue",
+      "booming",
+      "bust",
+      "center",
+      "collar",
+      "data",
+      "make",
+      "market",
+      "will"
+    ],
+    [
+      "artificial",
+      "china",
+      "cortam",
+      "criam",
+      "dialogo",
+      "inteligencia",
+      "tarifas"
+    ],
+    [
+      "diferenca",
+      "entenda",
+      "entre",
+      "escolher",
+      "luna",
+      "modelos",
+      "novos",
+      "openai",
+      "qual",
+      "saiba"
+    ],
+    [
+      "campana",
+      "humberto",
+      "manual",
+      "politico",
+      "trabalho"
     ]
   ]
 }
