@@ -350,7 +350,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3156061",
       "https://techcrunch.com/?p=3156185",
       "https://techcrunch.com/?p=3156230",
       "https://techcrunch.com/?p=3156075",
@@ -649,7 +648,8 @@
       "https://techcrunch.com/?p=3169917",
       "https://techcrunch.com/?p=3169815",
       "https://techcrunch.com/?p=3170007",
-      "https://techcrunch.com/?p=3170070"
+      "https://techcrunch.com/?p=3170070",
+      "https://techcrunch.com/?p=3170030"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -2255,7 +2255,6 @@
       "https://mittechreview.com.br/?p=271426"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1363848",
       "https://olhardigital.com.br/?p=1363887",
       "https://olhardigital.com.br/?p=1363980",
       "https://olhardigital.com.br/?p=1364015",
@@ -2554,7 +2553,8 @@
       "https://olhardigital.com.br/?p=1376197",
       "https://olhardigital.com.br/?p=1376209",
       "https://olhardigital.com.br/?p=1376304",
-      "https://olhardigital.com.br/?p=1376312"
+      "https://olhardigital.com.br/?p=1376312",
+      "https://olhardigital.com.br/?p=1376394"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3549,23 +3549,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "ajudou",
-      "anthropic",
-      "claude",
-      "descobrir",
-      "enzimatico",
-      "sistema"
-    ],
-    [
-      "anthropic",
-      "debate",
-      "face",
-      "hugging",
-      "levam",
-      "openai",
-      "riscos"
-    ],
     [
       "agentes",
       "alcance",
@@ -5454,6 +5437,26 @@
       "comando",
       "identifica",
       "oculto"
+    ],
+    [
+      "abandons",
+      "boom",
+      "centers",
+      "crusoe",
+      "data",
+      "plan",
+      "turbines"
+    ],
+    [
+      "aconteceu",
+      "admite",
+      "agentes",
+      "chatgpt",
+      "imagens",
+      "internet",
+      "openai",
+      "usuarios",
+      "vazaram"
     ]
   ]
 }
