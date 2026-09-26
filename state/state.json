@@ -350,7 +350,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3156185",
       "https://techcrunch.com/?p=3156230",
       "https://techcrunch.com/?p=3156075",
       "https://techcrunch.com/?p=3156161",
@@ -649,7 +648,8 @@
       "https://techcrunch.com/?p=3169815",
       "https://techcrunch.com/?p=3170007",
       "https://techcrunch.com/?p=3170070",
-      "https://techcrunch.com/?p=3170030"
+      "https://techcrunch.com/?p=3170030",
+      "https://techcrunch.com/?p=3169081"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1771,7 +1771,8 @@
       "https://news.ycombinator.com/item?id=49817615",
       "https://news.ycombinator.com/item?id=49823582",
       "https://news.ycombinator.com/item?id=49827794",
-      "https://news.ycombinator.com/item?id=49845977"
+      "https://news.ycombinator.com/item?id=49845977",
+      "https://news.ycombinator.com/item?id=49849985"
     ]
   },
   "mercado": {
@@ -2049,7 +2050,8 @@
       "108367275",
       "108368142",
       "108368200",
-      "108367686"
+      "108367686",
+      "108367947"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2255,7 +2257,6 @@
       "https://mittechreview.com.br/?p=271426"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1363887",
       "https://olhardigital.com.br/?p=1363980",
       "https://olhardigital.com.br/?p=1364015",
       "https://olhardigital.com.br/?p=1364047",
@@ -2554,7 +2555,8 @@
       "https://olhardigital.com.br/?p=1376209",
       "https://olhardigital.com.br/?p=1376304",
       "https://olhardigital.com.br/?p=1376312",
-      "https://olhardigital.com.br/?p=1376394"
+      "https://olhardigital.com.br/?p=1376394",
+      "https://olhardigital.com.br/?p=1376413"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3549,30 +3551,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agentes",
-      "alcance",
-      "colocam",
-      "concretizacao",
-      "gestao",
-      "tecnologia",
-      "todos"
-    ],
-    [
-      "audio",
-      "glasses",
-      "introducing",
-      "meta",
-      "more",
-      "styles"
-    ],
-    [
-      "already",
-      "anthropic",
-      "biology",
-      "found",
-      "something"
-    ],
     [
       "camera",
       "free",
@@ -5457,6 +5435,38 @@
       "openai",
       "usuarios",
       "vazaram"
+    ],
+    [
+      "agents",
+      "details",
+      "face",
+      "hacked",
+      "hugging",
+      "openai",
+      "revealing"
+    ],
+    [
+      "chinese",
+      "global",
+      "models",
+      "popularity",
+      "surge",
+      "washington",
+      "worried"
+    ],
+    [
+      "agentes",
+      "ataque",
+      "caso",
+      "detector",
+      "durante",
+      "enganar",
+      "face",
+      "hugging",
+      "openai",
+      "plataforma",
+      "robos",
+      "tentaram"
     ]
   ]
 }
