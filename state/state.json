@@ -879,9 +879,6 @@
       "https://www.theverge.com/?p=1001049"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=38699",
-      "https://the-decoder.com/?p=39057",
-      "https://the-decoder.com/?p=39104",
       "https://the-decoder.com/?p=39110",
       "https://the-decoder.com/?p=39012",
       "https://the-decoder.com/?p=39113",
@@ -1178,7 +1175,10 @@
       "https://the-decoder.com/?p=40679",
       "https://the-decoder.com/?p=40682",
       "https://the-decoder.com/?p=40665",
-      "https://the-decoder.com/?p=40688"
+      "https://the-decoder.com/?p=40688",
+      "https://the-decoder.com/?p=40698",
+      "https://the-decoder.com/?p=40706",
+      "https://the-decoder.com/?p=40709"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2057,7 +2057,8 @@
       "108367686",
       "108367947",
       "108368048",
-      "108358040"
+      "108358040",
+      "108368447"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2264,7 +2265,6 @@
       "https://mittechreview.com.br/?p=271024"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1364073",
       "https://olhardigital.com.br/?p=1364095",
       "https://olhardigital.com.br/?p=1364159",
       "https://olhardigital.com.br/?p=1362454",
@@ -2563,7 +2563,8 @@
       "https://olhardigital.com.br/?p=1376413",
       "https://olhardigital.com.br/?p=1376132",
       "https://olhardigital.com.br/?p=1375043",
-      "https://olhardigital.com.br/?p=1376503"
+      "https://olhardigital.com.br/?p=1376503",
+      "https://olhardigital.com.br/?p=1376510"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2696,7 +2697,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=936438"
     ],
     "canaltech": [
-      "https://canaltech.com.br/apps/tim-cook-sugere-que-siri-com-ia-pode-custar-caro-para-heavy-users/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-vai-liberar-criacao-de-assistentes-de-ia-no-celular-sem-plano-profissional/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-spark-ganha-integracao-no-chrome-para-navegar-sozinho-por-ai/",
       "https://canaltech.com.br/mercado/deep-seek-corta-preco-dos-planos-em-50-para-dominar-o-mercado/",
@@ -2995,10 +2995,10 @@
       "https://canaltech.com.br/mercado/google-esta-levando-seus-data-centers-de-ia-para-o-espaco-mas-por-que/",
       "https://canaltech.com.br/inteligencia-artificial/china-esta-construindo-nova-hollywood-para-fazer-filmes-inteiramente-com-ia/",
       "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-claude/",
-      "https://canaltech.com.br/inteligencia-artificial/gpt-sol-luna-entenda-diferencas-e-qual-escolher/"
+      "https://canaltech.com.br/inteligencia-artificial/gpt-sol-luna-entenda-diferencas-e-qual-escolher/",
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-os-gemini-gems/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/25/chatgpt-libera-criacao-de-packs-de-figurinhas-para-whatsapp-e-imessage.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/pesquisadores-desenvolvem-modelo-de-ia-que-processa-quantidade-muito-maior-de-informacoes.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/google-expande-plataforma-de-ia-para-escritorios-de-advocacia-e-advogados.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/apple-lanca-novos-mac-mini-e-mac-studio-para-aproveitar-boom-da-ia.htm",
@@ -3297,7 +3297,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/25/openai-tenta-entender-todo-alcance-de-atividade-nao-autorizada-de-ia.htm",
       "https://www.uol.com.br/flash/?c=6ab6be9634e2fe231d7848cf",
       "https://www.uol.com.br/flash/?c=6ab56c01989ca059cff93612",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/26/openai-reconhece-publicacao-por-engano-de-imagens-de-usuarios-do-chatgpt.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/26/openai-reconhece-publicacao-por-engano-de-imagens-de-usuarios-do-chatgpt.htm",
+      "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/26/eua-e-china-abrirao-canal-de-comunicacao-sobre-ia-apos-cupula-trump-xi.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3560,64 +3561,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "dispositivo",
-      "equipado",
-      "lembra",
-      "meta",
-      "muse",
-      "tamagotchi",
-      "trabalha",
-      "usar"
-    ],
-    [
-      "audio",
-      "cameras",
-      "lanca",
-      "meta",
-      "modelo",
-      "oculos"
-    ],
-    [
-      "agente",
-      "cinco",
-      "glasses",
-      "lanca",
-      "leve",
-      "meta",
-      "oculos",
-      "quest",
-      "vezes"
-    ],
-    [
-      "almost",
-      "chief",
-      "deepmind",
-      "gemini",
-      "google",
-      "ready"
-    ],
-    [
-      "gemini",
-      "speech",
-      "text"
-    ],
-    [
-      "coming",
-      "linux",
-      "series",
-      "snapdragon",
-      "support"
-    ],
-    [
-      "arms",
-      "blitz",
-      "china",
-      "chip",
-      "choke",
-      "message",
-      "trump"
-    ],
     [
       "agent",
       "australian",
@@ -5474,6 +5417,77 @@
       "manual",
       "politico",
       "trabalho"
+    ],
+    [
+      "access",
+      "almost",
+      "entirely",
+      "finds",
+      "know",
+      "makes",
+      "people",
+      "study",
+      "unwilling"
+    ],
+    [
+      "interrupt",
+      "leaders",
+      "over",
+      "report",
+      "results",
+      "them",
+      "thirds",
+      "vacation",
+      "would"
+    ],
+    [
+      "army",
+      "defense",
+      "fedorov",
+      "former",
+      "minister",
+      "pitches",
+      "private",
+      "robot",
+      "sector",
+      "ukrainian"
+    ],
+    [
+      "after",
+      "agent",
+      "behavior",
+      "emerge",
+      "expands",
+      "incidents",
+      "model",
+      "more",
+      "openai",
+      "review",
+      "rogue"
+    ],
+    [
+      "armas",
+      "autonomas",
+      "exigencia",
+      "global",
+      "humana",
+      "pacto",
+      "retiraram",
+      "russia",
+      "supervisao"
+    ],
+    [
+      "gemini",
+      "gems",
+      "usar"
+    ],
+    [
+      "abrirao",
+      "canal",
+      "china",
+      "comunicacao",
+      "cupula",
+      "trump"
     ]
   ]
 }
