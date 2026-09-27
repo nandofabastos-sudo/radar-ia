@@ -350,7 +350,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3156630",
       "https://techcrunch.com/?p=3156618",
       "https://techcrunch.com/?p=3156793",
       "https://techcrunch.com/?p=3156922",
@@ -649,7 +648,8 @@
       "https://techcrunch.com/?p=3170285",
       "https://techcrunch.com/?p=3170226",
       "https://techcrunch.com/?p=3170300",
-      "https://techcrunch.com/?p=3170334"
+      "https://techcrunch.com/?p=3170334",
+      "https://techcrunch.com/?p=3170341"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -876,7 +876,9 @@
       "https://www.theverge.com/?p=1000758",
       "https://www.theverge.com/?p=1000784",
       "https://www.theverge.com/?p=1000344",
-      "https://www.theverge.com/?p=1001049"
+      "https://www.theverge.com/?p=1001049",
+      "https://www.theverge.com/?p=1001178",
+      "https://www.theverge.com/?p=1001193"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39132",
@@ -2272,7 +2274,6 @@
       "https://mittechreview.com.br/?p=272033"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1362454",
       "https://olhardigital.com.br/?p=1364170",
       "https://olhardigital.com.br/?p=1364197",
       "https://olhardigital.com.br/?p=1364320",
@@ -2571,7 +2572,8 @@
       "https://olhardigital.com.br/?p=1376503",
       "https://olhardigital.com.br/?p=1376510",
       "https://olhardigital.com.br/?p=1376522",
-      "https://olhardigital.com.br/?p=1375044"
+      "https://olhardigital.com.br/?p=1375044",
+      "https://olhardigital.com.br/?p=1376672"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3569,25 +3571,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "atender",
-      "boom",
-      "brasil",
-      "dobrar",
-      "google",
-      "infraestrutura"
-    ],
-    [
-      "agora",
-      "algoritmo",
-      "criar",
-      "deixa",
-      "feeds",
-      "mandar",
-      "personalizados",
-      "usuario",
-      "youtube"
-    ],
     [
       "brasil",
       "deve",
@@ -5480,6 +5463,22 @@
       "medidas",
       "protecao",
       "relacionadas"
+    ],
+    [
+      "agents",
+      "bruteforce",
+      "openai",
+      "tried",
+      "website"
+    ],
+    [
+      "broken",
+      "engram",
+      "hallucinations",
+      "into",
+      "music",
+      "sampler",
+      "turns"
     ]
   ]
 }
