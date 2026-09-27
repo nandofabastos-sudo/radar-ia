@@ -879,11 +879,6 @@
       "https://www.theverge.com/?p=1001049"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39110",
-      "https://the-decoder.com/?p=39012",
-      "https://the-decoder.com/?p=39113",
-      "https://the-decoder.com/?p=39116",
-      "https://the-decoder.com/?p=39120",
       "https://the-decoder.com/?p=39125",
       "https://the-decoder.com/?p=39129",
       "https://the-decoder.com/?p=39132",
@@ -1178,7 +1173,12 @@
       "https://the-decoder.com/?p=40688",
       "https://the-decoder.com/?p=40698",
       "https://the-decoder.com/?p=40706",
-      "https://the-decoder.com/?p=40709"
+      "https://the-decoder.com/?p=40709",
+      "https://the-decoder.com/?p=40713",
+      "https://the-decoder.com/?p=40719",
+      "https://the-decoder.com/?p=40725",
+      "https://the-decoder.com/?p=40728",
+      "https://the-decoder.com/?p=40733"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2058,7 +2058,8 @@
       "108367947",
       "108368048",
       "108358040",
-      "108368447"
+      "108368447",
+      "108367748"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2262,10 +2263,10 @@
       "https://mittechreview.com.br/?p=270639",
       "https://mittechreview.com.br/?p=270601",
       "https://mittechreview.com.br/?p=271426",
-      "https://mittechreview.com.br/?p=271024"
+      "https://mittechreview.com.br/?p=271024",
+      "https://mittechreview.com.br/?p=272033"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1364159",
       "https://olhardigital.com.br/?p=1362454",
       "https://olhardigital.com.br/?p=1364170",
       "https://olhardigital.com.br/?p=1364197",
@@ -2564,7 +2565,8 @@
       "https://olhardigital.com.br/?p=1375043",
       "https://olhardigital.com.br/?p=1376503",
       "https://olhardigital.com.br/?p=1376510",
-      "https://olhardigital.com.br/?p=1376522"
+      "https://olhardigital.com.br/?p=1376522",
+      "https://olhardigital.com.br/?p=1375044"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3000,9 +3002,6 @@
       "https://canaltech.com.br/inteligencia-artificial/como-usar-os-gemini-gems/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/pesquisadores-desenvolvem-modelo-de-ia-que-processa-quantidade-muito-maior-de-informacoes.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/google-expande-plataforma-de-ia-para-escritorios-de-advocacia-e-advogados.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/apple-lanca-novos-mac-mini-e-mac-studio-para-aproveitar-boom-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/25/anthropic-deve-dizer-a-investidores-que-estima-receita-potencial-de-mais-de-us30-tri-diz-wsj.htm",
       "https://www.uol.com.br/flash/?c=2aa6180363670de97164bdc8f1041920260825",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/08/26/bill-gates-diz-que-ia-ameaca-empregos-e-pode-colocar-vidas-em-risco.ghtm",
@@ -3299,7 +3298,10 @@
       "https://www.uol.com.br/flash/?c=6ab6be9634e2fe231d7848cf",
       "https://www.uol.com.br/flash/?c=6ab56c01989ca059cff93612",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/26/openai-reconhece-publicacao-por-engano-de-imagens-de-usuarios-do-chatgpt.htm",
-      "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/26/eua-e-china-abrirao-canal-de-comunicacao-sobre-ia-apos-cupula-trump-xi.htm"
+      "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/26/eua-e-china-abrirao-canal-de-comunicacao-sobre-ia-apos-cupula-trump-xi.htm",
+      "https://tilt.uol.com.br/colunas/iagora/2026/09/27/medo-de-ia-por-brasileiros-e-maior-do-que-a-media-mundial-veja-ultimas-pesquisas.htm",
+      "https://economia.uol.com.br/colunas/2026/09/27/por-que-os-donos-da-ia-pedem-para-ir-mais-devagar-mas-nao-vai-acontecer.ghtm",
+      "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/09/27/meta-lanca-tamagotchi-com-ia-e-agora-e-o-bichinho-que-vai-cuidar-de-voce.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3562,109 +3564,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "australia",
-      "broke",
-      "government",
-      "hack",
-      "health",
-      "investigate",
-      "openai",
-      "website"
-    ],
-    [
-      "8217",
-      "everything",
-      "opting",
-      "spying",
-      "there"
-    ],
-    [
-      "charms",
-      "each",
-      "interact",
-      "meta",
-      "muse",
-      "other"
-    ],
-    [
-      "have",
-      "mark",
-      "questions",
-      "some",
-      "zuckerberg"
-    ],
-    [
-      "flock",
-      "vibes",
-      "washington"
-    ],
-    [
-      "google",
-      "into",
-      "next",
-      "satellite",
-      "sending",
-      "space",
-      "week"
-    ],
-    [
-      "addresses",
-      "agent",
-      "avatars",
-      "control",
-      "email",
-      "gives",
-      "meta",
-      "muse",
-      "video"
-    ],
-    [
-      "built",
-      "chase",
-      "chief",
-      "deepmind",
-      "door",
-      "gemini",
-      "just",
-      "wants"
-    ],
-    [
-      "after",
-      "agents",
-      "before",
-      "face",
-      "government",
-      "hugging",
-      "months",
-      "openai",
-      "sites",
-      "university",
-      "went"
-    ],
-    [
-      "attempt",
-      "charm",
-      "computing",
-      "latest",
-      "meta",
-      "muse",
-      "next",
-      "platform"
-    ],
-    [
-      "agent",
-      "australia",
-      "found",
-      "government",
-      "hacked",
-      "health",
-      "later",
-      "months",
-      "openai",
-      "service",
-      "their"
-    ],
     [
       "about",
       "after",
@@ -5490,6 +5389,118 @@
       "tests",
       "through",
       "walmart"
+    ],
+    [
+      "2027",
+      "dwarfing",
+      "estimates",
+      "expects",
+      "goldman",
+      "infrastructure",
+      "sachs",
+      "spend",
+      "street",
+      "tech",
+      "trillion",
+      "wall"
+    ],
+    [
+      "beginning",
+      "face",
+      "hugging",
+      "incident",
+      "just",
+      "openai",
+      "probes",
+      "security",
+      "show",
+      "tens",
+      "thousands"
+    ],
+    [
+      "already",
+      "beyond",
+      "openai",
+      "percent",
+      "research",
+      "targets"
+    ],
+    [
+      "astra",
+      "clean",
+      "directly",
+      "into",
+      "kitchen",
+      "plug",
+      "researchers",
+      "robot",
+      "unfamiliar"
+    ],
+    [
+      "100m",
+      "drops",
+      "eight",
+      "free",
+      "identifies",
+      "model",
+      "nvidia",
+      "parameter",
+      "real",
+      "speakers",
+      "time"
+    ],
+    [
+      "bond",
+      "companies",
+      "debt",
+      "face",
+      "hungry",
+      "increased",
+      "risk",
+      "spike",
+      "yields"
+    ],
+    [
+      "adotou",
+      "agora",
+      "apocaliptico",
+      "industria"
+    ],
+    [
+      "automacao",
+      "deveria",
+      "ditar",
+      "equipe",
+      "isso",
+      "operacao",
+      "processos",
+      "resolve",
+      "tamanho"
+    ],
+    [
+      "brasil",
+      "maior",
+      "media",
+      "medo",
+      "mundial",
+      "pesquisas",
+      "ultimas",
+      "veja"
+    ],
+    [
+      "acontecer",
+      "devagar",
+      "donos",
+      "pedem"
+    ],
+    [
+      "agora",
+      "bichinho",
+      "cuidar",
+      "lanca",
+      "meta",
+      "tamagotchi",
+      "voce"
     ]
   ]
 }
