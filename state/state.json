@@ -350,7 +350,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3154850",
       "https://techcrunch.com/?p=3156630",
       "https://techcrunch.com/?p=3156618",
       "https://techcrunch.com/?p=3156793",
@@ -649,7 +648,8 @@
       "https://techcrunch.com/?p=3167791",
       "https://techcrunch.com/?p=3170285",
       "https://techcrunch.com/?p=3170226",
-      "https://techcrunch.com/?p=3170300"
+      "https://techcrunch.com/?p=3170300",
+      "https://techcrunch.com/?p=3170334"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -2062,7 +2062,9 @@
       "108358040",
       "108368447",
       "108367748",
-      "108368485"
+      "108368485",
+      "108368498",
+      "108368085"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3005,8 +3007,6 @@
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-a-antropomorfizacao-da-ia/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/08/26/bill-gates-diz-que-ia-ameaca-empregos-e-pode-colocar-vidas-em-risco.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/bill-gates-planeja-reuniao-com-xi-jinping-para-propor-regras-globais-para-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/acoes-da-nvidia-devem-sofrer-oscilacao-de-us280-bi-apos-resultados.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/moonshot-negocia-divisao-de-receitas-de-ia-com-microsoft-amazon-e-google-dizem-fontes.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/plano-ousado-de-zuckerberg-para-substituir-equipe-da-meta-por-ia-desmoronou.htm",
@@ -3304,7 +3304,9 @@
       "https://economia.uol.com.br/colunas/2026/09/27/por-que-os-donos-da-ia-pedem-para-ir-mais-devagar-mas-nao-vai-acontecer.ghtm",
       "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/09/27/meta-lanca-tamagotchi-com-ia-e-agora-e-o-bichinho-que-vai-cuidar-de-voce.htm",
       "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/27/openai-suspende-treinamento-apos-agentes-de-ia-agirem-por-conta-propria.htm",
-      "https://economia.uol.com.br/noticias/redacao/2026/09/27/bill-gates-inteligencia-artifical.ghtm"
+      "https://economia.uol.com.br/noticias/redacao/2026/09/27/bill-gates-inteligencia-artifical.ghtm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/27/medo-de-ia-por-brasileiros-e-maior-do-que-a-media-mundial-veja-ultimas-pesquisas.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/27/bill-gates-faz-coro-aos-apelos-por-medidas-de-protecao-relacionadas-a-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3567,40 +3569,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alibaba",
-      "apresenta",
-      "china",
-      "chip",
-      "poderoso"
-    ],
-    [
-      "claude",
-      "descobre",
-      "enzimas",
-      "sistema"
-    ],
-    [
-      "agente",
-      "bolso",
-      "cabe",
-      "cria",
-      "meta",
-      "pessoal",
-      "tamagotchi",
-      "tera"
-    ],
-    [
-      "botao",
-      "criar",
-      "fixo",
-      "ganha",
-      "music",
-      "musicas",
-      "pedir",
-      "playlists",
-      "youtube"
-    ],
     [
       "atender",
       "boom",
@@ -5477,6 +5445,41 @@
       "defende",
       "gates",
       "regulamentacao"
+    ],
+    [
+      "issues",
+      "meta",
+      "muse",
+      "overcome",
+      "trust"
+    ],
+    [
+      "amodei",
+      "anthropic",
+      "dinner",
+      "have",
+      "house",
+      "trump",
+      "white"
+    ],
+    [
+      "after",
+      "amodei",
+      "anthropic",
+      "dinner",
+      "meet",
+      "missing",
+      "state",
+      "trump"
+    ],
+    [
+      "apelos",
+      "bill",
+      "coro",
+      "gates",
+      "medidas",
+      "protecao",
+      "relacionadas"
     ]
   ]
 }
