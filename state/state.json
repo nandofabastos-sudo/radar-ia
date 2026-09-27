@@ -350,7 +350,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3156161",
       "https://techcrunch.com/?p=3156453",
       "https://techcrunch.com/?p=3154850",
       "https://techcrunch.com/?p=3156630",
@@ -649,7 +648,8 @@
       "https://techcrunch.com/?p=3170030",
       "https://techcrunch.com/?p=3169081",
       "https://techcrunch.com/?p=3167791",
-      "https://techcrunch.com/?p=3170285"
+      "https://techcrunch.com/?p=3170285",
+      "https://techcrunch.com/?p=3170226"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -3563,13 +3563,6 @@
   },
   "_titulos_recentes": [
     [
-      "agentes",
-      "bombam",
-      "cinzas",
-      "renasce",
-      "zuckerberg"
-    ],
-    [
       "australia",
       "broke",
       "government",
@@ -5485,6 +5478,18 @@
       "empresas",
       "gates",
       "regras"
+    ],
+    [
+      "buying",
+      "flipkart",
+      "gemini",
+      "google",
+      "india",
+      "mode",
+      "owned",
+      "tests",
+      "through",
+      "walmart"
     ]
   ]
 }
