@@ -1780,7 +1780,8 @@
       "https://news.ycombinator.com/item?id=49849985",
       "https://news.ycombinator.com/item?id=49840054",
       "https://news.ycombinator.com/item?id=49859112",
-      "https://news.ycombinator.com/item?id=49863864"
+      "https://news.ycombinator.com/item?id=49863864",
+      "https://news.ycombinator.com/item?id=49868830"
     ]
   },
   "mercado": {
@@ -3571,16 +3572,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "brasil",
-      "deve",
-      "ficar",
-      "ganha",
-      "gemini",
-      "local",
-      "processamento",
-      "rapido"
-    ],
     [
       "agente",
       "camera",
@@ -5479,6 +5470,9 @@
       "music",
       "sampler",
       "turns"
+    ],
+    [
+      "ember"
     ]
   ]
 }
