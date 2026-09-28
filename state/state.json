@@ -1781,7 +1781,8 @@
       "https://news.ycombinator.com/item?id=49840054",
       "https://news.ycombinator.com/item?id=49859112",
       "https://news.ycombinator.com/item?id=49863864",
-      "https://news.ycombinator.com/item?id=49868830"
+      "https://news.ycombinator.com/item?id=49868830",
+      "https://news.ycombinator.com/item?id=49872723"
     ]
   },
   "mercado": {
@@ -3572,14 +3573,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agente",
-      "camera",
-      "lancamentos",
-      "meta",
-      "oculos",
-      "todos"
-    ],
     [
       "anthropic",
       "desacelerar",
@@ -5473,6 +5466,13 @@
     ],
     [
       "ember"
+    ],
+    [
+      "billion",
+      "dollars",
+      "nvidia",
+      "owed",
+      "stock"
     ]
   ]
 }
