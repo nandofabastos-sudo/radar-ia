@@ -125,7 +125,8 @@
       "https://openai.com/index/basis-tax-workbook-with-astra",
       "https://openai.com/form/codex-originals",
       "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "https://openai.com/index/how-we-will-do-better-for-australia"
+      "https://openai.com/index/how-we-will-do-better-for-australia",
+      "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -356,7 +357,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3157433",
       "https://techcrunch.com/?p=3157522",
       "https://techcrunch.com/?p=3157523",
       "https://techcrunch.com/?p=3157528",
@@ -655,7 +655,8 @@
       "https://techcrunch.com/?p=3170936",
       "https://techcrunch.com/?p=3170771",
       "https://techcrunch.com/?p=3171035",
-      "https://techcrunch.com/?p=3170634"
+      "https://techcrunch.com/?p=3170634",
+      "https://techcrunch.com/?p=3171132"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -895,8 +896,6 @@
       "https://www.theverge.com/?p=1001749"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39161",
-      "https://the-decoder.com/?p=39163",
       "https://the-decoder.com/?p=39175",
       "https://the-decoder.com/?p=39181",
       "https://the-decoder.com/?p=39186",
@@ -1194,7 +1193,9 @@
       "https://the-decoder.com/?p=40758",
       "https://the-decoder.com/?p=40773",
       "https://the-decoder.com/?p=40777",
-      "https://the-decoder.com/?p=40786"
+      "https://the-decoder.com/?p=40786",
+      "https://the-decoder.com/?p=40789",
+      "https://the-decoder.com/?p=40792"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2110,7 +2111,8 @@
       "108368812",
       "108368958",
       "108369093",
-      "108369112"
+      "108369112",
+      "108369159"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2321,8 +2323,6 @@
       "https://mittechreview.com.br/?p=272033"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1364477",
-      "https://olhardigital.com.br/?p=1364482",
       "https://olhardigital.com.br/?p=1364486",
       "https://olhardigital.com.br/?p=1364549",
       "https://olhardigital.com.br/?p=1364554",
@@ -2620,7 +2620,9 @@
       "https://olhardigital.com.br/?p=1377022",
       "https://olhardigital.com.br/?p=1377030",
       "https://olhardigital.com.br/?p=1377035",
-      "https://olhardigital.com.br/?p=1377045"
+      "https://olhardigital.com.br/?p=1377045",
+      "https://olhardigital.com.br/?p=1377061",
+      "https://olhardigital.com.br/?p=1377075"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3627,70 +3629,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "abandona",
-      "copilot",
-      "marca",
-      "microsoft",
-      "silenciosamente"
-    ],
-    [
-      "ainda",
-      "antes",
-      "falta",
-      "gemini",
-      "google",
-      "modelo",
-      "previsto",
-      "promete",
-      "veja"
-    ],
-    [
-      "atrair",
-      "bichinho",
-      "charm",
-      "jovens",
-      "meta",
-      "muse",
-      "pensado",
-      "virtual"
-    ],
-    [
-      "agente",
-      "amplia",
-      "copilot",
-      "ferramenta",
-      "microsoft",
-      "programacao",
-      "recursos"
-    ],
-    [
-      "ampliar",
-      "bajuladora",
-      "pesquisa",
-      "pode",
-      "polarizacao",
-      "sociedade"
-    ],
-    [
-      "hoje",
-      "influencia",
-      "office",
-      "redacao",
-      "rolando"
-    ],
-    [
-      "acusado",
-      "autor",
-      "competicao",
-      "frances",
-      "importante",
-      "literario",
-      "premio",
-      "romance",
-      "tira",
-      "usar"
-    ],
     [
       "conta",
       "estatizacao",
@@ -5466,6 +5404,79 @@
       "lanca",
       "manus",
       "plataforma"
+    ],
+    [
+      "cases",
+      "frontier",
+      "safety",
+      "towards",
+      "training"
+    ],
+    [
+      "anthropic",
+      "could",
+      "details",
+      "growth",
+      "humanity",
+      "losses",
+      "prospectus",
+      "warning"
+    ],
+    [
+      "astra",
+      "deceptive",
+      "dramatic",
+      "intervention",
+      "marking",
+      "most",
+      "openai",
+      "release",
+      "safety"
+    ],
+    [
+      "agents",
+      "edit",
+      "games",
+      "host",
+      "lets",
+      "manus",
+      "multiplayer",
+      "phone",
+      "remotely",
+      "their",
+      "users",
+      "videos"
+    ],
+    [
+      "competitors",
+      "debate",
+      "masks",
+      "mistral",
+      "negligence",
+      "safety"
+    ],
+    [
+      "anuncia",
+      "aquisicao",
+      "artificial",
+      "bilhoes",
+      "empresa",
+      "inteligencia",
+      "pesquisadora"
+    ],
+    [
+      "alerta",
+      "anthropic",
+      "empresarios",
+      "longe",
+      "nunca",
+      "openai",
+      "quer",
+      "resumo",
+      "reunira",
+      "starship",
+      "tecnologia",
+      "trump"
     ]
   ]
 }
