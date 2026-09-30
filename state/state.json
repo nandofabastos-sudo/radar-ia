@@ -905,7 +905,8 @@
       "https://www.theverge.com/?p=1002033",
       "https://www.theverge.com/?p=1002238",
       "https://www.theverge.com/?p=1002448",
-      "https://www.theverge.com/?p=1002468"
+      "https://www.theverge.com/?p=1002468",
+      "https://www.theverge.com/?p=1002505"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39229",
@@ -1674,7 +1675,8 @@
       "6aac80843f5c1600011de4e6",
       "6ab317e4eff74000018d520b",
       "6ab5b2de903dc10001d4d74f",
-      "6abafcee7e5d8e000143a00f"
+      "6abafcee7e5d8e000143a00f",
+      "6abc47e00607f000019c6329"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2358,8 +2360,6 @@
       "https://mittechreview.com.br/?p=274370"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1364685",
-      "https://olhardigital.com.br/?p=1364744",
       "https://olhardigital.com.br/?p=1364768",
       "https://olhardigital.com.br/?p=1364802",
       "https://olhardigital.com.br/?p=1364818",
@@ -2657,7 +2657,9 @@
       "https://olhardigital.com.br/?p=1377307",
       "https://olhardigital.com.br/?p=1377296",
       "https://olhardigital.com.br/?p=1377320",
-      "https://olhardigital.com.br/?p=1377351"
+      "https://olhardigital.com.br/?p=1377351",
+      "https://olhardigital.com.br/?p=1377355",
+      "https://olhardigital.com.br/?p=1377360"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3100,7 +3102,6 @@
       "https://canaltech.com.br/inteligencia-artificial/gemini-prepara-nova-tela-flutuante-com-tarefas-e-atalhos-rapidos-sem-abrir-o-app/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/08/31/sony-e-warner-music-processam-anthropic-por-uso-de-musicas-no-treinamento-de-ia.htm",
       "https://economia.uol.com.br/noticias/reuters/2026/08/31/queda-no-lucro-da-huawei-acelera-para-36-no-primeiro-semestre-com-alta-de-custos-e-gastos-com-pesquisa.htm",
       "https://economia.uol.com.br/noticias/reuters/2026/08/31/risco-cibernetico-com-ia-e-principal-preocupacao-para-estabilidade-financeira-diz-regulador.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/31/nvidia-investira-us35-bi-em-fabricante-de-chips-mediatek.htm",
@@ -3399,7 +3400,8 @@
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/29/iapocalipse-openai-e-anthropic-pisam-no-acelerador-apos-pedir-por-freios.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/29/prospecto-do-ipo-daanthropic-revela-profunda-dependencia-de-grandes-empresas-de-tecnologia-como-parceiras.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/29/trump-acordo-ia.ghtm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/29/openai-e-processada-nos-eua-por-suposta-violacao-de-lei-sobre-ciberataques.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/29/openai-e-processada-nos-eua-por-suposta-violacao-de-lei-sobre-ciberataques.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/29/openai-busca-se-tornar-hub-de-ia-em-meio-a-crescente-temor-sobre-seguranca.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3673,74 +3675,12 @@
       "https://www.mobiletime.com.br/?p=865115",
       "https://www.mobiletime.com.br/?p=865075",
       "https://www.mobiletime.com.br/?p=865200",
-      "https://www.mobiletime.com.br/?p=865211"
+      "https://www.mobiletime.com.br/?p=865211",
+      "https://www.mobiletime.com.br/?p=865237",
+      "https://www.mobiletime.com.br/?p=865245"
     ]
   },
   "_titulos_recentes": [
-    [
-      "after",
-      "center",
-      "church",
-      "costs",
-      "data",
-      "goes",
-      "groups",
-      "microsoft",
-      "quiet"
-    ],
-    [
-      "agent",
-      "amid",
-      "frontier",
-      "halts",
-      "incidents",
-      "misalignment",
-      "model",
-      "openai",
-      "string",
-      "training"
-    ],
-    [
-      "agents",
-      "liable",
-      "rogue",
-      "when"
-    ],
-    [
-      "agents",
-      "answer",
-      "nvidia",
-      "open",
-      "rogue",
-      "security",
-      "source",
-      "system"
-    ],
-    [
-      "dodgy",
-      "evolution",
-      "gaming",
-      "learning",
-      "next",
-      "skills",
-      "your"
-    ],
-    [
-      "came",
-      "form",
-      "greatest",
-      "math",
-      "problems",
-      "solving",
-      "then"
-    ],
-    [
-      "about",
-      "agents",
-      "flood",
-      "ready",
-      "workforce"
-    ],
     [
       "after",
       "agents",
@@ -5465,6 +5405,58 @@
       "empresas",
       "precisam",
       "sensedia"
+    ],
+    [
+      "altman",
+      "models",
+      "openai",
+      "public",
+      "safe",
+      "until"
+    ],
+    [
+      "connects",
+      "dots",
+      "openai"
+    ],
+    [
+      "anthropic",
+      "dependente",
+      "empresa",
+      "mostra",
+      "prospecto",
+      "rivais"
+    ],
+    [
+      "atingir",
+      "negocia",
+      "openai",
+      "pode",
+      "rodada",
+      "valuation"
+    ],
+    [
+      "busca",
+      "crescente",
+      "meio",
+      "openai",
+      "seguranca",
+      "temor",
+      "tornar"
+    ],
+    [
+      "chatgpt",
+      "lanca",
+      "plugin",
+      "vivo"
+    ],
+    [
+      "agentes",
+      "continuas",
+      "cria",
+      "dots",
+      "openai",
+      "tarefas"
     ]
   ]
 }
