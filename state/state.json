@@ -909,8 +909,6 @@
       "https://www.theverge.com/?p=1002505"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39229",
-      "https://the-decoder.com/?p=39232",
       "https://the-decoder.com/?p=39235",
       "https://the-decoder.com/?p=39241",
       "https://the-decoder.com/?p=39245",
@@ -1208,7 +1206,9 @@
       "https://the-decoder.com/?p=40811",
       "https://the-decoder.com/?p=40826",
       "https://the-decoder.com/?p=40864",
-      "https://the-decoder.com/?p=40867"
+      "https://the-decoder.com/?p=40867",
+      "https://the-decoder.com/?p=40877",
+      "https://the-decoder.com/?p=40883"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1486,7 +1486,8 @@
       "https://www.technologyreview.com/?p=1145144",
       "https://www.technologyreview.com/?p=1145197",
       "https://www.technologyreview.com/?p=1145230",
-      "https://www.technologyreview.com/?p=1145186"
+      "https://www.technologyreview.com/?p=1145186",
+      "https://www.technologyreview.com/?p=1145339"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1846,8 +1847,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108344071",
-      "108344238",
       "108344318",
       "108344109",
       "108347141",
@@ -2145,7 +2144,9 @@
       "108369500",
       "108369387",
       "108369730",
-      "108369820"
+      "108369820",
+      "108369419",
+      "108370049"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2360,8 +2361,6 @@
       "https://mittechreview.com.br/?p=274370"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1364768",
-      "https://olhardigital.com.br/?p=1364802",
       "https://olhardigital.com.br/?p=1364818",
       "https://olhardigital.com.br/?p=1364817",
       "https://olhardigital.com.br/?p=1364862",
@@ -2659,7 +2658,9 @@
       "https://olhardigital.com.br/?p=1377320",
       "https://olhardigital.com.br/?p=1377351",
       "https://olhardigital.com.br/?p=1377355",
-      "https://olhardigital.com.br/?p=1377360"
+      "https://olhardigital.com.br/?p=1377360",
+      "https://olhardigital.com.br/?p=1377167",
+      "https://olhardigital.com.br/?p=1377402"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3102,8 +3103,6 @@
       "https://canaltech.com.br/inteligencia-artificial/gemini-prepara-nova-tela-flutuante-com-tarefas-e-atalhos-rapidos-sem-abrir-o-app/"
     ],
     "tilt_uol": [
-      "https://economia.uol.com.br/noticias/reuters/2026/08/31/queda-no-lucro-da-huawei-acelera-para-36-no-primeiro-semestre-com-alta-de-custos-e-gastos-com-pesquisa.htm",
-      "https://economia.uol.com.br/noticias/reuters/2026/08/31/risco-cibernetico-com-ia-e-principal-preocupacao-para-estabilidade-financeira-diz-regulador.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/31/nvidia-investira-us35-bi-em-fabricante-de-chips-mediatek.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/08/31/negocio-de-publicidade-da-openai-atinge-receita-anualizada-de-us1-bilhao.htm",
       "https://www.uol.com.br/flash/?c=c46f2f736a97a7d87f3e88cb2e8fd6a020260831",
@@ -3401,7 +3400,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/29/prospecto-do-ipo-daanthropic-revela-profunda-dependencia-de-grandes-empresas-de-tecnologia-como-parceiras.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/29/trump-acordo-ia.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/29/openai-e-processada-nos-eua-por-suposta-violacao-de-lei-sobre-ciberataques.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/29/openai-busca-se-tornar-hub-de-ia-em-meio-a-crescente-temor-sobre-seguranca.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/29/openai-busca-se-tornar-hub-de-ia-em-meio-a-crescente-temor-sobre-seguranca.htm",
+      "https://www.uol.com.br/flash/?c=6abbdf7480379ba67d12398b",
+      "https://tilt.uol.com.br/colunas/iagora/2026/09/30/openai-e-meta-dao-rosto-fofinho-pra-ia-pra-convencer-que-ela-nao-vai-matar-ninguem.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3681,87 +3682,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "after",
-      "agents",
-      "government",
-      "models",
-      "most",
-      "openai",
-      "pauses",
-      "powerful",
-      "rogue",
-      "target",
-      "training"
-    ],
-    [
-      "agents",
-      "misbehaving",
-      "nvidia",
-      "platform",
-      "releases",
-      "software",
-      "stop"
-    ],
-    [
-      "billion",
-      "boost",
-      "buyback",
-      "gets",
-      "nvidia",
-      "plan",
-      "share"
-    ],
-    [
-      "delays",
-      "drone",
-      "easter",
-      "flight",
-      "focus",
-      "more",
-      "morning",
-      "nvidia",
-      "platform",
-      "squawk"
-    ],
-    [
-      "bessent",
-      "called",
-      "competition",
-      "distillation",
-      "huang",
-      "jensen",
-      "scott",
-      "theft"
-    ],
-    [
-      "buyback",
-      "change",
-      "could",
-      "cramer",
-      "nvidia",
-      "record",
-      "stock",
-      "trajectory"
-    ],
-    [
-      "accountant",
-      "bets",
-      "boom",
-      "creating",
-      "demand",
-      "kind",
-      "mavi"
-    ],
-    [
-      "bets",
-      "early",
-      "expects",
-      "fail",
-      "groq",
-      "half",
-      "investor"
-    ],
     [
       "agentes",
       "burlar",
@@ -5457,6 +5377,87 @@
       "dots",
       "openai",
       "tarefas"
+    ],
+    [
+      "binding",
+      "ceos",
+      "code",
+      "conduct",
+      "morally",
+      "only",
+      "sign",
+      "tech",
+      "trump"
+    ],
+    [
+      "almost",
+      "answers",
+      "content",
+      "google",
+      "nothing",
+      "paying",
+      "publishers",
+      "used"
+    ],
+    [
+      "chief",
+      "fallout",
+      "foot",
+      "going",
+      "hack",
+      "officer",
+      "openai",
+      "ourselves",
+      "over",
+      "research",
+      "shoot"
+    ],
+    [
+      "application",
+      "broke",
+      "replaces",
+      "what"
+    ],
+    [
+      "2026",
+      "candidatos",
+      "centers",
+      "data",
+      "diferentes",
+      "digital",
+      "eleicoes",
+      "planos",
+      "presidencia",
+      "soberania"
+    ],
+    [
+      "bets",
+      "candidato",
+      "lanca",
+      "novidades",
+      "openai",
+      "pensa",
+      "resumo",
+      "reune",
+      "techs",
+      "trump"
+    ],
+    [
+      "barata",
+      "conta",
+      "ficou",
+      "paradoxo",
+      "recorde",
+      "tempo"
+    ],
+    [
+      "cara",
+      "convencer",
+      "fofinha",
+      "matar",
+      "meta",
+      "ninguem",
+      "openai"
     ]
   ]
 }
