@@ -133,7 +133,8 @@
       "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "https://openai.com/index/albertsons-reimagining-retail",
-      "https://openai.com/index/the-eternal-complement"
+      "https://openai.com/index/the-eternal-complement",
+      "https://openai.com/index/the-den-family-social"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -295,7 +296,8 @@
       "https://blogs.nvidia.com/?p=98468",
       "https://blogs.nvidia.com/?p=98507",
       "https://blogs.nvidia.com/?p=98499",
-      "https://blogs.nvidia.com/?p=98535"
+      "https://blogs.nvidia.com/?p=98535",
+      "https://blogs.nvidia.com/?p=98527"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -371,7 +373,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3160035",
       "https://techcrunch.com/?p=3160089",
       "https://techcrunch.com/?p=3160084",
       "https://techcrunch.com/?p=3160050",
@@ -670,7 +671,8 @@
       "https://techcrunch.com/?p=3172744",
       "https://techcrunch.com/?p=3172737",
       "https://techcrunch.com/?p=3172746",
-      "https://techcrunch.com/?p=3172830"
+      "https://techcrunch.com/?p=3172830",
+      "https://techcrunch.com/?p=3172859"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -928,7 +930,8 @@
       "https://www.theverge.com/?p=1003068",
       "https://www.theverge.com/?p=1002851",
       "https://www.theverge.com/?p=1003399",
-      "https://www.theverge.com/?p=1003589"
+      "https://www.theverge.com/?p=1003589",
+      "https://www.theverge.com/?p=1003756"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39301",
@@ -1367,7 +1370,8 @@
       "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
       "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
       "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+      "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1680,7 +1684,9 @@
       "6abbb69b2122500d82924ae7",
       "6abaa4adb463f7c4bd0df099",
       "6abbf44535e7c9025b8ff9e3",
-      "6abd2716b729f64a710059c9"
+      "6abd2716b729f64a710059c9",
+      "6abd69a2aa33d107855886da",
+      "6abacb8bbc8ab97fed5aad6a"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1881,7 +1887,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108347984",
       "108346476",
       "108348233",
       "108348265",
@@ -2180,7 +2185,8 @@
       "108370768",
       "108370341",
       "108370775",
-      "108371048"
+      "108371048",
+      "108371313"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2405,9 +2411,6 @@
       "https://mittechreview.com.br/?p=275435"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365158",
-      "https://olhardigital.com.br/?p=1365309",
-      "https://olhardigital.com.br/?p=1365365",
       "https://olhardigital.com.br/?p=1365388",
       "https://olhardigital.com.br/?p=1365433",
       "https://olhardigital.com.br/?p=1365482",
@@ -2704,7 +2707,10 @@
       "https://olhardigital.com.br/?p=1377701",
       "https://olhardigital.com.br/?p=1377711",
       "https://olhardigital.com.br/?p=1377921",
-      "https://olhardigital.com.br/?p=1378053"
+      "https://olhardigital.com.br/?p=1378053",
+      "https://olhardigital.com.br/?p=1377974",
+      "https://olhardigital.com.br/?p=1378078",
+      "https://olhardigital.com.br/?p=1378100"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3738,104 +3744,11 @@
       "https://www.mobiletime.com.br/?p=865283",
       "https://www.mobiletime.com.br/?p=865340",
       "https://www.mobiletime.com.br/?p=865373",
-      "https://www.mobiletime.com.br/?p=865385"
+      "https://www.mobiletime.com.br/?p=865385",
+      "https://www.mobiletime.com.br/?p=865449"
     ]
   },
   "_titulos_recentes": [
-    [
-      "agora",
-      "analisa",
-      "carteira",
-      "extratos",
-      "gemini",
-      "google",
-      "privacidade",
-      "seus"
-    ],
-    [
-      "astra",
-      "comandos",
-      "melhor",
-      "problemas",
-      "promete",
-      "seguir",
-      "seus"
-    ],
-    [
-      "dots",
-      "horas",
-      "lanca",
-      "mascotes",
-      "openai",
-      "trabalham",
-      "voce"
-    ],
-    [
-      "anthropic",
-      "bilionarias",
-      "catastrofico",
-      "esta",
-      "perdas",
-      "risco"
-    ],
-    [
-      "anualizada",
-      "aproxima",
-      "fonte",
-      "openai",
-      "receita",
-      "recorrente"
-    ],
-    [
-      "agentes",
-      "anthropic",
-      "incerto",
-      "juridico",
-      "rebeldes",
-      "representam",
-      "risco"
-    ],
-    [
-      "agente",
-      "dots",
-      "openai",
-      "realizar",
-      "tarefas",
-      "voce"
-    ],
-    [
-      "agente",
-      "desafia",
-      "dots",
-      "empresarial",
-      "iniciativa",
-      "meta",
-      "openai"
-    ],
-    [
-      "chatgpt",
-      "lanca",
-      "lembram",
-      "office",
-      "openai",
-      "pacote",
-      "recursos"
-    ],
-    [
-      "desenvolvimento",
-      "futuro",
-      "maior",
-      "paises",
-      "participacao",
-      "pedem"
-    ],
-    [
-      "lideres",
-      "muito",
-      "reuniao",
-      "teve",
-      "trump"
-    ],
     [
       "acelerador",
       "anthropic",
@@ -5565,6 +5478,98 @@
       "seguranca",
       "startup",
       "trabalho"
+    ],
+    [
+      "chatgpt",
+      "frees",
+      "grow",
+      "hours",
+      "week",
+      "work"
+    ],
+    [
+      "accelerate",
+      "astra",
+      "gpus",
+      "help",
+      "nvidia",
+      "openai",
+      "ultrafast"
+    ],
+    [
+      "capture",
+      "chatbot",
+      "encouraged",
+      "grok",
+      "musk",
+      "president",
+      "reportedly",
+      "trump",
+      "venezuela"
+    ],
+    [
+      "feature",
+      "fine",
+      "google",
+      "guided",
+      "help",
+      "print",
+      "read",
+      "vision"
+    ],
+    [
+      "accord",
+      "agents",
+      "ballot",
+      "binding",
+      "extremists",
+      "morally",
+      "rise",
+      "trump"
+    ],
+    [
+      "safety",
+      "whatever"
+    ],
+    [
+      "boon",
+      "cramer",
+      "internet",
+      "only",
+      "right",
+      "stocks",
+      "traffic"
+    ],
+    [
+      "ajudar",
+      "climaticas",
+      "contra",
+      "existe",
+      "grande",
+      "luta",
+      "mudancas",
+      "pode",
+      "problema"
+    ],
+    [
+      "convencional",
+      "recebe",
+      "upscaling"
+    ],
+    [
+      "afetado",
+      "agentes",
+      "openai",
+      "organizacoes",
+      "podem"
+    ],
+    [
+      "chatgpt",
+      "cria",
+      "openai",
+      "provador",
+      "usuarios",
+      "virtual"
     ]
   ]
 }
