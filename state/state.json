@@ -366,7 +366,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3159627",
       "https://techcrunch.com/?p=3159706",
       "https://techcrunch.com/?p=3159529",
       "https://techcrunch.com/?p=3159727",
@@ -665,7 +664,8 @@
       "https://techcrunch.com/?p=3172243",
       "https://techcrunch.com/?p=3172305",
       "https://techcrunch.com/?p=3172187",
-      "https://techcrunch.com/?p=3172428"
+      "https://techcrunch.com/?p=3172428",
+      "https://techcrunch.com/?p=3172532"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -919,10 +919,10 @@
       "https://www.theverge.com/?post_type=vm_stream&p=1002671",
       "https://www.theverge.com/?p=1002636",
       "https://www.theverge.com/?p=1002779",
-      "https://www.theverge.com/?p=1002980"
+      "https://www.theverge.com/?p=1002980",
+      "https://www.theverge.com/?p=1003068"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39261",
       "https://the-decoder.com/?p=39266",
       "https://the-decoder.com/?p=39270",
       "https://the-decoder.com/?p=39274",
@@ -1221,7 +1221,8 @@
       "https://the-decoder.com/?p=40903",
       "https://the-decoder.com/?p=40909",
       "https://the-decoder.com/?p=40914",
-      "https://the-decoder.com/?p=40918"
+      "https://the-decoder.com/?p=40918",
+      "https://the-decoder.com/?p=40922"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1871,8 +1872,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108347567",
-      "108347586",
       "108347621",
       "108347385",
       "108347979",
@@ -2170,7 +2169,9 @@
       "108370505",
       "108370522",
       "108370484",
-      "108369903"
+      "108369903",
+      "108364879",
+      "108370760"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2388,10 +2389,10 @@
       "https://mittechreview.com.br/?p=273670",
       "https://mittechreview.com.br/?p=274327",
       "https://mittechreview.com.br/?p=274370",
-      "https://mittechreview.com.br/?p=274955"
+      "https://mittechreview.com.br/?p=274955",
+      "https://mittechreview.com.br/?p=275020"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365004",
       "https://olhardigital.com.br/?p=1365040",
       "https://olhardigital.com.br/?p=1365066",
       "https://olhardigital.com.br/?p=1365093",
@@ -2690,7 +2691,8 @@
       "https://olhardigital.com.br/?p=1377528",
       "https://olhardigital.com.br/?p=1377661",
       "https://olhardigital.com.br/?p=1377681",
-      "https://olhardigital.com.br/?p=1377691"
+      "https://olhardigital.com.br/?p=1377691",
+      "https://olhardigital.com.br/?p=1377722"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2835,8 +2837,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=937578"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/marcar-medico-e-chamar-encanador-gemini-passa-a-fazer-tarefas-do-cotidiano/",
-      "https://canaltech.com.br/games/nova-decisao-da-twitch-sobre-ia-enfurece-comunidade-e-criadores/",
       "https://canaltech.com.br/inteligencia-artificial/adotar-ia-ficou-facil-dificil-e-faze-la-gerar-resultado-com-orquestracao/",
       "https://canaltech.com.br/games/hogwarts-legacy-2-vem-ai-warner-bros-confirma-producao-da-sequencia/",
       "https://canaltech.com.br/inteligencia-artificial/ia-do-youtube-agora-esta-disponivel-para-todos-os-usuarios/",
@@ -3134,11 +3134,11 @@
       "https://canaltech.com.br/inteligencia-artificial/o-que-acontece-se-voce-perguntar-as-ias-em-quem-votar-testamos-5-delas/",
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-substituir-o-google-docs-com-o-space-conheca-o-novo-recurso/",
       "https://canaltech.com.br/telecom/vivo-estreia-no-chatgpt-com-promessa-de-recarga-e-2-via-no-futuro/",
-      "https://canaltech.com.br/mercado/openai-freia-abertura-de-capital-em-nome-da-seguranca-entenda-motivos/"
+      "https://canaltech.com.br/mercado/openai-freia-abertura-de-capital-em-nome-da-seguranca-entenda-motivos/",
+      "https://canaltech.com.br/inteligencia-artificial/meta-nega-que-sua-nova-ia-esta-espionando-mensagens-dos-usuarios-entenda-polemica/",
+      "https://canaltech.com.br/inteligencia-artificial/deepfakes-como-saber-se-um-video-de-candidato-e-verdadeiro/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/01/eua-vao-defender-ia-sem-intervencao-em-reuniao-de-tecnologia-do-g20.htm",
-      "https://www.uol.com.br/flash/?c=72d8ac973c9926f3b69181e6a63a25ba20260901",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/01/anthropic-retoma-testes-externos-de-seguranca-apos-ataques-de-claude.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/01/google-pics-usa-ia-para-criar-imagens-e-desafia-canva-e-adobe.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/01/orgaos-da-ue-questionam-editoras-sobre-opcao-de-exclusao-de-pesquisa-com-ia-do-google.htm",
@@ -3436,7 +3436,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/30/tomadores-de-emprestimos-do-setor-de-ia-enfrentam-mais-dificuldade-para-atrairem-investidores.htm",
       "https://www.uol.com.br/flash/?c=6abd390dbe812ca0773bbb8c",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/30/pontos-chave-do-codigo-de-boas-praticas-assinado-pelas-gigantes-da-ia.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/30/plano-de-trump-para-seguranca-e-basicamente-dar-novo-nome-pra-ia-e-confiar-nos-tech-bros.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/30/plano-de-trump-para-seguranca-e-basicamente-dar-novo-nome-pra-ia-e-confiar-nos-tech-bros.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/30/micron-mostra-projecao-de-receita-bem-acima-do-esperado-impulsionada-por-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/09/30/google-restringe-acesso-a-novo-modelo-de-ia-por-preocupacoes-de-seguranca.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3717,122 +3719,12 @@
       "https://www.mobiletime.com.br/?p=865237",
       "https://www.mobiletime.com.br/?p=865245",
       "https://www.mobiletime.com.br/?p=865283",
-      "https://www.mobiletime.com.br/?p=865340"
+      "https://www.mobiletime.com.br/?p=865340",
+      "https://www.mobiletime.com.br/?p=865373",
+      "https://www.mobiletime.com.br/?p=865385"
     ]
   },
   "_titulos_recentes": [
-    [
-      "bets",
-      "camera",
-      "dazzle",
-      "inbox",
-      "info",
-      "life",
-      "marissa",
-      "mayer",
-      "more",
-      "roll",
-      "than",
-      "your"
-    ],
-    [
-      "founder",
-      "instinct",
-      "more",
-      "platform",
-      "related",
-      "said",
-      "than",
-      "transactions",
-      "travel"
-    ],
-    [
-      "anthropic",
-      "catastrophic",
-      "filing",
-      "risks",
-      "warns"
-    ],
-    [
-      "answers",
-      "chinese",
-      "companies",
-      "democrat",
-      "down",
-      "house",
-      "slow",
-      "wants",
-      "will"
-    ],
-    [
-      "8217",
-      "address",
-      "meta",
-      "muse",
-      "sent",
-      "stranger",
-      "youtuber"
-    ],
-    [
-      "credits",
-      "cuts",
-      "half",
-      "nudges",
-      "openai",
-      "plan",
-      "reopens",
-      "toward",
-      "users"
-    ],
-    [
-      "consistent",
-      "elevenlabs",
-      "expressive",
-      "makes",
-      "model",
-      "more",
-      "speech",
-      "voices"
-    ],
-    [
-      "chief",
-      "chrome",
-      "firefox",
-      "help",
-      "hopes",
-      "interview",
-      "redesign",
-      "users",
-      "will"
-    ],
-    [
-      "about",
-      "anthropic",
-      "extinction",
-      "human",
-      "includes",
-      "pitch",
-      "warning"
-    ],
-    [
-      "insecure",
-      "openai",
-      "planned",
-      "release"
-    ],
-    [
-      "asset",
-      "expense",
-      "making"
-    ],
-    [
-      "believes",
-      "existential",
-      "gebru",
-      "there",
-      "threat",
-      "timnit"
-    ],
     [
       "advertisers",
       "companies",
@@ -5522,6 +5414,112 @@
       "recomendadas",
       "revela",
       "vendas"
+    ],
+    [
+      "design",
+      "elon",
+      "grokipedia",
+      "musk",
+      "newly",
+      "refreshed"
+    ],
+    [
+      "anthropic",
+      "argon",
+      "clear",
+      "closes",
+      "doesn",
+      "gemini",
+      "google",
+      "lead",
+      "openai",
+      "take"
+    ],
+    [
+      "bans",
+      "bosses",
+      "california",
+      "earlier",
+      "gavin",
+      "landmark",
+      "newsom",
+      "reversing",
+      "robo",
+      "state",
+      "veto"
+    ],
+    [
+      "attempt",
+      "china",
+      "extract",
+      "links",
+      "models",
+      "moonshot",
+      "openai",
+      "reasoning"
+    ],
+    [
+      "atendimento",
+      "digital"
+    ],
+    [
+      "autorizacao",
+      "lido",
+      "mensagens",
+      "meta",
+      "muse",
+      "nega",
+      "privadas",
+      "tenha"
+    ],
+    [
+      "entenda",
+      "espionando",
+      "esta",
+      "mensagens",
+      "meta",
+      "nega",
+      "polemica",
+      "usuarios"
+    ],
+    [
+      "candidato",
+      "deepfakes",
+      "saber",
+      "verdadeiro",
+      "video"
+    ],
+    [
+      "acima",
+      "esperado",
+      "impulsionada",
+      "micron",
+      "mostra",
+      "projecao",
+      "receita"
+    ],
+    [
+      "acesso",
+      "google",
+      "modelo",
+      "preocupacoes",
+      "restringe",
+      "seguranca"
+    ],
+    [
+      "conselho",
+      "industria",
+      "meta",
+      "quer",
+      "supervisionar"
+    ],
+    [
+      "agentes",
+      "criacao",
+      "empresarial",
+      "lanca",
+      "openclaw",
+      "plataforma"
     ]
   ]
 }
