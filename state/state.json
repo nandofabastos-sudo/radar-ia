@@ -1872,7 +1872,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108347621",
       "108347385",
       "108347979",
       "108347991",
@@ -2171,7 +2170,8 @@
       "108370484",
       "108369903",
       "108364879",
-      "108370760"
+      "108370760",
+      "108370535"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2393,9 +2393,6 @@
       "https://mittechreview.com.br/?p=275020"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365040",
-      "https://olhardigital.com.br/?p=1365066",
-      "https://olhardigital.com.br/?p=1365093",
       "https://olhardigital.com.br/?p=1365109",
       "https://olhardigital.com.br/?p=1365149",
       "https://olhardigital.com.br/?p=1365158",
@@ -2692,7 +2689,10 @@
       "https://olhardigital.com.br/?p=1377661",
       "https://olhardigital.com.br/?p=1377681",
       "https://olhardigital.com.br/?p=1377691",
-      "https://olhardigital.com.br/?p=1377722"
+      "https://olhardigital.com.br/?p=1377722",
+      "https://olhardigital.com.br/?p=1377725",
+      "https://olhardigital.com.br/?p=1377701",
+      "https://olhardigital.com.br/?p=1377711"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3725,50 +3725,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "advertisers",
-      "companies",
-      "data",
-      "leak"
-    ],
-    [
-      "beyond",
-      "business",
-      "consumer",
-      "launches",
-      "market",
-      "meta",
-      "muse",
-      "pushes",
-      "small",
-      "zuckerberg"
-    ],
-    [
-      "buyback",
-      "cheap",
-      "chipmaker",
-      "huang",
-      "nvidia",
-      "record",
-      "resist",
-      "shows",
-      "stock"
-    ],
-    [
-      "alaska",
-      "execs",
-      "luxury",
-      "meets",
-      "more",
-      "morning",
-      "pressure",
-      "push",
-      "squawk",
-      "stocks",
-      "treasury",
-      "trump",
-      "yields"
-    ],
     [
       "amid",
       "congress",
@@ -5520,6 +5476,38 @@
       "lanca",
       "openclaw",
       "plataforma"
+    ],
+    [
+      "apple",
+      "company",
+      "every",
+      "except",
+      "included",
+      "lunch",
+      "major",
+      "tech",
+      "trump"
+    ],
+    [
+      "acusa",
+      "chinesa",
+      "distilar",
+      "moonshot",
+      "openai",
+      "suas"
+    ],
+    [
+      "amanha",
+      "antes",
+      "olhar",
+      "pedir",
+      "voce"
+    ],
+    [
+      "eleicoes",
+      "perguntar",
+      "posso",
+      "votar"
     ]
   ]
 }
