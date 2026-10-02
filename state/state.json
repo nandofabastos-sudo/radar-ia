@@ -1887,7 +1887,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108346476",
       "108348233",
       "108348265",
       "108348270",
@@ -2186,7 +2185,8 @@
       "108370341",
       "108370775",
       "108371048",
-      "108371313"
+      "108371313",
+      "108370827"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2411,10 +2411,6 @@
       "https://mittechreview.com.br/?p=275435"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365388",
-      "https://olhardigital.com.br/?p=1365433",
-      "https://olhardigital.com.br/?p=1365482",
-      "https://olhardigital.com.br/?p=1365493",
       "https://olhardigital.com.br/?p=1365547",
       "https://olhardigital.com.br/?p=1365594",
       "https://olhardigital.com.br/?p=1365682",
@@ -2710,7 +2706,11 @@
       "https://olhardigital.com.br/?p=1378053",
       "https://olhardigital.com.br/?p=1377974",
       "https://olhardigital.com.br/?p=1378078",
-      "https://olhardigital.com.br/?p=1378100"
+      "https://olhardigital.com.br/?p=1378100",
+      "https://olhardigital.com.br/?p=1378133",
+      "https://olhardigital.com.br/?p=1378137",
+      "https://olhardigital.com.br/?p=1378143",
+      "https://olhardigital.com.br/?p=1378161"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3158,7 +3158,6 @@
       "https://canaltech.com.br/inteligencia-artificial/ben-affleck-admite-que-usou-ia-para-fazer-novo-filme-da-netflix/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/02/apple-acusa-ex-funcionario-de-apagar-provas-para-a-openai.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/chefe-de-comercio-dos-eua-afirma-que-anthropic-esta-de-volta-ao-lado-certo-com-trump-diz-axios.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/openai-desenvolve-recursos-de-desligamento-automatico-para-ferramentas-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/hpe-eleva-previsao-para-o-ano-impulsionada-por-ia.htm",
@@ -3457,7 +3456,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/01/hackers-chineses-se-passaram-por-ex-funcionario-dos-eua-para-roubar-e-mails-de-especialistas-em-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/01/accenture-acalma-temores-sobre-impacto-da-ia-emservicos-de-ti.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/01/california-proibe-demissao-e-punicao-decididas-so-por-ia.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/01/procurador-da-california-intimaopenai-sobre-riscos-da-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/01/procurador-da-california-intimaopenai-sobre-riscos-da-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/10/01/openai-demite-tres-funcionarios-por-manuseio-incorreto-de-informacoes-sensiveis.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3745,65 +3745,11 @@
       "https://www.mobiletime.com.br/?p=865340",
       "https://www.mobiletime.com.br/?p=865373",
       "https://www.mobiletime.com.br/?p=865385",
-      "https://www.mobiletime.com.br/?p=865449"
+      "https://www.mobiletime.com.br/?p=865449",
+      "https://www.mobiletime.com.br/?p=865523"
     ]
   },
   "_titulos_recentes": [
-    [
-      "acelerador",
-      "anthropic",
-      "freios",
-      "iapocalipse",
-      "openai",
-      "pedir",
-      "pisam"
-    ],
-    [
-      "florida",
-      "openai",
-      "state"
-    ],
-    [
-      "brasil",
-      "economia",
-      "opiniao",
-      "oportunidade",
-      "servicos"
-    ],
-    [
-      "ciera",
-      "democratizar",
-      "exames",
-      "geneticos",
-      "prevencao"
-    ],
-    [
-      "2030",
-      "aponta",
-      "brasil",
-      "capacidade",
-      "centers",
-      "data",
-      "dobrar",
-      "pode"
-    ],
-    [
-      "arquitetura",
-      "capaz",
-      "cria",
-      "entregar",
-      "fabricas",
-      "netapp"
-    ],
-    [
-      "direct",
-      "features",
-      "latest",
-      "model",
-      "openai",
-      "store",
-      "take"
-    ],
     [
       "convinced",
       "dots",
@@ -5570,6 +5516,72 @@
       "provador",
       "usuarios",
       "virtual"
+    ],
+    [
+      "companies",
+      "cyber",
+      "here",
+      "increasing",
+      "interpol",
+      "scale",
+      "should",
+      "speed",
+      "threats",
+      "watch",
+      "what"
+    ],
+    [
+      "abre",
+      "agentes",
+      "california",
+      "invadirem",
+      "investigacao",
+      "openai",
+      "sistemas"
+    ],
+    [
+      "demite",
+      "informacoes",
+      "openai",
+      "pesquisadores",
+      "restritas",
+      "vazamento"
+    ],
+    [
+      "agora",
+      "chatgpt",
+      "entenda",
+      "pode",
+      "provador",
+      "virtual"
+    ],
+    [
+      "chineses",
+      "chips",
+      "compra",
+      "estatais",
+      "financiaram",
+      "fundos",
+      "nvidia",
+      "restritos"
+    ],
+    [
+      "demite",
+      "funcionarios",
+      "incorreto",
+      "informacoes",
+      "manuseio",
+      "openai",
+      "sensiveis",
+      "tres"
+    ],
+    [
+      "compartilhados",
+      "dados",
+      "empresa",
+      "quais",
+      "quem",
+      "sabe"
     ]
   ]
 }
