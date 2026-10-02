@@ -931,12 +931,10 @@
       "https://www.theverge.com/?p=1002851",
       "https://www.theverge.com/?p=1003399",
       "https://www.theverge.com/?p=1003589",
-      "https://www.theverge.com/?p=1003756"
+      "https://www.theverge.com/?p=1003756",
+      "https://www.theverge.com/?p=1003925"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39301",
-      "https://the-decoder.com/?p=39315",
-      "https://the-decoder.com/?p=39324",
       "https://the-decoder.com/?p=38985",
       "https://the-decoder.com/?p=39002",
       "https://the-decoder.com/?p=39294",
@@ -1233,7 +1231,10 @@
       "https://the-decoder.com/?p=40892",
       "https://the-decoder.com/?p=40930",
       "https://the-decoder.com/?p=40947",
-      "https://the-decoder.com/?p=40952"
+      "https://the-decoder.com/?p=40952",
+      "https://the-decoder.com/?p=40956",
+      "https://the-decoder.com/?p=40962",
+      "https://the-decoder.com/?p=40967"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1521,7 +1522,8 @@
       "https://www.technologyreview.com/?p=1145197",
       "https://www.technologyreview.com/?p=1145230",
       "https://www.technologyreview.com/?p=1145186",
-      "https://www.technologyreview.com/?p=1145339"
+      "https://www.technologyreview.com/?p=1145339",
+      "https://www.technologyreview.com/?p=1145639"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1686,7 +1688,9 @@
       "6abbf44535e7c9025b8ff9e3",
       "6abd2716b729f64a710059c9",
       "6abd69a2aa33d107855886da",
-      "6abacb8bbc8ab97fed5aad6a"
+      "6abacb8bbc8ab97fed5aad6a",
+      "6abd4bb5b55f4a85476c9ae6",
+      "6abc2709de4260e1edbea50e"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1887,7 +1891,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108348233",
       "108348265",
       "108348270",
       "108348166",
@@ -2186,7 +2189,8 @@
       "108370775",
       "108371048",
       "108371313",
-      "108370827"
+      "108370827",
+      "108367759"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2408,10 +2412,11 @@
       "https://mittechreview.com.br/?p=274955",
       "https://mittechreview.com.br/?p=275020",
       "https://mittechreview.com.br/?p=275039",
-      "https://mittechreview.com.br/?p=275435"
+      "https://mittechreview.com.br/?p=275435",
+      "https://mittechreview.com.br/?p=271006",
+      "https://mittechreview.com.br/?p=275396"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365547",
       "https://olhardigital.com.br/?p=1365594",
       "https://olhardigital.com.br/?p=1365682",
       "https://olhardigital.com.br/?p=1365707",
@@ -2710,7 +2715,8 @@
       "https://olhardigital.com.br/?p=1378133",
       "https://olhardigital.com.br/?p=1378137",
       "https://olhardigital.com.br/?p=1378143",
-      "https://olhardigital.com.br/?p=1378161"
+      "https://olhardigital.com.br/?p=1378161",
+      "https://olhardigital.com.br/?p=1378192"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3158,7 +3164,6 @@
       "https://canaltech.com.br/inteligencia-artificial/ben-affleck-admite-que-usou-ia-para-fazer-novo-filme-da-netflix/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/chefe-de-comercio-dos-eua-afirma-que-anthropic-esta-de-volta-ao-lado-certo-com-trump-diz-axios.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/openai-desenvolve-recursos-de-desligamento-automatico-para-ferramentas-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/02/hpe-eleva-previsao-para-o-ano-impulsionada-por-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/03/do-linkedin-ao-maps-e-spotify-por-que-plataformas-criam-dedo-duro-da-ia.ghtm",
@@ -3457,7 +3462,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/01/accenture-acalma-temores-sobre-impacto-da-ia-emservicos-de-ti.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/01/california-proibe-demissao-e-punicao-decididas-so-por-ia.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/01/procurador-da-california-intimaopenai-sobre-riscos-da-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/10/01/openai-demite-tres-funcionarios-por-manuseio-incorreto-de-informacoes-sensiveis.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/10/01/openai-demite-tres-funcionarios-por-manuseio-incorreto-de-informacoes-sensiveis.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/02/ele-previu-a-crise-de-2008-e-agora-diz-que-bolha-da-ia-explodira-em-2027.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3750,115 +3756,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "convinced",
-      "dots",
-      "elon",
-      "internet",
-      "launch",
-      "musk",
-      "openai",
-      "trolled"
-    ],
-    [
-      "about",
-      "america",
-      "gets",
-      "glitch",
-      "minecraft",
-      "really",
-      "weird",
-      "when"
-    ],
-    [
-      "8217",
-      "again",
-      "elon",
-      "grokipedia",
-      "musk",
-      "powered",
-      "updating"
-    ],
-    [
-      "call",
-      "government",
-      "intelligence",
-      "orders",
-      "super",
-      "trump"
-    ],
-    [
-      "acquires",
-      "against",
-      "ante",
-      "labs",
-      "nvidia",
-      "startup",
-      "upping",
-      "world"
-    ],
-    [
-      "against",
-      "creative",
-      "increasingly",
-      "openai",
-      "protests"
-    ],
-    [
-      "intelligence",
-      "issue",
-      "polls",
-      "rename",
-      "show",
-      "sinking",
-      "super",
-      "tries",
-      "trump"
-    ],
-    [
-      "around",
-      "could",
-      "cramer",
-      "narrative",
-      "price",
-      "stocks",
-      "turning",
-      "warns"
-    ],
-    [
-      "algoritmo",
-      "lagrima"
-    ],
-    [
-      "agentes",
-      "dots",
-      "lanca",
-      "muse",
-      "openai",
-      "rival",
-      "sozinhos",
-      "trabalham"
-    ],
-    [
-      "acordo",
-      "anuncia",
-      "lideres",
-      "reune",
-      "seguranca",
-      "tecnologia",
-      "trump"
-    ],
-    [
-      "acessar",
-      "agora",
-      "contas",
-      "dados",
-      "empresas",
-      "hackers",
-      "miram",
-      "roubo",
-      "sensiveis"
-    ],
     [
       "abrir",
       "atalhos",
@@ -5582,6 +5479,116 @@
       "quais",
       "quem",
       "sabe"
+    ],
+    [
+      "generates",
+      "maker",
+      "music",
+      "spoken",
+      "suno",
+      "words"
+    ],
+    [
+      "alone",
+      "black",
+      "editing",
+      "flux",
+      "forest",
+      "image",
+      "labs",
+      "launches",
+      "leaves",
+      "multi",
+      "picture",
+      "rest",
+      "step",
+      "your"
+    ],
+    [
+      "businesses",
+      "index",
+      "less",
+      "more",
+      "paying",
+      "ramp",
+      "shows",
+      "using"
+    ],
+    [
+      "agents",
+      "microsoft",
+      "models",
+      "releases",
+      "speech",
+      "text",
+      "transcription",
+      "voice"
+    ],
+    [
+      "fooled",
+      "llms",
+      "reason"
+    ],
+    [
+      "care",
+      "cleaning",
+      "health",
+      "mess",
+      "palantir",
+      "tired",
+      "workers"
+    ],
+    [
+      "chatgpt",
+      "could",
+      "data",
+      "flaw",
+      "grab",
+      "hackers",
+      "have",
+      "sensitive"
+    ],
+    [
+      "boosting",
+      "demand",
+      "hottest",
+      "jobs",
+      "redefining",
+      "skill",
+      "street",
+      "wall"
+    ],
+    [
+      "aposta",
+      "dolares",
+      "esta",
+      "jogo",
+      "trilhoes"
+    ],
+    [
+      "morte",
+      "prompt",
+      "super"
+    ],
+    [
+      "candidato",
+      "climaticas",
+      "lancamento",
+      "mudancas",
+      "pensa",
+      "raras",
+      "resumo",
+      "spacex",
+      "terras"
+    ],
+    [
+      "2008",
+      "2027",
+      "agora",
+      "bolha",
+      "crise",
+      "explodira",
+      "previu"
     ]
   ]
 }
