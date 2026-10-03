@@ -2454,7 +2454,6 @@
       "https://mittechreview.com.br/?p=275960"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365829",
       "https://olhardigital.com.br/?p=1365849",
       "https://olhardigital.com.br/?p=1365861",
       "https://olhardigital.com.br/?p=1365878",
@@ -2753,7 +2752,8 @@
       "https://olhardigital.com.br/?p=1378385",
       "https://olhardigital.com.br/?p=1375046",
       "https://olhardigital.com.br/?p=1378165",
-      "https://olhardigital.com.br/?p=1377245"
+      "https://olhardigital.com.br/?p=1377245",
+      "https://olhardigital.com.br/?p=1378636"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3204,7 +3204,6 @@
       "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-chatgpt/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/04/critico-como-e-escala-que-openai-usa-para-classificar-perigo-dos-modelos.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/04/estudo-ve-perda-de-audiencia-na-wikipedia-apos-resumos-de-ia-do-google.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/bytedance-obtem-emprestimo-de-us296-bi-sem-garantia-para-impulsionar-ia-dizem-fontes.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/04/quem-ja-pode-usar-o-astra-ia-do-chatgpt-chamada-de-nova-era-mundial.htm",
@@ -3503,7 +3502,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/02/empresa-de-supercomputadores-dobra-producao-para-impulsionar-ambicoes-da-europa-em-ia.htm",
       "https://tilt.uol.com.br/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm",
       "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/03/pesquisa-aponta-que-gemini-reforca-duvida-sobre-eleicoes-em-25-das-conversas.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/03/pesquisa-aponta-que-gemini-reforca-duvida-sobre-eleicoes-em-25-das-conversas.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/03/lider-de-seguranca-deixa-openai-e-diz-que-cultura-e-quebrada.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3799,20 +3799,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "atendimento",
-      "digital"
-    ],
-    [
-      "autorizacao",
-      "lido",
-      "mensagens",
-      "meta",
-      "muse",
-      "nega",
-      "privadas",
-      "tenha"
-    ],
     [
       "entenda",
       "espionando",
@@ -5614,6 +5600,23 @@
       "gemini",
       "lidera",
       "ocorrencias"
+    ],
+    [
+      "deveriam",
+      "empresas",
+      "nucleares",
+      "openai",
+      "regras",
+      "usinas"
+    ],
+    [
+      "cultura",
+      "deixa",
+      "fala",
+      "lider",
+      "openai",
+      "quebrada",
+      "seguranca"
     ]
   ]
 }
