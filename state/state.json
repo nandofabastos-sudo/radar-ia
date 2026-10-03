@@ -947,11 +947,6 @@
       "https://www.theverge.com/?p=1004330"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39290",
-      "https://the-decoder.com/?p=39347",
-      "https://the-decoder.com/?p=39351",
-      "https://the-decoder.com/?p=39355",
-      "https://the-decoder.com/?p=39306",
       "https://the-decoder.com/?p=39363",
       "https://the-decoder.com/?p=39366",
       "https://the-decoder.com/?p=39372",
@@ -1246,7 +1241,12 @@
       "https://the-decoder.com/?p=40980",
       "https://the-decoder.com/?p=40983",
       "https://the-decoder.com/?p=40990",
-      "https://the-decoder.com/?p=40997"
+      "https://the-decoder.com/?p=40997",
+      "https://the-decoder.com/?p=41000",
+      "https://the-decoder.com/?p=41006",
+      "https://the-decoder.com/?p=41012",
+      "https://the-decoder.com/?p=41027",
+      "https://the-decoder.com/?p=41035"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2442,11 +2442,10 @@
       "https://mittechreview.com.br/?p=275435",
       "https://mittechreview.com.br/?p=271006",
       "https://mittechreview.com.br/?p=275396",
-      "https://mittechreview.com.br/?p=276080"
+      "https://mittechreview.com.br/?p=276080",
+      "https://mittechreview.com.br/?p=275960"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365739",
-      "https://olhardigital.com.br/?p=1365747",
       "https://olhardigital.com.br/?p=1365751",
       "https://olhardigital.com.br/?p=1365427",
       "https://olhardigital.com.br/?p=1365829",
@@ -2744,7 +2743,9 @@
       "https://olhardigital.com.br/?p=1378359",
       "https://olhardigital.com.br/?p=1378364",
       "https://olhardigital.com.br/?p=1378430",
-      "https://olhardigital.com.br/?p=1378492"
+      "https://olhardigital.com.br/?p=1378492",
+      "https://olhardigital.com.br/?p=1378385",
+      "https://olhardigital.com.br/?p=1375046"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3195,7 +3196,6 @@
       "https://canaltech.com.br/inteligencia-artificial/claude-code-ganha-suporte-a-mods-veja-como-personalizar-terminal-e-mais/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/nvidia-define-outubro-como-data-de-lancamento-de-pcs-rtx-spark-com-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/03/nova-era-mundial-o-que-e-agi-que-openai-diz-ter-alcancado-em-novo-modelo-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/openai-promete-us1-bi-para-defesa-digital-em-meio-a-duvidas-sobreseguranca-da-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/04/critico-como-e-escala-que-openai-usa-para-classificar-perigo-dos-modelos.htm",
@@ -3494,7 +3494,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/02/anthropic-alerta-que-atitudes-do-governo-dos-eua-podem-prejudicar-lacos-com-clientes-mostra-prospecto-de-ipo.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/02/juiz-alerta-que-ia-pode-prejudicar-formacao-de-advogados-e-causar-danos-a-clientes.htm",
       "https://www.uol.com.br/flash/?c=6abfcd0aae32915c0f872dfc",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/02/empresa-de-supercomputadores-dobra-producao-para-impulsionar-ambicoes-da-europa-em-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/02/empresa-de-supercomputadores-dobra-producao-para-impulsionar-ambicoes-da-europa-em-ia.htm",
+      "https://tilt.uol.com.br/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3790,84 +3791,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "combat",
-      "hinges",
-      "pals",
-      "plan",
-      "policing",
-      "risks",
-      "tech",
-      "themselves",
-      "trump"
-    ],
-    [
-      "expertise",
-      "facts",
-      "free",
-      "medical",
-      "thinks",
-      "tyranny",
-      "will"
-    ],
-    [
-      "about",
-      "bioweapons",
-      "concerned",
-      "development",
-      "even",
-      "plenty",
-      "reasons",
-      "there",
-      "without"
-    ],
-    [
-      "agent",
-      "battle",
-      "here",
-      "personal",
-      "your"
-    ],
-    [
-      "accord",
-      "fancy",
-      "pinky",
-      "safety",
-      "swear",
-      "trump"
-    ],
-    [
-      "argon",
-      "gemini"
-    ],
-    [
-      "altman",
-      "declined",
-      "hawley",
-      "hearing",
-      "openai",
-      "rogue",
-      "testify"
-    ],
-    [
-      "advanced",
-      "argon",
-      "gemini",
-      "google",
-      "model",
-      "most",
-      "rolls"
-    ],
-    [
-      "2022",
-      "best",
-      "enjoys",
-      "meta",
-      "momentum",
-      "month",
-      "since",
-      "stock"
-    ],
     [
       "beats",
       "center",
@@ -5603,6 +5526,100 @@
       "rest",
       "what",
       "world"
+    ],
+    [
+      "claude",
+      "code",
+      "coding",
+      "developers",
+      "inside",
+      "lets",
+      "mods",
+      "rewrite",
+      "system",
+      "tool"
+    ],
+    [
+      "about",
+      "after",
+      "considered",
+      "down",
+      "internal",
+      "itself",
+      "learning",
+      "model",
+      "openai",
+      "restarting",
+      "shut"
+    ],
+    [
+      "agents",
+      "build",
+      "have",
+      "idea",
+      "photos",
+      "right",
+      "scenes",
+      "they"
+    ],
+    [
+      "bootloops",
+      "calculations",
+      "harness",
+      "models",
+      "open",
+      "performing",
+      "precise",
+      "scientific",
+      "source",
+      "supports"
+    ],
+    [
+      "alternative",
+      "artificial",
+      "deepmind",
+      "intelligence",
+      "propose",
+      "researchers",
+      "singularity",
+      "symbiotic"
+    ],
+    [
+      "desenvolver",
+      "detector",
+      "mentiras",
+      "milhoes",
+      "pentagono",
+      "quer"
+    ],
+    [
+      "ameaca",
+      "brasil",
+      "combate",
+      "criam",
+      "deepfakes",
+      "desinformacao",
+      "dificultam",
+      "digital",
+      "eleicoes"
+    ],
+    [
+      "alavanca",
+      "artificial",
+      "desta",
+      "geracao",
+      "igualdade",
+      "inteligencia",
+      "maior",
+      "pode"
+    ],
+    [
+      "dispositivos",
+      "internet",
+      "prescindir",
+      "quando",
+      "sera",
+      "vida"
     ]
   ]
 }
