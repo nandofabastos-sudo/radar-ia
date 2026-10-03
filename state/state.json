@@ -1387,7 +1387,8 @@
       "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
       "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
       "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
+      "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1911,7 +1912,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108348335",
       "108348465",
       "108348717",
       "108348858",
@@ -2210,7 +2210,8 @@
       "108371672",
       "108371273",
       "108371713",
-      "108372007"
+      "108372007",
+      "108372055"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2443,7 +2444,6 @@
       "https://mittechreview.com.br/?p=276080"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365722",
       "https://olhardigital.com.br/?p=1365739",
       "https://olhardigital.com.br/?p=1365747",
       "https://olhardigital.com.br/?p=1365751",
@@ -2742,7 +2742,8 @@
       "https://olhardigital.com.br/?p=1378353",
       "https://olhardigital.com.br/?p=1378359",
       "https://olhardigital.com.br/?p=1378364",
-      "https://olhardigital.com.br/?p=1378430"
+      "https://olhardigital.com.br/?p=1378430",
+      "https://olhardigital.com.br/?p=1378492"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3788,35 +3789,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "8217",
-      "about",
-      "here",
-      "leaders",
-      "plan",
-      "safety",
-      "saying",
-      "trump",
-      "what"
-    ],
-    [
-      "coming",
-      "tamagotchis"
-    ],
-    [
-      "8216",
-      "8217",
-      "announces",
-      "capable",
-      "cyber",
-      "defenders",
-      "gemini",
-      "google",
-      "have",
-      "only",
-      "right",
-      "trusted"
-    ],
     [
       "billions",
       "calling",
@@ -5609,6 +5581,39 @@
       "latina",
       "levar",
       "parceria"
+    ],
+    [
+      "abuse",
+      "access",
+      "agents",
+      "apple",
+      "changes",
+      "curb",
+      "disk",
+      "full",
+      "permissions"
+    ],
+    [
+      "cerebras",
+      "expiration",
+      "hits",
+      "lockup",
+      "nvidia",
+      "post",
+      "pressure",
+      "stock",
+      "tumbling",
+      "week"
+    ],
+    [
+      "abre",
+      "codigo",
+      "criar",
+      "gadget",
+      "meta",
+      "muse",
+      "proprio",
+      "voce"
     ]
   ]
 }
