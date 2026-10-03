@@ -378,8 +378,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3160393",
-      "https://techcrunch.com/?p=3160480",
       "https://techcrunch.com/?p=3160462",
       "https://techcrunch.com/?p=3160448",
       "https://techcrunch.com/?p=3160633",
@@ -677,7 +675,9 @@
       "https://techcrunch.com/?p=3173313",
       "https://techcrunch.com/?p=3173395",
       "https://techcrunch.com/?p=3173444",
-      "https://techcrunch.com/?p=3173132"
+      "https://techcrunch.com/?p=3173132",
+      "https://techcrunch.com/?p=3173499",
+      "https://techcrunch.com/?p=3173505"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -946,10 +946,10 @@
       "https://www.theverge.com/?p=1004295",
       "https://www.theverge.com/?p=1004330",
       "https://www.theverge.com/?p=1004408",
-      "https://www.theverge.com/?p=1004162"
+      "https://www.theverge.com/?p=1004162",
+      "https://www.theverge.com/?p=1004418"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39372",
       "https://the-decoder.com/?p=39375",
       "https://the-decoder.com/?p=39381",
       "https://the-decoder.com/?p=39384",
@@ -1248,7 +1248,8 @@
       "https://the-decoder.com/?p=41027",
       "https://the-decoder.com/?p=41035",
       "https://the-decoder.com/?p=41041",
-      "https://the-decoder.com/?p=41046"
+      "https://the-decoder.com/?p=41046",
+      "https://the-decoder.com/?p=41053"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1712,7 +1713,8 @@
       "6abc2709de4260e1edbea50e",
       "6abe88e538929764b2271968",
       "6abbf300990723ca87d10e08",
-      "6abc27c619638e7270d13469"
+      "6abc27c619638e7270d13469",
+      "6abff1eb79a026977dfe804e"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1912,7 +1914,9 @@
       "https://news.ycombinator.com/item?id=49927760",
       "https://news.ycombinator.com/item?id=49929489",
       "https://news.ycombinator.com/item?id=49925974",
-      "https://news.ycombinator.com/item?id=49927747"
+      "https://news.ycombinator.com/item?id=49927747",
+      "https://news.ycombinator.com/item?id=49929391",
+      "https://news.ycombinator.com/item?id=49936575"
     ]
   },
   "mercado": {
@@ -2450,7 +2454,6 @@
       "https://mittechreview.com.br/?p=275960"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365427",
       "https://olhardigital.com.br/?p=1365829",
       "https://olhardigital.com.br/?p=1365849",
       "https://olhardigital.com.br/?p=1365861",
@@ -2749,7 +2752,8 @@
       "https://olhardigital.com.br/?p=1378492",
       "https://olhardigital.com.br/?p=1378385",
       "https://olhardigital.com.br/?p=1375046",
-      "https://olhardigital.com.br/?p=1378165"
+      "https://olhardigital.com.br/?p=1378165",
+      "https://olhardigital.com.br/?p=1377245"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2898,7 +2902,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=938349"
     ],
     "canaltech": [
-      "https://canaltech.com.br/hardware/placas-de-video-nvidia-que-envelheceram-mal/",
       "https://canaltech.com.br/apps/como-se-livrar-de-anuncios-no-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-spark/",
@@ -3197,10 +3200,10 @@
       "https://canaltech.com.br/inteligencia-artificial/ia-caloteira-gemini-4-e-pego-recusando-reembolsos-e-mentindo-para-lucrar/",
       "https://canaltech.com.br/inteligencia-artificial/big-mac-mais-caro-mcdonalds-adota-ia-para-cobrar-preco-dinamico-dos-lanches/",
       "https://canaltech.com.br/inteligencia-artificial/claude-code-ganha-suporte-a-mods-veja-como-personalizar-terminal-e-mais/",
-      "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-personalizadas-no-chatgpt/"
+      "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-personalizadas-no-chatgpt/",
+      "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-chatgpt/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/openai-promete-us1-bi-para-defesa-digital-em-meio-a-duvidas-sobreseguranca-da-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/04/critico-como-e-escala-que-openai-usa-para-classificar-perigo-dos-modelos.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/04/estudo-ve-perda-de-audiencia-na-wikipedia-apos-resumos-de-ia-do-google.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/bytedance-obtem-emprestimo-de-us296-bi-sem-garantia-para-impulsionar-ia-dizem-fontes.htm",
@@ -3499,7 +3502,8 @@
       "https://www.uol.com.br/flash/?c=6abfcd0aae32915c0f872dfc",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/02/empresa-de-supercomputadores-dobra-producao-para-impulsionar-ambicoes-da-europa-em-ia.htm",
       "https://tilt.uol.com.br/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm",
-      "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm"
+      "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/03/pesquisa-aponta-que-gemini-reforca-duvida-sobre-eleicoes-em-25-das-conversas.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3795,99 +3799,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acordo",
-      "fazem",
-      "gigantes",
-      "openai",
-      "processada",
-      "rolando"
-    ],
-    [
-      "assinado",
-      "boas",
-      "chave",
-      "codigo",
-      "gigantes",
-      "pelas",
-      "pontos",
-      "praticas"
-    ],
-    [
-      "bros",
-      "confiar",
-      "mudar",
-      "nome",
-      "plano",
-      "tech",
-      "trump"
-    ],
-    [
-      "agentes",
-      "breve",
-      "robinhood",
-      "trading"
-    ],
-    [
-      "adocao",
-      "claras",
-      "corporativos",
-      "dados",
-      "exige",
-      "proteger",
-      "regras"
-    ],
-    [
-      "chatgpt",
-      "nuvemshop",
-      "pesquisa",
-      "recomendadas",
-      "revela",
-      "vendas"
-    ],
-    [
-      "design",
-      "elon",
-      "grokipedia",
-      "musk",
-      "newly",
-      "refreshed"
-    ],
-    [
-      "anthropic",
-      "argon",
-      "clear",
-      "closes",
-      "doesn",
-      "gemini",
-      "google",
-      "lead",
-      "openai",
-      "take"
-    ],
-    [
-      "bans",
-      "bosses",
-      "california",
-      "earlier",
-      "gavin",
-      "landmark",
-      "newsom",
-      "reversing",
-      "robo",
-      "state",
-      "veto"
-    ],
-    [
-      "attempt",
-      "china",
-      "extract",
-      "links",
-      "models",
-      "moonshot",
-      "openai",
-      "reasoning"
-    ],
     [
       "atendimento",
       "digital"
@@ -5622,6 +5533,87 @@
       "chatgpt",
       "instrucoes",
       "personalizadas"
+    ],
+    [
+      "broken",
+      "claiming",
+      "company",
+      "culture",
+      "employee",
+      "openai",
+      "resigns",
+      "safety"
+    ],
+    [
+      "amazon",
+      "backlash",
+      "center",
+      "data",
+      "longer",
+      "ndas",
+      "responds",
+      "uses"
+    ],
+    [
+      "capcom",
+      "create",
+      "future",
+      "games",
+      "preparing",
+      "together",
+      "where"
+    ],
+    [
+      "anymore",
+      "apparently",
+      "build",
+      "intelligence",
+      "magic",
+      "openai",
+      "trying"
+    ],
+    [
+      "hike",
+      "just",
+      "nvidia",
+      "price",
+      "shield",
+      "years"
+    ],
+    [
+      "greg",
+      "hartman",
+      "kroah",
+      "security",
+      "video"
+    ],
+    [
+      "creator",
+      "locally",
+      "redis"
+    ],
+    [
+      "candidatos",
+      "centers",
+      "data",
+      "digital",
+      "planos",
+      "presidencia",
+      "soberania"
+    ],
+    [
+      "chatgpt",
+      "funciona",
+      "memoria"
+    ],
+    [
+      "aponta",
+      "deslegitimacao",
+      "eleitoral",
+      "estudo",
+      "gemini",
+      "lidera",
+      "ocorrencias"
     ]
   ]
 }
