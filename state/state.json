@@ -378,7 +378,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3160336",
       "https://techcrunch.com/?p=3160393",
       "https://techcrunch.com/?p=3160480",
       "https://techcrunch.com/?p=3160462",
@@ -677,7 +676,8 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3173316",
       "https://techcrunch.com/?p=3173313",
       "https://techcrunch.com/?p=3173395",
-      "https://techcrunch.com/?p=3173444"
+      "https://techcrunch.com/?p=3173444",
+      "https://techcrunch.com/?p=3173132"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -944,11 +944,11 @@
       "https://www.theverge.com/?p=1004177",
       "https://www.theverge.com/?p=1004096",
       "https://www.theverge.com/?p=1004295",
-      "https://www.theverge.com/?p=1004330"
+      "https://www.theverge.com/?p=1004330",
+      "https://www.theverge.com/?p=1004408",
+      "https://www.theverge.com/?p=1004162"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39363",
-      "https://the-decoder.com/?p=39366",
       "https://the-decoder.com/?p=39372",
       "https://the-decoder.com/?p=39375",
       "https://the-decoder.com/?p=39381",
@@ -1246,7 +1246,9 @@
       "https://the-decoder.com/?p=41006",
       "https://the-decoder.com/?p=41012",
       "https://the-decoder.com/?p=41027",
-      "https://the-decoder.com/?p=41035"
+      "https://the-decoder.com/?p=41035",
+      "https://the-decoder.com/?p=41041",
+      "https://the-decoder.com/?p=41046"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1709,7 +1711,8 @@
       "6abd4bb5b55f4a85476c9ae6",
       "6abc2709de4260e1edbea50e",
       "6abe88e538929764b2271968",
-      "6abbf300990723ca87d10e08"
+      "6abbf300990723ca87d10e08",
+      "6abc27c619638e7270d13469"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1908,13 +1911,12 @@
       "https://news.ycombinator.com/item?id=49913571",
       "https://news.ycombinator.com/item?id=49927760",
       "https://news.ycombinator.com/item?id=49929489",
-      "https://news.ycombinator.com/item?id=49925974"
+      "https://news.ycombinator.com/item?id=49925974",
+      "https://news.ycombinator.com/item?id=49927747"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108348717",
-      "108348858",
       "108346172",
       "108348502",
       "108349234",
@@ -2212,7 +2214,9 @@
       "108371713",
       "108372007",
       "108372055",
-      "108358963"
+      "108358963",
+      "108368248",
+      "108371407"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2446,7 +2450,6 @@
       "https://mittechreview.com.br/?p=275960"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365751",
       "https://olhardigital.com.br/?p=1365427",
       "https://olhardigital.com.br/?p=1365829",
       "https://olhardigital.com.br/?p=1365849",
@@ -2745,7 +2748,8 @@
       "https://olhardigital.com.br/?p=1378430",
       "https://olhardigital.com.br/?p=1378492",
       "https://olhardigital.com.br/?p=1378385",
-      "https://olhardigital.com.br/?p=1375046"
+      "https://olhardigital.com.br/?p=1375046",
+      "https://olhardigital.com.br/?p=1378165"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2894,7 +2898,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=938349"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/aplicacoes-praticas-chatgpt-work/",
       "https://canaltech.com.br/hardware/placas-de-video-nvidia-que-envelheceram-mal/",
       "https://canaltech.com.br/apps/como-se-livrar-de-anuncios-no-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-chatgpt/",
@@ -3193,10 +3196,10 @@
       "https://canaltech.com.br/apps/edits-do-instagram-ganha-ia-que-faz-raio-x-dos-seus-reels-e-ensina-a-reter-publico/",
       "https://canaltech.com.br/inteligencia-artificial/ia-caloteira-gemini-4-e-pego-recusando-reembolsos-e-mentindo-para-lucrar/",
       "https://canaltech.com.br/inteligencia-artificial/big-mac-mais-caro-mcdonalds-adota-ia-para-cobrar-preco-dinamico-dos-lanches/",
-      "https://canaltech.com.br/inteligencia-artificial/claude-code-ganha-suporte-a-mods-veja-como-personalizar-terminal-e-mais/"
+      "https://canaltech.com.br/inteligencia-artificial/claude-code-ganha-suporte-a-mods-veja-como-personalizar-terminal-e-mais/",
+      "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-personalizadas-no-chatgpt/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/03/nova-era-mundial-o-que-e-agi-que-openai-diz-ter-alcancado-em-novo-modelo-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/03/openai-promete-us1-bi-para-defesa-digital-em-meio-a-duvidas-sobreseguranca-da-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/04/critico-como-e-escala-que-openai-usa-para-classificar-perigo-dos-modelos.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/04/estudo-ve-perda-de-audiencia-na-wikipedia-apos-resumos-de-ia-do-google.ghtm",
@@ -3495,7 +3498,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/02/juiz-alerta-que-ia-pode-prejudicar-formacao-de-advogados-e-causar-danos-a-clientes.htm",
       "https://www.uol.com.br/flash/?c=6abfcd0aae32915c0f872dfc",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/02/empresa-de-supercomputadores-dobra-producao-para-impulsionar-ambicoes-da-europa-em-ia.htm",
-      "https://tilt.uol.com.br/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm"
+      "https://tilt.uol.com.br/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm",
+      "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3791,101 +3795,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "beats",
-      "center",
-      "data",
-      "earnings",
-      "fold",
-      "guidance",
-      "issues",
-      "jumps",
-      "micron",
-      "revenue",
-      "strong"
-    ],
-    [
-      "artificial",
-      "dados",
-      "disputa",
-      "inteligencia",
-      "pelos"
-    ],
-    [
-      "burros",
-      "deixando",
-      "entender",
-      "esta",
-      "precisa",
-      "voce"
-    ],
-    [
-      "frente",
-      "pagar",
-      "pedagio",
-      "psicologo",
-      "voce"
-    ],
-    [
-      "acordo",
-      "entre",
-      "gigantes",
-      "niveis",
-      "quatro",
-      "supervisao",
-      "tecnologia",
-      "tera"
-    ],
-    [
-      "avanco",
-      "ciberseguranca",
-      "google",
-      "modelo",
-      "programacao",
-      "promete"
-    ],
-    [
-      "franqueados",
-      "mcdonald",
-      "mudar",
-      "precos",
-      "pressionar"
-    ],
-    [
-      "ajuda",
-      "influenciadores",
-      "instagram",
-      "melhorarem",
-      "posts"
-    ],
-    [
-      "chatgpt",
-      "conheca",
-      "docs",
-      "google",
-      "quer",
-      "recurso",
-      "space",
-      "substituir"
-    ],
-    [
-      "chatgpt",
-      "estreia",
-      "futuro",
-      "promessa",
-      "recarga",
-      "vivo"
-    ],
-    [
-      "abertura",
-      "capital",
-      "entenda",
-      "freia",
-      "motivos",
-      "nome",
-      "openai",
-      "seguranca"
-    ],
     [
       "acordo",
       "fazem",
@@ -5620,6 +5529,99 @@
       "quando",
       "sera",
       "vida"
+    ],
+    [
+      "agents",
+      "live",
+      "messages",
+      "text",
+      "your"
+    ],
+    [
+      "alarm",
+      "employee",
+      "openai",
+      "quit",
+      "safety",
+      "sounding"
+    ],
+    [
+      "conversations",
+      "emails",
+      "kakul",
+      "killing",
+      "splice",
+      "srivastava",
+      "thinks"
+    ],
+    [
+      "adds",
+      "another",
+      "departure",
+      "leaving",
+      "openai",
+      "pattern",
+      "public",
+      "researchers",
+      "safety",
+      "warnings"
+    ],
+    [
+      "gadgets",
+      "hardware",
+      "into",
+      "muse",
+      "open",
+      "project",
+      "source",
+      "turns"
+    ],
+    [
+      "creates",
+      "detailed",
+      "family",
+      "friends",
+      "muse",
+      "profiles",
+      "your"
+    ],
+    [
+      "chatgpt",
+      "sites"
+    ],
+    [
+      "check",
+      "here",
+      "meta",
+      "muse",
+      "shop",
+      "works"
+    ],
+    [
+      "action",
+      "drove",
+      "jobs",
+      "last",
+      "micron",
+      "nvidia",
+      "report",
+      "stock",
+      "surprising",
+      "week"
+    ],
+    [
+      "dlss",
+      "explicando",
+      "jargao",
+      "tecnico",
+      "upscaling",
+      "xess"
+    ],
+    [
+      "adicionar",
+      "chatgpt",
+      "instrucoes",
+      "personalizadas"
     ]
   ]
 }
