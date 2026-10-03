@@ -378,7 +378,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3160347",
       "https://techcrunch.com/?p=3160336",
       "https://techcrunch.com/?p=3160393",
       "https://techcrunch.com/?p=3160480",
@@ -677,7 +676,8 @@
       "https://techcrunch.com/?post_type=tc_video&p=3173314",
       "https://techcrunch.com/?post_type=tc_podcast&p=3173316",
       "https://techcrunch.com/?p=3173313",
-      "https://techcrunch.com/?p=3173395"
+      "https://techcrunch.com/?p=3173395",
+      "https://techcrunch.com/?p=3173444"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1907,12 +1907,12 @@
       "https://news.ycombinator.com/item?id=49896604",
       "https://news.ycombinator.com/item?id=49913571",
       "https://news.ycombinator.com/item?id=49927760",
-      "https://news.ycombinator.com/item?id=49929489"
+      "https://news.ycombinator.com/item?id=49929489",
+      "https://news.ycombinator.com/item?id=49925974"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108348465",
       "108348717",
       "108348858",
       "108346172",
@@ -2211,7 +2211,8 @@
       "108371273",
       "108371713",
       "108372007",
-      "108372055"
+      "108372055",
+      "108358963"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3789,42 +3790,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "billions",
-      "calling",
-      "centers",
-      "data",
-      "dodges",
-      "experiments",
-      "meta",
-      "taxes"
-    ],
-    [
-      "agent",
-      "anthropic",
-      "drops",
-      "formats",
-      "gems",
-      "google",
-      "joining",
-      "openai",
-      "prompt",
-      "ready",
-      "shift",
-      "skills"
-    ],
-    [
-      "build",
-      "chips",
-      "designs",
-      "engineer",
-      "like",
-      "model",
-      "openai",
-      "seasoned",
-      "synopsys",
-      "team"
-    ],
     [
       "combat",
       "hinges",
@@ -5614,6 +5579,30 @@
       "muse",
       "proprio",
       "voce"
+    ],
+    [
+      "gadget",
+      "infused",
+      "meta",
+      "muse",
+      "next",
+      "wants",
+      "your"
+    ],
+    [
+      "flux",
+      "image"
+    ],
+    [
+      "america",
+      "center",
+      "come",
+      "data",
+      "fight",
+      "preview",
+      "rest",
+      "what",
+      "world"
     ]
   ]
 }
