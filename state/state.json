@@ -378,8 +378,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3160448",
-      "https://techcrunch.com/?p=3160633",
       "https://techcrunch.com/?p=3160771",
       "https://techcrunch.com/?p=3160707",
       "https://techcrunch.com/?p=3160690",
@@ -677,7 +675,9 @@
       "https://techcrunch.com/?p=3173132",
       "https://techcrunch.com/?p=3173499",
       "https://techcrunch.com/?p=3173505",
-      "https://techcrunch.com/?p=3173547"
+      "https://techcrunch.com/?p=3173547",
+      "https://techcrunch.com/?p=3173555",
+      "https://techcrunch.com/?p=3173559"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -1920,7 +1920,8 @@
       "https://news.ycombinator.com/item?id=49927747",
       "https://news.ycombinator.com/item?id=49929391",
       "https://news.ycombinator.com/item?id=49936575",
-      "https://news.ycombinator.com/item?id=49944227"
+      "https://news.ycombinator.com/item?id=49944227",
+      "https://news.ycombinator.com/item?id=49946228"
     ]
   },
   "mercado": {
@@ -2459,8 +2460,6 @@
       "https://mittechreview.com.br/?p=275973"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365878",
-      "https://olhardigital.com.br/?p=1365884",
       "https://olhardigital.com.br/?p=1361601",
       "https://olhardigital.com.br/?p=1365896",
       "https://olhardigital.com.br/?p=1365899",
@@ -2758,7 +2757,9 @@
       "https://olhardigital.com.br/?p=1377245",
       "https://olhardigital.com.br/?p=1378636",
       "https://olhardigital.com.br/?p=1377219",
-      "https://olhardigital.com.br/?p=1378717"
+      "https://olhardigital.com.br/?p=1378717",
+      "https://olhardigital.com.br/?p=1378731",
+      "https://olhardigital.com.br/?p=1378749"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2907,7 +2908,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=938349"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-spark/",
       "https://canaltech.com.br/inteligencia-artificial/como-assinar-claude-mais-barato/",
       "https://canaltech.com.br/carros/carros-mais-vendidos-ranking-da-china-indica-o-que-vem-ai-no-brasil/",
       "https://canaltech.com.br/inteligencia-artificial/anthropic-mostra-como-claude-insere-marca-dagua-invisivel-em-textos-feitos-por-ia/",
@@ -3206,7 +3206,8 @@
       "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-personalizadas-no-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/por-que-a-openai-desistiu-dos-gpts-personalizados/",
-      "https://canaltech.com.br/inteligencia-artificial/como-migrar-gpts-personalizados-para-plugins-no-chatgpt/"
+      "https://canaltech.com.br/inteligencia-artificial/como-migrar-gpts-personalizados-para-plugins-no-chatgpt/",
+      "https://canaltech.com.br/inteligencia-artificial/guia-completo-como-substituir-gems-por-skills-gemini/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/04/quem-ja-pode-usar-o-astra-ia-do-chatgpt-chamada-de-nova-era-mundial.htm",
@@ -3804,83 +3805,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "beats",
-      "board",
-      "ending",
-      "games",
-      "greatest",
-      "human",
-      "last",
-      "player",
-      "stratego",
-      "strongholds"
-    ],
-    [
-      "agents",
-      "company",
-      "finds",
-      "internal",
-      "more",
-      "publicly",
-      "screenshots",
-      "security",
-      "startup",
-      "than",
-      "uploaded"
-    ],
-    [
-      "based",
-      "centers",
-      "chips",
-      "data",
-      "google",
-      "into",
-      "launch",
-      "orbit",
-      "push",
-      "space",
-      "spacex",
-      "toward"
-    ],
-    [
-      "already",
-      "billing",
-      "healthcare",
-      "inside",
-      "operating",
-      "patients",
-      "paying",
-      "price",
-      "system"
-    ],
-    [
-      "gemini",
-      "google",
-      "launches",
-      "micron",
-      "month",
-      "more",
-      "morning",
-      "revenue",
-      "rough",
-      "squawk",
-      "surge"
-    ],
-    [
-      "120m",
-      "exclusive",
-      "help",
-      "homeowners",
-      "homeward",
-      "housing",
-      "market",
-      "more",
-      "quickly",
-      "raises",
-      "sell",
-      "stalls"
-    ],
     [
       "climate",
       "conversas",
@@ -5634,6 +5558,69 @@
       "interesse",
       "lugar",
       "trump"
+    ],
+    [
+      "binding",
+      "image",
+      "intelligence",
+      "pact",
+      "problem",
+      "safety",
+      "solve",
+      "super"
+    ],
+    [
+      "bounty",
+      "froze",
+      "google",
+      "open",
+      "program",
+      "rise",
+      "significant",
+      "source",
+      "submissions"
+    ],
+    [
+      "about",
+      "concerns",
+      "humanity",
+      "incidents",
+      "lecun",
+      "recent",
+      "rogue",
+      "wiping",
+      "zero"
+    ],
+    [
+      "acesso",
+      "gemini",
+      "google",
+      "gratuitos",
+      "limitar",
+      "modelos",
+      "plus",
+      "usuarios"
+    ],
+    [
+      "anthropic",
+      "apostando",
+      "audiencia",
+      "depor",
+      "gigantes",
+      "nossas",
+      "reune",
+      "vidas"
+    ],
+    [
+      "completo",
+      "gemini",
+      "gems",
+      "guia",
+      "novas",
+      "pelas",
+      "seus",
+      "skills",
+      "substituir"
     ]
   ]
 }
