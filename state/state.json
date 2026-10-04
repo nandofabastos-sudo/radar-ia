@@ -378,7 +378,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3160462",
       "https://techcrunch.com/?p=3160448",
       "https://techcrunch.com/?p=3160633",
       "https://techcrunch.com/?p=3160771",
@@ -677,7 +676,8 @@
       "https://techcrunch.com/?p=3173444",
       "https://techcrunch.com/?p=3173132",
       "https://techcrunch.com/?p=3173499",
-      "https://techcrunch.com/?p=3173505"
+      "https://techcrunch.com/?p=3173505",
+      "https://techcrunch.com/?p=3173547"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -947,10 +947,11 @@
       "https://www.theverge.com/?p=1004330",
       "https://www.theverge.com/?p=1004408",
       "https://www.theverge.com/?p=1004162",
-      "https://www.theverge.com/?p=1004418"
+      "https://www.theverge.com/?p=1004418",
+      "https://www.theverge.com/?p=1004543",
+      "https://www.theverge.com/?p=1004549"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39401",
       "https://the-decoder.com/?p=39407",
       "https://the-decoder.com/?p=39405",
       "https://the-decoder.com/?p=39412",
@@ -1249,7 +1250,8 @@
       "https://the-decoder.com/?p=41059",
       "https://the-decoder.com/?p=40782",
       "https://the-decoder.com/?p=41067",
-      "https://the-decoder.com/?p=41078"
+      "https://the-decoder.com/?p=41078",
+      "https://the-decoder.com/?p=41088"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2457,7 +2459,6 @@
       "https://mittechreview.com.br/?p=275973"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1365861",
       "https://olhardigital.com.br/?p=1365878",
       "https://olhardigital.com.br/?p=1365884",
       "https://olhardigital.com.br/?p=1361601",
@@ -2756,7 +2757,8 @@
       "https://olhardigital.com.br/?p=1378165",
       "https://olhardigital.com.br/?p=1377245",
       "https://olhardigital.com.br/?p=1378636",
-      "https://olhardigital.com.br/?p=1377219"
+      "https://olhardigital.com.br/?p=1377219",
+      "https://olhardigital.com.br/?p=1378717"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2905,7 +2907,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=938349"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-spark/",
       "https://canaltech.com.br/inteligencia-artificial/como-assinar-claude-mais-barato/",
       "https://canaltech.com.br/carros/carros-mais-vendidos-ranking-da-china-indica-o-que-vem-ai-no-brasil/",
@@ -3204,11 +3205,10 @@
       "https://canaltech.com.br/inteligencia-artificial/claude-code-ganha-suporte-a-mods-veja-como-personalizar-terminal-e-mais/",
       "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-personalizadas-no-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-chatgpt/",
-      "https://canaltech.com.br/inteligencia-artificial/por-que-a-openai-desistiu-dos-gpts-personalizados/"
+      "https://canaltech.com.br/inteligencia-artificial/por-que-a-openai-desistiu-dos-gpts-personalizados/",
+      "https://canaltech.com.br/inteligencia-artificial/como-migrar-gpts-personalizados-para-plugins-no-chatgpt/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/04/estudo-ve-perda-de-audiencia-na-wikipedia-apos-resumos-de-ia-do-google.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/bytedance-obtem-emprestimo-de-us296-bi-sem-garantia-para-impulsionar-ia-dizem-fontes.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/04/quem-ja-pode-usar-o-astra-ia-do-chatgpt-chamada-de-nova-era-mundial.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/04/ia-daopenai-invadiu-site-alemao.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/04/ia-rebelde-da-openai-faz-novo-ataque-e-usa-site-para-confabular-longe-de-humanos.htm",
@@ -3506,7 +3506,9 @@
       "https://tilt.uol.com.br/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm",
       "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/10/03/um-tamagotchi-agentes-de-ia-e-a-rede-invisivel.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/03/pesquisa-aponta-que-gemini-reforca-duvida-sobre-eleicoes-em-25-das-conversas.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/03/lider-de-seguranca-deixa-openai-e-diz-que-cultura-e-quebrada.htm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/03/lider-de-seguranca-deixa-openai-e-diz-que-cultura-e-quebrada.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/04/trump-nomeia-jay-clayton-chefe-de-inteligencia-como-czar-da-ia-para-liderar-forca-tarefa.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/04/trump-anuncia-forca-federal-de-ia-para-por-interesse-dos-eua-em-1-lugar.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3802,67 +3804,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "eleicoes",
-      "perguntar",
-      "posso",
-      "votar"
-    ],
-    [
-      "anthropic"
-    ],
-    [
-      "durable",
-      "factories",
-      "fungible",
-      "investment",
-      "maximize",
-      "nvidia",
-      "productive",
-      "return"
-    ],
-    [
-      "former",
-      "founded",
-      "google",
-      "manager",
-      "product",
-      "raises",
-      "satellites",
-      "satlyt",
-      "spacex"
-    ],
-    [
-      "glasses",
-      "hearing",
-      "launches",
-      "legato",
-      "startup",
-      "tech"
-    ],
-    [
-      "agents",
-      "apps",
-      "funeral",
-      "held",
-      "help",
-      "mobile",
-      "photon",
-      "replace",
-      "them"
-    ],
-    [
-      "azure",
-      "campaign",
-      "models",
-      "openai",
-      "reasoning",
-      "steal",
-      "still",
-      "stopped",
-      "trick",
-      "worked"
-    ],
     [
       "beats",
       "board",
@@ -5635,6 +5576,64 @@
       "gpts",
       "openai",
       "personalizados"
+    ],
+    [
+      "force",
+      "intelligence",
+      "super",
+      "trump",
+      "unveils"
+    ],
+    [
+      "beat",
+      "cheat",
+      "couldn",
+      "decided",
+      "humans",
+      "starcraft"
+    ],
+    [
+      "commit",
+      "didn",
+      "governor",
+      "harassment",
+      "lieutenant",
+      "sexual",
+      "told"
+    ],
+    [
+      "anuncia",
+      "avanco",
+      "coordenar",
+      "forca",
+      "superinteligencia",
+      "trump"
+    ],
+    [
+      "chatgpt",
+      "gpts",
+      "migrar",
+      "personalizados",
+      "plugins"
+    ],
+    [
+      "chefe",
+      "clayton",
+      "czar",
+      "forca",
+      "inteligencia",
+      "liderar",
+      "nomeia",
+      "tarefa",
+      "trump"
+    ],
+    [
+      "anuncia",
+      "federal",
+      "forca",
+      "interesse",
+      "lugar",
+      "trump"
     ]
   ]
 }
