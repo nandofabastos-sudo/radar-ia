@@ -950,7 +950,6 @@
       "https://www.theverge.com/?p=1004418"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39375",
       "https://the-decoder.com/?p=39381",
       "https://the-decoder.com/?p=39384",
       "https://the-decoder.com/?p=39392",
@@ -1249,7 +1248,8 @@
       "https://the-decoder.com/?p=41035",
       "https://the-decoder.com/?p=41041",
       "https://the-decoder.com/?p=41046",
-      "https://the-decoder.com/?p=41053"
+      "https://the-decoder.com/?p=41053",
+      "https://the-decoder.com/?p=41059"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -3800,16 +3800,6 @@
   },
   "_titulos_recentes": [
     [
-      "entenda",
-      "espionando",
-      "esta",
-      "mensagens",
-      "meta",
-      "nega",
-      "polemica",
-      "usuarios"
-    ],
-    [
       "candidato",
       "deepfakes",
       "saber",
@@ -5617,6 +5607,18 @@
       "openai",
       "quebrada",
       "seguranca"
+    ],
+    [
+      "free",
+      "gemini",
+      "google",
+      "lock",
+      "model",
+      "month",
+      "subscribers",
+      "tiers",
+      "users",
+      "weakest"
     ]
   ]
 }
