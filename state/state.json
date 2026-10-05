@@ -2460,7 +2460,6 @@
       "https://mittechreview.com.br/?p=275973"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1361601",
       "https://olhardigital.com.br/?p=1365896",
       "https://olhardigital.com.br/?p=1365899",
       "https://olhardigital.com.br/?p=1365903",
@@ -2759,7 +2758,8 @@
       "https://olhardigital.com.br/?p=1377219",
       "https://olhardigital.com.br/?p=1378717",
       "https://olhardigital.com.br/?p=1378731",
-      "https://olhardigital.com.br/?p=1378749"
+      "https://olhardigital.com.br/?p=1378749",
+      "https://olhardigital.com.br/?p=1378755"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3805,12 +3805,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "climate",
-      "conversas",
-      "domina",
-      "week"
-    ],
     [
       "barra",
       "entenda",
@@ -5621,6 +5615,18 @@
       "seus",
       "skills",
       "substituir"
+    ],
+    [
+      "cerebro",
+      "consegue",
+      "dizer",
+      "entendeu",
+      "errado",
+      "pelo",
+      "quando",
+      "quis",
+      "saber",
+      "voce"
     ]
   ]
 }
