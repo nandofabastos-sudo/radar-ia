@@ -962,7 +962,8 @@
       "https://www.theverge.com/?p=1004880",
       "https://www.theverge.com/?p=1004929",
       "https://www.theverge.com/?post_type=vm_stream&p=1004933",
-      "https://www.theverge.com/?p=1005075"
+      "https://www.theverge.com/?p=1005075",
+      "https://www.theverge.com/?p=1005177"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39440",
@@ -1408,7 +1409,8 @@
       "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
       "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/"
+      "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1942,12 +1944,12 @@
       "https://news.ycombinator.com/item?id=49944227",
       "https://news.ycombinator.com/item?id=49946228",
       "https://news.ycombinator.com/item?id=49957068",
-      "https://news.ycombinator.com/item?id=49961057"
+      "https://news.ycombinator.com/item?id=49961057",
+      "https://news.ycombinator.com/item?id=49969183"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108349014",
       "108349445",
       "108349502",
       "108349929",
@@ -2246,7 +2248,8 @@
       "108367628",
       "108372285",
       "108372601",
-      "108367295"
+      "108367295",
+      "108372795"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2488,8 +2491,6 @@
       "https://mittechreview.com.br/?p=277350"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1366023",
-      "https://olhardigital.com.br/?p=1366065",
       "https://olhardigital.com.br/?p=1365759",
       "https://olhardigital.com.br/?p=1366103",
       "https://olhardigital.com.br/?p=1366106",
@@ -2787,7 +2788,9 @@
       "https://olhardigital.com.br/?p=1378889",
       "https://olhardigital.com.br/?p=1379012",
       "https://olhardigital.com.br/?p=1378998",
-      "https://olhardigital.com.br/?p=1379046"
+      "https://olhardigital.com.br/?p=1379046",
+      "https://olhardigital.com.br/?p=1379053",
+      "https://olhardigital.com.br/?p=1379077"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2941,8 +2944,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=938638"
     ],
     "canaltech": [
-      "https://canaltech.com.br/mercado/agentes-de-ia-vao-substituir-profissionais-ou-apenas-transformar-suas-tarefas/",
-      "https://canaltech.com.br/software/photoshop-ganha-area-dedicada-a-ia-para-simplificar-edicao-de-imagens/",
       "https://canaltech.com.br/inteligencia-artificial/amazon-cria-divisao-secreta-que-compra-e-destroi-livros-raros-para-treinar-ia/",
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-exclusivo-para-jovens-tem-travas-de-seguranca-e-modo-estudo/",
       "https://canaltech.com.br/mercado/nubank-abre-50-vagas-de-estagio-com-foco-em-inteligencia-artificial/",
@@ -3240,7 +3241,9 @@
       "https://canaltech.com.br/inteligencia-artificial/cientistas-criam-ia-capaz-de-entender-quando-deu-resposta-errada/",
       "https://canaltech.com.br/inteligencia-artificial/pesquisadores-descobrem-frota-de-agentes-de-ia-misteriosa-mapeando-a-internet/",
       "https://canaltech.com.br/inteligencia-artificial/imagens-de-abuso-infantil-criadas-por-ia-explodem-e-faz-autoridades-alertarem-familias/",
-      "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-botao-de-mapa-para-voce-circular-onde-quer-pesquisar-veja-como-funciona/"
+      "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-botao-de-mapa-para-voce-circular-onde-quer-pesquisar-veja-como-funciona/",
+      "https://canaltech.com.br/inteligencia-artificial/chatgpt-vai-ganhar-carteira-digital-para-fazer-compras-por-voce/",
+      "https://canaltech.com.br/inteligencia-artificial/chatgpt-copia-o-claude-e-tambem-comeca-a-carimbar-textos-feitos-por-sua-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/flash/?c=6a9b18fa94e24318b2913e5b",
@@ -3837,115 +3840,14 @@
       "https://www.mobiletime.com.br/?p=865373",
       "https://www.mobiletime.com.br/?p=865385",
       "https://www.mobiletime.com.br/?p=865449",
-      "https://www.mobiletime.com.br/?p=865523"
+      "https://www.mobiletime.com.br/?p=865523",
+      "https://www.mobiletime.com.br/?p=865657",
+      "https://www.mobiletime.com.br/?p=865729",
+      "https://www.mobiletime.com.br/?p=865727",
+      "https://www.mobiletime.com.br/?p=865724"
     ]
   },
   "_titulos_recentes": [
-    [
-      "64gb",
-      "build",
-      "developers",
-      "gives",
-      "local",
-      "more",
-      "nvidia",
-      "scale",
-      "spark",
-      "ways"
-    ],
-    [
-      "2026",
-      "disrupt",
-      "exhibit",
-      "hours",
-      "last",
-      "leaders",
-      "reach",
-      "tech",
-      "techcrunch"
-    ],
-    [
-      "2026",
-      "amin",
-      "clay",
-      "disrupt",
-      "engineer",
-      "kareem",
-      "rise",
-      "techcrunch"
-    ],
-    [
-      "2026",
-      "blackstone",
-      "building",
-      "disrupt",
-      "generation",
-      "giants",
-      "khaira",
-      "next",
-      "techcrunch"
-    ],
-    [
-      "generated",
-      "pope"
-    ],
-    [
-      "amazon",
-      "block",
-      "blog",
-      "centers",
-      "communities",
-      "data",
-      "scary",
-      "warning",
-      "writes"
-    ],
-    [
-      "anyone",
-      "camouflaged",
-      "center",
-      "data",
-      "hate",
-      "will",
-      "woods"
-    ],
-    [
-      "customers",
-      "entitled",
-      "even",
-      "hallucinations",
-      "making",
-      "worse"
-    ],
-    [
-      "accountants",
-      "accuracy",
-      "beats",
-      "books",
-      "close",
-      "licensed",
-      "speed",
-      "still",
-      "supervision",
-      "without"
-    ],
-    [
-      "departure",
-      "firings",
-      "fourth",
-      "openai",
-      "safety",
-      "shake",
-      "team",
-      "three"
-    ],
-    [
-      "expensive",
-      "more",
-      "nvidia",
-      "shield",
-      "year"
-    ],
     [
       "autonomous",
       "enterprise",
@@ -5706,6 +5608,104 @@
       "fisico",
       "mundo",
       "usabilidade"
+    ],
+    [
+      "8217",
+      "call",
+      "gemini",
+      "late",
+      "might",
+      "running",
+      "tell",
+      "your"
+    ],
+    [
+      "agent",
+      "comms",
+      "heard",
+      "never",
+      "protocol",
+      "riskiest"
+    ],
+    [
+      "cramer",
+      "despite",
+      "explains",
+      "hitting",
+      "records",
+      "stocks",
+      "surging",
+      "yields"
+    ],
+    [
+      "ainda",
+      "controlar",
+      "empresas",
+      "modelos",
+      "openai",
+      "sabem",
+      "seus"
+    ],
+    [
+      "acoes",
+      "acusa",
+      "agentes",
+      "autorizadas",
+      "openai",
+      "wikimedia"
+    ],
+    [
+      "carteira",
+      "chatgpt",
+      "compras",
+      "digital",
+      "fazer",
+      "ganhar",
+      "voce"
+    ],
+    [
+      "carimbar",
+      "chatgpt",
+      "claude",
+      "comeca",
+      "copia",
+      "feitos",
+      "tambem",
+      "textos"
+    ],
+    [
+      "aimoga",
+      "brasil",
+      "chega",
+      "chery",
+      "divisao",
+      "international",
+      "robotica"
+    ],
+    [
+      "anlix",
+      "autonomo",
+      "avanca",
+      "monitoramento",
+      "preventivo",
+      "redes"
+    ],
+    [
+      "chatgpt",
+      "criacao",
+      "durante",
+      "imagens",
+      "insere",
+      "openai",
+      "publicidade"
+    ],
+    [
+      "adaptar",
+      "agua",
+      "aplica",
+      "marca",
+      "openai",
+      "regras"
     ]
   ]
 }
