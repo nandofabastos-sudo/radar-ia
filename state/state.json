@@ -966,7 +966,6 @@
       "https://www.theverge.com/?p=1005177"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39440",
       "https://the-decoder.com/?p=39444",
       "https://the-decoder.com/?p=39448",
       "https://the-decoder.com/?p=39451",
@@ -1265,7 +1264,8 @@
       "https://the-decoder.com/?p=41111",
       "https://the-decoder.com/?p=41114",
       "https://the-decoder.com/?p=41121",
-      "https://the-decoder.com/?p=41126"
+      "https://the-decoder.com/?p=41126",
+      "https://the-decoder.com/?p=41129"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1945,7 +1945,9 @@
       "https://news.ycombinator.com/item?id=49946228",
       "https://news.ycombinator.com/item?id=49957068",
       "https://news.ycombinator.com/item?id=49961057",
-      "https://news.ycombinator.com/item?id=49969183"
+      "https://news.ycombinator.com/item?id=49969183",
+      "https://news.ycombinator.com/item?id=49970667",
+      "https://news.ycombinator.com/item?id=49971846"
     ]
   },
   "mercado": {
@@ -2488,7 +2490,8 @@
       "https://mittechreview.com.br/?p=275960",
       "https://mittechreview.com.br/?p=275973",
       "https://mittechreview.com.br/?p=275979",
-      "https://mittechreview.com.br/?p=277350"
+      "https://mittechreview.com.br/?p=277350",
+      "https://mittechreview.com.br/?p=277529"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1365759",
@@ -3848,38 +3851,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "autonomous",
-      "enterprise",
-      "intelligence",
-      "redefining"
-    ],
-    [
-      "crazy",
-      "execs",
-      "loyalty",
-      "rebrand",
-      "tech",
-      "test",
-      "trump",
-      "worked"
-    ],
-    [
-      "experts",
-      "high",
-      "open",
-      "research",
-      "stakes",
-      "these",
-      "want"
-    ],
-    [
-      "capable",
-      "frog",
-      "increasingly",
-      "machines",
-      "toad"
-    ],
     [
       "deepseek",
       "desktop",
@@ -5706,6 +5677,41 @@
       "marca",
       "openai",
       "regras"
+    ],
+    [
+      "cohere",
+      "control",
+      "enterprise",
+      "model",
+      "north",
+      "pitches",
+      "room",
+      "works"
+    ],
+    [
+      "agents",
+      "candidates",
+      "discover",
+      "magnetic",
+      "opus",
+      "room",
+      "semiconductor",
+      "temperature"
+    ],
+    [
+      "adding",
+      "cartoonists",
+      "cartoons",
+      "chatgpt",
+      "fake",
+      "real",
+      "signatures",
+      "yorker"
+    ],
+    [
+      "ciberseguranca",
+      "dominar",
+      "isso"
     ]
   ]
 }
