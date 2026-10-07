@@ -140,7 +140,9 @@
       "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "https://openai.com/index/eu-text-provenance",
       "https://openai.com/index/atlassian-partnership",
-      "https://openai.com/index/advancing-computer-use-with-ironclad"
+      "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "https://openai.com/index/jump-trading"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -387,7 +389,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3161463",
       "https://techcrunch.com/?p=3161803",
       "https://techcrunch.com/?p=3161663",
       "https://techcrunch.com/?p=3161376",
@@ -686,7 +687,8 @@
       "https://techcrunch.com/?p=3174492",
       "https://techcrunch.com/?p=3174440",
       "https://techcrunch.com/?p=3174674",
-      "https://techcrunch.com/?p=3174464"
+      "https://techcrunch.com/?p=3174464",
+      "https://techcrunch.com/?p=3174722"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=973741",
@@ -972,7 +974,8 @@
       "https://www.theverge.com/?p=1005177",
       "https://www.theverge.com/?p=1005342",
       "https://www.theverge.com/?p=1005451",
-      "https://www.theverge.com/?p=1005697"
+      "https://www.theverge.com/?p=1005697",
+      "https://www.theverge.com/?p=1005004"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39474",
@@ -1783,7 +1786,8 @@
       "6ab317e4eff74000018d520b",
       "6ab5b2de903dc10001d4d74f",
       "6abafcee7e5d8e000143a00f",
-      "6abc47e00607f000019c6329"
+      "6abc47e00607f000019c6329",
+      "6ac5639436eaa80001466ae6"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -1964,13 +1968,12 @@
       "https://news.ycombinator.com/item?id=49970667",
       "https://news.ycombinator.com/item?id=49971846",
       "https://news.ycombinator.com/item?id=49977979",
-      "https://news.ycombinator.com/item?id=49978116"
+      "https://news.ycombinator.com/item?id=49978116",
+      "https://news.ycombinator.com/item?id=49984923"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108350192",
-      "108350294",
       "108350286",
       "108350493",
       "108350607",
@@ -2268,7 +2271,9 @@
       "108373047",
       "108373048",
       "108373281",
-      "108373464"
+      "108373464",
+      "108373573",
+      "108373222"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2519,7 +2524,6 @@
       "https://mittechreview.com.br/?p=278000"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1366106",
       "https://olhardigital.com.br/?p=1366194",
       "https://olhardigital.com.br/?p=1366215",
       "https://olhardigital.com.br/?p=1366243",
@@ -2818,7 +2822,8 @@
       "https://olhardigital.com.br/?p=1379053",
       "https://olhardigital.com.br/?p=1379077",
       "https://olhardigital.com.br/?p=1379233",
-      "https://olhardigital.com.br/?p=1379335"
+      "https://olhardigital.com.br/?p=1379335",
+      "https://olhardigital.com.br/?p=1379412"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -2973,8 +2978,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=938712"
     ],
     "canaltech": [
-      "https://canaltech.com.br/mercado/openai-avalia-construcao-de-data-centers-no-brasil-apos-inicio-da-operacao-local/",
-      "https://canaltech.com.br/mercado/openai-esta-aberta-a-discutir-construcao-de-data-centers-no-brasil/",
       "https://canaltech.com.br/inteligencia-artificial/por-que-as-ias-continuam-conduzindo-ataques-hackers/",
       "https://canaltech.com.br/mercado/nova-ia-do-quintoandar-recomenda-imoveis-e-marca-visitas-pelo-whatsapp/",
       "https://canaltech.com.br/inteligencia-artificial/google-ai-pro-gemini-de-graca-por-1-ano-brasil/",
@@ -3272,11 +3275,11 @@
       "https://canaltech.com.br/inteligencia-artificial/ia-liga-para-sua-mae-google-testa-gemini-para-dar-recados-a-amigos-e-parentes/",
       "https://canaltech.com.br/entretenimento/filme-sobre-criador-do-chatgpt-e-aclamado-apos-amazon-largar-projeto-por-us-50-bi/",
       "https://canaltech.com.br/inteligencia-artificial/agentes-de-ia-da-openai-invadem-wikipedia-e-causam-apagao/",
-      "https://canaltech.com.br/inteligencia-artificial/ias-estao-roubando-shows-de-stand-up-completos-para-vender-onlyfans/"
+      "https://canaltech.com.br/inteligencia-artificial/ias-estao-roubando-shows-de-stand-up-completos-para-vender-onlyfans/",
+      "https://canaltech.com.br/games/sega-barra-inteligencia-artificial-e-promete-jogos-feitos-por-humanos/",
+      "https://canaltech.com.br/internet-e-redes-sociais/concorrente-do-office-e-do-google-libreoffice-diz-que-nao-ter-ia-e-vantagem/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/08/ternus-enfrenta-teste-de-ia-da-apple-enquanto-iphone-dobravel-ganha-destaque.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/08/ue-investiga-agentes-da-openai-que-burlaram-site-alemao.ghtm",
       "https://economia.uol.com.br/noticias/reuters/2026/09/08/qualcomm-e-amazon-fecham-acordo-de-us4-bi-para-chips-personalizados.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/08/startup-na-india-usa-ia-e-caes-para-tentar-detectar-cancer-pelo-halito.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/08/lideres-do-cinema-se-unem-na-franca-contra-ameaca-da-inteligencia-artificial.htm",
@@ -3574,7 +3577,9 @@
       "https://economia.uol.com.br/noticias/redacao/2026/10/06/programadores-relatam-exaustao-com-avanco-da-ia-no-trabalho.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/citigroup-aposta-no-muse-da-meta-como-porta-de-entrada-da-ia-para-a-internet.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/consumo-de-energia-nos-eua-deve-bater-recordes-em-2026-e-2027-por-fatores-que-incluem-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/lideres-de-setor-de-seguros-estao-divididos-sobre-responsabilidade-por-riscos-da-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/lideres-de-setor-de-seguros-estao-divididos-sobre-responsabilidade-por-riscos-da-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/anthropic-disponibiliza-seus-modelos-de-ia-mais-poderosos-para-mais-equipes-de-seguranca.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/samsung-deve-ver-lucro-do-3-tri-subir-nove-vezes-puxado-por-ia-segundo-analistas.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3879,111 +3884,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "creates",
-      "detailed",
-      "family",
-      "friends",
-      "muse",
-      "profiles",
-      "your"
-    ],
-    [
-      "chatgpt",
-      "sites"
-    ],
-    [
-      "check",
-      "here",
-      "meta",
-      "muse",
-      "shop",
-      "works"
-    ],
-    [
-      "action",
-      "drove",
-      "jobs",
-      "last",
-      "micron",
-      "nvidia",
-      "report",
-      "stock",
-      "surprising",
-      "week"
-    ],
-    [
-      "dlss",
-      "explicando",
-      "jargao",
-      "tecnico",
-      "upscaling",
-      "xess"
-    ],
-    [
-      "adicionar",
-      "chatgpt",
-      "instrucoes",
-      "personalizadas"
-    ],
-    [
-      "broken",
-      "claiming",
-      "company",
-      "culture",
-      "employee",
-      "openai",
-      "resigns",
-      "safety"
-    ],
-    [
-      "amazon",
-      "backlash",
-      "center",
-      "data",
-      "longer",
-      "ndas",
-      "responds",
-      "uses"
-    ],
-    [
-      "capcom",
-      "create",
-      "future",
-      "games",
-      "preparing",
-      "together",
-      "where"
-    ],
-    [
-      "anymore",
-      "apparently",
-      "build",
-      "intelligence",
-      "magic",
-      "openai",
-      "trying"
-    ],
-    [
-      "hike",
-      "just",
-      "nvidia",
-      "price",
-      "shield",
-      "years"
-    ],
-    [
-      "greg",
-      "hartman",
-      "kroah",
-      "security",
-      "video"
-    ],
-    [
-      "creator",
-      "locally",
-      "redis"
-    ],
     [
       "candidatos",
       "centers",
@@ -5721,6 +5621,119 @@
       "riscos",
       "seguros",
       "setor"
+    ],
+    [
+      "mathematics",
+      "progress",
+      "sharing"
+    ],
+    [
+      "chatgpt",
+      "jump",
+      "quant",
+      "research",
+      "scaling",
+      "trading"
+    ],
+    [
+      "after",
+      "engineers",
+      "first",
+      "melius",
+      "platform",
+      "product",
+      "raise",
+      "ramp",
+      "scrapping",
+      "their"
+    ],
+    [
+      "another",
+      "batch",
+      "breakthroughs",
+      "drops",
+      "mathematical",
+      "openai"
+    ],
+    [
+      "does",
+      "hard",
+      "intelligence",
+      "need"
+    ],
+    [
+      "mathematics",
+      "progress",
+      "sharing"
+    ],
+    [
+      "among",
+      "best",
+      "blue",
+      "boom",
+      "chip",
+      "cramer",
+      "invest",
+      "stocks",
+      "these",
+      "ways"
+    ],
+    [
+      "arthur",
+      "being",
+      "betting",
+      "boom",
+      "comes",
+      "hayes",
+      "next",
+      "trillions",
+      "wasted",
+      "what"
+    ],
+    [
+      "bilhoes",
+      "chips",
+      "comprar",
+      "levantar",
+      "nvidia",
+      "quer",
+      "spacex"
+    ],
+    [
+      "artificial",
+      "barra",
+      "feitos",
+      "humanos",
+      "inteligencia",
+      "jogos",
+      "promete",
+      "sega"
+    ],
+    [
+      "concorrente",
+      "google",
+      "libreoffice",
+      "office",
+      "vantagem"
+    ],
+    [
+      "anthropic",
+      "disponibiliza",
+      "equipes",
+      "modelos",
+      "poderosos",
+      "seguranca"
+    ],
+    [
+      "analistas",
+      "deve",
+      "lucro",
+      "nove",
+      "puxado",
+      "samsung",
+      "segundo",
+      "subir",
+      "vezes"
     ]
   ]
 }
