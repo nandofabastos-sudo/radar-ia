@@ -1974,7 +1974,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108350286",
       "108350493",
       "108350607",
       "108350537",
@@ -2273,7 +2272,8 @@
       "108373281",
       "108373464",
       "108373573",
-      "108373222"
+      "108373222",
+      "108373728"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2524,8 +2524,6 @@
       "https://mittechreview.com.br/?p=278000"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1366194",
-      "https://olhardigital.com.br/?p=1366215",
       "https://olhardigital.com.br/?p=1366243",
       "https://olhardigital.com.br/?p=1366365",
       "https://olhardigital.com.br/?p=1366367",
@@ -2823,7 +2821,9 @@
       "https://olhardigital.com.br/?p=1379077",
       "https://olhardigital.com.br/?p=1379233",
       "https://olhardigital.com.br/?p=1379335",
-      "https://olhardigital.com.br/?p=1379412"
+      "https://olhardigital.com.br/?p=1379412",
+      "https://olhardigital.com.br/?p=1379364",
+      "https://olhardigital.com.br/?p=1379435"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3280,7 +3280,6 @@
       "https://canaltech.com.br/internet-e-redes-sociais/concorrente-do-office-e-do-google-libreoffice-diz-que-nao-ter-ia-e-vantagem/"
     ],
     "tilt_uol": [
-      "https://economia.uol.com.br/noticias/reuters/2026/09/08/qualcomm-e-amazon-fecham-acordo-de-us4-bi-para-chips-personalizados.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/08/startup-na-india-usa-ia-e-caes-para-tentar-detectar-cancer-pelo-halito.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/08/lideres-do-cinema-se-unem-na-franca-contra-ameaca-da-inteligencia-artificial.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/08/por-que-a-coreia-do-sul-vai-dar-ia-de-graca-e-ilimitada-para-a-populacao.ghtm",
@@ -3579,7 +3578,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/consumo-de-energia-nos-eua-deve-bater-recordes-em-2026-e-2027-por-fatores-que-incluem-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/lideres-de-setor-de-seguros-estao-divididos-sobre-responsabilidade-por-riscos-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/anthropic-disponibiliza-seus-modelos-de-ia-mais-poderosos-para-mais-equipes-de-seguranca.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/samsung-deve-ver-lucro-do-3-tri-subir-nove-vezes-puxado-por-ia-segundo-analistas.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/samsung-deve-ver-lucro-do-3-tri-subir-nove-vezes-puxado-por-ia-segundo-analistas.htm",
+      "https://tilt.uol.com.br/colunas/iagora/2026/10/06/ia-tem-consciencia-anthropic-quis-convencer-vaticano-e-ouviu-sonoro-nao.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3884,29 +3884,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "candidatos",
-      "centers",
-      "data",
-      "digital",
-      "planos",
-      "presidencia",
-      "soberania"
-    ],
-    [
-      "chatgpt",
-      "funciona",
-      "memoria"
-    ],
-    [
-      "aponta",
-      "deslegitimacao",
-      "eleitoral",
-      "estudo",
-      "gemini",
-      "lidera",
-      "ocorrencias"
-    ],
     [
       "deveriam",
       "empresas",
@@ -5734,6 +5711,34 @@
       "segundo",
       "subir",
       "vezes"
+    ],
+    [
+      "according",
+      "both",
+      "chief",
+      "georgieva",
+      "hazard",
+      "hope",
+      "leaders",
+      "world"
+    ],
+    [
+      "detector",
+      "fala",
+      "fantasmas",
+      "fisica",
+      "nobel",
+      "particulas"
+    ],
+    [
+      "antes",
+      "anthropic",
+      "cacam",
+      "equipes",
+      "falhas",
+      "hackers",
+      "libera",
+      "poderosa"
     ]
   ]
 }
