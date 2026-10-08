@@ -256,7 +256,8 @@
       "https://about.fb.com/?p=50206",
       "https://about.fb.com/?p=50267",
       "https://about.fb.com/?p=50542",
-      "https://about.fb.com/?p=50566"
+      "https://about.fb.com/?p=50566",
+      "https://about.fb.com/?p=50558"
     ],
     "nvidia_blog": [
       "https://blogs.nvidia.com/?p=96644",
@@ -2003,7 +2004,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108351355",
       "108351544",
       "108351787",
       "108351780",
@@ -2302,7 +2302,8 @@
       "108373462",
       "108374395",
       "108374300",
-      "108373008"
+      "108373008",
+      "108373705"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2563,10 +2564,6 @@
       "https://mittechreview.com.br/?p=278034"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1366425",
-      "https://olhardigital.com.br/?p=1366450",
-      "https://olhardigital.com.br/?p=1366426",
-      "https://olhardigital.com.br/?p=1366445",
       "https://olhardigital.com.br/?p=1366634",
       "https://olhardigital.com.br/?p=1366591",
       "https://olhardigital.com.br/?p=1366590",
@@ -2862,7 +2859,11 @@
       "https://olhardigital.com.br/?p=1379435",
       "https://olhardigital.com.br/?p=1379675",
       "https://olhardigital.com.br/?p=1379698",
-      "https://olhardigital.com.br/?p=1379734"
+      "https://olhardigital.com.br/?p=1379734",
+      "https://olhardigital.com.br/?p=1379779",
+      "https://olhardigital.com.br/?p=1379787",
+      "https://olhardigital.com.br/?p=1379794",
+      "https://olhardigital.com.br/?p=1379803"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3936,57 +3937,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alema",
-      "atinge",
-      "avaliacao",
-      "bilhao",
-      "robco",
-      "robotica",
-      "startup"
-    ],
-    [
-      "estar",
-      "interrupcao",
-      "ligada",
-      "openai",
-      "operadora",
-      "pode",
-      "servicos",
-      "wikipedia"
-    ],
-    [
-      "adocao",
-      "empresas",
-      "enfrenta",
-      "humana",
-      "inercia"
-    ],
-    [
-      "china",
-      "discussao",
-      "fisico",
-      "mundo",
-      "usabilidade"
-    ],
-    [
-      "8217",
-      "call",
-      "gemini",
-      "late",
-      "might",
-      "running",
-      "tell",
-      "your"
-    ],
-    [
-      "agent",
-      "comms",
-      "heard",
-      "never",
-      "protocol",
-      "riskiest"
-    ],
     [
       "cramer",
       "despite",
@@ -5748,6 +5698,59 @@
       "preparam",
       "produtivo",
       "setor"
+    ],
+    [
+      "community",
+      "disability",
+      "donates",
+      "glasses",
+      "meta",
+      "singapore"
+    ],
+    [
+      "jump",
+      "more",
+      "over",
+      "sales",
+      "september",
+      "than",
+      "tsmc",
+      "year"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "corta",
+      "custo",
+      "lanca",
+      "modelo"
+    ],
+    [
+      "bilhoes",
+      "demanda",
+      "explosao",
+      "lucro",
+      "preve",
+      "recorde",
+      "samsung"
+    ],
+    [
+      "alerta",
+      "controle",
+      "demitidos",
+      "fazem",
+      "funcionarios",
+      "openai",
+      "perder",
+      "risco"
+    ],
+    [
+      "bilionarios",
+      "buscam",
+      "chips",
+      "comprar",
+      "financiamentos",
+      "techs"
     ]
   ]
 }
