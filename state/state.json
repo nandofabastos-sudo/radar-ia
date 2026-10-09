@@ -1618,7 +1618,8 @@
       "https://www.technologyreview.com/?p=1145413",
       "https://www.technologyreview.com/?p=1145580",
       "https://www.technologyreview.com/?p=1144020",
-      "https://www.technologyreview.com/?p=1145923"
+      "https://www.technologyreview.com/?p=1145923",
+      "https://www.technologyreview.com/?p=1146224"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1833,7 +1834,8 @@
       "6ab5b2de903dc10001d4d74f",
       "6abafcee7e5d8e000143a00f",
       "6abc47e00607f000019c6329",
-      "6ac5639436eaa80001466ae6"
+      "6ac5639436eaa80001466ae6",
+      "6ac82efd3a04b900019bb126"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2026,7 +2028,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108351833",
       "108351856",
       "108352242",
       "108352495",
@@ -2325,7 +2326,8 @@
       "108375191",
       "108375277",
       "108377571",
-      "108378120"
+      "108378120",
+      "108378988"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2593,9 +2595,6 @@
       "https://mittechreview.com.br/?p=278466"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1366665",
-      "https://olhardigital.com.br/?p=1366668",
-      "https://olhardigital.com.br/?p=1366754",
       "https://olhardigital.com.br/?p=1366687",
       "https://olhardigital.com.br/?p=1366766",
       "https://olhardigital.com.br/?p=1366855",
@@ -2892,7 +2891,10 @@
       "https://olhardigital.com.br/?p=1379894",
       "https://olhardigital.com.br/?p=1380022",
       "https://olhardigital.com.br/?p=1380104",
-      "https://olhardigital.com.br/?p=1380116"
+      "https://olhardigital.com.br/?p=1380116",
+      "https://olhardigital.com.br/?p=1380128",
+      "https://olhardigital.com.br/?p=1380143",
+      "https://olhardigital.com.br/?p=1380157"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3052,7 +3054,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=939382",
       "https://tecnoblog.net/?post_type=noticias&p=939397",
       "https://tecnoblog.net/?post_type=noticias&p=939626",
-      "https://tecnoblog.net/?post_type=noticias&p=939502"
+      "https://tecnoblog.net/?post_type=noticias&p=939502",
+      "https://tecnoblog.net/?post_type=noticias&p=939787"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/apple-music-cede-a-pressao-de-gravadoras-e-vai-dedurar-musicas-feitas-por-ia/",
@@ -3968,66 +3971,11 @@
       "https://www.mobiletime.com.br/?p=865989",
       "https://www.mobiletime.com.br/?p=865914",
       "https://www.mobiletime.com.br/?p=865999",
-      "https://www.mobiletime.com.br/?p=866046"
+      "https://www.mobiletime.com.br/?p=866046",
+      "https://www.mobiletime.com.br/?p=866140"
     ]
   },
   "_titulos_recentes": [
-    [
-      "mathematics",
-      "progress",
-      "sharing"
-    ],
-    [
-      "chatgpt",
-      "jump",
-      "quant",
-      "research",
-      "scaling",
-      "trading"
-    ],
-    [
-      "after",
-      "engineers",
-      "first",
-      "melius",
-      "platform",
-      "product",
-      "raise",
-      "ramp",
-      "scrapping",
-      "their"
-    ],
-    [
-      "another",
-      "batch",
-      "breakthroughs",
-      "drops",
-      "mathematical",
-      "openai"
-    ],
-    [
-      "does",
-      "hard",
-      "intelligence",
-      "need"
-    ],
-    [
-      "mathematics",
-      "progress",
-      "sharing"
-    ],
-    [
-      "among",
-      "best",
-      "blue",
-      "boom",
-      "chip",
-      "cramer",
-      "invest",
-      "stocks",
-      "these",
-      "ways"
-    ],
     [
       "arthur",
       "being",
@@ -5797,6 +5745,67 @@
       "metade",
       "pmes",
       "usam"
+    ],
+    [
+      "conversation",
+      "creator",
+      "designed",
+      "roundtables",
+      "viruses"
+    ],
+    [
+      "faster",
+      "humans",
+      "math",
+      "problems",
+      "solutions",
+      "solving",
+      "than",
+      "understand"
+    ],
+    [
+      "aussie",
+      "backed",
+      "citing",
+      "firm",
+      "firmus",
+      "historic",
+      "market",
+      "nvidia",
+      "volatility",
+      "withdraws"
+    ],
+    [
+      "chatgpt",
+      "check",
+      "fazer",
+      "lanca",
+      "pelo",
+      "veja"
+    ],
+    [
+      "contestam",
+      "demissoes",
+      "funcionarios",
+      "openai",
+      "seguranca"
+    ],
+    [
+      "descobertas",
+      "divulgadas",
+      "estomago",
+      "matematicos",
+      "openai",
+      "pela",
+      "reagem",
+      "soco"
+    ],
+    [
+      "aposta",
+      "beauty",
+      "consolidar",
+      "oreal",
+      "tech"
     ]
   ]
 }
