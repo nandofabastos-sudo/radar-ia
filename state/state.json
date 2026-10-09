@@ -406,7 +406,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3163179",
       "https://techcrunch.com/?p=3163323",
       "https://techcrunch.com/?p=3163373",
       "https://techcrunch.com/?p=3163386",
@@ -705,7 +704,8 @@
       "https://techcrunch.com/?p=3174693",
       "https://techcrunch.com/?post_type=tc_podcast&p=3176135",
       "https://techcrunch.com/?post_type=tc_video&p=3176138",
-      "https://techcrunch.com/?p=3176212"
+      "https://techcrunch.com/?p=3176212",
+      "https://techcrunch.com/?p=3176290"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=976948",
@@ -1463,7 +1463,9 @@
       "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
       "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
       "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
+      "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -2031,12 +2033,12 @@
       "https://news.ycombinator.com/item?id=49996425",
       "https://news.ycombinator.com/item?id=50000488",
       "https://news.ycombinator.com/item?id=50002650",
-      "https://news.ycombinator.com/item?id=50018817"
+      "https://news.ycombinator.com/item?id=50018817",
+      "https://news.ycombinator.com/item?id=50018350"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108352936",
       "108352805",
       "108353042",
       "108346804",
@@ -2335,7 +2337,8 @@
       "108373038",
       "108378521",
       "108358430",
-      "108374232"
+      "108374232",
+      "108382834"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2440,7 +2443,8 @@
       "https://techcrunch.com/?p=3174041",
       "https://techcrunch.com/?p=3175465",
       "https://techcrunch.com/?p=3175734",
-      "https://techcrunch.com/?post_type=tc_podcast&p=3176135"
+      "https://techcrunch.com/?post_type=tc_podcast&p=3176135",
+      "https://techcrunch.com/?p=3176290"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -3071,8 +3075,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=939787"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/plugins-chatgpt-que-valem-a-pena/",
-      "https://canaltech.com.br/inteligencia-artificial/6-coisas-que-o-chatgpt-faz-melhor-que-o-claude/",
       "https://canaltech.com.br/hardware/por-que-precisamos-de-pcs-com-ia-se-chatgpt-claude-e-gemini-estao-na-nuvem/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-chatgpt-canvas-e-como-usar/",
       "https://canaltech.com.br/entretenimento/filmes-maiores-flops-2026/",
@@ -3370,10 +3372,11 @@
       "https://canaltech.com.br/inteligencia-artificial/google-piora-o-gemini-para-quem-nao-e-assinante-a-partir-de-hoje-9/",
       "https://canaltech.com.br/inteligencia-artificial/google-lanca-agente-do-gemini-que-trabalha-sozinho-entre-varios-apps/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-inteligencia-hibrida-em-ia/",
-      "https://canaltech.com.br/produtos/universidade-cria-robo-humanoide-de-r-1994-controlado-por-android/"
+      "https://canaltech.com.br/produtos/universidade-cria-robo-humanoide-de-r-1994-controlado-por-android/",
+      "https://canaltech.com.br/inteligencia-artificial/proibido-xingar-a-ia-anthropic-muda-regras-e-ameaca-banir-quem-for-cruel-com-o-claude/",
+      "https://canaltech.com.br/inteligencia-artificial/criadores-de-ia-se-preparam-em-segredo-para-desastre-global-nos-proximos-meses/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/startup-d-matrix-usara-tecnologia-de-interligacao-de-chips-da-nvidia-em-servidores-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/documentario-com-tecnologia-de-ia-desafia-limites-do-cinema-em-veneza.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/parlamentares-dos-eua-pedem-novas-regras-para-ia-apos-alertas-de-seguranca-de-pesquisador-daanthropic.htm",
       "https://www.uol.com.br/flash/?c=6aa2f47c976e003b31dfb760",
@@ -3672,7 +3675,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/09/anthropic-proibe-crueldade-gratuita-contra-claude-e-reacende-debate-sobre-consciencia.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/09/microsoft-redesenha-busca-do-windows-11-e-aposta-em-ia-para-achar-e-fazer.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/09/ex-pesquisadores-dizem-que-openai-os-demitiu-por-priorizar-seguranca.ghtm",
-      "https://www.uol.com.br/flash/?c=6ac91105989ca0293cf94d5e"
+      "https://www.uol.com.br/flash/?c=6ac91105989ca0293cf94d5e",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/09/ia-daanthropic-envia-denuncia-falsa-de-homicidio-a-site-de-policia-nos-eua.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3994,67 +3998,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "after",
-      "debut",
-      "ipad",
-      "just",
-      "launches",
-      "meta",
-      "mobile",
-      "month",
-      "muse"
-    ],
-    [
-      "cell",
-      "create",
-      "efforts",
-      "google",
-      "invests",
-      "mark",
-      "millions",
-      "virtual",
-      "zuckerberg"
-    ],
-    [
-      "ipad",
-      "launches",
-      "muse"
-    ],
-    [
-      "chatgpt",
-      "college",
-      "getting",
-      "planning",
-      "tools"
-    ],
-    [
-      "available",
-      "preorder",
-      "spark",
-      "surface"
-    ],
-    [
-      "control",
-      "copilot",
-      "files",
-      "giving",
-      "microsoft",
-      "more",
-      "over",
-      "windows",
-      "your"
-    ],
-    [
-      "8217",
-      "announced",
-      "event",
-      "everything",
-      "laptop",
-      "microsoft",
-      "surface",
-      "ultra"
-    ],
     [
       "8216",
       "8217",
@@ -5813,6 +5756,73 @@
       "rapido",
       "time",
       "vezes"
+    ],
+    [
+      "after",
+      "just",
+      "launch",
+      "maker",
+      "model",
+      "text",
+      "valued",
+      "weeks"
+    ],
+    [
+      "agents",
+      "code",
+      "coding",
+      "generate",
+      "more",
+      "software"
+    ],
+    [
+      "belonging",
+      "center",
+      "data",
+      "drones",
+      "google",
+      "knock",
+      "russia",
+      "ukraine"
+    ],
+    [
+      "fires",
+      "information",
+      "mishandling",
+      "openai",
+      "research",
+      "researchers",
+      "safety",
+      "three"
+    ],
+    [
+      "ahead",
+      "banks",
+      "chipmakers",
+      "cramer",
+      "earnings",
+      "face",
+      "kick",
+      "tests",
+      "week"
+    ],
+    [
+      "criadores",
+      "desastre",
+      "global",
+      "meses",
+      "preparam",
+      "proximos",
+      "segredo"
+    ],
+    [
+      "anthropic",
+      "denuncia",
+      "envia",
+      "falsa",
+      "homicidio",
+      "policia",
+      "site"
     ]
   ]
 }
