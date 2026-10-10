@@ -406,7 +406,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3163386",
       "https://techcrunch.com/?p=3163436",
       "https://techcrunch.com/?p=3163449",
       "https://techcrunch.com/?p=3151802",
@@ -705,11 +704,10 @@
       "https://techcrunch.com/?p=3176212",
       "https://techcrunch.com/?p=3176290",
       "https://techcrunch.com/?p=3176323",
-      "https://techcrunch.com/?p=3176326"
+      "https://techcrunch.com/?p=3176326",
+      "https://techcrunch.com/?p=3176436"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=976801",
-      "https://www.theverge.com/?p=977124",
       "https://www.theverge.com/?p=976690",
       "https://www.theverge.com/?p=976748",
       "https://www.theverge.com/?p=975732",
@@ -1007,7 +1005,9 @@
       "https://www.theverge.com/?p=1008930",
       "https://www.theverge.com/?p=1008726",
       "https://www.theverge.com/?p=1009090",
-      "https://www.theverge.com/?p=1009051"
+      "https://www.theverge.com/?p=1009051",
+      "https://www.theverge.com/?p=1009286",
+      "https://www.theverge.com/?p=1009309"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39633",
@@ -4002,21 +4002,6 @@
   },
   "_titulos_recentes": [
     [
-      "chatgpt",
-      "criar",
-      "escolares",
-      "filhos",
-      "fotos",
-      "pais",
-      "usam"
-    ],
-    [
-      "ausencia",
-      "diferencial",
-      "libreoffice",
-      "reforca"
-    ],
-    [
       "definido",
       "dinamico",
       "justica",
@@ -5824,6 +5809,29 @@
       "resultado",
       "simulou",
       "turno"
+    ],
+    [
+      "apple",
+      "deal",
+      "discloses",
+      "hire",
+      "huxe",
+      "license",
+      "personalized",
+      "podcast",
+      "startup",
+      "team",
+      "tech"
+    ],
+    [
+      "been",
+      "distrokid",
+      "down",
+      "lawsuit",
+      "quietly",
+      "response",
+      "songs",
+      "taking"
     ]
   ]
 }
