@@ -406,7 +406,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3163323",
       "https://techcrunch.com/?p=3163373",
       "https://techcrunch.com/?p=3163386",
       "https://techcrunch.com/?p=3163436",
@@ -705,10 +704,10 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3176135",
       "https://techcrunch.com/?post_type=tc_video&p=3176138",
       "https://techcrunch.com/?p=3176212",
-      "https://techcrunch.com/?p=3176290"
+      "https://techcrunch.com/?p=3176290",
+      "https://techcrunch.com/?p=3176323"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=976948",
       "https://www.theverge.com/?p=976939",
       "https://www.theverge.com/?p=976801",
       "https://www.theverge.com/?p=977124",
@@ -1007,7 +1006,8 @@
       "https://www.theverge.com/?p=1008254",
       "https://www.theverge.com/?p=1008677",
       "https://www.theverge.com/?p=1008930",
-      "https://www.theverge.com/?p=1008726"
+      "https://www.theverge.com/?p=1008726",
+      "https://www.theverge.com/?p=1009090"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39605",
@@ -2034,7 +2034,8 @@
       "https://news.ycombinator.com/item?id=50000488",
       "https://news.ycombinator.com/item?id=50002650",
       "https://news.ycombinator.com/item?id=50018817",
-      "https://news.ycombinator.com/item?id=50018350"
+      "https://news.ycombinator.com/item?id=50018350",
+      "https://news.ycombinator.com/item?id=50023450"
     ]
   },
   "mercado": {
@@ -2612,7 +2613,6 @@
       "https://mittechreview.com.br/?p=278901"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1366948",
       "https://olhardigital.com.br/?p=1367005",
       "https://olhardigital.com.br/?p=1367063",
       "https://olhardigital.com.br/?p=1366995",
@@ -2911,7 +2911,8 @@
       "https://olhardigital.com.br/?p=1380157",
       "https://olhardigital.com.br/?p=1380265",
       "https://olhardigital.com.br/?p=1380382",
-      "https://olhardigital.com.br/?p=1380424"
+      "https://olhardigital.com.br/?p=1380424",
+      "https://olhardigital.com.br/?p=1380535"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3998,40 +3999,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "8216",
-      "8217",
-      "buttons",
-      "charts",
-      "chatgpt",
-      "fills",
-      "intelligent",
-      "pictures",
-      "responses",
-      "update"
-    ],
-    [
-      "bets",
-      "casual",
-      "developers",
-      "feature",
-      "game",
-      "gemini",
-      "google",
-      "into",
-      "players",
-      "playground",
-      "turn"
-    ],
-    [
-      "complex",
-      "decisions",
-      "evaluations",
-      "launches",
-      "openai",
-      "pick",
-      "reduces"
-    ],
     [
       "billion",
       "carry",
@@ -5823,6 +5790,33 @@
       "homicidio",
       "policia",
       "site"
+    ],
+    [
+      "agents",
+      "anthropic",
+      "control",
+      "cutting",
+      "evals",
+      "instead",
+      "internal",
+      "internet",
+      "live",
+      "reliably"
+    ],
+    [
+      "about",
+      "anthropic",
+      "fake",
+      "gave",
+      "homicide",
+      "philadelphia",
+      "police",
+      "unsolved"
+    ],
+    [
+      "870m",
+      "raises",
+      "typesafe"
     ]
   ]
 }
