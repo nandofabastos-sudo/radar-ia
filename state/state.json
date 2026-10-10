@@ -406,7 +406,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3163373",
       "https://techcrunch.com/?p=3163386",
       "https://techcrunch.com/?p=3163436",
       "https://techcrunch.com/?p=3163449",
@@ -705,10 +704,10 @@
       "https://techcrunch.com/?post_type=tc_video&p=3176138",
       "https://techcrunch.com/?p=3176212",
       "https://techcrunch.com/?p=3176290",
-      "https://techcrunch.com/?p=3176323"
+      "https://techcrunch.com/?p=3176323",
+      "https://techcrunch.com/?p=3176326"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=976939",
       "https://www.theverge.com/?p=976801",
       "https://www.theverge.com/?p=977124",
       "https://www.theverge.com/?p=976690",
@@ -1007,12 +1006,10 @@
       "https://www.theverge.com/?p=1008677",
       "https://www.theverge.com/?p=1008930",
       "https://www.theverge.com/?p=1008726",
-      "https://www.theverge.com/?p=1009090"
+      "https://www.theverge.com/?p=1009090",
+      "https://www.theverge.com/?p=1009051"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39619",
-      "https://the-decoder.com/?p=39625",
-      "https://the-decoder.com/?p=39626",
       "https://the-decoder.com/?p=39633",
       "https://the-decoder.com/?p=39638",
       "https://the-decoder.com/?p=39615",
@@ -1309,7 +1306,10 @@
       "https://the-decoder.com/?p=41324",
       "https://the-decoder.com/?p=41328",
       "https://the-decoder.com/?p=41333",
-      "https://the-decoder.com/?p=41342"
+      "https://the-decoder.com/?p=41342",
+      "https://the-decoder.com/?p=41360",
+      "https://the-decoder.com/?p=41365",
+      "https://the-decoder.com/?p=41370"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1811,7 +1811,8 @@
       "6ac52a334a782f0cbf88b69f",
       "6ac6ac8d9de41610baccb1a6",
       "6ac01fede94a29d60b5da911",
-      "6abe9c83d05dc665bd7e9be0"
+      "6abe9c83d05dc665bd7e9be0",
+      "6ac7c89b91ca886b7a0df9d4"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2040,9 +2041,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108353042",
-      "108346804",
-      "108353087",
       "108353205",
       "108352854",
       "108353442",
@@ -2339,7 +2337,10 @@
       "108358430",
       "108374232",
       "108382834",
-      "108373971"
+      "108373971",
+      "108360886",
+      "108382729",
+      "108381920"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3736,7 +3737,8 @@
       "https://neofeed.com.br/?p=239243",
       "https://neofeed.com.br/?p=240032",
       "https://neofeed.com.br/?p=239937",
-      "https://neofeed.com.br/?p=240236"
+      "https://neofeed.com.br/?p=240236",
+      "https://neofeed.com.br/?p=240452"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -3999,90 +4001,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "buys",
-      "chain",
-      "hopes",
-      "kill",
-      "minute",
-      "pentagon",
-      "speed",
-      "videos"
-    ],
-    [
-      "chatgpt",
-      "more",
-      "show",
-      "tell",
-      "than"
-    ],
-    [
-      "corolla",
-      "drive",
-      "made",
-      "researchers",
-      "these",
-      "toyota"
-    ],
-    [
-      "claude",
-      "haiku"
-    ],
-    [
-      "apollo",
-      "banks",
-      "billion",
-      "finance",
-      "nvidia",
-      "purchase",
-      "spacex",
-      "talks"
-    ],
-    [
-      "chip",
-      "containing",
-      "laptop",
-      "microsoft",
-      "nvidia",
-      "sell",
-      "surface",
-      "ultra"
-    ],
-    [
-      "conteudo",
-      "feito",
-      "ferramenta",
-      "google",
-      "libera",
-      "revela",
-      "synthid"
-    ],
-    [
-      "chatgpt",
-      "cria",
-      "ferramentas",
-      "ganha",
-      "graficos",
-      "interativas",
-      "interface",
-      "mapas"
-    ],
-    [
-      "aceitar",
-      "algumas",
-      "altman",
-      "coisas",
-      "deveria",
-      "mundo",
-      "ruins"
-    ],
-    [
-      "detector",
-      "google",
-      "libera",
-      "pessoa",
-      "qualquer"
-    ],
     [
       "chatgpt",
       "criar",
@@ -5801,6 +5719,111 @@
       "gera",
       "paga",
       "riscos"
+    ],
+    [
+      "2026",
+      "before",
+      "days",
+      "disrupt",
+      "mainstream",
+      "meet",
+      "startups",
+      "techcrunch",
+      "they"
+    ],
+    [
+      "agent",
+      "deliver",
+      "makers",
+      "privacy",
+      "promising",
+      "they",
+      "will"
+    ],
+    [
+      "beauty",
+      "bulldozes",
+      "disgust",
+      "field",
+      "have",
+      "lost",
+      "mathematicians",
+      "much",
+      "openai",
+      "react",
+      "shock",
+      "their"
+    ],
+    [
+      "decision",
+      "enters",
+      "fast",
+      "growing",
+      "microsoft",
+      "model",
+      "race"
+    ],
+    [
+      "better",
+      "data",
+      "deliberately",
+      "destroyed",
+      "environment",
+      "fresh",
+      "hoping",
+      "misaligned",
+      "model",
+      "openai",
+      "start"
+    ],
+    [
+      "cybercriminals",
+      "getting",
+      "good",
+      "messing",
+      "really"
+    ],
+    [
+      "accessing",
+      "companies",
+      "everywhere",
+      "gpus",
+      "here",
+      "nvidia",
+      "them",
+      "ways"
+    ],
+    [
+      "altman",
+      "amid",
+      "anxiety",
+      "hollywood",
+      "musk",
+      "over",
+      "takes",
+      "widespread",
+      "zuckerberg"
+    ],
+    [
+      "declines",
+      "highs",
+      "last",
+      "market",
+      "moved",
+      "stocks",
+      "trade",
+      "volatile",
+      "week"
+    ],
+    [
+      "acertou",
+      "algoritmo",
+      "brasileiro",
+      "criou",
+      "pesquisador",
+      "resultado",
+      "simulou",
+      "turno"
     ]
   ]
 }
