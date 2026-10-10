@@ -1010,9 +1010,6 @@
       "https://www.theverge.com/?p=1009090"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39605",
-      "https://the-decoder.com/?p=39609",
-      "https://the-decoder.com/?p=39620",
       "https://the-decoder.com/?p=39619",
       "https://the-decoder.com/?p=39625",
       "https://the-decoder.com/?p=39626",
@@ -1309,7 +1306,10 @@
       "https://the-decoder.com/?p=41300",
       "https://the-decoder.com/?p=41309",
       "https://the-decoder.com/?p=41318",
-      "https://the-decoder.com/?p=41324"
+      "https://the-decoder.com/?p=41324",
+      "https://the-decoder.com/?p=41328",
+      "https://the-decoder.com/?p=41333",
+      "https://the-decoder.com/?p=41342"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2040,7 +2040,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108352805",
       "108353042",
       "108346804",
       "108353087",
@@ -2339,7 +2338,8 @@
       "108378521",
       "108358430",
       "108374232",
-      "108382834"
+      "108382834",
+      "108373971"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3076,7 +3076,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=939787"
     ],
     "canaltech": [
-      "https://canaltech.com.br/hardware/por-que-precisamos-de-pcs-com-ia-se-chatgpt-claude-e-gemini-estao-na-nuvem/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-chatgpt-canvas-e-como-usar/",
       "https://canaltech.com.br/entretenimento/filmes-maiores-flops-2026/",
       "https://canaltech.com.br/hardware/do-pc-tradicional-ao-ai-pc-a-arquitetura-entra-em-uma-nova-era/",
@@ -3375,11 +3374,10 @@
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-inteligencia-hibrida-em-ia/",
       "https://canaltech.com.br/produtos/universidade-cria-robo-humanoide-de-r-1994-controlado-por-android/",
       "https://canaltech.com.br/inteligencia-artificial/proibido-xingar-a-ia-anthropic-muda-regras-e-ameaca-banir-quem-for-cruel-com-o-claude/",
-      "https://canaltech.com.br/inteligencia-artificial/criadores-de-ia-se-preparam-em-segredo-para-desastre-global-nos-proximos-meses/"
+      "https://canaltech.com.br/inteligencia-artificial/criadores-de-ia-se-preparam-em-segredo-para-desastre-global-nos-proximos-meses/",
+      "https://canaltech.com.br/inteligencia-artificial/como-descobrir-novos-lugares-com-o-chatgpt/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/documentario-com-tecnologia-de-ia-desafia-limites-do-cinema-em-veneza.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/parlamentares-dos-eua-pedem-novas-regras-para-ia-apos-alertas-de-seguranca-de-pesquisador-daanthropic.htm",
       "https://www.uol.com.br/flash/?c=6aa2f47c976e003b31dfb760",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/10/anthropic-bloqueia-cientistas-que-tentaram-usar-ia-em-pesquisas-ligadas-a-armas-biologicas.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/openai-lanca-chatgpt-para-setor-de-servicos-financeiros.htm",
@@ -3677,7 +3675,9 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/09/microsoft-redesenha-busca-do-windows-11-e-aposta-em-ia-para-achar-e-fazer.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/09/ex-pesquisadores-dizem-que-openai-os-demitiu-por-priorizar-seguranca.ghtm",
       "https://www.uol.com.br/flash/?c=6ac91105989ca0293cf94d5e",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/09/ia-daanthropic-envia-denuncia-falsa-de-homicidio-a-site-de-policia-nos-eua.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/09/ia-daanthropic-envia-denuncia-falsa-de-homicidio-a-site-de-policia-nos-eua.htm",
+      "https://www.uol.com.br/flash/?c=6ac7edbaf2a0f79a4bf92776",
+      "https://economia.uol.com.br/noticias/redacao/2026/10/10/claude-envia-denuncia-falsa-a-policia-e-anthropic-corta-internet.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3999,65 +3999,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "billion",
-      "carry",
-      "detector",
-      "goes",
-      "google",
-      "images",
-      "public",
-      "synthid",
-      "videos",
-      "watermarks"
-    ],
-    [
-      "behavior",
-      "billion",
-      "biohub",
-      "build",
-      "cell",
-      "leads",
-      "models",
-      "predict",
-      "push",
-      "zuckerberg"
-    ],
-    [
-      "arms",
-      "arrives",
-      "claude",
-      "cuts",
-      "haiku",
-      "massive",
-      "over",
-      "price",
-      "pricing",
-      "proving",
-      "race"
-    ],
-    [
-      "apps",
-      "buttons",
-      "charts",
-      "chatgpt",
-      "ditches",
-      "interactive",
-      "mini",
-      "mostly",
-      "output",
-      "text"
-    ],
-    [
-      "bots",
-      "fraudster",
-      "jailed",
-      "outstream",
-      "songs",
-      "swift",
-      "taylor",
-      "using"
-    ],
     [
       "buys",
       "chain",
@@ -5817,6 +5758,49 @@
       "870m",
       "raises",
       "typesafe"
+    ],
+    [
+      "anthropic",
+      "carbon",
+      "coding",
+      "gemini",
+      "google",
+      "matching",
+      "model",
+      "opus",
+      "performance",
+      "reportedly"
+    ],
+    [
+      "people",
+      "spend",
+      "those"
+    ],
+    [
+      "billable",
+      "changing",
+      "hour",
+      "lawyers",
+      "pressure",
+      "putting",
+      "under",
+      "work"
+    ],
+    [
+      "ajuda",
+      "chatgpt",
+      "descobrir",
+      "lugares",
+      "novos"
+    ],
+    [
+      "aceitar",
+      "altman",
+      "debates",
+      "fala",
+      "gera",
+      "paga",
+      "riscos"
     ]
   ]
 }
