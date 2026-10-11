@@ -406,8 +406,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3151802",
-      "https://techcrunch.com/?p=3163516",
       "https://techcrunch.com/?p=3163493",
       "https://techcrunch.com/?p=3163060",
       "https://techcrunch.com/?p=3163478",
@@ -705,10 +703,11 @@
       "https://techcrunch.com/?p=3176326",
       "https://techcrunch.com/?p=3176436",
       "https://techcrunch.com/?p=3176448",
-      "https://techcrunch.com/?p=3176054"
+      "https://techcrunch.com/?p=3176054",
+      "https://techcrunch.com/?p=3176460",
+      "https://techcrunch.com/?p=3176474"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=975732",
       "https://www.theverge.com/?p=977395",
       "https://www.theverge.com/?p=977623",
       "https://www.theverge.com/?p=977273",
@@ -1007,7 +1006,8 @@
       "https://www.theverge.com/?p=1009286",
       "https://www.theverge.com/?p=1009309",
       "https://www.theverge.com/?p=1009337",
-      "https://www.theverge.com/?p=1008484"
+      "https://www.theverge.com/?p=1008484",
+      "https://www.theverge.com/?p=1009406"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39658",
@@ -2038,7 +2038,8 @@
       "https://news.ycombinator.com/item?id=50018817",
       "https://news.ycombinator.com/item?id=50018350",
       "https://news.ycombinator.com/item?id=50023450",
-      "https://news.ycombinator.com/item?id=50031614"
+      "https://news.ycombinator.com/item?id=50031614",
+      "https://news.ycombinator.com/item?id=50040547"
     ]
   },
   "mercado": {
@@ -3080,7 +3081,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=939787"
     ],
     "canaltech": [
-      "https://canaltech.com.br/entretenimento/filmes-maiores-flops-2026/",
       "https://canaltech.com.br/hardware/do-pc-tradicional-ao-ai-pc-a-arquitetura-entra-em-uma-nova-era/",
       "https://canaltech.com.br/carros/por-que-o-jeep-compass-vai-mudar-tanto-ate-2028-veja-o-que-vem-por-ai/",
       "https://canaltech.com.br/mercado/sua-carreira-na-mira-as-11-profissoes-mais-expostas-a-inteligencia-artificial/",
@@ -3379,10 +3379,10 @@
       "https://canaltech.com.br/inteligencia-artificial/proibido-xingar-a-ia-anthropic-muda-regras-e-ameaca-banir-quem-for-cruel-com-o-claude/",
       "https://canaltech.com.br/inteligencia-artificial/criadores-de-ia-se-preparam-em-segredo-para-desastre-global-nos-proximos-meses/",
       "https://canaltech.com.br/inteligencia-artificial/como-descobrir-novos-lugares-com-o-chatgpt/",
-      "https://canaltech.com.br/inteligencia-artificial/gemini-como-criar-skills-habilidades/"
+      "https://canaltech.com.br/inteligencia-artificial/gemini-como-criar-skills-habilidades/",
+      "https://canaltech.com.br/inteligencia-artificial/chatgpt-o-que-fazer-atingir-limite-criacao-imagens/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/oracle-tem-receita-acima-do-esperado-impulsionada-por-boom-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/10/anthropic-corta-campanhas-de-ia-russas-e-chinesas-direcionadas-ao-claude.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/10/openai-pede-ao-congresso-dos-eua-normas-de-seguranca-obrigatorias-para-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/11/armas-biologicas-e-guerra-contra-china-o-que-claude-revelou-em-relatorio-de-ameacas.htm",
@@ -3681,7 +3681,8 @@
       "https://economia.uol.com.br/noticias/redacao/2026/10/10/claude-envia-denuncia-falsa-a-policia-e-anthropic-corta-internet.ghtm",
       "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/10/11/flavio-bolsonaro-promete-tesouraco-na-censura-e-ia-como-amiga.htm",
       "https://www.uol.com.br/flash/?c=6ac7e19278c046195d9be87e",
-      "https://economia.uol.com.br/noticias/redacao/2026/10/11/ia-entra-na-briga-por-contas-e-aperta-empresas-da-inercia.ghtm"
+      "https://economia.uol.com.br/noticias/redacao/2026/10/11/ia-entra-na-briga-por-contas-e-aperta-empresas-da-inercia.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/11/ceo-da-microsoft-pede-freio-de-emergencia-para-ia-avancada.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4004,59 +4005,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "adolescentes",
-      "chatgpt",
-      "concluem",
-      "jovens",
-      "pesquisadores",
-      "protege",
-      "testes"
-    ],
-    [
-      "estima",
-      "lucro",
-      "puxado",
-      "quase",
-      "salto",
-      "samsung",
-      "vezes"
-    ],
-    [
-      "advogado",
-      "executiva",
-      "fazer",
-      "harvey",
-      "menos",
-      "pode",
-      "trabalhar"
-    ],
-    [
-      "anuncia",
-      "corinthians",
-      "jota",
-      "master",
-      "patrocinio"
-    ],
-    [
-      "2026",
-      "dublagem",
-      "ferramentas",
-      "final",
-      "novas",
-      "tera",
-      "youtube"
-    ],
-    [
-      "abria",
-      "brasil",
-      "brasscom",
-      "impacto",
-      "pesquisa",
-      "preparam",
-      "produtivo",
-      "setor"
-    ],
     [
       "community",
       "disability",
@@ -5845,6 +5793,58 @@
       "humanidade",
       "nuclear",
       "podem"
+    ],
+    [
+      "center",
+      "data",
+      "getting",
+      "industry",
+      "ndas",
+      "opponents",
+      "persuade"
+    ],
+    [
+      "2026",
+      "building",
+      "directly",
+      "disrupt",
+      "hear",
+      "hours",
+      "next",
+      "people",
+      "techcrunch",
+      "what"
+    ],
+    [
+      "attempt",
+      "falling",
+      "line",
+      "rename",
+      "silicon",
+      "trump",
+      "valley"
+    ],
+    [
+      "center",
+      "cloud",
+      "data",
+      "yandex"
+    ],
+    [
+      "atingiu",
+      "chatgpt",
+      "fazer",
+      "geracao",
+      "imagens",
+      "limite",
+      "saiba"
+    ],
+    [
+      "avancada",
+      "emergencia",
+      "freio",
+      "microsoft",
+      "pede"
     ]
   ]
 }
