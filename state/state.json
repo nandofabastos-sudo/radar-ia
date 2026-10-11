@@ -406,7 +406,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3163449",
       "https://techcrunch.com/?p=3151802",
       "https://techcrunch.com/?p=3163516",
       "https://techcrunch.com/?p=3163493",
@@ -705,7 +704,8 @@
       "https://techcrunch.com/?p=3176323",
       "https://techcrunch.com/?p=3176326",
       "https://techcrunch.com/?p=3176436",
-      "https://techcrunch.com/?p=3176448"
+      "https://techcrunch.com/?p=3176448",
+      "https://techcrunch.com/?p=3176054"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=975732",
@@ -1010,8 +1010,6 @@
       "https://www.theverge.com/?p=1008484"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39645",
-      "https://the-decoder.com/?p=39654",
       "https://the-decoder.com/?p=39658",
       "https://the-decoder.com/?p=39665",
       "https://the-decoder.com/?p=39669",
@@ -1309,7 +1307,9 @@
       "https://the-decoder.com/?p=41313",
       "https://the-decoder.com/?p=41386",
       "https://the-decoder.com/?p=41390",
-      "https://the-decoder.com/?p=41397"
+      "https://the-decoder.com/?p=41397",
+      "https://the-decoder.com/?p=41402",
+      "https://the-decoder.com/?p=41412"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2037,12 +2037,12 @@
       "https://news.ycombinator.com/item?id=50002650",
       "https://news.ycombinator.com/item?id=50018817",
       "https://news.ycombinator.com/item?id=50018350",
-      "https://news.ycombinator.com/item?id=50023450"
+      "https://news.ycombinator.com/item?id=50023450",
+      "https://news.ycombinator.com/item?id=50031614"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108353699",
       "108353734",
       "108349469",
       "108353577",
@@ -2341,7 +2341,8 @@
       "108381920",
       "108391321",
       "108381019",
-      "108382078"
+      "108382078",
+      "108382211"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2616,7 +2617,6 @@
       "https://mittechreview.com.br/?p=278737"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1366756",
       "https://olhardigital.com.br/?p=1367108",
       "https://olhardigital.com.br/?p=1367411",
       "https://olhardigital.com.br/?p=1367475",
@@ -2915,7 +2915,8 @@
       "https://olhardigital.com.br/?p=1380535",
       "https://olhardigital.com.br/?p=1380670",
       "https://olhardigital.com.br/?p=1380676",
-      "https://olhardigital.com.br/?p=1379951"
+      "https://olhardigital.com.br/?p=1379951",
+      "https://olhardigital.com.br/?p=1380784"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4003,61 +4004,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "back",
-      "billion",
-      "boom",
-      "forecasts",
-      "profit",
-      "quarter",
-      "record",
-      "samsung",
-      "third"
-    ],
-    [
-      "data",
-      "mecka",
-      "nabs",
-      "robot",
-      "sequoia",
-      "startup"
-    ],
-    [
-      "alto",
-      "desempenho",
-      "foco",
-      "lanca",
-      "microsoft",
-      "notebook",
-      "surface"
-    ],
-    [
-      "barra",
-      "busca",
-      "coloca",
-      "copilot",
-      "microsoft",
-      "windows"
-    ],
-    [
-      "comandos",
-      "criar",
-      "editar",
-      "ferramentas",
-      "gratuitas",
-      "imagens",
-      "melhores"
-    ],
-    [
-      "criar",
-      "deixa",
-      "google",
-      "jogos",
-      "lanca",
-      "programar",
-      "saber",
-      "voce"
-    ],
     [
       "adolescentes",
       "chatgpt",
@@ -5837,6 +5783,68 @@
       "empresas",
       "entra",
       "inercia"
+    ],
+    [
+      "chatgpt",
+      "execs",
+      "hasn",
+      "moment",
+      "reached",
+      "these",
+      "think",
+      "voice"
+    ],
+    [
+      "agents",
+      "autonomous",
+      "finds",
+      "overstate",
+      "remain",
+      "research",
+      "results",
+      "study",
+      "their"
+    ],
+    [
+      "agent",
+      "barely",
+      "finds",
+      "gains",
+      "massive",
+      "measurable",
+      "quality",
+      "research",
+      "teams",
+      "tokens",
+      "waste"
+    ],
+    [
+      "agent",
+      "cloudflare",
+      "free",
+      "hosted",
+      "personal",
+      "self",
+      "talorys",
+      "tier"
+    ],
+    [
+      "automating",
+      "coding",
+      "developer",
+      "postings",
+      "rise",
+      "software"
+    ],
+    [
+      "2100",
+      "alertam",
+      "especialistas",
+      "extinguir",
+      "guerra",
+      "humanidade",
+      "nuclear",
+      "podem"
     ]
   ]
 }
