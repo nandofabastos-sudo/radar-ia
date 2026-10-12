@@ -406,7 +406,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3163493",
       "https://techcrunch.com/?p=3163060",
       "https://techcrunch.com/?p=3163478",
       "https://techcrunch.com/?p=3163598",
@@ -705,7 +704,8 @@
       "https://techcrunch.com/?p=3176448",
       "https://techcrunch.com/?p=3176054",
       "https://techcrunch.com/?p=3176460",
-      "https://techcrunch.com/?p=3176474"
+      "https://techcrunch.com/?p=3176474",
+      "https://techcrunch.com/?p=3176490"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=977395",
@@ -4006,14 +4006,6 @@
   },
   "_titulos_recentes": [
     [
-      "community",
-      "disability",
-      "donates",
-      "glasses",
-      "meta",
-      "singapore"
-    ],
-    [
       "jump",
       "more",
       "over",
@@ -5845,6 +5837,15 @@
       "freio",
       "microsoft",
       "pede"
+    ],
+    [
+      "apple",
+      "first",
+      "home",
+      "homeview",
+      "smart",
+      "success",
+      "will"
     ]
   ]
 }
