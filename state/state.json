@@ -2039,12 +2039,12 @@
       "https://news.ycombinator.com/item?id=50018350",
       "https://news.ycombinator.com/item?id=50023450",
       "https://news.ycombinator.com/item?id=50031614",
-      "https://news.ycombinator.com/item?id=50040547"
+      "https://news.ycombinator.com/item?id=50040547",
+      "https://news.ycombinator.com/item?id=50047422"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108353734",
       "108349469",
       "108353577",
       "108353555",
@@ -2343,7 +2343,8 @@
       "108391321",
       "108381019",
       "108382078",
-      "108382211"
+      "108382211",
+      "108396483"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4005,24 +4006,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "jump",
-      "more",
-      "over",
-      "sales",
-      "september",
-      "than",
-      "tsmc",
-      "year"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "corta",
-      "custo",
-      "lanca",
-      "modelo"
-    ],
     [
       "bilhoes",
       "demanda",
@@ -5846,6 +5829,22 @@
       "smart",
       "success",
       "will"
+    ],
+    [
+      "capability",
+      "shared",
+      "understanding",
+      "widening"
+    ],
+    [
+      "breakthroughs",
+      "major",
+      "scientific",
+      "sees",
+      "three",
+      "tiktok",
+      "within",
+      "years"
     ]
   ]
 }
