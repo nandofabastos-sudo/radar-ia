@@ -2634,7 +2634,6 @@
       "https://mittechreview.com.br/?p=278917"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1368012",
       "https://olhardigital.com.br/?p=1368029",
       "https://olhardigital.com.br/?p=1366337",
       "https://olhardigital.com.br/?p=1368159",
@@ -2933,7 +2932,8 @@
       "https://olhardigital.com.br/?p=1380904",
       "https://olhardigital.com.br/?p=1380916",
       "https://olhardigital.com.br/?p=1380967",
-      "https://olhardigital.com.br/?p=1380985"
+      "https://olhardigital.com.br/?p=1380985",
+      "https://olhardigital.com.br/?p=1381000"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4023,16 +4023,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "backs",
-      "compute",
-      "controversial",
-      "distro",
-      "linux",
-      "million",
-      "omarchy",
-      "spacexai"
-    ],
     [
       "becomes",
       "latest",
@@ -5857,6 +5847,15 @@
       "prepara",
       "rivais",
       "zuckerberg"
+    ],
+    [
+      "agora",
+      "assinatura",
+      "cursor",
+      "fazem",
+      "grok",
+      "parte",
+      "premium"
     ]
   ]
 }
