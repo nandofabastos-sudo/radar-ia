@@ -338,7 +338,9 @@
       "https://blogs.nvidia.com/?p=98677",
       "https://blogs.nvidia.com/?p=98706",
       "https://blogs.nvidia.com/?p=98737",
-      "https://blogs.nvidia.com/?p=98768"
+      "https://blogs.nvidia.com/?p=98768",
+      "https://blogs.nvidia.com/?p=98818",
+      "https://blogs.nvidia.com/?p=98835"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -2080,7 +2082,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108354863",
       "108354903",
       "108354887",
       "108354971",
@@ -2379,7 +2380,8 @@
       "108403860",
       "108404850",
       "108405472",
-      "108404460"
+      "108404460",
+      "108407086"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2661,7 +2663,6 @@
       "https://mittechreview.com.br/?p=281235"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1368569",
       "https://olhardigital.com.br/?p=1368580",
       "https://olhardigital.com.br/?p=1368591",
       "https://olhardigital.com.br/?p=1368603",
@@ -2960,7 +2961,8 @@
       "https://olhardigital.com.br/?p=1381196",
       "https://olhardigital.com.br/?p=1381210",
       "https://olhardigital.com.br/?p=1381357",
-      "https://olhardigital.com.br/?p=1381345"
+      "https://olhardigital.com.br/?p=1381345",
+      "https://olhardigital.com.br/?p=1381389"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4060,46 +4062,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "belonging",
-      "center",
-      "data",
-      "drones",
-      "google",
-      "knock",
-      "russia",
-      "ukraine"
-    ],
-    [
-      "fires",
-      "information",
-      "mishandling",
-      "openai",
-      "research",
-      "researchers",
-      "safety",
-      "three"
-    ],
-    [
-      "ahead",
-      "banks",
-      "chipmakers",
-      "cramer",
-      "earnings",
-      "face",
-      "kick",
-      "tests",
-      "week"
-    ],
-    [
-      "criadores",
-      "desastre",
-      "global",
-      "meses",
-      "preparam",
-      "proximos",
-      "segredo"
-    ],
     [
       "anthropic",
       "denuncia",
@@ -5897,6 +5859,47 @@
       "lanca",
       "musicas",
       "usuario"
+    ],
+    [
+      "agents",
+      "cities",
+      "deploy",
+      "european",
+      "nvidia",
+      "operations",
+      "powered",
+      "smarter",
+      "urban"
+    ],
+    [
+      "ambition",
+      "application",
+      "earthshot",
+      "ecosystem",
+      "enterprise",
+      "moves",
+      "nvidia"
+    ],
+    [
+      "2030",
+      "asml",
+      "expectations",
+      "getting",
+      "interest",
+      "order",
+      "profit",
+      "smashes",
+      "through"
+    ],
+    [
+      "apple",
+      "contratacao",
+      "documentos",
+      "entregar",
+      "justica",
+      "obriga",
+      "openai",
+      "processo"
     ]
   ]
 }
