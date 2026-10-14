@@ -215,7 +215,8 @@
       "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "https://deepmind.google/blog/introducing-gemini-4-argon/",
       "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+      "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
     ],
     "google_ai_blog": [
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -415,9 +416,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3162590",
-      "https://techcrunch.com/?p=3164453",
-      "https://techcrunch.com/?p=3164506",
       "https://techcrunch.com/?p=3164495",
       "https://techcrunch.com/?p=3164327",
       "https://techcrunch.com/?p=3152543",
@@ -714,7 +712,10 @@
       "https://techcrunch.com/?p=3177267",
       "https://techcrunch.com/?p=3173721",
       "https://techcrunch.com/?p=3177352",
-      "https://techcrunch.com/?p=3177406"
+      "https://techcrunch.com/?p=3177406",
+      "https://techcrunch.com/?p=3173266",
+      "https://techcrunch.com/?p=3177414",
+      "https://techcrunch.com/?p=3177396"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=978094",
@@ -1837,7 +1838,8 @@
       "6accf702f14e645f525e1194",
       "6ac6b5428786c5b05ae21266",
       "6a8ef8a7546bfd8351e62e91",
-      "6ace0d6cda1d099f16b1dae2"
+      "6ace0d6cda1d099f16b1dae2",
+      "6ace99f7435a00c3d3a1c4d2"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -1869,7 +1871,8 @@
       "6abafcee7e5d8e000143a00f",
       "6abc47e00607f000019c6329",
       "6ac5639436eaa80001466ae6",
-      "6ac82efd3a04b900019bb126"
+      "6ac82efd3a04b900019bb126",
+      "6acec3f2d4d23400011cc862"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2071,7 +2074,8 @@
       "https://news.ycombinator.com/item?id=50060694",
       "https://news.ycombinator.com/item?id=50063427",
       "https://news.ycombinator.com/item?id=50073879",
-      "https://news.ycombinator.com/item?id=50073633"
+      "https://news.ycombinator.com/item?id=50073633",
+      "https://news.ycombinator.com/item?id=50078141"
     ]
   },
   "mercado": {
@@ -2657,8 +2661,6 @@
       "https://mittechreview.com.br/?p=281235"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1368341",
-      "https://olhardigital.com.br/?p=1368375",
       "https://olhardigital.com.br/?p=1368569",
       "https://olhardigital.com.br/?p=1368580",
       "https://olhardigital.com.br/?p=1368591",
@@ -2956,7 +2958,9 @@
       "https://olhardigital.com.br/?p=1381000",
       "https://olhardigital.com.br/?p=1381039",
       "https://olhardigital.com.br/?p=1381196",
-      "https://olhardigital.com.br/?p=1381210"
+      "https://olhardigital.com.br/?p=1381210",
+      "https://olhardigital.com.br/?p=1381357",
+      "https://olhardigital.com.br/?p=1381345"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3126,7 +3130,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=940609"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/google-prepara-grande-atualizacao-para-acabar-com-a-bagunca-do-gemini-no-celular/",
       "https://canaltech.com.br/eletro/ar-condicionado-portatil-da-xiaomi-usa-ia-para-economizar-energia/",
       "https://canaltech.com.br/inteligencia-artificial/chega-de-se-reexplicar-claude-finalmente-unifica-memoria-do-chat-com-cowork/",
       "https://canaltech.com.br/inteligencia-artificial/controle-total-chatgpt-agora-faz-login-em-sites-para-fazer-tarefas-por-voce/",
@@ -3425,7 +3428,8 @@
       "https://canaltech.com.br/hardware/nvidia-tem-planos-de-lancar-rtx-5080-com-24-gb-e-aposentar-modelo-de-16-gb/",
       "https://canaltech.com.br/games/chefao-da-epic-games-manda-devs-usarem-100-de-ia-para-criar-jogos/",
       "https://canaltech.com.br/apps/dev-cria-clone-gratuito-do-photoshop-word-e-excel-com-ajuda-da-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/elon-musk-junta-x-premium-grok-e-cursor-em-assinatura-unica-e-cara-veja-valores/"
+      "https://canaltech.com.br/inteligencia-artificial/elon-musk-junta-x-premium-grok-e-cursor-em-assinatura-unica-e-cara-veja-valores/",
+      "https://canaltech.com.br/inteligencia-artificial/meta-lanca-novos-agentes-de-ia-com-memoria-continua-e-que-nao-desistem-de-tarefas/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/13/estatisticas-fresquinhas-de-ia-que-voce-precisa-saber-hoje.htm",
@@ -4050,112 +4054,12 @@
       "https://www.mobiletime.com.br/?p=865999",
       "https://www.mobiletime.com.br/?p=866046",
       "https://www.mobiletime.com.br/?p=866140",
-      "https://www.mobiletime.com.br/?p=866205"
+      "https://www.mobiletime.com.br/?p=866205",
+      "https://www.mobiletime.com.br/?p=866383",
+      "https://www.mobiletime.com.br/?p=866402"
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "banir",
-      "claude",
-      "novembro",
-      "partir",
-      "quem",
-      "xingar"
-    ],
-    [
-      "microsoft",
-      "operacional",
-      "quer",
-      "sistema",
-      "transformar",
-      "windows"
-    ],
-    [
-      "aposta",
-      "conheca",
-      "hibrida",
-      "inteligencia",
-      "microsoft"
-    ],
-    [
-      "android",
-      "controlado",
-      "cria",
-      "humanoide",
-      "robo",
-      "universidade"
-    ],
-    [
-      "alegam",
-      "alertas",
-      "demite",
-      "openai",
-      "pesquisadores",
-      "punicao",
-      "trio"
-    ],
-    [
-      "alvo",
-      "claude",
-      "combate",
-      "contra",
-      "crueldade",
-      "esta",
-      "rolando",
-      "vira"
-    ],
-    [
-      "anthropic",
-      "consciencia",
-      "convencer",
-      "papa",
-      "pode",
-      "tentou"
-    ],
-    [
-      "depois",
-      "esta",
-      "mudancas",
-      "regras",
-      "whatsapp",
-      "zapia"
-    ],
-    [
-      "chips",
-      "corrida",
-      "credito",
-      "gargalo"
-    ],
-    [
-      "agente",
-      "campanhas",
-      "clickbus",
-      "cria",
-      "humano",
-      "marketing",
-      "rapido",
-      "time",
-      "vezes"
-    ],
-    [
-      "after",
-      "just",
-      "launch",
-      "maker",
-      "model",
-      "text",
-      "valued",
-      "weeks"
-    ],
-    [
-      "agents",
-      "code",
-      "coding",
-      "generate",
-      "more",
-      "software"
-    ],
     [
       "belonging",
       "center",
@@ -5880,6 +5784,119 @@
       "quer",
       "robos",
       "startup"
+    ],
+    [
+      "against",
+      "announce",
+      "citizens",
+      "deepmind",
+      "google",
+      "government",
+      "protect",
+      "scams",
+      "singapore",
+      "tool"
+    ],
+    [
+      "factory",
+      "industrial",
+      "minutes",
+      "next",
+      "robots",
+      "switch",
+      "tasks",
+      "wants",
+      "weeks"
+    ],
+    [
+      "assistant",
+      "cerebras",
+      "everyone",
+      "future",
+      "home",
+      "nearing",
+      "personal",
+      "where"
+    ],
+    [
+      "chip",
+      "corporation",
+      "disease",
+      "first",
+      "implants",
+      "patient",
+      "restoring",
+      "science",
+      "stargardt",
+      "vision"
+    ],
+    [
+      "allegedly",
+      "chatbot",
+      "device",
+      "employee",
+      "help",
+      "office",
+      "openai",
+      "plant",
+      "recording",
+      "used"
+    ],
+    [
+      "eternal",
+      "reverse",
+      "september"
+    ],
+    [
+      "arrested",
+      "bugging",
+      "conference",
+      "engineer",
+      "executive",
+      "openai",
+      "room"
+    ],
+    [
+      "encontra",
+      "escondido",
+      "escritorio",
+      "funcionario",
+      "gravador",
+      "openai",
+      "preso"
+    ],
+    [
+      "alerta",
+      "anthropic",
+      "eletrodomesticos",
+      "fala",
+      "pode",
+      "replicar"
+    ],
+    [
+      "agentes",
+      "continua",
+      "desistem",
+      "lanca",
+      "memoria",
+      "meta",
+      "novos",
+      "tarefas"
+    ],
+    [
+      "digitais",
+      "governo",
+      "plataformas",
+      "reformula",
+      "regras"
+    ],
+    [
+      "deezer",
+      "exclui",
+      "ferramenta",
+      "lanca",
+      "musicas",
+      "usuario"
     ]
   ]
 }
