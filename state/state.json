@@ -156,7 +156,8 @@
       "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "https://openai.com/index/third-moment-research",
       "https://openai.com/index/amp-beyond-coding",
-      "https://openai.com/index/sentinelone"
+      "https://openai.com/index/sentinelone",
+      "https://openai.com/index/block-ai-powered-security"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -728,7 +729,6 @@
       "https://techcrunch.com/?p=3177812"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=980367",
       "https://www.theverge.com/?p=980502",
       "https://www.theverge.com/?p=980337",
       "https://www.theverge.com/?p=980742",
@@ -1027,7 +1027,8 @@
       "https://www.theverge.com/?p=1011369",
       "https://www.theverge.com/?p=1011417",
       "https://www.theverge.com/?p=1011311",
-      "https://www.theverge.com/?p=1011500"
+      "https://www.theverge.com/?p=1011500",
+      "https://www.theverge.com/?p=1011654"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39794",
@@ -2512,7 +2513,8 @@
       "https://techcrunch.com/?p=3173327",
       "https://techcrunch.com/?p=3170172",
       "https://techcrunch.com/?p=3175750",
-      "https://techcrunch.com/?p=3177766"
+      "https://techcrunch.com/?p=3177766",
+      "https://techcrunch.com/?p=3176253"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -2689,7 +2691,6 @@
       "https://mittechreview.com.br/?p=281235"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1368869",
       "https://olhardigital.com.br/?p=1368895",
       "https://olhardigital.com.br/?p=1368901",
       "https://olhardigital.com.br/?p=1368909",
@@ -2988,7 +2989,8 @@
       "https://olhardigital.com.br/?p=1381592",
       "https://olhardigital.com.br/?p=1381590",
       "https://olhardigital.com.br/?p=1381618",
-      "https://olhardigital.com.br/?p=1381627"
+      "https://olhardigital.com.br/?p=1381627",
+      "https://olhardigital.com.br/?p=1381644"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4093,49 +4095,11 @@
       "https://www.mobiletime.com.br/?p=866140",
       "https://www.mobiletime.com.br/?p=866205",
       "https://www.mobiletime.com.br/?p=866383",
-      "https://www.mobiletime.com.br/?p=866402"
+      "https://www.mobiletime.com.br/?p=866402",
+      "https://www.mobiletime.com.br/?p=866495"
     ]
   },
   "_titulos_recentes": [
-    [
-      "first",
-      "frontier",
-      "meta",
-      "model",
-      "muse",
-      "releases",
-      "wonder"
-    ],
-    [
-      "full",
-      "meta",
-      "models",
-      "some",
-      "wonder"
-    ],
-    [
-      "agents",
-      "better",
-      "chat",
-      "clearing",
-      "find",
-      "helps",
-      "history",
-      "solutions"
-    ],
-    [
-      "better",
-      "blind",
-      "catch",
-      "gets",
-      "improving",
-      "judging",
-      "model",
-      "sakana",
-      "self",
-      "solving",
-      "spots"
-    ],
     [
       "anthropic",
       "claude",
@@ -5911,6 +5875,43 @@
       "revolucao",
       "sexta",
       "tecnologica"
+    ],
+    [
+      "block",
+      "building",
+      "openai",
+      "powered",
+      "security",
+      "technology"
+    ],
+    [
+      "applicants",
+      "client",
+      "fake",
+      "making",
+      "mckinsey",
+      "spar"
+    ],
+    [
+      "agents",
+      "analytics",
+      "both",
+      "cedardb",
+      "database",
+      "handle",
+      "raise",
+      "stakes",
+      "transactions",
+      "wants"
+    ],
+    [
+      "candidatos",
+      "geracao",
+      "imagens",
+      "meta",
+      "nomes",
+      "numeros",
+      "suspende"
     ]
   ]
 }
