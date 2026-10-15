@@ -280,7 +280,8 @@
       "https://about.fb.com/?p=50542",
       "https://about.fb.com/?p=50566",
       "https://about.fb.com/?p=50558",
-      "https://about.fb.com/?p=50588"
+      "https://about.fb.com/?p=50588",
+      "https://about.fb.com/?p=50697"
     ],
     "nvidia_blog": [
       "https://blogs.nvidia.com/?p=96644",
@@ -427,9 +428,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3164815",
-      "https://techcrunch.com/?p=3164427",
-      "https://techcrunch.com/?p=3164997",
       "https://techcrunch.com/?p=3165076",
       "https://techcrunch.com/?p=3165204",
       "https://techcrunch.com/?p=3165213",
@@ -726,7 +724,10 @@
       "https://techcrunch.com/?p=3177470",
       "https://techcrunch.com/?p=3175750",
       "https://techcrunch.com/?p=3177775",
-      "https://techcrunch.com/?p=3177812"
+      "https://techcrunch.com/?p=3177812",
+      "https://techcrunch.com/?p=3175869",
+      "https://techcrunch.com/?p=3177960",
+      "https://techcrunch.com/?p=3177541"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=980502",
@@ -1892,7 +1893,8 @@
       "6abc47e00607f000019c6329",
       "6ac5639436eaa80001466ae6",
       "6ac82efd3a04b900019bb126",
-      "6acec3f2d4d23400011cc862"
+      "6acec3f2d4d23400011cc862",
+      "6ac92d517ce9570001c9d80b"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2096,13 +2098,12 @@
       "https://news.ycombinator.com/item?id=50073879",
       "https://news.ycombinator.com/item?id=50073633",
       "https://news.ycombinator.com/item?id=50078141",
-      "https://news.ycombinator.com/item?id=50091788"
+      "https://news.ycombinator.com/item?id=50091788",
+      "https://news.ycombinator.com/item?id=50094694"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108355013",
-      "108355257",
       "108355213",
       "108355266",
       "108355311",
@@ -2400,7 +2401,9 @@
       "108409344",
       "108409775",
       "108409464",
-      "108409084"
+      "108409084",
+      "108411492",
+      "108411835"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2691,9 +2694,6 @@
       "https://mittechreview.com.br/?p=281235"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1368895",
-      "https://olhardigital.com.br/?p=1368901",
-      "https://olhardigital.com.br/?p=1368909",
       "https://olhardigital.com.br/?p=1368926",
       "https://olhardigital.com.br/?p=1368929",
       "https://olhardigital.com.br/?p=1368936",
@@ -2990,7 +2990,10 @@
       "https://olhardigital.com.br/?p=1381590",
       "https://olhardigital.com.br/?p=1381618",
       "https://olhardigital.com.br/?p=1381627",
-      "https://olhardigital.com.br/?p=1381644"
+      "https://olhardigital.com.br/?p=1381644",
+      "https://olhardigital.com.br/?p=1381658",
+      "https://olhardigital.com.br/?p=1381671",
+      "https://olhardigital.com.br/?p=1381679"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4100,91 +4103,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "claude",
-      "false",
-      "murder",
-      "philadelphia",
-      "police",
-      "submitted"
-    ],
-    [
-      "development",
-      "epic",
-      "first",
-      "game",
-      "games",
-      "model",
-      "pivoting",
-      "reportedly"
-    ],
-    [
-      "about",
-      "bragged",
-      "elon",
-      "grok",
-      "haul",
-      "lego",
-      "musk",
-      "punked",
-      "star",
-      "then",
-      "users",
-      "wars"
-    ],
-    [
-      "contributions",
-      "enacts",
-      "moratorium",
-      "qgis"
-    ],
-    [
-      "legal"
-    ],
-    [
-      "muse",
-      "wonder"
-    ],
-    [
-      "background",
-      "codex",
-      "daemon",
-      "default",
-      "installs",
-      "persistent",
-      "self",
-      "updating"
-    ],
-    [
-      "debuts",
-      "latest",
-      "meta",
-      "model",
-      "muse",
-      "test",
-      "users",
-      "willingness",
-      "wonder"
-    ],
-    [
-      "freio",
-      "gastos",
-      "meta",
-      "novos",
-      "promete",
-      "rejeita",
-      "zuckerberg"
-    ],
-    [
-      "desenvolvedor",
-      "disponibiliza",
-      "excel",
-      "graca",
-      "photoshop",
-      "recria",
-      "word"
-    ],
     [
       "auxilio",
       "criado",
@@ -5912,6 +5830,108 @@
       "nomes",
       "numeros",
       "suspende"
+    ],
+    [
+      "business",
+      "guidance",
+      "makes",
+      "more",
+      "most",
+      "need",
+      "owners",
+      "productive",
+      "quarters",
+      "small",
+      "than",
+      "them",
+      "three"
+    ],
+    [
+      "before",
+      "crises",
+      "erupt",
+      "gudea",
+      "help",
+      "leverages",
+      "media",
+      "organizations",
+      "prevent",
+      "social",
+      "they"
+    ],
+    [
+      "betting",
+      "chips",
+      "compute",
+      "crisis",
+      "designed",
+      "help",
+      "intelligence",
+      "ricursive",
+      "solve"
+    ],
+    [
+      "agents",
+      "announces",
+      "define",
+      "features",
+      "figma",
+      "platform",
+      "work"
+    ],
+    [
+      "come",
+      "openai",
+      "states"
+    ],
+    [
+      "anthropic",
+      "heavily",
+      "inspired",
+      "mononoke",
+      "scion"
+    ],
+    [
+      "amid",
+      "asia",
+      "fears",
+      "funding",
+      "hike",
+      "hynix",
+      "mount",
+      "plunge",
+      "rate",
+      "rout",
+      "shares",
+      "tech",
+      "worries"
+    ],
+    [
+      "ahead",
+      "anthropic",
+      "billion",
+      "quarter",
+      "revenue",
+      "said",
+      "third"
+    ],
+    [
+      "abertura",
+      "anthropic",
+      "bilhoes",
+      "capital",
+      "fatura",
+      "trimestre",
+      "vesperas"
+    ],
+    [
+      "apple",
+      "avancar",
+      "desafia",
+      "mercado",
+      "supera",
+      "trilhoes",
+      "valor"
     ]
   ]
 }
