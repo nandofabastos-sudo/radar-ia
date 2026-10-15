@@ -348,7 +348,9 @@
       "https://blogs.nvidia.com/?p=98737",
       "https://blogs.nvidia.com/?p=98768",
       "https://blogs.nvidia.com/?p=98818",
-      "https://blogs.nvidia.com/?p=98835"
+      "https://blogs.nvidia.com/?p=98835",
+      "https://blogs.nvidia.com/?p=98901",
+      "https://blogs.nvidia.com/?p=98912"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -1032,7 +1034,6 @@
       "https://www.theverge.com/?p=1011654"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39794",
       "https://the-decoder.com/?p=39798",
       "https://the-decoder.com/?p=39804",
       "https://the-decoder.com/?p=39817",
@@ -1331,7 +1332,8 @@
       "https://the-decoder.com/?p=41530",
       "https://the-decoder.com/?p=41537",
       "https://the-decoder.com/?p=41540",
-      "https://the-decoder.com/?p=41548"
+      "https://the-decoder.com/?p=41548",
+      "https://the-decoder.com/?p=41553"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2104,7 +2106,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108355213",
       "108355266",
       "108355311",
       "108355464",
@@ -2403,7 +2404,8 @@
       "108409464",
       "108409084",
       "108411492",
-      "108411835"
+      "108411835",
+      "108408699"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2691,11 +2693,10 @@
       "https://mittechreview.com.br/?p=278892",
       "https://mittechreview.com.br/?p=278917",
       "https://mittechreview.com.br/?p=279504",
-      "https://mittechreview.com.br/?p=281235"
+      "https://mittechreview.com.br/?p=281235",
+      "https://mittechreview.com.br/?p=281719"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1368926",
-      "https://olhardigital.com.br/?p=1368929",
       "https://olhardigital.com.br/?p=1368936",
       "https://olhardigital.com.br/?p=1368906",
       "https://olhardigital.com.br/?p=1368971",
@@ -2993,7 +2994,9 @@
       "https://olhardigital.com.br/?p=1381644",
       "https://olhardigital.com.br/?p=1381658",
       "https://olhardigital.com.br/?p=1381671",
-      "https://olhardigital.com.br/?p=1381679"
+      "https://olhardigital.com.br/?p=1381679",
+      "https://olhardigital.com.br/?p=1381699",
+      "https://olhardigital.com.br/?p=1381628"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3467,8 +3470,6 @@
       "https://canaltech.com.br/mercado/zesto-99-lanca-sistema-com-ia-para-pequenos-restaurantes-veja-como-funciona/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/14/china-rejeita-apelo-dos-eua-para-desacelerar-ia.ghtm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/14/frear-ia-em-excesso-pode-beneficiar-china-diz-presidente-da-camara-dos-eua.htm",
       "https://www.uol.com.br/tilt/ultimas-noticias/rfi/2026/09/14/e-possivel-desacelerar-o-desenvolvimento-da-ia-apocaliptica.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/14/jornal-estatal-chines-critica-apelos-daanthropic-para-desacelerar-ia-e-ve-tatica-da-guerra-fria.htm",
       "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/09/14/apos-polemica-sobre-ia-microsoft-divulga-codigo-de-conduta-para-ferramenta-onu-faz-novo-alerta.htm",
@@ -3766,7 +3767,9 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/14/engenheiro-da-openai-e-preso-pelo-fbi-apos-instalar-dispositivo-de-espionagem.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/10/14/ia-pode-causar-incidentes-graves-em-ate-2-anos-alerta-chefe-do-google.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/14/openai-acusa-ex-funcionario-que-foi-para-apple-de-levar-arquivos-sobre-dispositivo-nao-lancado.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/14/estados-dos-eua-dizem-quechatgpt-prejudica-jovens-e-processam-openai.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/14/estados-dos-eua-dizem-quechatgpt-prejudica-jovens-e-processam-openai.htm",
+      "https://www.uol.com.br/flash/?c=6acf9aad8fae8c7ce5b0c7dc",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/15/chatgpt-da-energia-acha-em-minutos-de-poste-fake-a-conserto-mal-feito.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4103,69 +4106,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "auxilio",
-      "criado",
-      "office",
-      "rival"
-    ],
-    [
-      "enem",
-      "estudar",
-      "melhores"
-    ],
-    [
-      "chips",
-      "custos",
-      "grande",
-      "implantacao",
-      "microsoft",
-      "planeja",
-      "proprios",
-      "reduzir"
-    ],
-    [
-      "anthropic",
-      "disputar",
-      "espaco",
-      "lanca",
-      "meta",
-      "openai"
-    ],
-    [
-      "alcancado",
-      "bilionaria",
-      "corrida",
-      "ofensiva",
-      "prepara",
-      "rivais",
-      "zuckerberg"
-    ],
-    [
-      "agora",
-      "assinatura",
-      "cursor",
-      "fazem",
-      "grok",
-      "parte",
-      "premium"
-    ],
-    [
-      "agentic",
-      "computing",
-      "delivers",
-      "earth",
-      "ecosystem",
-      "france",
-      "nvidia",
-      "orbit",
-      "scale"
-    ],
-    [
-      "bankruptcy",
-      "character",
-      "files"
-    ],
     [
       "across",
       "anthropic",
@@ -5932,6 +5872,95 @@
       "supera",
       "trilhoes",
       "valor"
+    ],
+    [
+      "advanced",
+      "commits",
+      "computing",
+      "nordics",
+      "nvidia",
+      "possible",
+      "region",
+      "show",
+      "what",
+      "when"
+    ],
+    [
+      "access",
+      "advanced",
+      "collaborations",
+      "community",
+      "compute",
+      "europe",
+      "expands",
+      "learning",
+      "nvidia",
+      "open",
+      "resources",
+      "scientific",
+      "technology",
+      "through"
+    ],
+    [
+      "ahead",
+      "anthropic",
+      "growth",
+      "hits",
+      "november",
+      "planned",
+      "revenue",
+      "slows"
+    ],
+    [
+      "beating",
+      "boom",
+      "estimates",
+      "posts",
+      "profit",
+      "quarter",
+      "record",
+      "sixth",
+      "straight",
+      "tsmc"
+    ],
+    [
+      "comprando",
+      "dados",
+      "estao",
+      "fecharam",
+      "laboratorios",
+      "modelos",
+      "portas",
+      "seus",
+      "startups",
+      "treinar"
+    ],
+    [
+      "apple",
+      "crescendo",
+      "escala",
+      "openai",
+      "processada",
+      "resumo"
+    ],
+    [
+      "ajudar",
+      "caes",
+      "canina",
+      "dizem",
+      "entender",
+      "pode",
+      "tecnologia"
+    ],
+    [
+      "acha",
+      "chatgpt",
+      "conserto",
+      "energia",
+      "fake",
+      "feito",
+      "minutos",
+      "poste"
     ]
   ]
 }
