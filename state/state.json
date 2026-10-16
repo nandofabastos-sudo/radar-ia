@@ -1877,7 +1877,8 @@
       "6acdc338d04b6454bd09a4da",
       "6ace55f4b718d45618194c75",
       "6acfd026baa8001981e8823c",
-      "6acfb7fb7efaf68414339c74"
+      "6acfb7fb7efaf68414339c74",
+      "6acd00154e5c3c4c4af4d8df"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2117,12 +2118,12 @@
       "https://news.ycombinator.com/item?id=50078141",
       "https://news.ycombinator.com/item?id=50091788",
       "https://news.ycombinator.com/item?id=50094694",
-      "https://news.ycombinator.com/item?id=50107379"
+      "https://news.ycombinator.com/item?id=50107379",
+      "https://news.ycombinator.com/item?id=50105648"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108355724",
       "108356093",
       "108356258",
       "108356290",
@@ -2421,7 +2422,8 @@
       "108409340",
       "108415347",
       "108415327",
-      "108416000"
+      "108416000",
+      "108415475"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2613,7 +2615,8 @@
       "https://news.crunchbase.com/?p=94222",
       "https://news.crunchbase.com/?p=94233",
       "https://news.crunchbase.com/?p=94231",
-      "https://news.crunchbase.com/?p=94227"
+      "https://news.crunchbase.com/?p=94227",
+      "https://news.crunchbase.com/?p=94235"
     ]
   },
   "brasil": {
@@ -2718,10 +2721,10 @@
       "https://mittechreview.com.br/?p=279504",
       "https://mittechreview.com.br/?p=281235",
       "https://mittechreview.com.br/?p=281719",
-      "https://mittechreview.com.br/?p=281959"
+      "https://mittechreview.com.br/?p=281959",
+      "https://mittechreview.com.br/?p=281944"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1369672",
       "https://olhardigital.com.br/?p=1369712",
       "https://olhardigital.com.br/?p=1369736",
       "https://olhardigital.com.br/?p=1369744",
@@ -3020,7 +3023,8 @@
       "https://olhardigital.com.br/?p=1381884",
       "https://olhardigital.com.br/?p=1381886",
       "https://olhardigital.com.br/?p=1381888",
-      "https://olhardigital.com.br/?p=1381892"
+      "https://olhardigital.com.br/?p=1381892",
+      "https://olhardigital.com.br/?p=1381908"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3497,7 +3501,6 @@
       "https://canaltech.com.br/mercado/quintoandar-lanca-plataforma-para-imobiliarias-e-ia-em-curitiba/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/14/lagarde-alerta-que-europa-enfrenta-risco-sem-precedentes-de-ficar-isolada-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/14/microsoft-elabora-codigo-de-conduta-para-manter-sua-ia-sob-controle-humano.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/14/anthropic-mira-consultores-financeiros-com-nova-ferramenta-do-claude.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/14/trump-rebate-freio-na-ia-e-diz-que-presidente-forte-e-o-unico-limite.htm",
@@ -3796,7 +3799,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/15/ex-engenheiro-da-openai-e-acusado-de-esconder-gravador-e-tentar-fugir.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/15/preocupacoes-com-creditode-ia-levam-seguro-contra-calote-para-nivel-recorde.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/15/amazon-lanca-dois-dispositivos-portateis-de-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/15/openai-e-meta-alertam-poder-judiciario-dos-eua-sobre-risco-de-provas-deepfake.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/15/openai-e-meta-alertam-poder-judiciario-dos-eua-sobre-risco-de-provas-deepfake.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/16/ia-ja-nao-deveria-estar-curando-doencas-o-que-ja-e-realidade---de-vacina-a-remedios.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4137,67 +4141,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "digitais",
-      "governo",
-      "plataformas",
-      "reformula",
-      "regras"
-    ],
-    [
-      "deezer",
-      "exclui",
-      "ferramenta",
-      "lanca",
-      "musicas",
-      "usuario"
-    ],
-    [
-      "agents",
-      "cities",
-      "deploy",
-      "european",
-      "nvidia",
-      "operations",
-      "powered",
-      "smarter",
-      "urban"
-    ],
-    [
-      "ambition",
-      "application",
-      "earthshot",
-      "ecosystem",
-      "enterprise",
-      "moves",
-      "nvidia"
-    ],
-    [
-      "2030",
-      "asml",
-      "expectations",
-      "getting",
-      "interest",
-      "order",
-      "profit",
-      "smashes",
-      "through"
-    ],
-    [
-      "apple",
-      "contratacao",
-      "documentos",
-      "entregar",
-      "justica",
-      "obriga",
-      "openai",
-      "processo"
-    ],
-    [
-      "agentic",
-      "chapter",
-      "next"
-    ],
     [
       "anthropic"
     ],
@@ -6004,6 +5947,64 @@
       "lanca",
       "plataforma",
       "quintoandar"
+    ],
+    [
+      "boost",
+      "comedians",
+      "content",
+      "generated",
+      "girls",
+      "horny",
+      "ripping",
+      "their"
+    ],
+    [
+      "built",
+      "editing",
+      "image",
+      "krea",
+      "model",
+      "scale"
+    ],
+    [
+      "council",
+      "investigation",
+      "manager",
+      "part",
+      "policy",
+      "safety",
+      "spacex",
+      "testify"
+    ],
+    [
+      "asia",
+      "driven",
+      "funding",
+      "high",
+      "near",
+      "record",
+      "startup"
+    ],
+    [
+      "estrategica",
+      "formacao",
+      "graduacao"
+    ],
+    [
+      "anthropic",
+      "dados",
+      "reduzido",
+      "resumo",
+      "ticketmaster",
+      "vazamento"
+    ],
+    [
+      "cancer",
+      "contra",
+      "medicina",
+      "realidade",
+      "remedio",
+      "vacina"
     ]
   ]
 }
