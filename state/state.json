@@ -441,11 +441,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3165579",
-      "https://techcrunch.com/?p=3165543",
-      "https://techcrunch.com/?p=3165591",
-      "https://techcrunch.com/?p=3164863",
-      "https://techcrunch.com/?p=3165059",
       "https://techcrunch.com/?p=3165707",
       "https://techcrunch.com/?p=3165739",
       "https://techcrunch.com/?p=3165784",
@@ -740,11 +735,14 @@
       "https://techcrunch.com/?p=3178367",
       "https://techcrunch.com/?p=3178363",
       "https://techcrunch.com/?p=3178309",
-      "https://techcrunch.com/?p=3178431"
+      "https://techcrunch.com/?p=3178431",
+      "https://techcrunch.com/?p=3178541",
+      "https://techcrunch.com/?p=3177529",
+      "https://techcrunch.com/?p=3178550",
+      "https://techcrunch.com/?p=3178711",
+      "https://techcrunch.com/?p=3178756"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=981668",
-      "https://www.theverge.com/?p=982270",
       "https://www.theverge.com/?p=982323",
       "https://www.theverge.com/?p=982425",
       "https://www.theverge.com/?p=982628",
@@ -1042,13 +1040,11 @@
       "https://www.theverge.com/?p=1012445",
       "https://www.theverge.com/?p=1012438",
       "https://www.theverge.com/?p=1012512",
-      "https://www.theverge.com/?p=1012510"
+      "https://www.theverge.com/?p=1012510",
+      "https://www.theverge.com/?p=1012846",
+      "https://www.theverge.com/?p=1012748"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39843",
-      "https://the-decoder.com/?p=39806",
-      "https://the-decoder.com/?p=39851",
-      "https://the-decoder.com/?p=39858",
       "https://the-decoder.com/?p=39861",
       "https://the-decoder.com/?p=39867",
       "https://the-decoder.com/?p=39877",
@@ -1344,7 +1340,11 @@
       "https://the-decoder.com/?p=41575",
       "https://the-decoder.com/?p=41558",
       "https://the-decoder.com/?p=41595",
-      "https://the-decoder.com/?p=41600"
+      "https://the-decoder.com/?p=41600",
+      "https://the-decoder.com/?p=41608",
+      "https://the-decoder.com/?p=41607",
+      "https://the-decoder.com/?p=41605",
+      "https://the-decoder.com/?p=41620"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1515,7 +1515,9 @@
       "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
       "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
       "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+      "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1878,7 +1880,8 @@
       "6ace55f4b718d45618194c75",
       "6acfd026baa8001981e8823c",
       "6acfb7fb7efaf68414339c74",
-      "6acd00154e5c3c4c4af4d8df"
+      "6acd00154e5c3c4c4af4d8df",
+      "6ad1204cb10b053f192727b9"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2124,7 +2127,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108356093",
       "108356258",
       "108356290",
       "108356468",
@@ -2423,7 +2425,8 @@
       "108415347",
       "108415327",
       "108416000",
-      "108415475"
+      "108415475",
+      "108419549"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2725,7 +2728,6 @@
       "https://mittechreview.com.br/?p=281944"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1369712",
       "https://olhardigital.com.br/?p=1369736",
       "https://olhardigital.com.br/?p=1369744",
       "https://olhardigital.com.br/?p=1369747",
@@ -3024,7 +3026,8 @@
       "https://olhardigital.com.br/?p=1381886",
       "https://olhardigital.com.br/?p=1381888",
       "https://olhardigital.com.br/?p=1381892",
-      "https://olhardigital.com.br/?p=1381908"
+      "https://olhardigital.com.br/?p=1381908",
+      "https://olhardigital.com.br/?p=1382024"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3199,8 +3202,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=941409"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/o-que-e-um-roteador-de-ia-veja-como-usar/",
-      "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-assistente-e-agente-de-ia/",
       "https://canaltech.com.br/apps/samsung-prepara-bloqueador-de-golpes-com-ia-para-galaxy-s27-e-modelos-antigos/",
       "https://canaltech.com.br/inteligencia-artificial/processo-acusa-elon-musk-de-treinar-grok-com-imagens-de-abuso-sexual-infantil/",
       "https://canaltech.com.br/inteligencia-artificial/ia-do-google-agora-puxa-informacoes-dos-livros-que-voce-comprou-veja-utilidade/",
@@ -3498,12 +3499,11 @@
       "https://canaltech.com.br/apps/app-do-nubank-ganha-ia-que-avalia-carteira-e-sugere-investimentos/",
       "https://canaltech.com.br/produtos/amazon-lanca-gravadores-com-ia-que-podem-ouvir-voce-o-dia-todo/",
       "https://canaltech.com.br/inteligencia-artificial/agente-de-ia-apaga-temporada-inteira-de-reality-show-dias-antes-da-estreia/",
-      "https://canaltech.com.br/mercado/quintoandar-lanca-plataforma-para-imobiliarias-e-ia-em-curitiba/"
+      "https://canaltech.com.br/mercado/quintoandar-lanca-plataforma-para-imobiliarias-e-ia-em-curitiba/",
+      "https://canaltech.com.br/inteligencia-artificial/google-ouve-usuarios-e-faz-mudanca-importante-na-busca-por-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-le-suas-abas-do-chrome-e-faz-tarefas-por-voce/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/14/microsoft-elabora-codigo-de-conduta-para-manter-sua-ia-sob-controle-humano.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/14/anthropic-mira-consultores-financeiros-com-nova-ferramenta-do-claude.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/14/trump-rebate-freio-na-ia-e-diz-que-presidente-forte-e-o-unico-limite.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/14/e-possivel-desacelerar-o-desenvolvimento-da-ia.htm",
       "https://www.uol.com.br/flash/?c=6aa81d35162bc0428c97d668",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/14/trump-classifica-como-farsa-temor-de-que-ia-pode-destruir-humanidade.htm",
@@ -3800,7 +3800,10 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/15/preocupacoes-com-creditode-ia-levam-seguro-contra-calote-para-nivel-recorde.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/15/amazon-lanca-dois-dispositivos-portateis-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/15/openai-e-meta-alertam-poder-judiciario-dos-eua-sobre-risco-de-provas-deepfake.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/16/ia-ja-nao-deveria-estar-curando-doencas-o-que-ja-e-realidade---de-vacina-a-remedios.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/16/ia-ja-nao-deveria-estar-curando-doencas-o-que-ja-e-realidade---de-vacina-a-remedios.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/16/alemanha-vai-anunciar-acordo-com-nvidia-sobre-ia-na-proxima-semana-segundo-fontes-do-governo.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/10/16/ceo-da-nvidia-preve-que-todas-as-empresas-serao-companhias-de-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/16/meta-pode-usar-noticias-de-sites-para-treinar-ia-sem-pagar.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4005,7 +4008,8 @@
       "https://startups.com.br/?p=342040",
       "https://startups.com.br/?p=342012",
       "https://startups.com.br/?p=342114",
-      "https://startups.com.br/?p=342125"
+      "https://startups.com.br/?p=342125",
+      "https://startups.com.br/?p=342134"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -4137,216 +4141,12 @@
       "https://www.mobiletime.com.br/?p=866383",
       "https://www.mobiletime.com.br/?p=866402",
       "https://www.mobiletime.com.br/?p=866495",
-      "https://www.mobiletime.com.br/?p=865521"
+      "https://www.mobiletime.com.br/?p=865521",
+      "https://www.mobiletime.com.br/?p=866676",
+      "https://www.mobiletime.com.br/?p=866297"
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic"
-    ],
-    [
-      "challenge",
-      "china",
-      "critical",
-      "grip",
-      "materials",
-      "raises",
-      "scimplify"
-    ],
-    [
-      "account",
-      "alleged",
-      "chatbot",
-      "coded",
-      "device",
-      "openai",
-      "surveillance",
-      "using",
-      "vibe",
-      "wife"
-    ],
-    [
-      "easily",
-      "google",
-      "into",
-      "making",
-      "models",
-      "nudes",
-      "openai",
-      "pushing",
-      "researchers",
-      "tricked"
-    ],
-    [
-      "activity",
-      "assist",
-      "easily",
-      "extremist",
-      "models",
-      "modified",
-      "terrorist"
-    ],
-    [
-      "about",
-      "faking",
-      "know",
-      "much",
-      "stop",
-      "they"
-    ],
-    [
-      "friend",
-      "soul"
-    ],
-    [
-      "gadgets",
-      "giants",
-      "holiday",
-      "race",
-      "rush",
-      "shelves",
-      "tech"
-    ],
-    [
-      "blockbuster",
-      "board",
-      "companies",
-      "crunchbase",
-      "fintech",
-      "join",
-      "semiconductor",
-      "september",
-      "space",
-      "tech",
-      "unicorn"
-    ],
-    [
-      "learned",
-      "minimum",
-      "problems",
-      "product",
-      "some",
-      "startup",
-      "viable"
-    ],
-    [
-      "exclusive",
-      "founder",
-      "marketing",
-      "marklo",
-      "next",
-      "raises",
-      "startup",
-      "stella"
-    ],
-    [
-      "aponta",
-      "domina",
-      "pesquisa",
-      "pode",
-      "quem",
-      "tecnologia",
-      "trabalho",
-      "trazer"
-    ],
-    [
-      "5090",
-      "encerra",
-      "focar",
-      "morreu",
-      "mundo",
-      "nvidia",
-      "placa",
-      "poderosa"
-    ],
-    [
-      "apps",
-      "baixar",
-      "chat",
-      "direto",
-      "ganha",
-      "gemini",
-      "integracao",
-      "play",
-      "store"
-    ],
-    [
-      "alerta",
-      "casa",
-      "esta",
-      "igual",
-      "invadir",
-      "prestes",
-      "replicar",
-      "virus"
-    ],
-    [
-      "investir",
-      "milhoes",
-      "nvidia",
-      "promete",
-      "reino",
-      "seguranca",
-      "unido"
-    ],
-    [
-      "alerta",
-      "anos",
-      "causar",
-      "chefe",
-      "google",
-      "graves",
-      "incidentes",
-      "pode"
-    ],
-    [
-      "artificial",
-      "clique",
-      "disputa",
-      "inteligencia",
-      "migra",
-      "pelo",
-      "varejo"
-    ],
-    [
-      "baterias",
-      "centers",
-      "corrida",
-      "cpfl",
-      "data",
-      "eletrica",
-      "plano",
-      "plugar",
-      "rede"
-    ],
-    [
-      "agentes",
-      "atende",
-      "lanca",
-      "operadora",
-      "quem",
-      "salvy"
-    ],
-    [
-      "agents",
-      "hours",
-      "moment",
-      "research",
-      "runs",
-      "third"
-    ],
-    [
-      "agents",
-      "beyond",
-      "code",
-      "models",
-      "openai",
-      "puts",
-      "work"
-    ],
-    [
-      "posts"
-    ],
     [
       "grok"
     ],
@@ -6005,6 +5805,221 @@
       "realidade",
       "remedio",
       "vacina"
+    ],
+    [
+      "company",
+      "driving",
+      "future",
+      "replit",
+      "self",
+      "work"
+    ],
+    [
+      "anti",
+      "bottles",
+      "chip",
+      "counterfeit",
+      "expands",
+      "fragrance",
+      "jewelry",
+      "trophies",
+      "veritas"
+    ],
+    [
+      "being",
+      "carrying",
+      "clone",
+      "film",
+      "legacy",
+      "mark",
+      "open",
+      "right",
+      "using",
+      "wahlberg"
+    ],
+    [
+      "adopted",
+      "ever",
+      "fastest",
+      "model",
+      "vercel"
+    ],
+    [
+      "about",
+      "elorian",
+      "first",
+      "images",
+      "just",
+      "model",
+      "reason",
+      "them",
+      "wants"
+    ],
+    [
+      "allow",
+      "free",
+      "meta",
+      "news",
+      "sites",
+      "terms",
+      "train"
+    ],
+    [
+      "everything",
+      "laptops",
+      "learned",
+      "nvidia",
+      "spark",
+      "using",
+      "week"
+    ],
+    [
+      "access",
+      "anthropic",
+      "audit",
+      "gives",
+      "inside",
+      "metr",
+      "models",
+      "practices",
+      "safety"
+    ],
+    [
+      "breakthrough",
+      "close",
+      "divided",
+      "essay",
+      "interpretability",
+      "researchers"
+    ],
+    [
+      "argon",
+      "closer",
+      "frontier",
+      "gemini",
+      "google",
+      "model",
+      "months",
+      "than"
+    ],
+    [
+      "catch",
+      "documentary",
+      "romance",
+      "scam",
+      "scammer",
+      "shows",
+      "super",
+      "takes",
+      "what"
+    ],
+    [
+      "avoid",
+      "commercial",
+      "fees",
+      "licensing",
+      "meta",
+      "millions",
+      "sweeping"
+    ],
+    [
+      "chatbots",
+      "maybe",
+      "shouldn"
+    ],
+    [
+      "bugging",
+      "case",
+      "clayton",
+      "leadership",
+      "national",
+      "openai",
+      "saudi",
+      "shows",
+      "threat"
+    ],
+    [
+      "brasil",
+      "crise",
+      "duas",
+      "eleicao",
+      "favorecimento",
+      "gerou",
+      "menos",
+      "meta",
+      "politica",
+      "semanas"
+    ],
+    [
+      "busca",
+      "google",
+      "importante",
+      "mudanca",
+      "ouve",
+      "usuarios"
+    ],
+    [
+      "abas",
+      "agora",
+      "chatgpt",
+      "chrome",
+      "suas",
+      "tarefas",
+      "voce"
+    ],
+    [
+      "acordo",
+      "alemanha",
+      "anunciar",
+      "fontes",
+      "governo",
+      "nvidia",
+      "proxima",
+      "segundo",
+      "semana"
+    ],
+    [
+      "companhias",
+      "empresas",
+      "nvidia",
+      "preve",
+      "serao",
+      "todas"
+    ],
+    [
+      "aberto",
+      "brecha",
+      "empresa",
+      "meta",
+      "nega",
+      "noticias",
+      "teria",
+      "usar"
+    ],
+    [
+      "criacao",
+      "hackathon",
+      "lancam",
+      "negocios",
+      "replit",
+      "startups"
+    ],
+    [
+      "agora",
+      "atendimento",
+      "colocaram",
+      "empresas",
+      "exigem",
+      "humana",
+      "novas",
+      "presenca",
+      "regras"
+    ],
+    [
+      "acuidar",
+      "cuidadores",
+      "encontrar",
+      "grupo"
     ]
   ]
 }
