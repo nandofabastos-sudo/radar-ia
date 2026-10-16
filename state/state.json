@@ -3195,7 +3195,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=941409"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/dicas-como-treinar-memoria-do-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-um-roteador-de-ia-veja-como-usar/",
       "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-assistente-e-agente-de-ia/",
       "https://canaltech.com.br/apps/samsung-prepara-bloqueador-de-golpes-com-ia-para-galaxy-s27-e-modelos-antigos/",
@@ -3494,7 +3493,8 @@
       "https://canaltech.com.br/apps/adeus-one-ui-samsung-pode-lancar-galaxy-os-com-foco-total-em-ia/",
       "https://canaltech.com.br/apps/app-do-nubank-ganha-ia-que-avalia-carteira-e-sugere-investimentos/",
       "https://canaltech.com.br/produtos/amazon-lanca-gravadores-com-ia-que-podem-ouvir-voce-o-dia-todo/",
-      "https://canaltech.com.br/inteligencia-artificial/agente-de-ia-apaga-temporada-inteira-de-reality-show-dias-antes-da-estreia/"
+      "https://canaltech.com.br/inteligencia-artificial/agente-de-ia-apaga-temporada-inteira-de-reality-show-dias-antes-da-estreia/",
+      "https://canaltech.com.br/mercado/quintoandar-lanca-plataforma-para-imobiliarias-e-ia-em-curitiba/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/14/lagarde-alerta-que-europa-enfrenta-risco-sem-precedentes-de-ficar-isolada-da-ia.htm",
@@ -4137,16 +4137,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agentes",
-      "continua",
-      "desistem",
-      "lanca",
-      "memoria",
-      "meta",
-      "novos",
-      "tarefas"
-    ],
     [
       "digitais",
       "governo",
@@ -6007,6 +5997,13 @@
       "navegador",
       "pode",
       "tarefas"
+    ],
+    [
+      "curitiba",
+      "imobiliarias",
+      "lanca",
+      "plataforma",
+      "quintoandar"
     ]
   ]
 }
