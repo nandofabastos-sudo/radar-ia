@@ -159,7 +159,8 @@
       "https://openai.com/index/sentinelone",
       "https://openai.com/index/block-ai-powered-security",
       "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "https://openai.com/index/sullivan-cromwell"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -440,7 +441,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3165515",
       "https://techcrunch.com/?p=3165579",
       "https://techcrunch.com/?p=3165543",
       "https://techcrunch.com/?p=3165591",
@@ -739,14 +739,10 @@
       "https://techcrunch.com/?p=3178080",
       "https://techcrunch.com/?p=3178367",
       "https://techcrunch.com/?p=3178363",
-      "https://techcrunch.com/?p=3178309"
+      "https://techcrunch.com/?p=3178309",
+      "https://techcrunch.com/?p=3178431"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=981194",
-      "https://www.theverge.com/?p=981269",
-      "https://www.theverge.com/?p=981283",
-      "https://www.theverge.com/?p=981640",
-      "https://www.theverge.com/?p=981644",
       "https://www.theverge.com/?p=981668",
       "https://www.theverge.com/?p=982270",
       "https://www.theverge.com/?p=982323",
@@ -1041,7 +1037,12 @@
       "https://www.theverge.com/?p=1011927",
       "https://www.theverge.com/?p=1011996",
       "https://www.theverge.com/?p=1011938",
-      "https://www.theverge.com/?p=1012293"
+      "https://www.theverge.com/?p=1012293",
+      "https://www.theverge.com/?p=1012374",
+      "https://www.theverge.com/?p=1012445",
+      "https://www.theverge.com/?p=1012438",
+      "https://www.theverge.com/?p=1012512",
+      "https://www.theverge.com/?p=1012510"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39843",
@@ -2537,7 +2538,8 @@
       "https://techcrunch.com/?p=3176253",
       "https://techcrunch.com/?p=3175869",
       "https://techcrunch.com/?p=3177960",
-      "https://techcrunch.com/?p=3178053"
+      "https://techcrunch.com/?p=3178053",
+      "https://techcrunch.com/?p=3178431"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -2719,10 +2721,6 @@
       "https://mittechreview.com.br/?p=281959"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1369323",
-      "https://olhardigital.com.br/?p=1369345",
-      "https://olhardigital.com.br/?p=1369503",
-      "https://olhardigital.com.br/?p=1369687",
       "https://olhardigital.com.br/?p=1369672",
       "https://olhardigital.com.br/?p=1369712",
       "https://olhardigital.com.br/?p=1369736",
@@ -3018,7 +3016,11 @@
       "https://olhardigital.com.br/?p=1381744",
       "https://olhardigital.com.br/?p=1381781",
       "https://olhardigital.com.br/?p=1381799",
-      "https://olhardigital.com.br/?p=1381807"
+      "https://olhardigital.com.br/?p=1381807",
+      "https://olhardigital.com.br/?p=1381884",
+      "https://olhardigital.com.br/?p=1381886",
+      "https://olhardigital.com.br/?p=1381888",
+      "https://olhardigital.com.br/?p=1381892"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4135,112 +4137,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "dispositivo",
-      "dizem",
-      "empresa",
-      "engenheiro",
-      "espionagem",
-      "instalar",
-      "openai",
-      "preso"
-    ],
-    [
-      "aporte",
-      "deepseek",
-      "inteligencia",
-      "quer",
-      "robos",
-      "startup"
-    ],
-    [
-      "against",
-      "announce",
-      "citizens",
-      "deepmind",
-      "google",
-      "government",
-      "protect",
-      "scams",
-      "singapore",
-      "tool"
-    ],
-    [
-      "factory",
-      "industrial",
-      "minutes",
-      "next",
-      "robots",
-      "switch",
-      "tasks",
-      "wants",
-      "weeks"
-    ],
-    [
-      "assistant",
-      "cerebras",
-      "everyone",
-      "future",
-      "home",
-      "nearing",
-      "personal",
-      "where"
-    ],
-    [
-      "chip",
-      "corporation",
-      "disease",
-      "first",
-      "implants",
-      "patient",
-      "restoring",
-      "science",
-      "stargardt",
-      "vision"
-    ],
-    [
-      "allegedly",
-      "chatbot",
-      "device",
-      "employee",
-      "help",
-      "office",
-      "openai",
-      "plant",
-      "recording",
-      "used"
-    ],
-    [
-      "eternal",
-      "reverse",
-      "september"
-    ],
-    [
-      "arrested",
-      "bugging",
-      "conference",
-      "engineer",
-      "executive",
-      "openai",
-      "room"
-    ],
-    [
-      "encontra",
-      "escondido",
-      "escritorio",
-      "funcionario",
-      "gravador",
-      "openai",
-      "preso"
-    ],
-    [
-      "alerta",
-      "anthropic",
-      "eletrodomesticos",
-      "fala",
-      "pode",
-      "replicar"
-    ],
     [
       "agentes",
       "continua",
@@ -6005,6 +5901,112 @@
       "quando",
       "robos",
       "seus"
+    ],
+    [
+      "agreement",
+      "brings",
+      "cromwell",
+      "expertise",
+      "into",
+      "legal",
+      "review",
+      "sullivan"
+    ],
+    [
+      "army",
+      "came",
+      "influencers",
+      "paid",
+      "small",
+      "success",
+      "viral",
+      "when"
+    ],
+    [
+      "8217",
+      "apps",
+      "bluesky",
+      "games",
+      "lets",
+      "make",
+      "share",
+      "social",
+      "tool"
+    ],
+    [
+      "about",
+      "brag",
+      "edited",
+      "house",
+      "photo",
+      "posts",
+      "restoration",
+      "trump",
+      "white",
+      "work"
+    ],
+    [
+      "backlash",
+      "tech",
+      "theaters"
+    ],
+    [
+      "disastrous",
+      "following",
+      "launch",
+      "pulls",
+      "remaster",
+      "sale",
+      "sega",
+      "shogun",
+      "total"
+    ],
+    [
+      "chatgpt",
+      "chrome",
+      "peek",
+      "tabs",
+      "your"
+    ],
+    [
+      "chatgpt",
+      "ganha",
+      "melhora",
+      "naturais",
+      "novidades",
+      "reconhecimento",
+      "sotaques",
+      "veja",
+      "vozes"
+    ],
+    [
+      "aberto",
+      "funciona",
+      "lanca",
+      "macs",
+      "meta",
+      "peso",
+      "roda",
+      "veja"
+    ],
+    [
+      "anthropic",
+      "avaliacao",
+      "expectativa",
+      "investidores",
+      "reduzem",
+      "trilhoes"
+    ],
+    [
+      "abas",
+      "acesso",
+      "chatgpt",
+      "chrome",
+      "executar",
+      "ganha",
+      "navegador",
+      "pode",
+      "tarefas"
     ]
   ]
 }
