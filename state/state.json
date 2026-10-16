@@ -442,7 +442,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3165541",
       "https://techcrunch.com/?p=3165803",
       "https://techcrunch.com/?p=3165830",
       "https://techcrunch.com/?p=3165743",
@@ -741,7 +740,8 @@
       "https://techcrunch.com/?p=3178756",
       "https://techcrunch.com/?post_type=tc_podcast&p=3176205",
       "https://techcrunch.com/?post_type=tc_video&p=3176211",
-      "https://techcrunch.com/?p=3178813"
+      "https://techcrunch.com/?p=3178813",
+      "https://techcrunch.com/?p=3178496"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=982323",
@@ -1518,7 +1518,9 @@
       "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
       "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
       "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-      "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
+      "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -1882,7 +1884,8 @@
       "6acfd026baa8001981e8823c",
       "6acfb7fb7efaf68414339c74",
       "6acd00154e5c3c4c4af4d8df",
-      "6ad1204cb10b053f192727b9"
+      "6ad1204cb10b053f192727b9",
+      "6ad24df34fa2063ab5f076cb"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2123,7 +2126,9 @@
       "https://news.ycombinator.com/item?id=50091788",
       "https://news.ycombinator.com/item?id=50094694",
       "https://news.ycombinator.com/item?id=50107379",
-      "https://news.ycombinator.com/item?id=50105648"
+      "https://news.ycombinator.com/item?id=50105648",
+      "https://news.ycombinator.com/item?id=50121179",
+      "https://news.ycombinator.com/item?id=50122800"
     ]
   },
   "mercado": {
@@ -3209,7 +3214,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=941674"
     ],
     "canaltech": [
-      "https://canaltech.com.br/apps/samsung-prepara-bloqueador-de-golpes-com-ia-para-galaxy-s27-e-modelos-antigos/",
       "https://canaltech.com.br/inteligencia-artificial/processo-acusa-elon-musk-de-treinar-grok-com-imagens-de-abuso-sexual-infantil/",
       "https://canaltech.com.br/inteligencia-artificial/ia-do-google-agora-puxa-informacoes-dos-livros-que-voce-comprou-veja-utilidade/",
       "https://canaltech.com.br/inteligencia-artificial/agentes-de-ia-mal-configurados-instalam-malware-em-redes-de-empresas/",
@@ -3508,7 +3512,8 @@
       "https://canaltech.com.br/inteligencia-artificial/agente-de-ia-apaga-temporada-inteira-de-reality-show-dias-antes-da-estreia/",
       "https://canaltech.com.br/mercado/quintoandar-lanca-plataforma-para-imobiliarias-e-ia-em-curitiba/",
       "https://canaltech.com.br/inteligencia-artificial/google-ouve-usuarios-e-faz-mudanca-importante-na-busca-por-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-le-suas-abas-do-chrome-e-faz-tarefas-por-voce/"
+      "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-le-suas-abas-do-chrome-e-faz-tarefas-por-voce/",
+      "https://canaltech.com.br/inteligencia-artificial/meta-libera-os-pesos-do-muse-spark-open-para-rodar-em-macs/"
     ],
     "tilt_uol": [
       "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/15/esta-nos-deixando-mais-burros-populacao-mundial-divide-opinioes-sobre-a-ia.htm",
@@ -3874,7 +3879,8 @@
       "https://neofeed.com.br/?p=240632",
       "https://neofeed.com.br/?p=240703",
       "https://neofeed.com.br/?p=239739",
-      "https://neofeed.com.br/?p=241335"
+      "https://neofeed.com.br/?p=241335",
+      "https://neofeed.com.br/?p=241035"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -4018,7 +4024,8 @@
       "https://startups.com.br/?p=342114",
       "https://startups.com.br/?p=342125",
       "https://startups.com.br/?p=342134",
-      "https://startups.com.br/?p=342165"
+      "https://startups.com.br/?p=342165",
+      "https://startups.com.br/?p=342179"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -4152,126 +4159,12 @@
       "https://www.mobiletime.com.br/?p=866495",
       "https://www.mobiletime.com.br/?p=865521",
       "https://www.mobiletime.com.br/?p=866676",
-      "https://www.mobiletime.com.br/?p=866297"
+      "https://www.mobiletime.com.br/?p=866297",
+      "https://www.mobiletime.com.br/?p=866722",
+      "https://www.mobiletime.com.br/?p=866720"
     ]
   },
   "_titulos_recentes": [
-    [
-      "billion",
-      "compute",
-      "europe",
-      "huang",
-      "jensen",
-      "labs",
-      "million",
-      "nvidia",
-      "pledges",
-      "safety"
-    ],
-    [
-      "alignment",
-      "flagship",
-      "least",
-      "model",
-      "needs",
-      "openai",
-      "reportedly",
-      "ship",
-      "still",
-      "will",
-      "work",
-      "year"
-    ],
-    [
-      "device",
-      "found",
-      "hidden",
-      "meeting",
-      "openai",
-      "paper",
-      "recording",
-      "room",
-      "secret",
-      "toilet"
-    ],
-    [
-      "design",
-      "other",
-      "proteins",
-      "researchers"
-    ],
-    [
-      "about",
-      "binge",
-      "bond",
-      "borrowing",
-      "concern",
-      "coreweave",
-      "near",
-      "shares",
-      "tumble",
-      "yields"
-    ],
-    [
-      "advisor",
-      "infrastructure",
-      "katti",
-      "leave",
-      "openai",
-      "role",
-      "sachin",
-      "stay"
-    ],
-    [
-      "into",
-      "mosqitter",
-      "mosquito",
-      "network",
-      "powered",
-      "surveillance",
-      "traps",
-      "turning"
-    ],
-    [
-      "apresenta",
-      "diferentes",
-      "flavio",
-      "lula",
-      "meta",
-      "pedidos",
-      "resultados"
-    ],
-    [
-      "apresenta",
-      "artificial",
-      "cria",
-      "games",
-      "inteligencia",
-      "modelos",
-      "tecnologia",
-      "tripo"
-    ],
-    [
-      "barra",
-      "flavio",
-      "gera",
-      "imagens",
-      "lula",
-      "meta",
-      "referencia"
-    ],
-    [
-      "agora",
-      "algoritmo",
-      "deixa",
-      "facebook",
-      "palavras",
-      "proprias",
-      "suas",
-      "treinar",
-      "usando",
-      "voce"
-    ],
     [
       "acidentes",
       "aciona",
@@ -6033,6 +5926,97 @@
       "medida",
       "nexa",
       "plataforma"
+    ],
+    [
+      "anthropic",
+      "longer",
+      "replit",
+      "working"
+    ],
+    [
+      "cops",
+      "csam",
+      "producing",
+      "prosecutor",
+      "thegentlemanpervert"
+    ],
+    [
+      "breached",
+      "crypto",
+      "hacked",
+      "models",
+      "more",
+      "openai",
+      "wallet",
+      "websites"
+    ],
+    [
+      "earths",
+      "even",
+      "katie",
+      "linked",
+      "rare",
+      "sounds",
+      "startup",
+      "than",
+      "weirder",
+      "zacharia"
+    ],
+    [
+      "benchmarks",
+      "covered",
+      "hours",
+      "spent",
+      "tasks",
+      "well",
+      "working"
+    ],
+    [
+      "claude",
+      "curve",
+      "ecdsa",
+      "origins",
+      "reveals"
+    ],
+    [
+      "libera",
+      "macs",
+      "meta",
+      "muse",
+      "open",
+      "pesos",
+      "rodar",
+      "spark"
+    ],
+    [
+      "batalhoes",
+      "fronteira",
+      "fundador",
+      "limites",
+      "pessoa",
+      "seus",
+      "startups"
+    ],
+    [
+      "coreweave",
+      "estresse",
+      "neoclouds",
+      "teste"
+    ],
+    [
+      "agente",
+      "conversao",
+      "eleva",
+      "happy",
+      "whatsapp"
+    ],
+    [
+      "gestao",
+      "lanca",
+      "linhas",
+      "moveis",
+      "salvy",
+      "voltada"
     ]
   ]
 }
