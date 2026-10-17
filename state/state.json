@@ -444,8 +444,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3165803",
-      "https://techcrunch.com/?p=3165830",
       "https://techcrunch.com/?p=3165743",
       "https://techcrunch.com/?p=3166021",
       "https://techcrunch.com/?p=3165952",
@@ -743,7 +741,9 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3176205",
       "https://techcrunch.com/?post_type=tc_video&p=3176211",
       "https://techcrunch.com/?p=3178813",
-      "https://techcrunch.com/?p=3178496"
+      "https://techcrunch.com/?p=3178496",
+      "https://techcrunch.com/?p=3178934",
+      "https://techcrunch.com/?p=3178941"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=982628",
@@ -4173,24 +4173,6 @@
   },
   "_titulos_recentes": [
     [
-      "alibaba",
-      "frota",
-      "identificam",
-      "invadir",
-      "pesquisadores",
-      "sistemas",
-      "tentou"
-    ],
-    [
-      "chips",
-      "demanda",
-      "elevar",
-      "fabricante",
-      "maquinas",
-      "previsao",
-      "vendas"
-    ],
-    [
       "alemanha",
       "apreendido",
       "assedio",
@@ -6018,6 +6000,26 @@
       "generativa",
       "japoneses",
       "utilizam"
+    ],
+    [
+      "anthropic",
+      "become",
+      "junior",
+      "less",
+      "meetings",
+      "more",
+      "spending",
+      "time",
+      "workforce"
+    ],
+    [
+      "concerns",
+      "language",
+      "meta",
+      "raised",
+      "removes",
+      "scraping",
+      "training"
     ]
   ]
 }
