@@ -161,7 +161,8 @@
       "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "https://openai.com/index/sullivan-cromwell",
-      "https://openai.com/index/stack-overflow-chatgpt-plugin"
+      "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "https://openai.com/index/itau-generative-ai"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -2738,7 +2739,6 @@
       "https://mittechreview.com.br/?p=282230"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1369744",
       "https://olhardigital.com.br/?p=1369747",
       "https://olhardigital.com.br/?p=1369800",
       "https://olhardigital.com.br/?p=1369807",
@@ -3037,7 +3037,8 @@
       "https://olhardigital.com.br/?p=1381892",
       "https://olhardigital.com.br/?p=1381908",
       "https://olhardigital.com.br/?p=1382024",
-      "https://olhardigital.com.br/?p=1382130"
+      "https://olhardigital.com.br/?p=1382130",
+      "https://olhardigital.com.br/?p=1382224"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4165,24 +4166,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acidentes",
-      "aciona",
-      "ajuda",
-      "detecta",
-      "lanca",
-      "moto",
-      "possiveis"
-    ],
-    [
-      "burladas",
-      "facilmente",
-      "gerar",
-      "google",
-      "novas",
-      "nudes",
-      "openai"
-    ],
     [
       "atende",
       "criminosos",
@@ -6017,6 +6000,22 @@
       "moveis",
       "salvy",
       "voltada"
+    ],
+    [
+      "base",
+      "building",
+      "customer",
+      "entire",
+      "generative",
+      "itau"
+    ],
+    [
+      "biotecnologia",
+      "china",
+      "exportacoes",
+      "quer",
+      "restringir",
+      "tecnologias"
     ]
   ]
 }
