@@ -1048,8 +1048,6 @@
       "https://www.theverge.com/?p=1012748"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39877",
-      "https://the-decoder.com/?p=39890",
       "https://the-decoder.com/?p=39885",
       "https://the-decoder.com/?p=39904",
       "https://the-decoder.com/?p=39889",
@@ -1347,7 +1345,9 @@
       "https://the-decoder.com/?p=41605",
       "https://the-decoder.com/?p=41620",
       "https://the-decoder.com/?p=41627",
-      "https://the-decoder.com/?p=41633"
+      "https://the-decoder.com/?p=41633",
+      "https://the-decoder.com/?p=41533",
+      "https://the-decoder.com/?p=41649"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1887,7 +1887,8 @@
       "6acfb7fb7efaf68414339c74",
       "6acd00154e5c3c4c4af4d8df",
       "6ad1204cb10b053f192727b9",
-      "6ad24df34fa2063ab5f076cb"
+      "6ad24df34fa2063ab5f076cb",
+      "6acd250319b2ca0ba1bdaaf2"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2130,7 +2131,9 @@
       "https://news.ycombinator.com/item?id=50107379",
       "https://news.ycombinator.com/item?id=50105648",
       "https://news.ycombinator.com/item?id=50121179",
-      "https://news.ycombinator.com/item?id=50122800"
+      "https://news.ycombinator.com/item?id=50122800",
+      "https://news.ycombinator.com/item?id=50122878",
+      "https://news.ycombinator.com/item?id=50122951"
     ]
   },
   "mercado": {
@@ -3518,8 +3521,6 @@
       "https://canaltech.com.br/inteligencia-artificial/meta-libera-os-pesos-do-muse-spark-open-para-rodar-em-macs/"
     ],
     "tilt_uol": [
-      "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/15/esta-nos-deixando-mais-burros-populacao-mundial-divide-opinioes-sobre-a-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/15/e-preciso-limitar-ia-agora-ou-humanidade-perdera-autonomia-diz-ganhadora-do-nobel.htm",
       "https://www.uol.com.br/flash/?c=6aa9886e7f8851332e25bd46",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/15/openai-anthropic-e-google-buscam-criar-orgao-de-supervisao-de-riscos-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/15/bernie-sanders-e-bannon-steve-pedem-restricoes-a-ia-em-meio-a-inseguranca-popular.htm",
@@ -3817,7 +3818,9 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/16/meta-pode-usar-noticias-de-sites-para-treinar-ia-sem-pagar.ghtm",
       "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/16/ia-ajuda-historiadores-a-decifrar-mensagens-napoleonicas-e-papiros-carbonizados.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/10/16/china-estuda-proibir-exportacao-de-14-tecnologias-de-ia-e-biotecnologia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/16/por-que-coreweave-esta-na-mira-do-panico-em-torno-da-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/16/por-que-coreweave-esta-na-mira-do-panico-em-torno-da-ia.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/17/apple-x-meta-como-ia-selou-tregua-em-guerra-historica-de-titas-dos-big-techs.htm",
+      "https://www.uol.com.br/flash/?c=6ad24bdb14ded93b561004f0"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4167,62 +4170,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acusa",
-      "apple",
-      "arquivos",
-      "dispositivo",
-      "funcionario",
-      "lancado",
-      "levar",
-      "openai"
-    ],
-    [
-      "automacao",
-      "contratar",
-      "crescer",
-      "esta",
-      "imobiliarias",
-      "mudando",
-      "rotina"
-    ],
-    [
-      "anthropic",
-      "auditoria",
-      "corrida",
-      "openai",
-      "seguranca"
-    ],
-    [
-      "analysis",
-      "cuts",
-      "hours",
-      "malware",
-      "sentinelone",
-      "weeks"
-    ],
-    [
-      "anthropic"
-    ],
-    [
-      "floods",
-      "generated",
-      "labels",
-      "launches",
-      "music",
-      "platforms",
-      "streaming",
-      "youtube"
-    ],
-    [
-      "detect",
-      "different",
-      "flock",
-      "gunshots",
-      "just",
-      "microphones",
-      "website"
-    ],
     [
       "8217",
       "bankrupt",
@@ -6014,6 +5961,65 @@
       "pensa",
       "pode",
       "teoria"
+    ],
+    [
+      "doesn",
+      "mathematicians",
+      "navier",
+      "openai",
+      "proof",
+      "stokes",
+      "understand"
+    ],
+    [
+      "help",
+      "hide",
+      "mistakes",
+      "models",
+      "prompt",
+      "reports",
+      "sentence",
+      "their",
+      "work",
+      "your"
+    ],
+    [
+      "convoluted",
+      "genomes",
+      "ready",
+      "tackle"
+    ],
+    [
+      "could",
+      "have",
+      "invented",
+      "memory",
+      "transformers"
+    ],
+    [
+      "claude",
+      "code",
+      "does",
+      "review",
+      "team"
+    ],
+    [
+      "antiga",
+      "apple",
+      "guerra",
+      "meta",
+      "selou",
+      "techs",
+      "titas",
+      "tregua"
+    ],
+    [
+      "artificial",
+      "inteligencia",
+      "medicina",
+      "pode",
+      "remedio",
+      "usada"
     ]
   ]
 }
