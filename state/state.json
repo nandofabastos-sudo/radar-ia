@@ -162,7 +162,8 @@
       "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "https://openai.com/index/sullivan-cromwell",
       "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "https://openai.com/index/itau-generative-ai"
+      "https://openai.com/index/itau-generative-ai",
+      "https://openai.com/index/benefit-street-partners"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -2134,7 +2135,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108356258",
       "108356290",
       "108356468",
       "108356607",
@@ -2433,7 +2433,8 @@
       "108415327",
       "108416000",
       "108415475",
-      "108419549"
+      "108419549",
+      "108408493"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2739,7 +2740,6 @@
       "https://mittechreview.com.br/?p=282230"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1369747",
       "https://olhardigital.com.br/?p=1369800",
       "https://olhardigital.com.br/?p=1369807",
       "https://olhardigital.com.br/?p=1370016",
@@ -3038,7 +3038,8 @@
       "https://olhardigital.com.br/?p=1381908",
       "https://olhardigital.com.br/?p=1382024",
       "https://olhardigital.com.br/?p=1382130",
-      "https://olhardigital.com.br/?p=1382224"
+      "https://olhardigital.com.br/?p=1382224",
+      "https://olhardigital.com.br/?p=1382257"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4166,34 +4167,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "atende",
-      "criminosos",
-      "finge",
-      "golpistas",
-      "horas",
-      "ligacoes",
-      "linha",
-      "prende",
-      "vitima"
-    ],
-    [
-      "abre",
-      "capacitacao",
-      "dados",
-      "financeiro",
-      "gratis",
-      "itau",
-      "mercado"
-    ],
-    [
-      "alerta",
-      "anthropic",
-      "espalha",
-      "proteger",
-      "sozinho",
-      "virus"
-    ],
     [
       "acusa",
       "apple",
@@ -6016,6 +5989,31 @@
       "quer",
       "restringir",
       "tecnologias"
+    ],
+    [
+      "answers",
+      "benefit",
+      "codex",
+      "faster",
+      "partners",
+      "questions",
+      "street"
+    ],
+    [
+      "companies",
+      "doing",
+      "everyone",
+      "give",
+      "opposite",
+      "some"
+    ],
+    [
+      "ajudar",
+      "cientistas",
+      "entender",
+      "pensa",
+      "pode",
+      "teoria"
     ]
   ]
 }
