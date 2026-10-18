@@ -445,7 +445,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3166021",
       "https://techcrunch.com/?p=3165952",
       "https://techcrunch.com/?p=3166065",
       "https://techcrunch.com/?p=3165970",
@@ -744,7 +743,8 @@
       "https://techcrunch.com/?p=3178496",
       "https://techcrunch.com/?p=3178934",
       "https://techcrunch.com/?p=3178941",
-      "https://techcrunch.com/?p=3178949"
+      "https://techcrunch.com/?p=3178949",
+      "https://techcrunch.com/?p=3178960"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=982434",
@@ -3229,7 +3229,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=941674"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/agentes-de-ia-mal-configurados-instalam-malware-em-redes-de-empresas/",
       "https://canaltech.com.br/apps/nova-ia-da-photoroom-corrige-falhas-em-fotos-de-produtos-para-e-commerce/",
       "https://canaltech.com.br/produtos/nova-escova-de-dentes-tech-tem-camera-ia-e-jato-de-agua-para-limpar-a-boca/",
       "https://canaltech.com.br/mercado/oracle-abre-inscricoes-para-curso-gratuito-de-ia-para-negocios-veja-como-se-inscrever/",
@@ -3528,7 +3527,8 @@
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-le-suas-abas-do-chrome-e-faz-tarefas-por-voce/",
       "https://canaltech.com.br/inteligencia-artificial/meta-libera-os-pesos-do-muse-spark-open-para-rodar-em-macs/",
       "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
-      "https://canaltech.com.br/inteligencia-artificial/como-fazer-gemini-dar-respostas-melhores/"
+      "https://canaltech.com.br/inteligencia-artificial/como-fazer-gemini-dar-respostas-melhores/",
+      "https://canaltech.com.br/inteligencia-artificial/como-editar-a-memoria-do-chatgpt/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/15/openai-anthropic-e-google-buscam-criar-orgao-de-supervisao-de-riscos-da-ia.htm",
@@ -4180,27 +4180,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "apple",
-      "avancar",
-      "desafia",
-      "mercado",
-      "supera",
-      "trilhoes",
-      "valor"
-    ],
-    [
-      "advanced",
-      "commits",
-      "computing",
-      "nordics",
-      "nvidia",
-      "possible",
-      "region",
-      "show",
-      "what",
-      "when"
-    ],
     [
       "access",
       "advanced",
@@ -6027,6 +6006,19 @@
       "openai",
       "podem",
       "provas"
+    ],
+    [
+      "anthropic",
+      "benefit",
+      "committing",
+      "fund",
+      "public",
+      "shares"
+    ],
+    [
+      "chatgpt",
+      "editar",
+      "memoria"
     ]
   ]
 }
