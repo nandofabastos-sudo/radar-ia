@@ -444,7 +444,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3165743",
       "https://techcrunch.com/?p=3166021",
       "https://techcrunch.com/?p=3165952",
       "https://techcrunch.com/?p=3166065",
@@ -743,7 +742,8 @@
       "https://techcrunch.com/?p=3178813",
       "https://techcrunch.com/?p=3178496",
       "https://techcrunch.com/?p=3178934",
-      "https://techcrunch.com/?p=3178941"
+      "https://techcrunch.com/?p=3178941",
+      "https://techcrunch.com/?p=3178949"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=982628",
@@ -1048,7 +1048,6 @@
       "https://www.theverge.com/?p=1013409"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39935",
       "https://the-decoder.com/?p=39938",
       "https://the-decoder.com/?p=39941",
       "https://the-decoder.com/?p=39942",
@@ -1347,7 +1346,8 @@
       "https://the-decoder.com/?p=41680",
       "https://the-decoder.com/?p=41691",
       "https://the-decoder.com/?p=41694",
-      "https://the-decoder.com/?p=41701"
+      "https://the-decoder.com/?p=41701",
+      "https://the-decoder.com/?p=41707"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1522,7 +1522,8 @@
       "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
       "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
       "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+      "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -2138,7 +2139,8 @@
       "https://news.ycombinator.com/item?id=50122951",
       "https://news.ycombinator.com/item?id=50129121",
       "https://news.ycombinator.com/item?id=50129045",
-      "https://news.ycombinator.com/item?id=50127979"
+      "https://news.ycombinator.com/item?id=50127979",
+      "https://news.ycombinator.com/item?id=50138531"
     ]
   },
   "mercado": {
@@ -2562,7 +2564,8 @@
       "https://techcrunch.com/?p=3178053",
       "https://techcrunch.com/?p=3178431",
       "https://techcrunch.com/?p=3178756",
-      "https://techcrunch.com/?post_type=tc_podcast&p=3176205"
+      "https://techcrunch.com/?post_type=tc_podcast&p=3176205",
+      "https://techcrunch.com/?p=3178949"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -4176,38 +4179,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "betting",
-      "chips",
-      "compute",
-      "crisis",
-      "designed",
-      "help",
-      "intelligence",
-      "ricursive",
-      "solve"
-    ],
-    [
-      "agents",
-      "announces",
-      "define",
-      "features",
-      "figma",
-      "platform",
-      "work"
-    ],
-    [
-      "come",
-      "openai",
-      "states"
-    ],
-    [
-      "anthropic",
-      "heavily",
-      "inspired",
-      "mononoke",
-      "scion"
-    ],
     [
       "amid",
       "asia",
@@ -6028,6 +5999,45 @@
       "muito",
       "respostas",
       "veja"
+    ],
+    [
+      "agrees",
+      "character",
+      "disney",
+      "hire",
+      "majority",
+      "workforce"
+    ],
+    [
+      "agents",
+      "anthropic",
+      "because",
+      "hiring",
+      "hours",
+      "junior",
+      "many",
+      "nearly",
+      "staff",
+      "stopped",
+      "times",
+      "work"
+    ],
+    [
+      "access",
+      "anthropic",
+      "employee",
+      "gives",
+      "like",
+      "outside",
+      "watchdog"
+    ],
+    [
+      "1000",
+      "deepseek",
+      "fetch",
+      "requests",
+      "search",
+      "successful"
     ]
   ]
 }
