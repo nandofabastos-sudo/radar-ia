@@ -1048,10 +1048,6 @@
       "https://www.theverge.com/?p=1013409"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=39915",
-      "https://the-decoder.com/?p=39921",
-      "https://the-decoder.com/?p=39928",
-      "https://the-decoder.com/?p=39932",
       "https://the-decoder.com/?p=39935",
       "https://the-decoder.com/?p=39938",
       "https://the-decoder.com/?p=39941",
@@ -1347,7 +1343,11 @@
       "https://the-decoder.com/?p=41659",
       "https://the-decoder.com/?p=41667",
       "https://the-decoder.com/?p=41671",
-      "https://the-decoder.com/?p=41640"
+      "https://the-decoder.com/?p=41640",
+      "https://the-decoder.com/?p=41680",
+      "https://the-decoder.com/?p=41691",
+      "https://the-decoder.com/?p=41694",
+      "https://the-decoder.com/?p=41701"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1888,7 +1888,9 @@
       "6acd00154e5c3c4c4af4d8df",
       "6ad1204cb10b053f192727b9",
       "6ad24df34fa2063ab5f076cb",
-      "6acd250319b2ca0ba1bdaaf2"
+      "6acd250319b2ca0ba1bdaaf2",
+      "6abd21cd6366a0250b4ee426",
+      "6ad227480242af4ebffe6d0b"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2135,12 +2137,12 @@
       "https://news.ycombinator.com/item?id=50122878",
       "https://news.ycombinator.com/item?id=50122951",
       "https://news.ycombinator.com/item?id=50129121",
-      "https://news.ycombinator.com/item?id=50129045"
+      "https://news.ycombinator.com/item?id=50129045",
+      "https://news.ycombinator.com/item?id=50127979"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108356468",
       "108356607",
       "108356655",
       "108356786",
@@ -2439,7 +2441,8 @@
       "108415475",
       "108419549",
       "108408493",
-      "108419907"
+      "108419907",
+      "108422128"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2742,10 +2745,10 @@
       "https://mittechreview.com.br/?p=281719",
       "https://mittechreview.com.br/?p=281959",
       "https://mittechreview.com.br/?p=281944",
-      "https://mittechreview.com.br/?p=282230"
+      "https://mittechreview.com.br/?p=282230",
+      "https://mittechreview.com.br/?p=281952"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1370016",
       "https://olhardigital.com.br/?p=1370041",
       "https://olhardigital.com.br/?p=1370038",
       "https://olhardigital.com.br/?p=1370182",
@@ -3044,7 +3047,8 @@
       "https://olhardigital.com.br/?p=1382224",
       "https://olhardigital.com.br/?p=1382257",
       "https://olhardigital.com.br/?p=1379964",
-      "https://olhardigital.com.br/?p=1381829"
+      "https://olhardigital.com.br/?p=1381829",
+      "https://olhardigital.com.br/?p=1379965"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3221,7 +3225,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=941674"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/ia-do-google-agora-puxa-informacoes-dos-livros-que-voce-comprou-veja-utilidade/",
       "https://canaltech.com.br/inteligencia-artificial/agentes-de-ia-mal-configurados-instalam-malware-em-redes-de-empresas/",
       "https://canaltech.com.br/apps/nova-ia-da-photoroom-corrige-falhas-em-fotos-de-produtos-para-e-commerce/",
       "https://canaltech.com.br/produtos/nova-escova-de-dentes-tech-tem-camera-ia-e-jato-de-agua-para-limpar-a-boca/",
@@ -3520,7 +3523,8 @@
       "https://canaltech.com.br/inteligencia-artificial/google-ouve-usuarios-e-faz-mudanca-importante-na-busca-por-ia/",
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-le-suas-abas-do-chrome-e-faz-tarefas-por-voce/",
       "https://canaltech.com.br/inteligencia-artificial/meta-libera-os-pesos-do-muse-spark-open-para-rodar-em-macs/",
-      "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/"
+      "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
+      "https://canaltech.com.br/inteligencia-artificial/como-fazer-gemini-dar-respostas-melhores/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/15/openai-anthropic-e-google-buscam-criar-orgao-de-supervisao-de-riscos-da-ia.htm",
@@ -4172,116 +4176,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "choca",
-      "formato",
-      "lanca",
-      "literalmente",
-      "preco",
-      "ryzen",
-      "teclado"
-    ],
-    [
-      "funciona",
-      "lanca",
-      "pequenos",
-      "restaurantes",
-      "sistema",
-      "veja",
-      "zesto"
-    ],
-    [
-      "chatgpt",
-      "dizem",
-      "estados",
-      "jovens",
-      "openai",
-      "prejudica",
-      "processam"
-    ],
-    [
-      "agentico",
-      "aponta",
-      "brasil",
-      "comercio",
-      "global",
-      "lidera",
-      "ocidente",
-      "payments"
-    ],
-    [
-      "conclui",
-      "digital",
-      "inaugura",
-      "revolucao",
-      "sexta",
-      "tecnologica"
-    ],
-    [
-      "block",
-      "building",
-      "openai",
-      "powered",
-      "security",
-      "technology"
-    ],
-    [
-      "applicants",
-      "client",
-      "fake",
-      "making",
-      "mckinsey",
-      "spar"
-    ],
-    [
-      "agents",
-      "analytics",
-      "both",
-      "cedardb",
-      "database",
-      "handle",
-      "raise",
-      "stakes",
-      "transactions",
-      "wants"
-    ],
-    [
-      "candidatos",
-      "geracao",
-      "imagens",
-      "meta",
-      "nomes",
-      "numeros",
-      "suspende"
-    ],
-    [
-      "business",
-      "guidance",
-      "makes",
-      "more",
-      "most",
-      "need",
-      "owners",
-      "productive",
-      "quarters",
-      "small",
-      "than",
-      "them",
-      "three"
-    ],
-    [
-      "before",
-      "crises",
-      "erupt",
-      "gudea",
-      "help",
-      "leverages",
-      "media",
-      "organizations",
-      "prevent",
-      "social",
-      "they"
-    ],
     [
       "betting",
       "chips",
@@ -6025,6 +5919,115 @@
       "refund",
       "spammed",
       "train"
+    ],
+    [
+      "agents",
+      "benchmark",
+      "decisions",
+      "have",
+      "long",
+      "proves",
+      "taste",
+      "term"
+    ],
+    [
+      "agents",
+      "anthropic",
+      "before",
+      "consults",
+      "cutting",
+      "deals",
+      "fair",
+      "firms",
+      "negotiation",
+      "norms",
+      "start"
+    ],
+    [
+      "courts",
+      "german",
+      "google",
+      "hold",
+      "liable",
+      "overviews",
+      "what"
+    ],
+    [
+      "agents",
+      "argon",
+      "beat",
+      "four",
+      "gemini",
+      "help",
+      "human",
+      "minecraft",
+      "without"
+    ],
+    [
+      "centers",
+      "data",
+      "field",
+      "have",
+      "plan",
+      "trip",
+      "your"
+    ],
+    [
+      "creators",
+      "dirty",
+      "lets",
+      "meta",
+      "muse",
+      "onlyfans",
+      "pissed",
+      "talk"
+    ],
+    [
+      "before",
+      "fast",
+      "feel",
+      "hardware",
+      "llmspeed",
+      "local",
+      "runs",
+      "show"
+    ],
+    [
+      "always",
+      "could",
+      "devices",
+      "jeopardy",
+      "legal",
+      "limits",
+      "listening",
+      "pushing",
+      "users"
+    ],
+    [
+      "abertos",
+      "beneficios",
+      "modelos",
+      "riscos",
+      "superam"
+    ],
+    [
+      "ainda",
+      "antes",
+      "automatizou",
+      "basico",
+      "empresa",
+      "investir",
+      "maioria"
+    ],
+    [
+      "ajuste",
+      "escondido",
+      "fazer",
+      "gemini",
+      "melhores",
+      "muito",
+      "respostas",
+      "veja"
     ]
   ]
 }
