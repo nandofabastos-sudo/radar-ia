@@ -195,7 +195,8 @@
       "https://www.anthropic.com/news/2026-usage-policy-update",
       "https://www.anthropic.com/news/singapore-office-opening",
       "https://www.anthropic.com/news/2026-us-midterms",
-      "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+      "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "https://www.anthropic.com/news/public-benefit-fund"
     ],
     "google_deepmind": [
       "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -746,7 +747,6 @@
       "https://techcrunch.com/?p=3178949"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=982628",
       "https://www.theverge.com/?p=982434",
       "https://www.theverge.com/?p=982774",
       "https://www.theverge.com/?p=983088",
@@ -1045,7 +1045,8 @@
       "https://www.theverge.com/?p=1012846",
       "https://www.theverge.com/?p=1012748",
       "https://www.theverge.com/?p=1013195",
-      "https://www.theverge.com/?p=1013409"
+      "https://www.theverge.com/?p=1013409",
+      "https://www.theverge.com/?p=1013541"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39938",
@@ -2752,7 +2753,6 @@
       "https://mittechreview.com.br/?p=281952"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1370041",
       "https://olhardigital.com.br/?p=1370038",
       "https://olhardigital.com.br/?p=1370182",
       "https://olhardigital.com.br/?p=1370308",
@@ -3051,7 +3051,8 @@
       "https://olhardigital.com.br/?p=1382257",
       "https://olhardigital.com.br/?p=1379964",
       "https://olhardigital.com.br/?p=1381829",
-      "https://olhardigital.com.br/?p=1379965"
+      "https://olhardigital.com.br/?p=1379965",
+      "https://olhardigital.com.br/?p=1382451"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4179,39 +4180,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "amid",
-      "asia",
-      "fears",
-      "funding",
-      "hike",
-      "hynix",
-      "mount",
-      "plunge",
-      "rate",
-      "rout",
-      "shares",
-      "tech",
-      "worries"
-    ],
-    [
-      "ahead",
-      "anthropic",
-      "billion",
-      "quarter",
-      "revenue",
-      "said",
-      "third"
-    ],
-    [
-      "abertura",
-      "anthropic",
-      "bilhoes",
-      "capital",
-      "fatura",
-      "trimestre",
-      "vesperas"
-    ],
     [
       "apple",
       "avancar",
@@ -6038,6 +6006,27 @@
       "requests",
       "search",
       "successful"
+    ],
+    [
+      "anthropic"
+    ],
+    [
+      "arrested",
+      "blocking",
+      "delivery",
+      "philly",
+      "robot",
+      "woman"
+    ],
+    [
+      "alertam",
+      "analise",
+      "deepfakes",
+      "dificultar",
+      "meta",
+      "openai",
+      "podem",
+      "provas"
     ]
   ]
 }
