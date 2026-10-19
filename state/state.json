@@ -1686,7 +1686,8 @@
       "https://www.technologyreview.com/?p=1146224",
       "https://www.technologyreview.com/?p=1145728",
       "https://www.technologyreview.com/?p=1145755",
-      "https://www.technologyreview.com/?p=1146366"
+      "https://www.technologyreview.com/?p=1146366",
+      "https://www.technologyreview.com/?p=1147095"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1892,7 +1893,8 @@
       "6ad24df34fa2063ab5f076cb",
       "6acd250319b2ca0ba1bdaaf2",
       "6abd21cd6366a0250b4ee426",
-      "6ad227480242af4ebffe6d0b"
+      "6ad227480242af4ebffe6d0b",
+      "6acfdecce57834fa26ab0f75"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2141,7 +2143,8 @@
       "https://news.ycombinator.com/item?id=50129121",
       "https://news.ycombinator.com/item?id=50129045",
       "https://news.ycombinator.com/item?id=50127979",
-      "https://news.ycombinator.com/item?id=50138531"
+      "https://news.ycombinator.com/item?id=50138531",
+      "https://news.ycombinator.com/item?id=50145337"
     ]
   },
   "mercado": {
@@ -3531,7 +3534,6 @@
       "https://canaltech.com.br/inteligencia-artificial/como-editar-a-memoria-do-chatgpt/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/15/openai-anthropic-e-google-buscam-criar-orgao-de-supervisao-de-riscos-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/15/bernie-sanders-e-bannon-steve-pedem-restricoes-a-ia-em-meio-a-inseguranca-popular.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/15/nova-guerra-fria-como-alertas-sobre-ia-uniram-mentor-de-bolsonaro-e-socialista.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/zuckerberg-afirma-que-laboratorios-de-ia-tem-incentivos-suficientes-para-desenvolver-tecnologias-com-seguranca.htm",
@@ -3830,7 +3832,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/16/por-que-coreweave-esta-na-mira-do-panico-em-torno-da-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/10/17/apple-x-meta-como-ia-selou-tregua-em-guerra-historica-de-titas-dos-big-techs.htm",
       "https://www.uol.com.br/flash/?c=6ad24bdb14ded93b561004f0",
-      "https://tilt.uol.com.br/colunas/iagora/2026/10/17/apple-x-meta-como-ia-selou-tregua-em-guerra-historica-de-titas-dos-big-techs.htm"
+      "https://tilt.uol.com.br/colunas/iagora/2026/10/17/apple-x-meta-como-ia-selou-tregua-em-guerra-historica-de-titas-dos-big-techs.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/19/bolha-ipo-da-anthropic-e-derrubado-e-wall-street-comeca-a-torcer-nariz-para-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4180,56 +4183,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "access",
-      "advanced",
-      "collaborations",
-      "community",
-      "compute",
-      "europe",
-      "expands",
-      "learning",
-      "nvidia",
-      "open",
-      "resources",
-      "scientific",
-      "technology",
-      "through"
-    ],
-    [
-      "ahead",
-      "anthropic",
-      "growth",
-      "hits",
-      "november",
-      "planned",
-      "revenue",
-      "slows"
-    ],
-    [
-      "beating",
-      "boom",
-      "estimates",
-      "posts",
-      "profit",
-      "quarter",
-      "record",
-      "sixth",
-      "straight",
-      "tsmc"
-    ],
-    [
-      "comprando",
-      "dados",
-      "estao",
-      "fecharam",
-      "laboratorios",
-      "modelos",
-      "portas",
-      "seus",
-      "startups",
-      "treinar"
-    ],
     [
       "apple",
       "crescendo",
@@ -6019,6 +5972,44 @@
       "chatgpt",
       "editar",
       "memoria"
+    ],
+    [
+      "claude",
+      "desert",
+      "island",
+      "play",
+      "researchers",
+      "started",
+      "stranded",
+      "virtual"
+    ],
+    [
+      "asked",
+      "bankrupt",
+      "card",
+      "character",
+      "disney",
+      "lawsuits"
+    ],
+    [
+      "agents",
+      "hybrid",
+      "latent",
+      "reasoning",
+      "space",
+      "text",
+      "think",
+      "through"
+    ],
+    [
+      "anthropic",
+      "bolha",
+      "comeca",
+      "leva",
+      "mercado",
+      "nariz",
+      "tombo",
+      "torcer"
     ]
   ]
 }
