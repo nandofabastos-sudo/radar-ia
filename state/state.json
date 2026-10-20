@@ -456,10 +456,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3166662",
-      "https://techcrunch.com/?p=3166668",
-      "https://techcrunch.com/?p=3166682",
-      "https://techcrunch.com/?p=3165886",
       "https://techcrunch.com/?p=3152751",
       "https://techcrunch.com/?p=3166716",
       "https://techcrunch.com/?p=3166772",
@@ -755,10 +751,13 @@
       "https://techcrunch.com/?p=3179696",
       "https://techcrunch.com/?p=3179732",
       "https://techcrunch.com/?p=3179763",
-      "https://techcrunch.com/?p=3179702"
+      "https://techcrunch.com/?p=3179702",
+      "https://techcrunch.com/?p=3179783",
+      "https://techcrunch.com/?p=3179777",
+      "https://techcrunch.com/?p=3179891",
+      "https://techcrunch.com/?p=3179822"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=985186",
       "https://www.theverge.com/?p=985385",
       "https://www.theverge.com/?p=985387",
       "https://www.theverge.com/?p=985491",
@@ -1057,7 +1056,8 @@
       "https://www.theverge.com/?p=1013954",
       "https://www.theverge.com/?p=1014246",
       "https://www.theverge.com/?p=1014284",
-      "https://www.theverge.com/?p=1014627"
+      "https://www.theverge.com/?p=1014627",
+      "https://www.theverge.com/?p=1014999"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40036",
@@ -1541,7 +1541,9 @@
       "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
       "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
       "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-      "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/"
+      "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+      "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -2176,7 +2178,8 @@
       "https://news.ycombinator.com/item?id=50159341",
       "https://news.ycombinator.com/item?id=50154244",
       "https://news.ycombinator.com/item?id=50163277",
-      "https://news.ycombinator.com/item?id=50168396"
+      "https://news.ycombinator.com/item?id=50168396",
+      "https://news.ycombinator.com/item?id=50165801"
     ]
   },
   "mercado": {
@@ -2798,9 +2801,6 @@
       "https://mittechreview.com.br/?p=283000"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1370636",
-      "https://olhardigital.com.br/?p=1370641",
-      "https://olhardigital.com.br/?p=1370644",
       "https://olhardigital.com.br/?p=1370655",
       "https://olhardigital.com.br/?p=1370670",
       "https://olhardigital.com.br/?p=1370695",
@@ -3097,7 +3097,10 @@
       "https://olhardigital.com.br/?p=1382798",
       "https://olhardigital.com.br/?p=1382800",
       "https://olhardigital.com.br/?p=1382803",
-      "https://olhardigital.com.br/?p=1383022"
+      "https://olhardigital.com.br/?p=1383022",
+      "https://olhardigital.com.br/?p=1383045",
+      "https://olhardigital.com.br/?p=1383065",
+      "https://olhardigital.com.br/?p=1383079"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3277,8 +3280,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=942106"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/computacao-federada-propoe-nova-rota-para-uso-da-ia-na-area-da-saude/",
-      "https://canaltech.com.br/inteligencia-artificial/chrome-finalmente-ganha-recurso-no-painel-do-gemini-que-o-edge-ja-tinha-ha-anos/",
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-fora-do-ar-ia-apresenta-instabilidade-nesta-quinta-feira-3/",
       "https://canaltech.com.br/apps/picpay-chega-ao-claude-e-libera-consulta-da-fatura-do-cartao-por-ia/",
       "https://canaltech.com.br/inteligencia-artificial/openai-cria-botao-de-emergencia-para-desligar-ias-apos-elas-se-rebelarem/",
@@ -3576,11 +3577,11 @@
       "https://canaltech.com.br/inteligencia-artificial/modelo-de-ia-da-openai-rouba-criptomoedas-e-mente-para-cientistas-em-relatorio/",
       "https://canaltech.com.br/games/xbox-ganha-upscaling-com-ia-da-amd-para-disputar-contra-playstation-e-nintendo/",
       "https://canaltech.com.br/seguranca/prompt-de-menos-de-100-caracteres-fez-agentes-de-ia-invadirem-mais-de-100-empresas/",
-      "https://canaltech.com.br/inteligencia-artificial/brecha-na-ia-da-meta-expoe-milhares-de-conversas-e-dados-sigilosos-dos-usuarios/"
+      "https://canaltech.com.br/inteligencia-artificial/brecha-na-ia-da-meta-expoe-milhares-de-conversas-e-dados-sigilosos-dos-usuarios/",
+      "https://canaltech.com.br/games/destruido-pela-ia-maior-site-de-decompilacao-de-jogos-antigos-fecha-as-portas/",
+      "https://canaltech.com.br/inteligencia-artificial/pessoas-comuns-usam-ia-para-reprogramar-smart-tvs-e-remover-apps-inuteis/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/lideres-do-setor-de-tecnologia-e-governos-se-mostram-divididos-sobre-fim-do-mundo-pela-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/16/california-exige-que-anuncios-identifiquem-artistas-criados-por-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/17/sem-chat-e-quase-sem-custos-como-e-nova-ia-feita-pelo-cocriador-do-chatgpt.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/17/no-vale-do-silicio-aumento-dos-data-centers-de-ia-encontra-resistencia-local.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/17/openai-relata-modelos-que-ocultaram-erros-e-burlaram-regras.ghtm",
@@ -3878,7 +3879,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/20/ex-engenheiro-da-openai-e-acusado-de-instalar-escuta-a-mando-de-saudita.htm",
       "https://tilt.uol.com.br/colunas/iagora/2026/10/20/por-que-musk-e-anthropic-planejam-doar-acoes-ao-povo---e-quanto-isso-vale.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/20/ia-preve-risco-de-morte-por-cancer-a-partir-de-foto-do-rosto-diz-estudo.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/20/china-diz-que-proibicao-do-deepseek-pelos-eua-desconsidera-consenso-entre-xi-e-trump.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/20/china-diz-que-proibicao-do-deepseek-pelos-eua-desconsidera-consenso-entre-xi-e-trump.htm",
+      "https://economia.uol.com.br/colunas/gustavo-miller/2026/10/20/gostosas-sinteticas-loira-do-flavio-e-o-golpe-erotico-da-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/20/spacex-tem-salto-na-receita-do-trimestre-e-supera-estimativas-impulsionada-por-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -3943,7 +3946,8 @@
       "https://neofeed.com.br/?p=240703",
       "https://neofeed.com.br/?p=239739",
       "https://neofeed.com.br/?p=241335",
-      "https://neofeed.com.br/?p=241035"
+      "https://neofeed.com.br/?p=241035",
+      "https://neofeed.com.br/?p=241648"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -4230,152 +4234,11 @@
       "https://www.mobiletime.com.br/?p=866297",
       "https://www.mobiletime.com.br/?p=866722",
       "https://www.mobiletime.com.br/?p=866720",
-      "https://www.mobiletime.com.br/?p=866825"
+      "https://www.mobiletime.com.br/?p=866825",
+      "https://www.mobiletime.com.br/?p=866941"
     ]
   },
   "_titulos_recentes": [
-    [
-      "alem",
-      "artificial",
-      "eterna",
-      "inteligencia",
-      "queremos",
-      "vida"
-    ],
-    [
-      "ataques",
-      "ciberneticos",
-      "enfrentar",
-      "prepara",
-      "simulacoes"
-    ],
-    [
-      "agente",
-      "apagou",
-      "emissora",
-      "esclarece",
-      "programa"
-    ],
-    [
-      "coletar",
-      "licencas",
-      "meta",
-      "noticias",
-      "pagar",
-      "pode",
-      "treinar"
-    ],
-    [
-      "ajuda",
-      "carbonizados",
-      "decifrar",
-      "historiadores",
-      "mensagens",
-      "napoleonicas",
-      "papiros"
-    ],
-    [
-      "biotecnologia",
-      "china",
-      "estuda",
-      "exportacao",
-      "proibir",
-      "tecnologias"
-    ],
-    [
-      "coreweave",
-      "esta",
-      "mira",
-      "panico",
-      "torno"
-    ],
-    [
-      "bolha",
-      "dell",
-      "michael",
-      "pontocom",
-      "processar",
-      "sabe",
-      "sobreviveu",
-      "turbulencia"
-    ],
-    [
-      "investimentos",
-      "lanca",
-      "medida",
-      "nexa",
-      "plataforma"
-    ],
-    [
-      "anthropic",
-      "longer",
-      "replit",
-      "working"
-    ],
-    [
-      "cops",
-      "csam",
-      "producing",
-      "prosecutor",
-      "thegentlemanpervert"
-    ],
-    [
-      "breached",
-      "crypto",
-      "hacked",
-      "models",
-      "more",
-      "openai",
-      "wallet",
-      "websites"
-    ],
-    [
-      "earths",
-      "even",
-      "katie",
-      "linked",
-      "rare",
-      "sounds",
-      "startup",
-      "than",
-      "weirder",
-      "zacharia"
-    ],
-    [
-      "benchmarks",
-      "covered",
-      "hours",
-      "spent",
-      "tasks",
-      "well",
-      "working"
-    ],
-    [
-      "claude",
-      "curve",
-      "ecdsa",
-      "origins",
-      "reveals"
-    ],
-    [
-      "libera",
-      "macs",
-      "meta",
-      "muse",
-      "open",
-      "pesos",
-      "rodar",
-      "spark"
-    ],
-    [
-      "batalhoes",
-      "fronteira",
-      "fundador",
-      "limites",
-      "pessoa",
-      "seus",
-      "startups"
-    ],
     [
       "coreweave",
       "estresse",
@@ -6048,6 +5911,150 @@
       "entrar",
       "otter",
       "reunioes"
+    ],
+    [
+      "acquires",
+      "beef",
+      "biotech",
+      "business",
+      "openai",
+      "orchestra",
+      "startup"
+    ],
+    [
+      "beating",
+      "business",
+      "expectations",
+      "spacex"
+    ],
+    [
+      "anthropic",
+      "cloud",
+      "getting",
+      "messy",
+      "partnerships"
+    ],
+    [
+      "accurate",
+      "documentary",
+      "face",
+      "hack",
+      "hugging",
+      "netflix",
+      "openai",
+      "warns"
+    ],
+    [
+      "gemini",
+      "google",
+      "heading",
+      "more",
+      "personalized",
+      "your"
+    ],
+    [
+      "cars",
+      "coming",
+      "gemini",
+      "intelligence",
+      "personal"
+    ],
+    [
+      "after",
+      "backlash",
+      "commercial",
+      "drops",
+      "meta",
+      "train",
+      "word"
+    ],
+    [
+      "cited",
+      "fake",
+      "llms",
+      "publish",
+      "stats"
+    ],
+    [
+      "divida",
+      "elon",
+      "musk",
+      "robos",
+      "saida",
+      "unica"
+    ],
+    [
+      "amazon",
+      "chips",
+      "desafiar",
+      "dominio",
+      "ferramenta",
+      "lanca",
+      "nvidia"
+    ],
+    [
+      "anthropic",
+      "bilhoes",
+      "bilionarios",
+      "custos",
+      "prejuizo",
+      "revela"
+    ],
+    [
+      "antigos",
+      "decompilacao",
+      "destruido",
+      "fecha",
+      "jogos",
+      "maior",
+      "pela",
+      "portas",
+      "site"
+    ],
+    [
+      "apps",
+      "comuns",
+      "inuteis",
+      "pessoas",
+      "remover",
+      "reprogramar",
+      "smart",
+      "usam"
+    ],
+    [
+      "erotico",
+      "flavio",
+      "golpe",
+      "gostosas",
+      "loirona",
+      "sinteticas"
+    ],
+    [
+      "estimativas",
+      "impulsionada",
+      "receita",
+      "salto",
+      "spacex",
+      "supera",
+      "trimestre"
+    ],
+    [
+      "comprar",
+      "conta",
+      "estao",
+      "neoclouds",
+      "pagando",
+      "passou",
+      "tudo"
+    ],
+    [
+      "agentes",
+      "artificial",
+      "avanco",
+      "inteligencia",
+      "mostra",
+      "pesquisa",
+      "shadow"
     ]
   ]
 }
