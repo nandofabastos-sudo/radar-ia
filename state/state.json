@@ -448,7 +448,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3166487",
       "https://techcrunch.com/?p=3166494",
       "https://techcrunch.com/?p=3166504",
       "https://techcrunch.com/?p=3166409",
@@ -747,7 +746,8 @@
       "https://techcrunch.com/?p=3179279",
       "https://techcrunch.com/?p=3178312",
       "https://techcrunch.com/?p=3179487",
-      "https://techcrunch.com/?p=3179517"
+      "https://techcrunch.com/?p=3179517",
+      "https://techcrunch.com/?p=3179152"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=984239",
@@ -1695,7 +1695,8 @@
       "https://www.technologyreview.com/?p=1146366",
       "https://www.technologyreview.com/?p=1147095",
       "https://www.technologyreview.com/?p=1147149",
-      "https://www.technologyreview.com/?p=1147186"
+      "https://www.technologyreview.com/?p=1147186",
+      "https://www.technologyreview.com/?p=1145916"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -2156,13 +2157,12 @@
       "https://news.ycombinator.com/item?id=50138531",
       "https://news.ycombinator.com/item?id=50145337",
       "https://news.ycombinator.com/item?id=50150434",
-      "https://news.ycombinator.com/item?id=50151036"
+      "https://news.ycombinator.com/item?id=50151036",
+      "https://news.ycombinator.com/item?id=50159341"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108356969",
-      "108357107",
       "108357110",
       "108357146",
       "108357185",
@@ -2460,7 +2460,9 @@
       "108429631",
       "108433996",
       "108433760",
-      "108434884"
+      "108434884",
+      "108435618",
+      "108436552"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2770,10 +2772,11 @@
       "https://mittechreview.com.br/?p=281959",
       "https://mittechreview.com.br/?p=281944",
       "https://mittechreview.com.br/?p=282230",
-      "https://mittechreview.com.br/?p=281952"
+      "https://mittechreview.com.br/?p=281952",
+      "https://mittechreview.com.br/?p=283037",
+      "https://mittechreview.com.br/?p=283000"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1370479",
       "https://olhardigital.com.br/?p=1367002",
       "https://olhardigital.com.br/?p=1370636",
       "https://olhardigital.com.br/?p=1370641",
@@ -3072,7 +3075,8 @@
       "https://olhardigital.com.br/?p=1382756",
       "https://olhardigital.com.br/?p=1382733",
       "https://olhardigital.com.br/?p=1382798",
-      "https://olhardigital.com.br/?p=1382800"
+      "https://olhardigital.com.br/?p=1382800",
+      "https://olhardigital.com.br/?p=1382803"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4205,75 +4209,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acelerar",
-      "brex",
-      "levanta",
-      "ramp",
-      "rival"
-    ],
-    [
-      "academic",
-      "bringing",
-      "labs",
-      "research",
-      "rosalind"
-    ],
-    [
-      "amazon",
-      "apps",
-      "chief",
-      "devices",
-      "future",
-      "need",
-      "panay",
-      "panos",
-      "replace",
-      "sees",
-      "where"
-    ],
-    [
-      "launches",
-      "macs",
-      "meta",
-      "model",
-      "open",
-      "runs",
-      "weight"
-    ],
-    [
-      "aren",
-      "companies",
-      "hacks",
-      "leave",
-      "mess",
-      "paying"
-    ],
-    [
-      "apple",
-      "baffled",
-      "heavy",
-      "homeview",
-      "meta",
-      "muse"
-    ],
-    [
-      "muse",
-      "open",
-      "spark"
-    ],
-    [
-      "ballroom",
-      "cisco",
-      "confirm",
-      "dollar",
-      "donations",
-      "house",
-      "multimillion",
-      "nvidia",
-      "trump",
-      "white"
-    ],
     [
       "anthropic",
       "assess",
@@ -6028,6 +5963,79 @@
       "nega",
       "openai",
       "risco"
+    ],
+    [
+      "catalyst",
+      "fund",
+      "general",
+      "growth",
+      "meeting",
+      "million",
+      "otter",
+      "raises",
+      "tool"
+    ],
+    [
+      "massive",
+      "samsung",
+      "semiconductor",
+      "visit"
+    ],
+    [
+      "dont",
+      "help",
+      "instructions",
+      "pages",
+      "recommend",
+      "regulator",
+      "whatsapp"
+    ],
+    [
+      "agency",
+      "amid",
+      "bans",
+      "china",
+      "deepseek",
+      "government",
+      "rift",
+      "systems"
+    ],
+    [
+      "boom",
+      "center",
+      "data",
+      "every",
+      "good",
+      "hsbc",
+      "make",
+      "warns"
+    ],
+    [
+      "agente",
+      "assistente",
+      "evolucao",
+      "horas",
+      "marketing",
+      "opera"
+    ],
+    [
+      "engenharia",
+      "original",
+      "reversa",
+      "sabor",
+      "software"
+    ],
+    [
+      "acusa",
+      "financiamento",
+      "japao",
+      "lanca",
+      "lula",
+      "marte",
+      "meta",
+      "openai",
+      "resumo",
+      "sonda"
     ]
   ]
 }
