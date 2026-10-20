@@ -448,7 +448,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3166479",
       "https://techcrunch.com/?p=3166487",
       "https://techcrunch.com/?p=3166494",
       "https://techcrunch.com/?p=3166504",
@@ -747,7 +746,8 @@
       "https://techcrunch.com/?p=3179099",
       "https://techcrunch.com/?p=3179279",
       "https://techcrunch.com/?p=3178312",
-      "https://techcrunch.com/?p=3179487"
+      "https://techcrunch.com/?p=3179487",
+      "https://techcrunch.com/?p=3179517"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=984239",
@@ -2155,12 +2155,12 @@
       "https://news.ycombinator.com/item?id=50127979",
       "https://news.ycombinator.com/item?id=50138531",
       "https://news.ycombinator.com/item?id=50145337",
-      "https://news.ycombinator.com/item?id=50150434"
+      "https://news.ycombinator.com/item?id=50150434",
+      "https://news.ycombinator.com/item?id=50151036"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108354722",
       "108356969",
       "108357107",
       "108357110",
@@ -2459,7 +2459,8 @@
       "108432109",
       "108429631",
       "108433996",
-      "108433760"
+      "108433760",
+      "108434884"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2772,9 +2773,6 @@
       "https://mittechreview.com.br/?p=281952"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1370320",
-      "https://olhardigital.com.br/?p=1369510",
-      "https://olhardigital.com.br/?p=1370443",
       "https://olhardigital.com.br/?p=1370479",
       "https://olhardigital.com.br/?p=1367002",
       "https://olhardigital.com.br/?p=1370636",
@@ -3071,7 +3069,10 @@
       "https://olhardigital.com.br/?p=1382451",
       "https://olhardigital.com.br/?p=1382542",
       "https://olhardigital.com.br/?p=1382705",
-      "https://olhardigital.com.br/?p=1382756"
+      "https://olhardigital.com.br/?p=1382756",
+      "https://olhardigital.com.br/?p=1382733",
+      "https://olhardigital.com.br/?p=1382798",
+      "https://olhardigital.com.br/?p=1382800"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3552,7 +3553,6 @@
       "https://canaltech.com.br/hardware/nvidia-desmente-morte-da-rtx-5090-mas-placa-bate-us-8500-no-varejo/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/openai-testa-agentes-patrocinados-por-empresas-e-amplia-ferramentas-de-ia-para-anuncios.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/chefe-de-ia-da-microsoft-critica-abordagem-da-anthropic-em-relacao-a-consciencia-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/capacidades-da-ia-nao-devem-ultrapassar-controles-de-seguranca-diz-cofundador-do-deepmind.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/ia-da-openai-testou-vulnerabilidades-da-hugging-face-meses-antes-deataque.htm",
@@ -3851,7 +3851,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/19/amazon-diz-que-chips-proprios-de-ia-serao-compativeis-com-pytorch.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/19/ex-funcionario-daopenai-acusado-de-plantar-dispositivo-parece-ter-apoio-saudita-dizem-promotores-dos-eua.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/19/eua-proibem-uso-de-ia-chinesa-deepseek-em-sistemas-de-orgaos-governamentais.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/10/19/juiz-nos-eua-mantem-prisao-de-engenheiro-saudita-que-trabalhava-na-openai.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/10/19/juiz-nos-eua-mantem-prisao-de-engenheiro-saudita-que-trabalhava-na-openai.htm",
+      "https://tilt.uol.com.br/colunas/iagora/2026/10/19/bolha-ipo-da-anthropic-e-derrubado-e-wall-street-comeca-a-torcer-nariz-para-ia.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4204,57 +4205,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "atinge",
-      "galaxy",
-      "gemini",
-      "historico",
-      "preco",
-      "watch"
-    ],
-    [
-      "adeus",
-      "foco",
-      "galaxy",
-      "lancar",
-      "pode",
-      "samsung",
-      "total"
-    ],
-    [
-      "calote",
-      "contra",
-      "credito",
-      "levam",
-      "nivel",
-      "preocupacoes",
-      "recorde",
-      "seguro"
-    ],
-    [
-      "amazon",
-      "dispositivos",
-      "dois",
-      "lanca",
-      "portateis"
-    ],
-    [
-      "alertam",
-      "deepfake",
-      "judiciario",
-      "meta",
-      "openai",
-      "poder",
-      "provas",
-      "risco"
-    ],
-    [
-      "brasileiras",
-      "capital",
-      "core",
-      "mapeia",
-      "startups"
-    ],
     [
       "acelerar",
       "brex",
@@ -6020,6 +5970,64 @@
       "prisao",
       "saudita",
       "trabalhava"
+    ],
+    [
+      "abdicated",
+      "back",
+      "feds",
+      "have",
+      "mamdani",
+      "push",
+      "urges",
+      "yorkers"
+    ],
+    [
+      "code",
+      "deal",
+      "shipping",
+      "understand",
+      "written"
+    ],
+    [
+      "announces",
+      "businesses",
+      "chancellor",
+      "doors",
+      "embrace",
+      "german",
+      "investments",
+      "nvidia",
+      "open",
+      "urges",
+      "your"
+    ],
+    [
+      "anthropic",
+      "compensar",
+      "impactos",
+      "isso",
+      "mira",
+      "promete",
+      "sentido"
+    ],
+    [
+      "antes",
+      "anthropic",
+      "bilhoes",
+      "corre",
+      "levantar",
+      "openai"
+    ],
+    [
+      "empresa",
+      "engenheiro",
+      "fuga",
+      "grampo",
+      "juiz",
+      "liberdade",
+      "nega",
+      "openai",
+      "risco"
     ]
   ]
 }
