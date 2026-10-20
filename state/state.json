@@ -163,7 +163,8 @@
       "https://openai.com/index/sullivan-cromwell",
       "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "https://openai.com/index/itau-generative-ai",
-      "https://openai.com/index/benefit-street-partners"
+      "https://openai.com/index/benefit-street-partners",
+      "https://openai.com/index/low-resource-programming-languages"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -447,9 +448,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3166240",
-      "https://techcrunch.com/?p=3165837",
-      "https://techcrunch.com/?p=3166196",
       "https://techcrunch.com/?p=3166479",
       "https://techcrunch.com/?p=3166487",
       "https://techcrunch.com/?p=3166494",
@@ -746,10 +744,12 @@
       "https://techcrunch.com/?p=3179172",
       "https://techcrunch.com/?p=3179141",
       "https://techcrunch.com/?p=3179164",
-      "https://techcrunch.com/?p=3179099"
+      "https://techcrunch.com/?p=3179099",
+      "https://techcrunch.com/?p=3179279",
+      "https://techcrunch.com/?p=3178312",
+      "https://techcrunch.com/?p=3179487"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=983502",
       "https://www.theverge.com/?p=984239",
       "https://www.theverge.com/?p=984290",
       "https://www.theverge.com/?p=984923",
@@ -1048,7 +1048,8 @@
       "https://www.theverge.com/?p=1013113",
       "https://www.theverge.com/?p=1013643",
       "https://www.theverge.com/?p=1012839",
-      "https://www.theverge.com/?p=1014045"
+      "https://www.theverge.com/?p=1014045",
+      "https://www.theverge.com/?p=1013954"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=39968",
@@ -2159,9 +2160,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108356786",
-      "108356847",
-      "108356395",
       "108354722",
       "108356969",
       "108357107",
@@ -2458,7 +2456,10 @@
       "108419907",
       "108422128",
       "108420162",
-      "108432109"
+      "108432109",
+      "108429631",
+      "108433996",
+      "108433760"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2771,7 +2772,6 @@
       "https://mittechreview.com.br/?p=281952"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1370308",
       "https://olhardigital.com.br/?p=1370320",
       "https://olhardigital.com.br/?p=1369510",
       "https://olhardigital.com.br/?p=1370443",
@@ -3070,7 +3070,8 @@
       "https://olhardigital.com.br/?p=1379965",
       "https://olhardigital.com.br/?p=1382451",
       "https://olhardigital.com.br/?p=1382542",
-      "https://olhardigital.com.br/?p=1382705"
+      "https://olhardigital.com.br/?p=1382705",
+      "https://olhardigital.com.br/?p=1382756"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3249,7 +3250,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=941831"
     ],
     "canaltech": [
-      "https://canaltech.com.br/mercado/google-faz-aulao-gratis-para-o-enem-com-professores-famosos-e-simulados-do-gemini/",
       "https://canaltech.com.br/inteligencia-artificial/novo-claude-fable-51-e-mais-poderoso-mais-barato-e-tem-menos-restricoes/",
       "https://canaltech.com.br/inteligencia-artificial/na-era-da-imaginacao-saber-construir-comeca-pela-capacidade-de-imaginar/",
       "https://canaltech.com.br/inteligencia-artificial/astra-openai-pede-ajuda-as-gigantes-da-seguranca-para-conter-nova-ia/",
@@ -3548,10 +3548,10 @@
       "https://canaltech.com.br/hardware/mod-leva-ray-reconstruction-e-dlss-a-placas-da-amd-sem-perda-de-fps/",
       "https://canaltech.com.br/hardware/intel-revela-superchip-razor-lake-ax-com-gpu-monstruosa-e-700-tops-de-ia/",
       "https://canaltech.com.br/inteligencia-artificial/governo-dos-eua-bane-ia-chinesa-deepseek-por-risco-de-espionagem-e-malware/",
-      "https://canaltech.com.br/hardware/para-nvidia-cpus-atuais-tem-falha-grave-de-desempenho-que-ela-vai-corrigir/"
+      "https://canaltech.com.br/hardware/para-nvidia-cpus-atuais-tem-falha-grave-de-desempenho-que-ela-vai-corrigir/",
+      "https://canaltech.com.br/hardware/nvidia-desmente-morte-da-rtx-5090-mas-placa-bate-us-8500-no-varejo/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/huawei-preve-bilhoes-de-agentes-dominando-trafego-de-ia-ate-2035.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/openai-testa-agentes-patrocinados-por-empresas-e-amplia-ferramentas-de-ia-para-anuncios.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/chefe-de-ia-da-microsoft-critica-abordagem-da-anthropic-em-relacao-a-consciencia-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/16/capacidades-da-ia-nao-devem-ultrapassar-controles-de-seguranca-diz-cofundador-do-deepmind.htm",
@@ -3850,7 +3850,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/19/anthropic-monta-fundode-beneficio-publico-e-musk-promete-doar-acoes-a-criancas-dos-eua.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/19/amazon-diz-que-chips-proprios-de-ia-serao-compativeis-com-pytorch.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/19/ex-funcionario-daopenai-acusado-de-plantar-dispositivo-parece-ter-apoio-saudita-dizem-promotores-dos-eua.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/19/eua-proibem-uso-de-ia-chinesa-deepseek-em-sistemas-de-orgaos-governamentais.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/19/eua-proibem-uso-de-ia-chinesa-deepseek-em-sistemas-de-orgaos-governamentais.htm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/10/19/juiz-nos-eua-mantem-prisao-de-engenheiro-saudita-que-trabalhava-na-openai.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4203,109 +4204,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "argon",
-      "gemini",
-      "google",
-      "model",
-      "need",
-      "only",
-      "robots",
-      "wants"
-    ],
-    [
-      "black",
-      "consumer",
-      "flux",
-      "forest",
-      "gpus",
-      "image",
-      "just",
-      "klein",
-      "labs",
-      "model",
-      "open",
-      "runs",
-      "vram",
-      "weights"
-    ],
-    [
-      "answer",
-      "kimi",
-      "meta",
-      "muse",
-      "open",
-      "qwen",
-      "race",
-      "spark",
-      "weight"
-    ],
-    [
-      "clanker",
-      "labeling",
-      "music",
-      "singer",
-      "tell",
-      "will",
-      "youtube"
-    ],
-    [
-      "after",
-      "anthropic",
-      "dismissed",
-      "fears",
-      "hoax",
-      "openai",
-      "probes",
-      "report",
-      "trump"
-    ],
-    [
-      "coreweave",
-      "credit",
-      "debt",
-      "default",
-      "distress",
-      "investors",
-      "levels",
-      "sour",
-      "swaps"
-    ],
-    [
-      "deeper",
-      "into",
-      "pushes",
-      "ramp",
-      "reaches",
-      "valuation"
-    ],
-    [
-      "adie",
-      "anthropic",
-      "avancada",
-      "pede",
-      "riscos",
-      "york"
-    ],
-    [
-      "bytedance",
-      "conter",
-      "cria",
-      "dona",
-      "focado",
-      "global",
-      "riscos",
-      "tiktok",
-      "time"
-    ],
-    [
-      "brasil",
-      "chatgpt",
-      "eleicao",
-      "nega",
-      "post",
-      "relacao"
-    ],
     [
       "atinge",
       "galaxy",
@@ -6030,6 +5928,98 @@
       "capta",
       "first",
       "healthtech"
+    ],
+    [
+      "advancing",
+      "coding",
+      "languages",
+      "programming",
+      "resource"
+    ],
+    [
+      "agents",
+      "frontier",
+      "insider",
+      "like",
+      "microsoft",
+      "models",
+      "threats",
+      "trusted"
+    ],
+    [
+      "chief",
+      "easy",
+      "embedded",
+      "evaluators",
+      "face",
+      "hugging",
+      "policy",
+      "solution"
+    ],
+    [
+      "another",
+      "anthropic",
+      "billion",
+      "compute",
+      "deal",
+      "nscale",
+      "reportedly",
+      "talks"
+    ],
+    [
+      "comeback",
+      "fossil",
+      "fuel",
+      "here"
+    ],
+    [
+      "1987",
+      "cramer",
+      "crash",
+      "crucial",
+      "echoes",
+      "lesson",
+      "market",
+      "recent",
+      "sell",
+      "stock"
+    ],
+    [
+      "chase",
+      "cramer",
+      "first",
+      "happen",
+      "here",
+      "just",
+      "needs",
+      "rebound",
+      "what"
+    ],
+    [
+      "acordo",
+      "ampliar",
+      "anthropic",
+      "bilhoes",
+      "infraestrutura",
+      "negocia"
+    ],
+    [
+      "5090",
+      "bate",
+      "desmente",
+      "morte",
+      "nvidia",
+      "placa",
+      "varejo"
+    ],
+    [
+      "engenheiro",
+      "juiz",
+      "mantem",
+      "openai",
+      "prisao",
+      "saudita",
+      "trabalhava"
     ]
   ]
 }
