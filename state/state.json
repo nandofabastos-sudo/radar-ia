@@ -166,7 +166,8 @@
       "https://openai.com/index/benefit-street-partners",
       "https://openai.com/index/low-resource-programming-languages",
       "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "https://openai.com/index/ted-taylor-restaurant"
+      "https://openai.com/index/ted-taylor-restaurant",
+      "https://openai.com/index/terminal-x"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -456,7 +457,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3152751",
       "https://techcrunch.com/?p=3166716",
       "https://techcrunch.com/?p=3166772",
       "https://techcrunch.com/?p=3166726",
@@ -755,10 +755,10 @@
       "https://techcrunch.com/?p=3179783",
       "https://techcrunch.com/?p=3179777",
       "https://techcrunch.com/?p=3179891",
-      "https://techcrunch.com/?p=3179822"
+      "https://techcrunch.com/?p=3179822",
+      "https://techcrunch.com/?p=3179755"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=985385",
       "https://www.theverge.com/?p=985387",
       "https://www.theverge.com/?p=985491",
       "https://www.theverge.com/?p=985500",
@@ -1057,7 +1057,8 @@
       "https://www.theverge.com/?p=1014246",
       "https://www.theverge.com/?p=1014284",
       "https://www.theverge.com/?p=1014627",
-      "https://www.theverge.com/?p=1014999"
+      "https://www.theverge.com/?p=1014999",
+      "https://www.theverge.com/?p=1014976"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40036",
@@ -4235,39 +4236,11 @@
       "https://www.mobiletime.com.br/?p=866722",
       "https://www.mobiletime.com.br/?p=866720",
       "https://www.mobiletime.com.br/?p=866825",
-      "https://www.mobiletime.com.br/?p=866941"
+      "https://www.mobiletime.com.br/?p=866941",
+      "https://www.mobiletime.com.br/?p=866933"
     ]
   },
   "_titulos_recentes": [
-    [
-      "coreweave",
-      "estresse",
-      "neoclouds",
-      "teste"
-    ],
-    [
-      "agente",
-      "conversao",
-      "eleva",
-      "happy",
-      "whatsapp"
-    ],
-    [
-      "gestao",
-      "lanca",
-      "linhas",
-      "moveis",
-      "salvy",
-      "voltada"
-    ],
-    [
-      "base",
-      "building",
-      "customer",
-      "entire",
-      "generative",
-      "itau"
-    ],
     [
       "biotecnologia",
       "china",
@@ -6055,6 +6028,40 @@
       "mostra",
       "pesquisa",
       "shadow"
+    ],
+    [
+      "investor",
+      "judgment",
+      "matches",
+      "senior",
+      "terminal"
+    ],
+    [
+      "anthropic",
+      "bill",
+      "block",
+      "could",
+      "killed",
+      "model",
+      "people",
+      "pitches",
+      "safety"
+    ],
+    [
+      "abuse",
+      "altman",
+      "dismisses",
+      "judge",
+      "lawsuit",
+      "sexual",
+      "sister"
+    ],
+    [
+      "base",
+      "ciberlab",
+      "coordenador",
+      "investigacao",
+      "mudara"
     ]
   ]
 }
