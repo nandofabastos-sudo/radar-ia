@@ -204,7 +204,8 @@
       "https://www.anthropic.com/news/distillation-defenses",
       "https://www.anthropic.com/news/safeguards",
       "https://www.anthropic.com/news/partnerships",
-      "https://www.anthropic.com/news/announcements"
+      "https://www.anthropic.com/news/announcements",
+      "https://www.anthropic.com/news/features"
     ],
     "google_deepmind": [
       "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -457,7 +458,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3166716",
       "https://techcrunch.com/?p=3166772",
       "https://techcrunch.com/?p=3166726",
       "https://techcrunch.com/?p=3166866",
@@ -756,7 +756,8 @@
       "https://techcrunch.com/?p=3179777",
       "https://techcrunch.com/?p=3179891",
       "https://techcrunch.com/?p=3179822",
-      "https://techcrunch.com/?p=3179755"
+      "https://techcrunch.com/?p=3179755",
+      "https://techcrunch.com/?p=3179644"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=985387",
@@ -1957,7 +1958,8 @@
       "6ac5639436eaa80001466ae6",
       "6ac82efd3a04b900019bb126",
       "6acec3f2d4d23400011cc862",
-      "6ac92d517ce9570001c9d80b"
+      "6ac92d517ce9570001c9d80b",
+      "6ad7e7171eff6a0001bb99df"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2185,7 +2187,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108356689",
       "108357258",
       "108357231",
       "108357412",
@@ -2484,7 +2485,8 @@
       "108436552",
       "108436822",
       "108434011",
-      "108436589"
+      "108436589",
+      "108439816"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2802,7 +2804,6 @@
       "https://mittechreview.com.br/?p=283000"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1370655",
       "https://olhardigital.com.br/?p=1370670",
       "https://olhardigital.com.br/?p=1370695",
       "https://olhardigital.com.br/?p=1370705",
@@ -3101,7 +3102,8 @@
       "https://olhardigital.com.br/?p=1383022",
       "https://olhardigital.com.br/?p=1383045",
       "https://olhardigital.com.br/?p=1383065",
-      "https://olhardigital.com.br/?p=1383079"
+      "https://olhardigital.com.br/?p=1383079",
+      "https://olhardigital.com.br/?p=1383090"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4241,39 +4243,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "biotecnologia",
-      "china",
-      "exportacoes",
-      "quer",
-      "restringir",
-      "tecnologias"
-    ],
-    [
-      "answers",
-      "benefit",
-      "codex",
-      "faster",
-      "partners",
-      "questions",
-      "street"
-    ],
-    [
-      "companies",
-      "doing",
-      "everyone",
-      "give",
-      "opposite",
-      "some"
-    ],
-    [
-      "ajudar",
-      "cientistas",
-      "entender",
-      "pensa",
-      "pode",
-      "teoria"
-    ],
     [
       "doesn",
       "mathematicians",
@@ -6062,6 +6031,37 @@
       "coordenador",
       "investigacao",
       "mudara"
+    ],
+    [
+      "report",
+      "situation"
+    ],
+    [
+      "amulya",
+      "lego",
+      "nvidia",
+      "physical",
+      "turned",
+      "vishwanath"
+    ],
+    [
+      "joel",
+      "kaplan",
+      "leaves",
+      "meta"
+    ],
+    [
+      "after",
+      "australian",
+      "center",
+      "data",
+      "earnings",
+      "forecast",
+      "nextdc",
+      "operator",
+      "plunge",
+      "shares",
+      "slashes"
     ]
   ]
 }
