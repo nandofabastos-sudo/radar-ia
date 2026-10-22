@@ -219,7 +219,8 @@
       "https://www.anthropic.com/news/announcements",
       "https://www.anthropic.com/news/features",
       "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+      "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
     ],
     "google_deepmind": [
       "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
@@ -491,7 +492,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3167580",
       "https://techcrunch.com/?p=3167633",
       "https://techcrunch.com/?p=3167713",
       "https://techcrunch.com/?p=3166854",
@@ -790,12 +790,10 @@
       "https://techcrunch.com/?p=3180761",
       "https://techcrunch.com/?p=3180667",
       "https://techcrunch.com/?p=3180617",
-      "https://techcrunch.com/?p=3180727"
+      "https://techcrunch.com/?p=3180727",
+      "https://techcrunch.com/?p=3180936"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=987575",
-      "https://www.theverge.com/?p=987566",
-      "https://www.theverge.com/?p=987695",
       "https://www.theverge.com/?p=987830",
       "https://www.theverge.com/?p=987429",
       "https://www.theverge.com/?p=988228",
@@ -1092,7 +1090,10 @@
       "https://www.theverge.com/?p=1016690",
       "https://www.theverge.com/?p=1016905",
       "https://www.theverge.com/?p=1017012",
-      "https://www.theverge.com/?p=1016879"
+      "https://www.theverge.com/?p=1016879",
+      "https://www.theverge.com/?p=1017066",
+      "https://www.theverge.com/?p=1017082",
+      "https://www.theverge.com/?p=1017151"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40144",
@@ -1754,7 +1755,8 @@
       "https://www.technologyreview.com/?p=1146937",
       "https://www.technologyreview.com/?p=1146948",
       "https://www.technologyreview.com/?p=1146812",
-      "https://www.technologyreview.com/?p=1146103"
+      "https://www.technologyreview.com/?p=1146103",
+      "https://www.technologyreview.com/?p=1146109"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1976,7 +1978,8 @@
       "6ad92fb968bf72427a051c84",
       "6ad955a28e3faf9869a11a20",
       "6ad8f3de7f4e8c7bfb89b8b0",
-      "6acf7f9fb4b82589ef13e659"
+      "6acf7f9fb4b82589ef13e659",
+      "6ad944c52adb51db52e1a3c5"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2241,7 +2244,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108357139",
       "108358214",
       "108358077",
       "108358347",
@@ -2540,7 +2542,8 @@
       "108445948",
       "108446196",
       "108446673",
-      "108446883"
+      "108446883",
+      "108448203"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2669,7 +2672,8 @@
       "https://techcrunch.com/?p=3179703",
       "https://techcrunch.com/?p=3180294",
       "https://techcrunch.com/?p=3180348",
-      "https://techcrunch.com/?p=3180778"
+      "https://techcrunch.com/?p=3180778",
+      "https://techcrunch.com/?p=3180936"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -2866,7 +2870,6 @@
       "https://mittechreview.com.br/?p=283272"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371030",
       "https://olhardigital.com.br/?p=1371113",
       "https://olhardigital.com.br/?p=1371140",
       "https://olhardigital.com.br/?p=1371137",
@@ -3165,7 +3168,8 @@
       "https://olhardigital.com.br/?p=1383434",
       "https://olhardigital.com.br/?p=1382557",
       "https://olhardigital.com.br/?p=1383600",
-      "https://olhardigital.com.br/?p=1383626"
+      "https://olhardigital.com.br/?p=1383626",
+      "https://olhardigital.com.br/?p=1383661"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3346,7 +3350,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=942301",
       "https://tecnoblog.net/?post_type=noticias&p=942304",
       "https://tecnoblog.net/?post_type=noticias&p=942429",
-      "https://tecnoblog.net/?post_type=noticias&p=942615"
+      "https://tecnoblog.net/?post_type=noticias&p=942615",
+      "https://tecnoblog.net/?post_type=noticias&p=942842"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/virou-bagunca-detector-de-ia-do-instagram-rotula-fotos-reais-e-ignora-imagens-100-falsas/",
@@ -3651,7 +3656,6 @@
       "https://canaltech.com.br/inteligencia-artificial/ia-da-openai-acha-em-32-minutos-pistas-sobre-doenca-similar-ao-parkinson/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/18/erro-em-relatorio-de-ia-quase-fez-eua-atacarem-e-abrirem-guerra-contra-china.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/18/eua-newsom-assina-decreto-para-criar-interruptor-de-emergencia-para-a-ia.htm",
       "https://www.uol.com.br/flash/?c=6aad5e3278c046f0e39bca9d",
       "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/19/ia-da-google-hackeou-tres-empresas-durante-testes.htm",
@@ -3950,7 +3954,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/22/unitree-mostra-robo-guarda-costas-de-kung-fu-e-evita-detalhar-h2-x.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/22/ipo-daanthropic-concentra-interesse-de-investidores-no-mercado-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/22/veja-os-planos-de-flavio-bolsonaro-e-lula-para-inteligencia-artificial.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/22/acoes-da-meta-despencam-com-preocupacao-sobre-investimentos-em-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/22/acoes-da-meta-despencam-com-preocupacao-sobre-investimentos-em-ia.htm",
+      "https://economia.uol.com.br/noticias/redacao/2026/10/22/empresas-de-tecnologia-desabam-na-nasdaq-por-temores-com-ia.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4318,94 +4323,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "after",
-      "backlash",
-      "commercial",
-      "drops",
-      "meta",
-      "train",
-      "word"
-    ],
-    [
-      "cited",
-      "fake",
-      "llms",
-      "publish",
-      "stats"
-    ],
-    [
-      "divida",
-      "elon",
-      "musk",
-      "robos",
-      "saida",
-      "unica"
-    ],
-    [
-      "amazon",
-      "chips",
-      "desafiar",
-      "dominio",
-      "ferramenta",
-      "lanca",
-      "nvidia"
-    ],
-    [
-      "anthropic",
-      "bilhoes",
-      "bilionarios",
-      "custos",
-      "prejuizo",
-      "revela"
-    ],
-    [
-      "antigos",
-      "decompilacao",
-      "destruido",
-      "fecha",
-      "jogos",
-      "maior",
-      "pela",
-      "portas",
-      "site"
-    ],
-    [
-      "apps",
-      "comuns",
-      "inuteis",
-      "pessoas",
-      "remover",
-      "reprogramar",
-      "smart",
-      "usam"
-    ],
-    [
-      "erotico",
-      "flavio",
-      "golpe",
-      "gostosas",
-      "loirona",
-      "sinteticas"
-    ],
-    [
-      "estimativas",
-      "impulsionada",
-      "receita",
-      "salto",
-      "spacex",
-      "supera",
-      "trimestre"
-    ],
-    [
-      "comprar",
-      "conta",
-      "estao",
-      "neoclouds",
-      "pagando",
-      "passou",
-      "tudo"
-    ],
     [
       "agentes",
       "artificial",
@@ -6143,6 +6060,87 @@
       "made",
       "tractian",
       "unicornio"
+    ],
+    [
+      "call",
+      "guest",
+      "investigators",
+      "life",
+      "open",
+      "sciences"
+    ],
+    [
+      "ahead",
+      "openai",
+      "raise",
+      "valuation",
+      "working"
+    ],
+    [
+      "back",
+      "meta",
+      "muse",
+      "sharing",
+      "turns"
+    ],
+    [
+      "8217",
+      "could",
+      "experts",
+      "legal",
+      "meta",
+      "news",
+      "scrape",
+      "sites",
+      "still"
+    ],
+    [
+      "built",
+      "designing",
+      "harness",
+      "last",
+      "serving"
+    ],
+    [
+      "boom",
+      "helping",
+      "join",
+      "social",
+      "society",
+      "women"
+    ],
+    [
+      "billion",
+      "funding",
+      "investors",
+      "nears",
+      "openai",
+      "round",
+      "trillion",
+      "valuation"
+    ],
+    [
+      "arabes",
+      "bilhoes",
+      "emirados",
+      "investidores",
+      "negocia",
+      "openai",
+      "rodada"
+    ],
+    [
+      "diagnostico",
+      "medicos",
+      "microsoft",
+      "superou",
+      "testes"
+    ],
+    [
+      "desabam",
+      "empresas",
+      "nasdaq",
+      "tecnologia",
+      "temores"
     ]
   ]
 }
