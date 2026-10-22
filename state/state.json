@@ -1088,8 +1088,6 @@
       "https://www.theverge.com/?p=1015958"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40075",
-      "https://the-decoder.com/?p=40071",
       "https://the-decoder.com/?p=40025",
       "https://the-decoder.com/?p=40116",
       "https://the-decoder.com/?p=40132",
@@ -1387,7 +1385,9 @@
       "https://the-decoder.com/?p=41795",
       "https://the-decoder.com/?p=41805",
       "https://the-decoder.com/?p=41808",
-      "https://the-decoder.com/?p=41815"
+      "https://the-decoder.com/?p=41815",
+      "https://the-decoder.com/?p=41818",
+      "https://the-decoder.com/?p=41823"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1743,7 +1743,9 @@
       "https://www.technologyreview.com/?p=1147186",
       "https://www.technologyreview.com/?p=1145916",
       "https://www.technologyreview.com/?p=1145423",
-      "https://www.technologyreview.com/?p=1146937"
+      "https://www.technologyreview.com/?p=1146937",
+      "https://www.technologyreview.com/?p=1146948",
+      "https://www.technologyreview.com/?p=1146812"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -1963,7 +1965,8 @@
       "6ad8bfd3cd0792bc5939d089",
       "6ad7b9c1698b2d6d47493387",
       "6ad92fb968bf72427a051c84",
-      "6ad955a28e3faf9869a11a20"
+      "6ad955a28e3faf9869a11a20",
+      "6ad8f3de7f4e8c7bfb89b8b0"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2222,12 +2225,12 @@
       "https://news.ycombinator.com/item?id=50163277",
       "https://news.ycombinator.com/item?id=50168396",
       "https://news.ycombinator.com/item?id=50165801",
-      "https://news.ycombinator.com/item?id=50180836"
+      "https://news.ycombinator.com/item?id=50180836",
+      "https://news.ycombinator.com/item?id=50186037"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108358045",
       "108357387",
       "108358053",
       "108350818",
@@ -2526,7 +2529,8 @@
       "108439229",
       "108441372",
       "108444220",
-      "108440780"
+      "108440780",
+      "108445948"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2845,11 +2849,10 @@
       "https://mittechreview.com.br/?p=282230",
       "https://mittechreview.com.br/?p=281952",
       "https://mittechreview.com.br/?p=283037",
-      "https://mittechreview.com.br/?p=283000"
+      "https://mittechreview.com.br/?p=283000",
+      "https://mittechreview.com.br/?p=283272"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1370963",
-      "https://olhardigital.com.br/?p=1370974",
       "https://olhardigital.com.br/?p=1371009",
       "https://olhardigital.com.br/?p=1371016",
       "https://olhardigital.com.br/?p=1371030",
@@ -3147,7 +3150,9 @@
       "https://olhardigital.com.br/?p=1383370",
       "https://olhardigital.com.br/?p=1383367",
       "https://olhardigital.com.br/?p=1383379",
-      "https://olhardigital.com.br/?p=1383378"
+      "https://olhardigital.com.br/?p=1383378",
+      "https://olhardigital.com.br/?p=1383434",
+      "https://olhardigital.com.br/?p=1382557"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3632,8 +3637,6 @@
       "https://canaltech.com.br/seguranca/chrome-reforca-ia-para-alertar-usuarios-sobre-golpes-e-lojas-falsas/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/18/executivo-da-microsoft-chama-coleta-para-ia-de-maior-roubo.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/18/claude-ajuda-a-criar-versao-mais-inteligente-de-si-proprio.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/18/pesquisadores-dizem-ter-invadido-contas-do-chatgpt-em-teste-de-seguranca.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/18/startup-de-ia-mantic-levanta-us25-mi-apos-superar-humanos-em-previsoes.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/18/anthropic-monta-laboratorio-de-biologia-para-acelerar-experimentos-baseados-em-ia.htm",
@@ -3931,7 +3934,9 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/21/blackrock-adiciona-etf-de-robotica-a-crescente-gama-de-produtos-com-foco-em-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/21/hassabis-diz-esperar-agi-em-ate-tres-anos-e-defende-foco-em-seguranca.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/21/meta-muda-termos-e-tira-trecho-sobre-usar-conteudo-de-sites-para-treinar-ia.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/21/walmart-deixa-agentes-de-ia-fazerem-compras-para-clientes-nos-eua.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/21/walmart-deixa-agentes-de-ia-fazerem-compras-para-clientes-nos-eua.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/22/ia-substitui-policial-e-recebe-mais-de-150-bos-ao-dia-pelo-whatsapp-no-pi.ghtm",
+      "https://economia.uol.com.br/colunas/junior-borneli/2026/10/22/de-temperos-a-lentes-de-oculos-a-cadeia-da-ia-e-maior-do-que-voce-imagina.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4294,108 +4299,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "announces",
-      "businesses",
-      "chancellor",
-      "doors",
-      "embrace",
-      "german",
-      "investments",
-      "nvidia",
-      "open",
-      "urges",
-      "your"
-    ],
-    [
-      "anthropic",
-      "compensar",
-      "impactos",
-      "isso",
-      "mira",
-      "promete",
-      "sentido"
-    ],
-    [
-      "antes",
-      "anthropic",
-      "bilhoes",
-      "corre",
-      "levantar",
-      "openai"
-    ],
-    [
-      "empresa",
-      "engenheiro",
-      "fuga",
-      "grampo",
-      "juiz",
-      "liberdade",
-      "nega",
-      "openai",
-      "risco"
-    ],
-    [
-      "catalyst",
-      "fund",
-      "general",
-      "growth",
-      "meeting",
-      "million",
-      "otter",
-      "raises",
-      "tool"
-    ],
-    [
-      "massive",
-      "samsung",
-      "semiconductor",
-      "visit"
-    ],
-    [
-      "dont",
-      "help",
-      "instructions",
-      "pages",
-      "recommend",
-      "regulator",
-      "whatsapp"
-    ],
-    [
-      "agency",
-      "amid",
-      "bans",
-      "china",
-      "deepseek",
-      "government",
-      "rift",
-      "systems"
-    ],
-    [
-      "boom",
-      "center",
-      "data",
-      "every",
-      "good",
-      "hsbc",
-      "make",
-      "warns"
-    ],
-    [
-      "agente",
-      "assistente",
-      "evolucao",
-      "horas",
-      "marketing",
-      "opera"
-    ],
-    [
-      "engenharia",
-      "original",
-      "reversa",
-      "sabor",
-      "software"
-    ],
     [
       "acusa",
       "financiamento",
@@ -6130,6 +6033,96 @@
       "money",
       "southeast",
       "subscriptions"
+    ],
+    [
+      "agents",
+      "analyze",
+      "brain",
+      "data",
+      "humans",
+      "minutes",
+      "months",
+      "mouse",
+      "openai",
+      "take",
+      "would"
+    ],
+    [
+      "behind",
+      "bill",
+      "hidden",
+      "inference",
+      "leaves",
+      "storage",
+      "what"
+    ],
+    [
+      "aware",
+      "case",
+      "context",
+      "making"
+    ],
+    [
+      "biology",
+      "chat",
+      "face",
+      "hugging",
+      "lets",
+      "model"
+    ],
+    [
+      "claude",
+      "duet"
+    ],
+    [
+      "capital",
+      "charts",
+      "demand",
+      "huang",
+      "jensen",
+      "neocloud",
+      "nvidia",
+      "scarce"
+    ],
+    [
+      "brincar",
+      "claude",
+      "comeca",
+      "ilha",
+      "isolado",
+      "virtual"
+    ],
+    [
+      "calor",
+      "cobrada",
+      "escapulindo",
+      "meta",
+      "resumo",
+      "tempestade"
+    ],
+    [
+      "definida",
+      "fase",
+      "modelo",
+      "proxima",
+      "sera",
+      "unico"
+    ],
+    [
+      "pelo",
+      "policial",
+      "recebe",
+      "substitui",
+      "whatsapp"
+    ],
+    [
+      "cadeia",
+      "imagina",
+      "lentes",
+      "maior",
+      "oculos",
+      "temperos",
+      "voce"
     ]
   ]
 }
