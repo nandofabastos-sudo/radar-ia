@@ -174,7 +174,8 @@
       "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "https://openai.com/index/openai-models-google-cloud",
       "https://openai.com/index/empowering-cyber-defenders",
-      "https://openai.com/index/att-legal"
+      "https://openai.com/index/att-legal",
+      "https://openai.com/index/broad-access-through-consistent-standards"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -477,9 +478,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3166970",
-      "https://techcrunch.com/?p=3167032",
-      "https://techcrunch.com/?p=3167075",
       "https://techcrunch.com/?p=3167098",
       "https://techcrunch.com/?p=3167174",
       "https://techcrunch.com/?p=3167267",
@@ -776,11 +774,12 @@
       "https://techcrunch.com/?p=3179812",
       "https://techcrunch.com/?p=3180139",
       "https://techcrunch.com/?p=3180324",
-      "https://techcrunch.com/?p=3180391"
+      "https://techcrunch.com/?p=3180391",
+      "https://techcrunch.com/?p=3180202",
+      "https://techcrunch.com/?p=3180197",
+      "https://techcrunch.com/?p=3180358"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=985332",
-      "https://www.theverge.com/?p=985597",
       "https://www.theverge.com/?p=985567",
       "https://www.theverge.com/?p=985947",
       "https://www.theverge.com/?p=986176",
@@ -1078,7 +1077,9 @@
       "https://www.theverge.com/?p=1015316",
       "https://www.theverge.com/?p=1015281",
       "https://www.theverge.com/?p=1015715",
-      "https://www.theverge.com/?p=1015843"
+      "https://www.theverge.com/?p=1015843",
+      "https://www.theverge.com/?p=1015799",
+      "https://www.theverge.com/?p=1015958"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40075",
@@ -1954,7 +1955,8 @@
       "6ad6801d37835ef36a21e0be",
       "6ad8b88dcd0792bc5939d033",
       "6ad8bfd3cd0792bc5939d089",
-      "6ad7b9c1698b2d6d47493387"
+      "6ad7b9c1698b2d6d47493387",
+      "6ad92fb968bf72427a051c84"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2839,7 +2841,6 @@
       "https://mittechreview.com.br/?p=283000"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1370959",
       "https://olhardigital.com.br/?p=1370963",
       "https://olhardigital.com.br/?p=1370974",
       "https://olhardigital.com.br/?p=1371009",
@@ -3138,7 +3139,8 @@
       "https://olhardigital.com.br/?p=1383351",
       "https://olhardigital.com.br/?p=1383370",
       "https://olhardigital.com.br/?p=1383367",
-      "https://olhardigital.com.br/?p=1383379"
+      "https://olhardigital.com.br/?p=1383379",
+      "https://olhardigital.com.br/?p=1383378"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3321,7 +3323,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=942429"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-astra-seu-modelo-mais-inteligente-e-tambem-mais-critico/",
       "https://canaltech.com.br/games/lixo-de-ia-criadores-do-emulador-de-ps3-detonam-novo-dlss-5-da-nvidia/",
       "https://canaltech.com.br/software/de-chaves-a-llms-como-a-programacao-chegou-a-linguagem-natural/",
       "https://canaltech.com.br/mercado/hugging-face-continuara-aberto-depois-da-compra-pela-nvidia/",
@@ -3620,10 +3621,10 @@
       "https://canaltech.com.br/hardware/driver-da-nvidia-usa-nuvem-para-resolver-lentidao-da-compilacao-de-shaders-em-jogos-de-pcs/",
       "https://canaltech.com.br/inteligencia-artificial/ia-do-android-auto-leva-e-mails-e-eventos-da-agenda-para-motorista-no-volante/",
       "https://canaltech.com.br/seguranca/ia-revela-falhas-escondidas-ha-mais-de-10-anos-no-php-entenda-a-descoberta/",
-      "https://canaltech.com.br/inteligencia-artificial/symantec-descobre-agente-que-sequestra-ias-para-disparar-100-mil-ataques-hacker-sozinho/"
+      "https://canaltech.com.br/inteligencia-artificial/symantec-descobre-agente-que-sequestra-ias-para-disparar-100-mil-ataques-hacker-sozinho/",
+      "https://canaltech.com.br/seguranca/chrome-reforca-ia-para-alertar-usuarios-sobre-golpes-e-lojas-falsas/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/18/fundador-da-startup-chinesa-spirit-ai-afirma-que-cerebros-roboticos-devem-alcancar-avanco-significativo-em-2027.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/18/executivo-da-microsoft-chama-coleta-para-ia-de-maior-roubo.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/18/claude-ajuda-a-criar-versao-mais-inteligente-de-si-proprio.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/18/pesquisadores-dizem-ter-invadido-contas-do-chatgpt-em-teste-de-seguranca.ghtm",
@@ -3922,7 +3923,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/21/ceo-da-nvidia-celebra-potencial-da-ia-na-europa-cercado-por-patos-robos.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/21/blackrock-adiciona-etf-de-robotica-a-crescente-gama-de-produtos-com-foco-em-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/21/hassabis-diz-esperar-agi-em-ate-tres-anos-e-defende-foco-em-seguranca.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/21/meta-muda-termos-e-tira-trecho-sobre-usar-conteudo-de-sites-para-treinar-ia.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/21/meta-muda-termos-e-tira-trecho-sobre-usar-conteudo-de-sites-para-treinar-ia.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/21/walmart-deixa-agentes-de-ia-fazerem-compras-para-clientes-nos-eua.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4280,108 +4282,11 @@
       "https://www.mobiletime.com.br/?p=866720",
       "https://www.mobiletime.com.br/?p=866825",
       "https://www.mobiletime.com.br/?p=866941",
-      "https://www.mobiletime.com.br/?p=866933"
+      "https://www.mobiletime.com.br/?p=866933",
+      "https://www.mobiletime.com.br/?p=867087"
     ]
   },
   "_titulos_recentes": [
-    [
-      "after",
-      "assistant",
-      "launch",
-      "months",
-      "nabs",
-      "startup",
-      "town",
-      "unicorn",
-      "valuation"
-    ],
-    [
-      "alerta",
-      "dividas",
-      "podem",
-      "revelam",
-      "techs"
-    ],
-    [
-      "intel",
-      "lake",
-      "monstruosa",
-      "razor",
-      "revela",
-      "superchip",
-      "tops"
-    ],
-    [
-      "bane",
-      "chinesa",
-      "deepseek",
-      "espionagem",
-      "governo",
-      "malware",
-      "risco"
-    ],
-    [
-      "atuais",
-      "corrigir",
-      "cpus",
-      "desempenho",
-      "falha",
-      "grave",
-      "nvidia"
-    ],
-    [
-      "acusado",
-      "apoio",
-      "dispositivo",
-      "dizem",
-      "funcionario",
-      "openai",
-      "parece",
-      "plantar",
-      "promotores",
-      "saudita"
-    ],
-    [
-      "chinesa",
-      "deepseek",
-      "governamentais",
-      "orgaos",
-      "proibem",
-      "sistemas"
-    ],
-    [
-      "alice",
-      "capta",
-      "first",
-      "healthtech"
-    ],
-    [
-      "advancing",
-      "coding",
-      "languages",
-      "programming",
-      "resource"
-    ],
-    [
-      "agents",
-      "frontier",
-      "insider",
-      "like",
-      "microsoft",
-      "models",
-      "threats",
-      "trusted"
-    ],
-    [
-      "chief",
-      "easy",
-      "embedded",
-      "evaluators",
-      "face",
-      "hugging",
-      "policy",
-      "solution"
-    ],
     [
       "another",
       "anthropic",
@@ -6108,6 +6013,104 @@
       "gestor",
       "vendas",
       "visao"
+    ],
+    [
+      "access",
+      "broad",
+      "consistent",
+      "standards",
+      "through"
+    ],
+    [
+      "after",
+      "blacksmith",
+      "hits",
+      "leads",
+      "sequoia",
+      "series",
+      "unicorn",
+      "valuation"
+    ],
+    [
+      "ancient",
+      "armageddon",
+      "find",
+      "google",
+      "holes",
+      "internet",
+      "openai",
+      "panicking"
+    ],
+    [
+      "blackstone",
+      "buildout",
+      "debt",
+      "fears",
+      "khaira",
+      "over",
+      "overblown"
+    ],
+    [
+      "class",
+      "create",
+      "fund",
+      "meta",
+      "push",
+      "shares"
+    ],
+    [
+      "centers",
+      "could",
+      "data",
+      "decades",
+      "erase",
+      "gains",
+      "quality"
+    ],
+    [
+      "agrees",
+      "ballot",
+      "billionaires",
+      "california",
+      "despite",
+      "mark",
+      "measure",
+      "stay",
+      "zuckerberg"
+    ],
+    [
+      "codigo",
+      "deepseek",
+      "gastando",
+      "libera",
+      "menos",
+      "rapido",
+      "rodar"
+    ],
+    [
+      "alertar",
+      "chrome",
+      "falsas",
+      "golpes",
+      "lojas",
+      "reforca",
+      "usuarios"
+    ],
+    [
+      "agentes",
+      "clientes",
+      "compras",
+      "deixa",
+      "fazerem",
+      "walmart"
+    ],
+    [
+      "agentes",
+      "criacao",
+      "elevenlabs",
+      "lanca",
+      "linha",
+      "modelos"
     ]
   ]
 }
