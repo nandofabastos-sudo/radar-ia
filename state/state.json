@@ -175,7 +175,8 @@
       "https://openai.com/index/openai-models-google-cloud",
       "https://openai.com/index/empowering-cyber-defenders",
       "https://openai.com/index/att-legal",
-      "https://openai.com/index/broad-access-through-consistent-standards"
+      "https://openai.com/index/broad-access-through-consistent-standards",
+      "https://openai.com/index/cloudflare-cyber"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -394,7 +395,12 @@
       "https://blogs.nvidia.com/?p=99204",
       "https://blogs.nvidia.com/?p=99195",
       "https://blogs.nvidia.com/?p=99232",
-      "https://blogs.nvidia.com/?p=99227"
+      "https://blogs.nvidia.com/?p=99227",
+      "https://blogs.nvidia.com/?p=99121",
+      "https://blogs.nvidia.com/?p=99164",
+      "https://blogs.nvidia.com/?p=99181",
+      "https://blogs.nvidia.com/?p=99155",
+      "https://blogs.nvidia.com/?p=99128"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -1956,7 +1962,8 @@
       "6ad8b88dcd0792bc5939d033",
       "6ad8bfd3cd0792bc5939d089",
       "6ad7b9c1698b2d6d47493387",
-      "6ad92fb968bf72427a051c84"
+      "6ad92fb968bf72427a051c84",
+      "6ad955a28e3faf9869a11a20"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2220,8 +2227,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108357528",
-      "108357849",
       "108358045",
       "108357387",
       "108358053",
@@ -2519,7 +2524,9 @@
       "108440477",
       "108437808",
       "108439229",
-      "108441372"
+      "108441372",
+      "108444220",
+      "108440780"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4288,88 +4295,6 @@
   },
   "_titulos_recentes": [
     [
-      "another",
-      "anthropic",
-      "billion",
-      "compute",
-      "deal",
-      "nscale",
-      "reportedly",
-      "talks"
-    ],
-    [
-      "comeback",
-      "fossil",
-      "fuel",
-      "here"
-    ],
-    [
-      "1987",
-      "cramer",
-      "crash",
-      "crucial",
-      "echoes",
-      "lesson",
-      "market",
-      "recent",
-      "sell",
-      "stock"
-    ],
-    [
-      "chase",
-      "cramer",
-      "first",
-      "happen",
-      "here",
-      "just",
-      "needs",
-      "rebound",
-      "what"
-    ],
-    [
-      "acordo",
-      "ampliar",
-      "anthropic",
-      "bilhoes",
-      "infraestrutura",
-      "negocia"
-    ],
-    [
-      "5090",
-      "bate",
-      "desmente",
-      "morte",
-      "nvidia",
-      "placa",
-      "varejo"
-    ],
-    [
-      "engenheiro",
-      "juiz",
-      "mantem",
-      "openai",
-      "prisao",
-      "saudita",
-      "trabalhava"
-    ],
-    [
-      "abdicated",
-      "back",
-      "feds",
-      "have",
-      "mamdani",
-      "push",
-      "urges",
-      "yorkers"
-    ],
-    [
-      "code",
-      "deal",
-      "shipping",
-      "understand",
-      "written"
-    ],
-    [
       "announces",
       "businesses",
       "chancellor",
@@ -6111,6 +6036,100 @@
       "lanca",
       "linha",
       "modelos"
+    ],
+    [
+      "cloudflare",
+      "defense",
+      "discovery",
+      "links",
+      "openai",
+      "vulnerability"
+    ],
+    [
+      "european",
+      "models",
+      "nvidia",
+      "open",
+      "power",
+      "projects",
+      "public",
+      "sector",
+      "wave"
+    ],
+    [
+      "across",
+      "climate",
+      "deploy",
+      "earth",
+      "europe",
+      "models",
+      "nvidia",
+      "open",
+      "pioneers",
+      "power",
+      "prediction",
+      "real",
+      "weather",
+      "world"
+    ],
+    [
+      "digital",
+      "discovery",
+      "european",
+      "nvidia",
+      "operations",
+      "physical",
+      "retail",
+      "transforms"
+    ],
+    [
+      "bottleneck",
+      "break",
+      "companies",
+      "nvidia",
+      "power",
+      "using"
+    ],
+    [
+      "cosmos",
+      "deploy",
+      "evaluate",
+      "models",
+      "nvidia",
+      "opens",
+      "tools",
+      "train",
+      "world"
+    ],
+    [
+      "before",
+      "days",
+      "exploited",
+      "hackers",
+      "patched",
+      "they",
+      "vulnerabilities",
+      "were"
+    ],
+    [
+      "alarm",
+      "amazon",
+      "critical",
+      "flaws",
+      "global",
+      "google",
+      "openai",
+      "respond",
+      "security",
+      "spark"
+    ],
+    [
+      "asia",
+      "hungry",
+      "just",
+      "money",
+      "southeast",
+      "subscriptions"
     ]
   ]
 }
