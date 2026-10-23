@@ -496,8 +496,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3167901",
-      "https://techcrunch.com/?p=3167417",
       "https://techcrunch.com/?p=3167972",
       "https://techcrunch.com/?p=3167529",
       "https://techcrunch.com/?p=3167528",
@@ -795,11 +793,11 @@
       "https://techcrunch.com/?p=3180936",
       "https://techcrunch.com/?p=3181016",
       "https://techcrunch.com/?p=3180898",
-      "https://techcrunch.com/?p=3181271"
+      "https://techcrunch.com/?p=3181271",
+      "https://techcrunch.com/?p=3181412",
+      "https://techcrunch.com/?p=3181396"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=988355",
-      "https://www.theverge.com/?p=988344",
       "https://www.theverge.com/?p=988334",
       "https://www.theverge.com/?p=988518",
       "https://www.theverge.com/?p=988742",
@@ -1097,7 +1095,9 @@
       "https://www.theverge.com/?p=1015430",
       "https://www.theverge.com/?p=1017450",
       "https://www.theverge.com/?p=1017600",
-      "https://www.theverge.com/?p=1017447"
+      "https://www.theverge.com/?p=1017447",
+      "https://www.theverge.com/?p=1017906",
+      "https://www.theverge.com/?p=1018021"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40186",
@@ -2256,7 +2256,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108357553",
       "108358839",
       "108356686",
       "108355981",
@@ -2555,7 +2554,8 @@
       "108448470",
       "108449614",
       "108450972",
-      "108442594"
+      "108442594",
+      "108452461"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3370,7 +3370,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=942842"
     ],
     "canaltech": [
-      "https://canaltech.com.br/produtos/samsung-quer-apresentar-primeiro-robo-humanoide-na-ces-2027/",
       "https://canaltech.com.br/inteligencia-artificial/com-riscos-de-seguranca-quem-pode-usar-o-gpt-6-astra-da-openai/",
       "https://canaltech.com.br/inteligencia-artificial/trend-dos-anos-80-aprenda-a-criar-sua-foto-com-visual-da-epoca/",
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-transforma-qualquer-rabisco-em-imagem-pronta/",
@@ -3669,10 +3668,10 @@
       "https://canaltech.com.br/inteligencia-artificial/google-avisa-assinantes-do-gemini-sobre-transicao-para-novo-modelo-inteligente/",
       "https://canaltech.com.br/inteligencia-artificial/por-que-o-google-esta-cortando-acesso-dos-assinantes-basicos-aos-seus-modelos-de-ia/",
       "https://canaltech.com.br/inteligencia-artificial/com-comandos-no-claude-e-grok-hackers-atacam-mais-de-400-instituicoes-financeiras/",
-      "https://canaltech.com.br/inteligencia-artificial/como-sao-feitos-os-videos-de-ia-que-trocam-pessoas/"
+      "https://canaltech.com.br/inteligencia-artificial/como-sao-feitos-os-videos-de-ia-que-trocam-pessoas/",
+      "https://canaltech.com.br/inteligencia-artificial/canva-lanca-gerador-de-imagens-proprio-que-cria-artes-editaveis-em-camadas/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/19/ceo-da-nvidia-diz-que-ia-tem-0-de-chance-de-acabar-com-o-mundo-ate-2030.ghtm",
       "https://tilt.uol.com.br/colunas/iagora/2026/09/20/medo-de-ia-ser-destruidora-de-empregos-e-global-o-que-mostram-novas-pesquisas.htm",
       "https://www.uol.com.br/flash/?c=6aac316bbe812c00373baa8c",
       "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/09/20/ia-nao-esta-afetando-apenas-o-numero-de-empregos-mas-como-trabalhamos.htm",
@@ -3971,7 +3970,8 @@
       "https://economia.uol.com.br/noticias/reuters/2026/10/23/ia-pode-ampliar-desigualdade-entre-paises-ricos-e-pobres-dizem-fmi-e-ocde.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/23/minimax-conclui-registro-de-exportacao-para-modelos-de-ia-de-codigo-aberto-no-exterior.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/10/23/agentes-de-ia-comecam-a-invadir-contas-e-bancos-correm-para-mudar-seguranca.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/23/orgao-regulador-de-wall-street-vai-focar-fiscalizacao-sobre-ia-e-tokens.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/23/orgao-regulador-de-wall-street-vai-focar-fiscalizacao-sobre-ia-e-tokens.htm",
+      "https://tilt.uol.com.br/colunas/iagora/2026/10/23/agentes-de-ia-comecam-a-invadir-contas-e-bancos-correm-para-mudar-seguranca.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4345,71 +4345,11 @@
       "https://www.mobiletime.com.br/?p=867163",
       "https://www.mobiletime.com.br/?p=867189",
       "https://www.mobiletime.com.br/?p=867033",
-      "https://www.mobiletime.com.br/?p=867207"
+      "https://www.mobiletime.com.br/?p=867207",
+      "https://www.mobiletime.com.br/?p=867206"
     ]
   },
   "_titulos_recentes": [
-    [
-      "5080",
-      "5090",
-      "anunciar",
-      "data",
-      "despedida",
-      "nvidia",
-      "quando",
-      "sera",
-      "teria",
-      "veja"
-    ],
-    [
-      "biometria",
-      "chatgpt",
-      "esconder",
-      "ganha",
-      "pasta",
-      "protegida",
-      "segredos",
-      "senha"
-    ],
-    [
-      "agentes",
-      "enfraqueceram",
-      "monitoramento",
-      "openai",
-      "proprio",
-      "sistema"
-    ],
-    [
-      "anthropic",
-      "apresentam",
-      "argumentos",
-      "editoras",
-      "musicais",
-      "processo",
-      "treinamento"
-    ],
-    [
-      "comando",
-      "multa",
-      "oculto",
-      "peticao"
-    ],
-    [
-      "capaz",
-      "derrubar",
-      "descobre",
-      "falha",
-      "sites",
-      "tirados"
-    ],
-    [
-      "ainda",
-      "algo",
-      "aprenderam",
-      "cebola",
-      "sabe",
-      "traders"
-    ],
     [
       "ainda",
       "baixo",
@@ -6152,6 +6092,80 @@
       "local",
       "processamento",
       "solucoes"
+    ],
+    [
+      "adorable",
+      "christmas",
+      "hottest",
+      "microduck",
+      "nvidia",
+      "plays",
+      "robots",
+      "sell"
+    ],
+    [
+      "citing",
+      "internet",
+      "live",
+      "longer",
+      "models",
+      "openai",
+      "risks",
+      "significant",
+      "train",
+      "will"
+    ],
+    [
+      "awkward",
+      "block",
+      "dorsey",
+      "friend",
+      "jack",
+      "like",
+      "made",
+      "model",
+      "talks"
+    ],
+    [
+      "access",
+      "frontier",
+      "internet",
+      "models",
+      "openai",
+      "trains"
+    ],
+    [
+      "build",
+      "credit",
+      "face",
+      "hits",
+      "mount",
+      "neoclouds",
+      "pressure",
+      "pulls",
+      "risks",
+      "solidigm",
+      "turmoil"
+    ],
+    [
+      "artes",
+      "camadas",
+      "canva",
+      "cria",
+      "editaveis",
+      "gerador",
+      "imagens",
+      "lanca",
+      "proprio"
+    ],
+    [
+      "catalyst",
+      "clientes",
+      "contexto",
+      "cria",
+      "openai",
+      "seus",
+      "solucao"
     ]
   ]
 }
