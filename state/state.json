@@ -181,7 +181,8 @@
       "https://openai.com/index/uber-chatgpt-work-rollout",
       "https://openai.com/index/decisions-api",
       "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+      "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "https://openai.com/index/securing-our-frontier-model-training-environment"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -495,7 +496,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3166854",
       "https://techcrunch.com/?p=3167901",
       "https://techcrunch.com/?p=3167417",
       "https://techcrunch.com/?p=3167972",
@@ -794,7 +794,8 @@
       "https://techcrunch.com/?p=3180727",
       "https://techcrunch.com/?p=3180936",
       "https://techcrunch.com/?p=3181016",
-      "https://techcrunch.com/?p=3180898"
+      "https://techcrunch.com/?p=3180898",
+      "https://techcrunch.com/?p=3181271"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=988355",
@@ -1099,8 +1100,6 @@
       "https://www.theverge.com/?p=1017447"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40177",
-      "https://the-decoder.com/?p=40181",
       "https://the-decoder.com/?p=40186",
       "https://the-decoder.com/?p=40193",
       "https://the-decoder.com/?p=40199",
@@ -1398,7 +1397,9 @@
       "https://the-decoder.com/?p=41861",
       "https://the-decoder.com/?p=41866",
       "https://the-decoder.com/?p=41871",
-      "https://the-decoder.com/?p=41876"
+      "https://the-decoder.com/?p=41876",
+      "https://the-decoder.com/?p=41882",
+      "https://the-decoder.com/?p=41887"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1588,7 +1589,8 @@
       "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
       "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
       "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-      "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
+      "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -2248,7 +2250,8 @@
       "https://news.ycombinator.com/item?id=50197313",
       "https://news.ycombinator.com/item?id=50198675",
       "https://news.ycombinator.com/item?id=50202217",
-      "https://news.ycombinator.com/item?id=50200997"
+      "https://news.ycombinator.com/item?id=50200997",
+      "https://news.ycombinator.com/item?id=50212065"
     ]
   },
   "mercado": {
@@ -2767,7 +2770,8 @@
       "https://news.crunchbase.com/?p=94261",
       "https://news.crunchbase.com/?p=94263",
       "https://news.crunchbase.com/?p=94269",
-      "https://news.crunchbase.com/?p=94271"
+      "https://news.crunchbase.com/?p=94271",
+      "https://news.crunchbase.com/?p=94275"
     ]
   },
   "brasil": {
@@ -3366,8 +3370,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=942842"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/como-criar-assistente-pessoal-de-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/ia-poderosa-demais-pode-ameacar-humanidade-alerta-onu/",
       "https://canaltech.com.br/produtos/samsung-quer-apresentar-primeiro-robo-humanoide-na-ces-2027/",
       "https://canaltech.com.br/inteligencia-artificial/com-riscos-de-seguranca-quem-pode-usar-o-gpt-6-astra-da-openai/",
       "https://canaltech.com.br/inteligencia-artificial/trend-dos-anos-80-aprenda-a-criar-sua-foto-com-visual-da-epoca/",
@@ -3665,7 +3667,9 @@
       "https://canaltech.com.br/carros/como-a-mercedes-usa-inteligencia-artificial-para-criar-carros/",
       "https://canaltech.com.br/mercado/uber-aposta-tudo-em-ia-e-forca-todos-os-seus-30-mil-funcionarios-a-usarem-chatgpt-work/",
       "https://canaltech.com.br/inteligencia-artificial/google-avisa-assinantes-do-gemini-sobre-transicao-para-novo-modelo-inteligente/",
-      "https://canaltech.com.br/inteligencia-artificial/por-que-o-google-esta-cortando-acesso-dos-assinantes-basicos-aos-seus-modelos-de-ia/"
+      "https://canaltech.com.br/inteligencia-artificial/por-que-o-google-esta-cortando-acesso-dos-assinantes-basicos-aos-seus-modelos-de-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/com-comandos-no-claude-e-grok-hackers-atacam-mais-de-400-instituicoes-financeiras/",
+      "https://canaltech.com.br/inteligencia-artificial/como-sao-feitos-os-videos-de-ia-que-trocam-pessoas/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/19/ceo-da-nvidia-diz-que-ia-tem-0-de-chance-de-acabar-com-o-mundo-ate-2030.ghtm",
@@ -4078,7 +4082,8 @@
       "/cezhiu7FgL at https://braziljournal.com",
       "/cepeXCfDwQ at https://braziljournal.com",
       "/ce2sHOY1Fr at https://braziljournal.com",
-      "/ce4vpzHIdM at https://braziljournal.com"
+      "/ce4vpzHIdM at https://braziljournal.com",
+      "/cexp9EoAwW at https://braziljournal.com"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -4194,7 +4199,8 @@
       "https://startups.com.br/?p=342438",
       "https://startups.com.br/?p=342441",
       "https://startups.com.br/?p=342446",
-      "https://startups.com.br/?p=342478"
+      "https://startups.com.br/?p=342478",
+      "https://startups.com.br/?p=342494"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -4338,116 +4344,11 @@
       "https://www.mobiletime.com.br/?p=867137",
       "https://www.mobiletime.com.br/?p=867163",
       "https://www.mobiletime.com.br/?p=867189",
-      "https://www.mobiletime.com.br/?p=867033"
+      "https://www.mobiletime.com.br/?p=867033",
+      "https://www.mobiletime.com.br/?p=867207"
     ]
   },
   "_titulos_recentes": [
-    [
-      "already",
-      "billion",
-      "doctor",
-      "powered",
-      "startup",
-      "using",
-      "your"
-    ],
-    [
-      "aren",
-      "criminal",
-      "guardrails",
-      "hackers",
-      "stopping"
-    ],
-    [
-      "critical",
-      "drill",
-      "fire",
-      "internet",
-      "setting",
-      "vulnerabilities"
-    ],
-    [
-      "centers",
-      "data",
-      "europe",
-      "huang",
-      "jensen",
-      "plug",
-      "runs",
-      "vision"
-    ],
-    [
-      "good",
-      "improvement",
-      "latest",
-      "model",
-      "recursive",
-      "scary",
-      "self",
-      "startup"
-    ],
-    [
-      "critical",
-      "php2shell",
-      "uncovers"
-    ],
-    [
-      "business",
-      "computing",
-      "investors",
-      "model",
-      "nebius",
-      "neoclouds",
-      "prices",
-      "questioning",
-      "rising"
-    ],
-    [
-      "after",
-      "mach9",
-      "pivoting",
-      "raises",
-      "software"
-    ],
-    [
-      "artificial",
-      "barrar",
-      "financiado",
-      "grupo",
-      "inteligencia",
-      "openai",
-      "presidente",
-      "regras",
-      "tenta"
-    ],
-    [
-      "desativou",
-      "feito",
-      "isso",
-      "mecanismos",
-      "negou",
-      "openai",
-      "seguranca"
-    ],
-    [
-      "ajudar",
-      "ganha",
-      "gemini",
-      "negocio",
-      "pacote",
-      "proprio",
-      "quem",
-      "recursos"
-    ],
-    [
-      "apaga",
-      "falsas",
-      "faxina",
-      "feitas",
-      "milhoes",
-      "musicas",
-      "spotify"
-    ],
     [
       "5080",
       "5090",
@@ -6152,6 +6053,105 @@
       "premio",
       "quer",
       "vencer"
+    ],
+    [
+      "environment",
+      "frontier",
+      "model",
+      "securing",
+      "training"
+    ],
+    [
+      "2026",
+      "bessemer",
+      "founder",
+      "founders",
+      "hear",
+      "summit",
+      "techcrunch",
+      "toast",
+      "will"
+    ],
+    [
+      "audit",
+      "gaps",
+      "major",
+      "monitoring",
+      "openai",
+      "reveals",
+      "safety",
+      "site",
+      "three",
+      "week"
+    ],
+    [
+      "anthropic",
+      "chinese",
+      "claude",
+      "closing",
+      "kimi",
+      "model",
+      "opus"
+    ],
+    [
+      "advertising",
+      "gmail",
+      "google",
+      "might",
+      "policy",
+      "privacy",
+      "updated",
+      "used",
+      "your"
+    ],
+    [
+      "highspeed",
+      "kimi"
+    ],
+    [
+      "biggest",
+      "drives",
+      "financings",
+      "funding",
+      "large",
+      "lineup",
+      "rounds",
+      "varied",
+      "week"
+    ],
+    [
+      "atacam",
+      "claude",
+      "comandos",
+      "financeiras",
+      "grok",
+      "hackers",
+      "instituicoes"
+    ],
+    [
+      "feitos",
+      "pessoas",
+      "trocam",
+      "videos"
+    ],
+    [
+      "decisoes",
+      "opiniao",
+      "rastreabilidade"
+    ],
+    [
+      "caminho",
+      "inovacao",
+      "passa",
+      "pelos"
+    ],
+    [
+      "abre",
+      "criar",
+      "deloitte",
+      "local",
+      "processamento",
+      "solucoes"
     ]
   ]
 }
