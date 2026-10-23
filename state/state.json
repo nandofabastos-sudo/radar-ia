@@ -179,7 +179,8 @@
       "https://openai.com/index/cloudflare-cyber",
       "https://openai.com/index/forward-deployed-engineering-means",
       "https://openai.com/index/uber-chatgpt-work-rollout",
-      "https://openai.com/index/decisions-api"
+      "https://openai.com/index/decisions-api",
+      "https://openai.com/index/openai-nask-ai-safety-security-partnership"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -407,7 +408,8 @@
       "https://blogs.nvidia.com/?p=99181",
       "https://blogs.nvidia.com/?p=99155",
       "https://blogs.nvidia.com/?p=99128",
-      "https://blogs.nvidia.com/?p=99404"
+      "https://blogs.nvidia.com/?p=99404",
+      "https://blogs.nvidia.com/?p=99413"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -492,7 +494,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3167713",
       "https://techcrunch.com/?p=3166854",
       "https://techcrunch.com/?p=3167901",
       "https://techcrunch.com/?p=3167417",
@@ -791,7 +792,8 @@
       "https://techcrunch.com/?p=3180617",
       "https://techcrunch.com/?p=3180727",
       "https://techcrunch.com/?p=3180936",
-      "https://techcrunch.com/?p=3181016"
+      "https://techcrunch.com/?p=3181016",
+      "https://techcrunch.com/?p=3180898"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=987830",
@@ -2240,7 +2242,9 @@
       "https://news.ycombinator.com/item?id=50168396",
       "https://news.ycombinator.com/item?id=50165801",
       "https://news.ycombinator.com/item?id=50180836",
-      "https://news.ycombinator.com/item?id=50186037"
+      "https://news.ycombinator.com/item?id=50186037",
+      "https://news.ycombinator.com/item?id=50197313",
+      "https://news.ycombinator.com/item?id=50198675"
     ]
   },
   "mercado": {
@@ -4328,54 +4332,6 @@
   },
   "_titulos_recentes": [
     [
-      "amulya",
-      "lego",
-      "nvidia",
-      "physical",
-      "turned",
-      "vishwanath"
-    ],
-    [
-      "joel",
-      "kaplan",
-      "leaves",
-      "meta"
-    ],
-    [
-      "after",
-      "australian",
-      "center",
-      "data",
-      "earnings",
-      "forecast",
-      "nextdc",
-      "operator",
-      "plunge",
-      "shares",
-      "slashes"
-    ],
-    [
-      "build",
-      "cpus",
-      "european",
-      "infrastructure",
-      "leaders",
-      "local",
-      "nvidia",
-      "turn",
-      "vera"
-    ],
-    [
-      "2026",
-      "berlin",
-      "huang",
-      "jensen",
-      "keynote",
-      "live",
-      "nvidia",
-      "updates"
-    ],
-    [
       "across",
       "advance",
       "europe",
@@ -6149,6 +6105,51 @@
       "pelo",
       "tarefas",
       "usuario"
+    ],
+    [
+      "advance",
+      "nask",
+      "openai",
+      "partner",
+      "poland",
+      "safety",
+      "security"
+    ],
+    [
+      "compute",
+      "expands",
+      "future",
+      "kazakhstan"
+    ],
+    [
+      "2027",
+      "asia",
+      "central",
+      "eyes",
+      "indrive",
+      "nvidia",
+      "pony",
+      "rival",
+      "robotaxi",
+      "tests",
+      "uber"
+    ],
+    [
+      "controversial",
+      "every",
+      "humans",
+      "model",
+      "same",
+      "take"
+    ],
+    [
+      "agents",
+      "autonomous",
+      "fleets",
+      "openshell",
+      "private",
+      "runtime",
+      "safe"
     ]
   ]
 }
