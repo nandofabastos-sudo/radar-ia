@@ -492,7 +492,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3167633",
       "https://techcrunch.com/?p=3167713",
       "https://techcrunch.com/?p=3166854",
       "https://techcrunch.com/?p=3167901",
@@ -791,7 +790,8 @@
       "https://techcrunch.com/?p=3180667",
       "https://techcrunch.com/?p=3180617",
       "https://techcrunch.com/?p=3180727",
-      "https://techcrunch.com/?p=3180936"
+      "https://techcrunch.com/?p=3180936",
+      "https://techcrunch.com/?p=3181016"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=987830",
@@ -2014,7 +2014,8 @@
       "6ac82efd3a04b900019bb126",
       "6acec3f2d4d23400011cc862",
       "6ac92d517ce9570001c9d80b",
-      "6ad7e7171eff6a0001bb99df"
+      "6ad7e7171eff6a0001bb99df",
+      "6ada9854c7124400012a82b0"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2244,7 +2245,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108358214",
       "108358077",
       "108358347",
       "108355613",
@@ -2543,7 +2543,8 @@
       "108446196",
       "108446673",
       "108446883",
-      "108448203"
+      "108448203",
+      "108448470"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4064,7 +4065,8 @@
       "/cev3tmgxoO at https://braziljournal.com",
       "/ceT2I1NFKL at https://braziljournal.com",
       "/cezhiu7FgL at https://braziljournal.com",
-      "/cepeXCfDwQ at https://braziljournal.com"
+      "/cepeXCfDwQ at https://braziljournal.com",
+      "/ce2sHOY1Fr at https://braziljournal.com"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -4319,57 +4321,12 @@
       "https://www.mobiletime.com.br/?p=866825",
       "https://www.mobiletime.com.br/?p=866941",
       "https://www.mobiletime.com.br/?p=866933",
-      "https://www.mobiletime.com.br/?p=867087"
+      "https://www.mobiletime.com.br/?p=867087",
+      "https://www.mobiletime.com.br/?p=867137",
+      "https://www.mobiletime.com.br/?p=867163"
     ]
   },
   "_titulos_recentes": [
-    [
-      "agentes",
-      "artificial",
-      "avanco",
-      "inteligencia",
-      "mostra",
-      "pesquisa",
-      "shadow"
-    ],
-    [
-      "investor",
-      "judgment",
-      "matches",
-      "senior",
-      "terminal"
-    ],
-    [
-      "anthropic",
-      "bill",
-      "block",
-      "could",
-      "killed",
-      "model",
-      "people",
-      "pitches",
-      "safety"
-    ],
-    [
-      "abuse",
-      "altman",
-      "dismisses",
-      "judge",
-      "lawsuit",
-      "sexual",
-      "sister"
-    ],
-    [
-      "base",
-      "ciberlab",
-      "coordenador",
-      "investigacao",
-      "mudara"
-    ],
-    [
-      "report",
-      "situation"
-    ],
     [
       "amulya",
       "lego",
@@ -6141,6 +6098,57 @@
       "nasdaq",
       "tecnologia",
       "temores"
+    ],
+    [
+      "agents",
+      "alone",
+      "left",
+      "nothing",
+      "playing",
+      "started"
+    ],
+    [
+      "gods",
+      "introducing",
+      "machine"
+    ],
+    [
+      "bans",
+      "etsy",
+      "generated",
+      "marketplace",
+      "online",
+      "patterns",
+      "recipes"
+    ],
+    [
+      "agentes",
+      "bancaria",
+      "cabeca",
+      "enorme",
+      "seguranca"
+    ],
+    [
+      "3t26",
+      "bilhoes",
+      "euros",
+      "faturamento",
+      "fecha",
+      "impulsionada",
+      "nokia",
+      "nuvem"
+    ],
+    [
+      "anthropic",
+      "aplicacoes",
+      "claude",
+      "duet",
+      "executa",
+      "lanca",
+      "monitora",
+      "pelo",
+      "tarefas",
+      "usuario"
     ]
   ]
 }
