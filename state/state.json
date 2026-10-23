@@ -796,7 +796,6 @@
       "https://techcrunch.com/?p=3180898"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=987830",
       "https://www.theverge.com/?p=987429",
       "https://www.theverge.com/?p=988228",
       "https://www.theverge.com/?p=988261",
@@ -1095,12 +1094,10 @@
       "https://www.theverge.com/?p=1016879",
       "https://www.theverge.com/?p=1017066",
       "https://www.theverge.com/?p=1017082",
-      "https://www.theverge.com/?p=1017151"
+      "https://www.theverge.com/?p=1017151",
+      "https://www.theverge.com/?p=1015430"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40144",
-      "https://the-decoder.com/?p=40148",
-      "https://the-decoder.com/?p=40157",
       "https://the-decoder.com/?p=40163",
       "https://the-decoder.com/?p=40166",
       "https://the-decoder.com/?p=40177",
@@ -1397,7 +1394,10 @@
       "https://the-decoder.com/?p=41835",
       "https://the-decoder.com/?p=41811",
       "https://the-decoder.com/?p=41846",
-      "https://the-decoder.com/?p=41849"
+      "https://the-decoder.com/?p=41849",
+      "https://the-decoder.com/?p=41856",
+      "https://the-decoder.com/?p=41861",
+      "https://the-decoder.com/?p=41866"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2244,13 +2244,12 @@
       "https://news.ycombinator.com/item?id=50180836",
       "https://news.ycombinator.com/item?id=50186037",
       "https://news.ycombinator.com/item?id=50197313",
-      "https://news.ycombinator.com/item?id=50198675"
+      "https://news.ycombinator.com/item?id=50198675",
+      "https://news.ycombinator.com/item?id=50202217"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108358077",
-      "108358347",
       "108355613",
       "108357553",
       "108358839",
@@ -2548,7 +2547,9 @@
       "108446673",
       "108446883",
       "108448203",
-      "108448470"
+      "108448470",
+      "108449614",
+      "108450972"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2761,7 +2762,9 @@
       "https://news.crunchbase.com/?p=94248",
       "https://news.crunchbase.com/?p=94258",
       "https://news.crunchbase.com/?p=94261",
-      "https://news.crunchbase.com/?p=94263"
+      "https://news.crunchbase.com/?p=94263",
+      "https://news.crunchbase.com/?p=94269",
+      "https://news.crunchbase.com/?p=94271"
     ]
   },
   "brasil": {
@@ -2872,11 +2875,10 @@
       "https://mittechreview.com.br/?p=281952",
       "https://mittechreview.com.br/?p=283037",
       "https://mittechreview.com.br/?p=283000",
-      "https://mittechreview.com.br/?p=283272"
+      "https://mittechreview.com.br/?p=283272",
+      "https://mittechreview.com.br/?p=283725"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371113",
-      "https://olhardigital.com.br/?p=1371140",
       "https://olhardigital.com.br/?p=1371137",
       "https://olhardigital.com.br/?p=1371279",
       "https://olhardigital.com.br/?p=1371291",
@@ -3174,7 +3176,9 @@
       "https://olhardigital.com.br/?p=1382557",
       "https://olhardigital.com.br/?p=1383600",
       "https://olhardigital.com.br/?p=1383626",
-      "https://olhardigital.com.br/?p=1383661"
+      "https://olhardigital.com.br/?p=1383661",
+      "https://olhardigital.com.br/?p=1383282",
+      "https://olhardigital.com.br/?p=1382558"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3359,8 +3363,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=942842"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/virou-bagunca-detector-de-ia-do-instagram-rotula-fotos-reais-e-ignora-imagens-100-falsas/",
-      "https://canaltech.com.br/hardware/nvidia-garante-que-dlss-5-tambem-chegara-as-placas-antigas/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-gemini-faz-melhor-que-claude/",
       "https://canaltech.com.br/mercado/magalu-cloud-debate-soberania-de-dados-ia-e-seguranca-no-cloud-futures-2026/",
       "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-melhorar-qualquer-texto/",
@@ -3658,12 +3660,11 @@
       "https://canaltech.com.br/inteligencia-artificial/em-2-semanas-ia-da-openai-resolveu-falha-no-php-que-programadores-tentavam-decifrar-ha-2-anos/",
       "https://canaltech.com.br/notebook/vaio-fe16-estreia-no-brasil-como-ai-pc-barato-em-momento-de-crise-conheca/",
       "https://canaltech.com.br/software/microsoft-deixa-windows-11-mais-limpo-com-remocao-de-8-botoes-do-copilot/",
-      "https://canaltech.com.br/inteligencia-artificial/ia-da-openai-acha-em-32-minutos-pistas-sobre-doenca-similar-ao-parkinson/"
+      "https://canaltech.com.br/inteligencia-artificial/ia-da-openai-acha-em-32-minutos-pistas-sobre-doenca-similar-ao-parkinson/",
+      "https://canaltech.com.br/smartphone/novo-celular-flip-para-idosos-mistura-funcoes-basicas-com-assistente-de-ia/",
+      "https://canaltech.com.br/carros/como-a-mercedes-usa-inteligencia-artificial-para-criar-carros/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/afp/2026/09/18/eua-newsom-assina-decreto-para-criar-interruptor-de-emergencia-para-a-ia.htm",
-      "https://www.uol.com.br/flash/?c=6aad5e3278c046f0e39bca9d",
-      "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/19/ia-da-google-hackeou-tres-empresas-durante-testes.htm",
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/19/anthropic-e-accenture-investirao-ao-menos-us-2-bi-para-avaliar-seguranca-de-ia.htm",
       "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/09/19/fmi-diz-a-ministros-da-ue-que-ia-pode-impulsionar-crescimento-mas-aumentar-tensoes-economicas.htm",
       "https://economia.uol.com.br/noticias/redacao/2026/09/19/acao-acusa-openai-e-google-de-combinar-freio-no-desenvolvimento-de-ia.ghtm",
@@ -3960,7 +3961,10 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/22/ipo-daanthropic-concentra-interesse-de-investidores-no-mercado-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/22/veja-os-planos-de-flavio-bolsonaro-e-lula-para-inteligencia-artificial.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/22/acoes-da-meta-despencam-com-preocupacao-sobre-investimentos-em-ia.htm",
-      "https://economia.uol.com.br/noticias/redacao/2026/10/22/empresas-de-tecnologia-desabam-na-nasdaq-por-temores-com-ia.ghtm"
+      "https://economia.uol.com.br/noticias/redacao/2026/10/22/empresas-de-tecnologia-desabam-na-nasdaq-por-temores-com-ia.ghtm",
+      "https://www.uol.com.br/flash/?c=6ad7773d20586606c9003a0b",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/23/microsoft-diz-que-ia-acerta-mais-que-medicos-em-casos-complexos.ghtm",
+      "https://economia.uol.com.br/noticias/reuters/2026/10/23/ia-pode-ampliar-desigualdade-entre-paises-ricos-e-pobres-dizem-fmi-e-ocde.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4070,7 +4074,8 @@
       "/ceT2I1NFKL at https://braziljournal.com",
       "/cezhiu7FgL at https://braziljournal.com",
       "/cepeXCfDwQ at https://braziljournal.com",
-      "/ce2sHOY1Fr at https://braziljournal.com"
+      "/ce2sHOY1Fr at https://braziljournal.com",
+      "/ce4vpzHIdM at https://braziljournal.com"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -4331,174 +4336,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "across",
-      "advance",
-      "europe",
-      "industries",
-      "intelligence",
-      "models",
-      "nvidia",
-      "open",
-      "sovereign"
-    ],
-    [
-      "agent",
-      "agents",
-      "company",
-      "data",
-      "enterprise",
-      "expands",
-      "grounding",
-      "nvidia",
-      "toolkit"
-    ],
-    [
-      "across",
-      "builders",
-      "computing",
-      "confidential",
-      "enabling",
-      "expands",
-      "frontier",
-      "global",
-      "infrastructure",
-      "model",
-      "nvidia",
-      "scale",
-      "securely"
-    ],
-    [
-      "accelerate",
-      "available",
-      "cudss",
-      "engineering",
-      "generally",
-      "nvidia",
-      "scientific",
-      "simulations"
-    ],
-    [
-      "engineering",
-      "europe",
-      "industrial",
-      "leaders",
-      "manufacturing",
-      "nvidia",
-      "reinvent"
-    ],
-    [
-      "across",
-      "agents",
-      "built",
-      "cloud",
-      "europe",
-      "nvidia",
-      "open",
-      "partners",
-      "safe",
-      "scale",
-      "sovereign"
-    ],
-    [
-      "announce",
-      "availability",
-      "cloud",
-      "general",
-      "google",
-      "infrastructure",
-      "nvidia",
-      "rubin",
-      "vera"
-    ],
-    [
-      "mistral"
-    ],
-    [
-      "acquires",
-      "agents",
-      "build",
-      "development",
-      "drug",
-      "openai",
-      "orchestra",
-      "speed"
-    ],
-    [
-      "binders",
-      "claude",
-      "deadly",
-      "designing",
-      "protein",
-      "science",
-      "scorpion",
-      "scratch",
-      "stings",
-      "tackles"
-    ],
-    [
-      "centers",
-      "climate",
-      "data",
-      "europe",
-      "getting",
-      "goals",
-      "wants"
-    ],
-    [
-      "brain",
-      "cancer",
-      "detect",
-      "implants",
-      "invests",
-      "openai",
-      "startup",
-      "uses"
-    ],
-    [
-      "about",
-      "disabled",
-      "lied",
-      "models",
-      "monitoring",
-      "most",
-      "openai",
-      "powerful",
-      "safety",
-      "their"
-    ],
-    [
-      "announces",
-      "nvidia",
-      "play",
-      "plug",
-      "racks",
-      "rubin",
-      "shipped",
-      "truck",
-      "vera"
-    ],
-    [
-      "beyond",
-      "bring",
-      "cloud",
-      "expansion",
-      "further",
-      "google",
-      "microsoft",
-      "models",
-      "openai"
-    ],
-    [
-      "capital",
-      "maybe",
-      "reach",
-      "spots",
-      "uninvestable",
-      "venture",
-      "weird",
-      "winners"
-    ],
     [
       "ajuda",
       "casa",
@@ -6150,6 +5987,155 @@
       "private",
       "runtime",
       "safe"
+    ],
+    [
+      "being",
+      "gaming",
+      "overrun",
+      "retro"
+    ],
+    [
+      "billion",
+      "lowers",
+      "openai",
+      "raises",
+      "target",
+      "valuation"
+    ],
+    [
+      "anthropic",
+      "automatically",
+      "claude",
+      "code",
+      "proves",
+      "safe",
+      "writes"
+    ],
+    [
+      "feasible",
+      "formal",
+      "larger",
+      "llms",
+      "making",
+      "much",
+      "scale",
+      "software",
+      "verification"
+    ],
+    [
+      "first",
+      "heads",
+      "huang",
+      "kazakhstan",
+      "nvidia",
+      "only",
+      "plans",
+      "time"
+    ],
+    [
+      "distress",
+      "ducks",
+      "ground",
+      "jensen",
+      "mania",
+      "neocloud",
+      "nvidia",
+      "robot",
+      "showpiece"
+    ],
+    [
+      "cement",
+      "deals",
+      "greener",
+      "have",
+      "interesting",
+      "lasers",
+      "missed",
+      "robot",
+      "space",
+      "startup",
+      "training"
+    ],
+    [
+      "protecting",
+      "secrets",
+      "trade"
+    ],
+    [
+      "alegacao",
+      "baixo",
+      "bombastica",
+      "cabeca",
+      "errada",
+      "estavamos",
+      "isso",
+      "maneira",
+      "mundo",
+      "olhando",
+      "virou"
+    ],
+    [
+      "chatgpt",
+      "conforme",
+      "idioma",
+      "mudam",
+      "outras",
+      "personalidade",
+      "resultados",
+      "testes"
+    ],
+    [
+      "agentes",
+      "desenvolvedores",
+      "engenharia",
+      "esta",
+      "isso",
+      "mudando",
+      "noticia",
+      "software"
+    ],
+    [
+      "adotiva",
+      "celular",
+      "companheira",
+      "flip",
+      "idosos",
+      "lanca",
+      "nokia"
+    ],
+    [
+      "anthropic",
+      "dividindo",
+      "empresas",
+      "estao",
+      "musk",
+      "riqueza"
+    ],
+    [
+      "acerta",
+      "casos",
+      "complexos",
+      "medicos",
+      "microsoft"
+    ],
+    [
+      "ampliar",
+      "desigualdade",
+      "dizem",
+      "entre",
+      "ocde",
+      "paises",
+      "pobres",
+      "pode",
+      "ricos"
+    ],
+    [
+      "acordos",
+      "energia",
+      "itaipu",
+      "mega",
+      "paraguai",
+      "uranio"
     ]
   ]
 }
