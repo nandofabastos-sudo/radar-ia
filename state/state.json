@@ -2256,7 +2256,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108358839",
       "108356686",
       "108355981",
       "108358020",
@@ -2555,7 +2554,8 @@
       "108449614",
       "108450972",
       "108442594",
-      "108452461"
+      "108452461",
+      "108451107"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4350,13 +4350,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "house",
-      "legal",
-      "openai",
-      "rethinking",
-      "work"
-    ],
     [
       "agents",
       "amazon",
@@ -6167,6 +6160,15 @@
       "permite",
       "publicar",
       "sites"
+    ],
+    [
+      "changes",
+      "customer",
+      "everything",
+      "like",
+      "looks",
+      "service",
+      "what"
     ]
   ]
 }
