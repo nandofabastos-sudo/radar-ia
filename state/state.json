@@ -2888,8 +2888,6 @@
       "https://mittechreview.com.br/?p=283812"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371487",
-      "https://olhardigital.com.br/?p=1371493",
       "https://olhardigital.com.br/?p=1371633",
       "https://olhardigital.com.br/?p=1371657",
       "https://olhardigital.com.br/?p=1371727",
@@ -3187,7 +3185,9 @@
       "https://olhardigital.com.br/?p=1383893",
       "https://olhardigital.com.br/?p=1384024",
       "https://olhardigital.com.br/?p=1384005",
-      "https://olhardigital.com.br/?p=1383684"
+      "https://olhardigital.com.br/?p=1383684",
+      "https://olhardigital.com.br/?p=1384152",
+      "https://olhardigital.com.br/?p=1384167"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4352,21 +4352,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "cair",
-      "enquanto",
-      "investe",
-      "lucro",
-      "robos",
-      "tesla"
-    ],
-    [
-      "anos",
-      "chefe",
-      "chegara",
-      "deepmind",
-      "google"
-    ],
     [
       "compilacao",
       "driver",
@@ -6177,6 +6162,26 @@
       "hardware",
       "jogos",
       "rejeicao"
+    ],
+    [
+      "artificial",
+      "ciberataques",
+      "falhas",
+      "globais",
+      "inteligencia",
+      "japao",
+      "simular",
+      "usara"
+    ],
+    [
+      "antes",
+      "canva",
+      "conheca",
+      "craft",
+      "gerar",
+      "imagem",
+      "layout",
+      "planeja"
     ]
   ]
 }
