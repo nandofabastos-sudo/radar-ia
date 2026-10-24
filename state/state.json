@@ -496,7 +496,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3167528",
       "https://techcrunch.com/?p=3168018",
       "https://techcrunch.com/?p=3167991",
       "https://techcrunch.com/?p=3167584",
@@ -795,10 +794,10 @@
       "https://techcrunch.com/?p=3181412",
       "https://techcrunch.com/?p=3181396",
       "https://techcrunch.com/?p=3181243",
-      "https://techcrunch.com/?p=3181490"
+      "https://techcrunch.com/?p=3181490",
+      "https://techcrunch.com/?p=3162590"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=988334",
       "https://www.theverge.com/?p=988518",
       "https://www.theverge.com/?p=988742",
       "https://www.theverge.com/?p=985474",
@@ -1097,7 +1096,8 @@
       "https://www.theverge.com/?p=1017600",
       "https://www.theverge.com/?p=1017447",
       "https://www.theverge.com/?p=1017906",
-      "https://www.theverge.com/?p=1018021"
+      "https://www.theverge.com/?p=1018021",
+      "https://www.theverge.com/?p=1018187"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40216",
@@ -2252,7 +2252,8 @@
       "https://news.ycombinator.com/item?id=50198675",
       "https://news.ycombinator.com/item?id=50202217",
       "https://news.ycombinator.com/item?id=50200997",
-      "https://news.ycombinator.com/item?id=50212065"
+      "https://news.ycombinator.com/item?id=50212065",
+      "https://news.ycombinator.com/item?id=50224463"
     ]
   },
   "mercado": {
@@ -3372,7 +3373,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=942842"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/meta-lanca-muse-assistente-que-compra-reserva-viagens-e-manda-e-mails-por-voce/",
       "https://canaltech.com.br/inteligencia-artificial/meta-falha-em-detectar-centenas-de-anuncios-de-abuso-infantil-com-ia/",
       "https://canaltech.com.br/inteligencia-artificial/openai-usou-mil-robos-para-decifrar-equacao-centenaria-dos-fluidos/",
       "https://canaltech.com.br/entretenimento/trailer-do-filme-sobre-a-openai-e-chocante-e-traz-andrew-garfield-como-sam-altman/",
@@ -3671,7 +3671,8 @@
       "https://canaltech.com.br/inteligencia-artificial/canva-lanca-gerador-de-imagens-proprio-que-cria-artes-editaveis-em-camadas/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-agora-permite-publicar-miniaplicativos-direto-no-google-sites/",
       "https://canaltech.com.br/hardware/o-que-sao-os-tops-dos-chips-de-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/como-compartilhar-perfil-chatgpt/"
+      "https://canaltech.com.br/inteligencia-artificial/como-compartilhar-perfil-chatgpt/",
+      "https://canaltech.com.br/seguranca/como-se-proteger-de-golpes-feitos-com-ia/"
     ],
     "tilt_uol": [
       "https://tilt.uol.com.br/colunas/iagora/2026/09/20/medo-de-ia-ser-destruidora-de-empregos-e-global-o-que-mostram-novas-pesquisas.htm",
@@ -4352,44 +4353,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "compilacao",
-      "driver",
-      "jogos",
-      "lentidao",
-      "nuvem",
-      "nvidia",
-      "resolver",
-      "shaders"
-    ],
-    [
-      "agenda",
-      "android",
-      "auto",
-      "eventos",
-      "leva",
-      "mails",
-      "motorista",
-      "volante"
-    ],
-    [
-      "anos",
-      "descoberta",
-      "entenda",
-      "escondidas",
-      "falhas",
-      "revela"
-    ],
-    [
-      "agente",
-      "ataques",
-      "descobre",
-      "disparar",
-      "hacker",
-      "sequestra",
-      "sozinho",
-      "symantec"
-    ],
     [
       "celebra",
       "cercado",
@@ -6182,6 +6145,34 @@
       "imagem",
       "layout",
       "planeja"
+    ],
+    [
+      "didn",
+      "graveyard",
+      "list",
+      "make",
+      "projects",
+      "running",
+      "startups"
+    ],
+    [
+      "generated",
+      "labels",
+      "pennsylvania",
+      "require",
+      "will"
+    ],
+    [
+      "outside",
+      "payoff",
+      "sector",
+      "signs",
+      "tech"
+    ],
+    [
+      "feitos",
+      "golpes",
+      "proteger"
     ]
   ]
 }
