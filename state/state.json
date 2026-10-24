@@ -496,8 +496,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3167972",
-      "https://techcrunch.com/?p=3167529",
       "https://techcrunch.com/?p=3167528",
       "https://techcrunch.com/?p=3168018",
       "https://techcrunch.com/?p=3167991",
@@ -795,7 +793,9 @@
       "https://techcrunch.com/?p=3180898",
       "https://techcrunch.com/?p=3181271",
       "https://techcrunch.com/?p=3181412",
-      "https://techcrunch.com/?p=3181396"
+      "https://techcrunch.com/?p=3181396",
+      "https://techcrunch.com/?p=3181243",
+      "https://techcrunch.com/?p=3181490"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=988334",
@@ -1100,9 +1100,6 @@
       "https://www.theverge.com/?p=1018021"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40199",
-      "https://the-decoder.com/?p=40123",
-      "https://the-decoder.com/?p=40208",
       "https://the-decoder.com/?p=40216",
       "https://the-decoder.com/?p=40220",
       "https://the-decoder.com/?p=40223",
@@ -1399,7 +1396,10 @@
       "https://the-decoder.com/?p=41882",
       "https://the-decoder.com/?p=41887",
       "https://the-decoder.com/?p=41895",
-      "https://the-decoder.com/?p=41908"
+      "https://the-decoder.com/?p=41908",
+      "https://the-decoder.com/?p=41914",
+      "https://the-decoder.com/?p=41919",
+      "https://the-decoder.com/?p=41928"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2257,7 +2257,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108355981",
       "108358020",
       "108358966",
       "108358678",
@@ -2556,7 +2555,8 @@
       "108442594",
       "108452461",
       "108451107",
-      "108433772"
+      "108433772",
+      "108452247"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2888,7 +2888,6 @@
       "https://mittechreview.com.br/?p=283812"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371447",
       "https://olhardigital.com.br/?p=1371487",
       "https://olhardigital.com.br/?p=1371493",
       "https://olhardigital.com.br/?p=1371633",
@@ -3187,7 +3186,8 @@
       "https://olhardigital.com.br/?p=1383873",
       "https://olhardigital.com.br/?p=1383893",
       "https://olhardigital.com.br/?p=1384024",
-      "https://olhardigital.com.br/?p=1384005"
+      "https://olhardigital.com.br/?p=1384005",
+      "https://olhardigital.com.br/?p=1383684"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4352,66 +4352,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "antigravity",
-      "cloud",
-      "coming",
-      "google",
-      "latest",
-      "models",
-      "openai"
-    ],
-    [
-      "apple",
-      "brand",
-      "crafted",
-      "human",
-      "matters",
-      "music",
-      "world"
-    ],
-    [
-      "550m",
-      "legal",
-      "legora",
-      "raises",
-      "series",
-      "startup",
-      "valuation"
-    ],
-    [
-      "airplanes",
-      "flapping",
-      "raises",
-      "valuation",
-      "year"
-    ],
-    [
-      "amplia",
-      "chega",
-      "cloud",
-      "google",
-      "nuvem",
-      "openai",
-      "presenca"
-    ],
-    [
-      "anthropic",
-      "mails",
-      "monitora",
-      "navega",
-      "prepara",
-      "relatorios"
-    ],
-    [
-      "aumenta",
-      "bilhoes",
-      "crescer",
-      "gastos",
-      "meta",
-      "previsao",
-      "receita"
-    ],
     [
       "cair",
       "enquanto",
@@ -6159,6 +6099,84 @@
       "chatgpt",
       "compartilhar",
       "perfil"
+    ],
+    [
+      "chooses",
+      "democrats",
+      "forced",
+      "grok",
+      "model",
+      "openai",
+      "pick",
+      "picks",
+      "republicans"
+    ],
+    [
+      "block",
+      "eerily",
+      "human",
+      "model",
+      "sounds",
+      "voice"
+    ],
+    [
+      "based",
+      "block",
+      "catch",
+      "dessa",
+      "emotions",
+      "entirely",
+      "human",
+      "miss",
+      "model",
+      "models",
+      "speech",
+      "text",
+      "trained"
+    ],
+    [
+      "attorneys",
+      "better",
+      "growth",
+      "instantly",
+      "junior",
+      "makes",
+      "patent",
+      "professional",
+      "quietly",
+      "stunt",
+      "their"
+    ],
+    [
+      "actually",
+      "fired",
+      "leaked",
+      "never",
+      "openai",
+      "researchers",
+      "safety",
+      "they",
+      "three",
+      "told",
+      "were",
+      "what"
+    ],
+    [
+      "adjusting",
+      "fears",
+      "funding",
+      "here",
+      "portfolio",
+      "rattle",
+      "street",
+      "wall"
+    ],
+    [
+      "contra",
+      "desenvolvimento",
+      "hardware",
+      "jogos",
+      "rejeicao"
     ]
   ]
 }
