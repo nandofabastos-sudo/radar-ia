@@ -1100,8 +1100,6 @@
       "https://www.theverge.com/?p=1018021"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40186",
-      "https://the-decoder.com/?p=40193",
       "https://the-decoder.com/?p=40199",
       "https://the-decoder.com/?p=40123",
       "https://the-decoder.com/?p=40208",
@@ -1399,7 +1397,9 @@
       "https://the-decoder.com/?p=41871",
       "https://the-decoder.com/?p=41876",
       "https://the-decoder.com/?p=41882",
-      "https://the-decoder.com/?p=41887"
+      "https://the-decoder.com/?p=41887",
+      "https://the-decoder.com/?p=41895",
+      "https://the-decoder.com/?p=41908"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1985,7 +1985,8 @@
       "6ad955a28e3faf9869a11a20",
       "6ad8f3de7f4e8c7bfb89b8b0",
       "6acf7f9fb4b82589ef13e659",
-      "6ad944c52adb51db52e1a3c5"
+      "6ad944c52adb51db52e1a3c5",
+      "6ad927eedb675d3d17a94c9a"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2256,7 +2257,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108356686",
       "108355981",
       "108358020",
       "108358966",
@@ -2555,7 +2555,8 @@
       "108450972",
       "108442594",
       "108452461",
-      "108451107"
+      "108451107",
+      "108433772"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2883,10 +2884,10 @@
       "https://mittechreview.com.br/?p=283037",
       "https://mittechreview.com.br/?p=283000",
       "https://mittechreview.com.br/?p=283272",
-      "https://mittechreview.com.br/?p=283725"
+      "https://mittechreview.com.br/?p=283725",
+      "https://mittechreview.com.br/?p=283812"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371437",
       "https://olhardigital.com.br/?p=1371447",
       "https://olhardigital.com.br/?p=1371487",
       "https://olhardigital.com.br/?p=1371493",
@@ -3185,7 +3186,8 @@
       "https://olhardigital.com.br/?p=1382558",
       "https://olhardigital.com.br/?p=1383873",
       "https://olhardigital.com.br/?p=1383893",
-      "https://olhardigital.com.br/?p=1384024"
+      "https://olhardigital.com.br/?p=1384024",
+      "https://olhardigital.com.br/?p=1384005"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3370,8 +3372,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=942842"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/trend-dos-anos-80-aprenda-a-criar-sua-foto-com-visual-da-epoca/",
-      "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-transforma-qualquer-rabisco-em-imagem-pronta/",
       "https://canaltech.com.br/inteligencia-artificial/meta-lanca-muse-assistente-que-compra-reserva-viagens-e-manda-e-mails-por-voce/",
       "https://canaltech.com.br/inteligencia-artificial/meta-falha-em-detectar-centenas-de-anuncios-de-abuso-infantil-com-ia/",
       "https://canaltech.com.br/inteligencia-artificial/openai-usou-mil-robos-para-decifrar-equacao-centenaria-dos-fluidos/",
@@ -3669,7 +3669,9 @@
       "https://canaltech.com.br/inteligencia-artificial/com-comandos-no-claude-e-grok-hackers-atacam-mais-de-400-instituicoes-financeiras/",
       "https://canaltech.com.br/inteligencia-artificial/como-sao-feitos-os-videos-de-ia-que-trocam-pessoas/",
       "https://canaltech.com.br/inteligencia-artificial/canva-lanca-gerador-de-imagens-proprio-que-cria-artes-editaveis-em-camadas/",
-      "https://canaltech.com.br/inteligencia-artificial/gemini-agora-permite-publicar-miniaplicativos-direto-no-google-sites/"
+      "https://canaltech.com.br/inteligencia-artificial/gemini-agora-permite-publicar-miniaplicativos-direto-no-google-sites/",
+      "https://canaltech.com.br/hardware/o-que-sao-os-tops-dos-chips-de-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/como-compartilhar-perfil-chatgpt/"
     ],
     "tilt_uol": [
       "https://tilt.uol.com.br/colunas/iagora/2026/09/20/medo-de-ia-ser-destruidora-de-empregos-e-global-o-que-mostram-novas-pesquisas.htm",
@@ -4350,86 +4352,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agents",
-      "amazon",
-      "blocks",
-      "rolls",
-      "walmart",
-      "welcome",
-      "while"
-    ],
-    [
-      "built",
-      "coding",
-      "flint",
-      "laptop",
-      "largely",
-      "launches",
-      "model",
-      "recursive"
-    ],
-    [
-      "activity",
-      "meta",
-      "muse",
-      "over",
-      "shopping",
-      "users"
-    ],
-    [
-      "agents",
-      "inviting",
-      "shop",
-      "walmart"
-    ],
-    [
-      "agent",
-      "anthropic",
-      "claude",
-      "duet",
-      "muse",
-      "takes"
-    ],
-    [
-      "alongside",
-      "becoming",
-      "claude",
-      "cloud",
-      "gemini",
-      "google",
-      "major",
-      "models",
-      "offers",
-      "only",
-      "openai",
-      "provider",
-      "three"
-    ],
-    [
-      "affecting",
-      "argon",
-      "critical",
-      "flaw",
-      "found",
-      "gemini",
-      "google",
-      "millions",
-      "openai",
-      "websites"
-    ],
-    [
-      "center",
-      "claim",
-      "data",
-      "dismiss",
-      "judge",
-      "lawsuits",
-      "pollution",
-      "rejects",
-      "trump",
-      "wild"
-    ],
     [
       "antigravity",
       "cloud",
@@ -6169,6 +6091,74 @@
       "looks",
       "service",
       "what"
+    ],
+    [
+      "agents",
+      "better",
+      "coding",
+      "expensive",
+      "fancy",
+      "finds",
+      "harnesses",
+      "make",
+      "more",
+      "study"
+    ],
+    [
+      "agents",
+      "cache",
+      "each",
+      "found",
+      "isolated",
+      "openai",
+      "other",
+      "talk",
+      "through",
+      "ways"
+    ],
+    [
+      "bugs",
+      "exploitable",
+      "makes",
+      "meltdown",
+      "more",
+      "shows"
+    ],
+    [
+      "faces",
+      "financier",
+      "first",
+      "market",
+      "neoclouds",
+      "nvidia",
+      "role",
+      "take",
+      "test"
+    ],
+    [
+      "gigantesco",
+      "polo",
+      "samsung",
+      "semicondutores",
+      "visita"
+    ],
+    [
+      "eleicoes",
+      "espacial",
+      "exploracao",
+      "passos",
+      "proximos",
+      "resumo",
+      "semana"
+    ],
+    [
+      "chips",
+      "tops"
+    ],
+    [
+      "chatgpt",
+      "compartilhar",
+      "perfil"
     ]
   ]
 }
