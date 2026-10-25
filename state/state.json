@@ -496,7 +496,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3167584",
       "https://techcrunch.com/?p=3168131",
       "https://techcrunch.com/?p=3168211",
       "https://techcrunch.com/?p=3168123",
@@ -795,7 +794,8 @@
       "https://techcrunch.com/?p=3181490",
       "https://techcrunch.com/?p=3162590",
       "https://techcrunch.com/?p=3067743",
-      "https://techcrunch.com/?p=3181532"
+      "https://techcrunch.com/?p=3181532",
+      "https://techcrunch.com/?p=3181554"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=988921",
@@ -2257,7 +2257,8 @@
       "https://news.ycombinator.com/item?id=50224463",
       "https://news.ycombinator.com/item?id=50226419",
       "https://news.ycombinator.com/item?id=50219700",
-      "https://news.ycombinator.com/item?id=50227356"
+      "https://news.ycombinator.com/item?id=50227356",
+      "https://news.ycombinator.com/item?id=50233779"
     ]
   },
   "mercado": {
@@ -2894,8 +2895,6 @@
       "https://mittechreview.com.br/?p=283730"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371816",
-      "https://olhardigital.com.br/?p=1371826",
       "https://olhardigital.com.br/?p=1371828",
       "https://olhardigital.com.br/?p=1371831",
       "https://olhardigital.com.br/?p=1371846",
@@ -3193,7 +3192,9 @@
       "https://olhardigital.com.br/?p=1384215",
       "https://olhardigital.com.br/?p=1384219",
       "https://olhardigital.com.br/?p=1384222",
-      "https://olhardigital.com.br/?p=1384232"
+      "https://olhardigital.com.br/?p=1384232",
+      "https://olhardigital.com.br/?p=1384295",
+      "https://olhardigital.com.br/?p=1384307"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4358,48 +4359,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alarm",
-      "amazon",
-      "critical",
-      "flaws",
-      "global",
-      "google",
-      "openai",
-      "respond",
-      "security",
-      "spark"
-    ],
-    [
-      "asia",
-      "hungry",
-      "just",
-      "money",
-      "southeast",
-      "subscriptions"
-    ],
-    [
-      "agents",
-      "analyze",
-      "brain",
-      "data",
-      "humans",
-      "minutes",
-      "months",
-      "mouse",
-      "openai",
-      "take",
-      "would"
-    ],
-    [
-      "behind",
-      "bill",
-      "hidden",
-      "inference",
-      "leaves",
-      "storage",
-      "what"
-    ],
     [
       "aware",
       "case",
@@ -6192,6 +6151,43 @@
       "foto",
       "minha",
       "quando"
+    ],
+    [
+      "first",
+      "generated",
+      "grok",
+      "minutes",
+      "odyssey",
+      "releases",
+      "seven"
+    ],
+    [
+      "cancer",
+      "diagnosis",
+      "frontier",
+      "llms",
+      "outperforms",
+      "skin",
+      "year"
+    ],
+    [
+      "acende",
+      "alerta",
+      "assume",
+      "bilionario",
+      "boom",
+      "mercado",
+      "nvidia",
+      "risco",
+      "sustentar"
+    ],
+    [
+      "bilhoes",
+      "chips",
+      "comprar",
+      "levanta",
+      "nvidia",
+      "spacex"
     ]
   ]
 }
