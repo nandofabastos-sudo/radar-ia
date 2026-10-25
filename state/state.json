@@ -496,7 +496,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3168018",
       "https://techcrunch.com/?p=3167991",
       "https://techcrunch.com/?p=3167584",
       "https://techcrunch.com/?p=3168131",
@@ -795,11 +794,10 @@
       "https://techcrunch.com/?p=3181396",
       "https://techcrunch.com/?p=3181243",
       "https://techcrunch.com/?p=3181490",
-      "https://techcrunch.com/?p=3162590"
+      "https://techcrunch.com/?p=3162590",
+      "https://techcrunch.com/?p=3067743"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=988742",
-      "https://www.theverge.com/?p=985474",
       "https://www.theverge.com/?p=988921",
       "https://www.theverge.com/?p=989503",
       "https://www.theverge.com/?p=989508",
@@ -1097,10 +1095,11 @@
       "https://www.theverge.com/?p=1017906",
       "https://www.theverge.com/?p=1018021",
       "https://www.theverge.com/?p=1018187",
-      "https://www.theverge.com/?p=1018205"
+      "https://www.theverge.com/?p=1018205",
+      "https://www.theverge.com/?p=1017983",
+      "https://www.theverge.com/?p=1018217"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40233",
       "https://the-decoder.com/?p=40237",
       "https://the-decoder.com/?p=40241",
       "https://the-decoder.com/?p=40247",
@@ -1399,7 +1398,8 @@
       "https://the-decoder.com/?p=41946",
       "https://the-decoder.com/?p=41950",
       "https://the-decoder.com/?p=41955",
-      "https://the-decoder.com/?p=41963"
+      "https://the-decoder.com/?p=41963",
+      "https://the-decoder.com/?p=41970"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1986,7 +1986,8 @@
       "6ad8f3de7f4e8c7bfb89b8b0",
       "6acf7f9fb4b82589ef13e659",
       "6ad944c52adb51db52e1a3c5",
-      "6ad927eedb675d3d17a94c9a"
+      "6ad927eedb675d3d17a94c9a",
+      "6adaac0658fe17d926e679bc"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2891,8 +2892,6 @@
       "https://mittechreview.com.br/?p=283730"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371657",
-      "https://olhardigital.com.br/?p=1371727",
       "https://olhardigital.com.br/?p=1371742",
       "https://olhardigital.com.br/?p=1371781",
       "https://olhardigital.com.br/?p=1371816",
@@ -3190,7 +3189,9 @@
       "https://olhardigital.com.br/?p=1383684",
       "https://olhardigital.com.br/?p=1384152",
       "https://olhardigital.com.br/?p=1384167",
-      "https://olhardigital.com.br/?p=1383976"
+      "https://olhardigital.com.br/?p=1383976",
+      "https://olhardigital.com.br/?p=1384215",
+      "https://olhardigital.com.br/?p=1384219"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4355,68 +4356,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "centers",
-      "could",
-      "data",
-      "decades",
-      "erase",
-      "gains",
-      "quality"
-    ],
-    [
-      "agrees",
-      "ballot",
-      "billionaires",
-      "california",
-      "despite",
-      "mark",
-      "measure",
-      "stay",
-      "zuckerberg"
-    ],
-    [
-      "codigo",
-      "deepseek",
-      "gastando",
-      "libera",
-      "menos",
-      "rapido",
-      "rodar"
-    ],
-    [
-      "alertar",
-      "chrome",
-      "falsas",
-      "golpes",
-      "lojas",
-      "reforca",
-      "usuarios"
-    ],
-    [
-      "agentes",
-      "clientes",
-      "compras",
-      "deixa",
-      "fazerem",
-      "walmart"
-    ],
-    [
-      "agentes",
-      "criacao",
-      "elevenlabs",
-      "lanca",
-      "linha",
-      "modelos"
-    ],
-    [
-      "cloudflare",
-      "defense",
-      "discovery",
-      "links",
-      "openai",
-      "vulnerability"
-    ],
     [
       "european",
       "models",
@@ -6195,6 +6134,72 @@
       "derrubar",
       "internet",
       "poderiam"
+    ],
+    [
+      "about",
+      "gadgets",
+      "hottest",
+      "know",
+      "should",
+      "wearables"
+    ],
+    [
+      "changes",
+      "google",
+      "online",
+      "publishing",
+      "search",
+      "upended"
+    ],
+    [
+      "banned",
+      "english",
+      "just",
+      "more",
+      "opensource",
+      "speakers"
+    ],
+    [
+      "125x",
+      "astra",
+      "cheaper",
+      "flora",
+      "labeling",
+      "make",
+      "nvidia",
+      "open",
+      "robot",
+      "sources",
+      "than",
+      "video"
+    ],
+    [
+      "abroad",
+      "against",
+      "centers",
+      "data",
+      "learn",
+      "movement",
+      "what"
+    ],
+    [
+      "ataques",
+      "avancado",
+      "capacidades",
+      "evitar",
+      "hackers",
+      "limita",
+      "modelo",
+      "moonshot"
+    ],
+    [
+      "autonoma",
+      "levar",
+      "nasa",
+      "navegacao",
+      "quer",
+      "supercomputador",
+      "testar"
     ]
   ]
 }
