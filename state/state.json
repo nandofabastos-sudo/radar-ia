@@ -2894,7 +2894,6 @@
       "https://mittechreview.com.br/?p=283730"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371781",
       "https://olhardigital.com.br/?p=1371816",
       "https://olhardigital.com.br/?p=1371826",
       "https://olhardigital.com.br/?p=1371828",
@@ -3193,7 +3192,8 @@
       "https://olhardigital.com.br/?p=1383976",
       "https://olhardigital.com.br/?p=1384215",
       "https://olhardigital.com.br/?p=1384219",
-      "https://olhardigital.com.br/?p=1384222"
+      "https://olhardigital.com.br/?p=1384222",
+      "https://olhardigital.com.br/?p=1384232"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3378,7 +3378,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=942842"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/meta-falha-em-detectar-centenas-de-anuncios-de-abuso-infantil-com-ia/",
       "https://canaltech.com.br/inteligencia-artificial/openai-usou-mil-robos-para-decifrar-equacao-centenaria-dos-fluidos/",
       "https://canaltech.com.br/entretenimento/trailer-do-filme-sobre-a-openai-e-chocante-e-traz-andrew-garfield-como-sam-altman/",
       "https://canaltech.com.br/apps/nova-siri-ai-ja-tem-data-para-comecar-a-falar-portugues-no-iphone-confira/",
@@ -3677,7 +3676,8 @@
       "https://canaltech.com.br/inteligencia-artificial/gemini-agora-permite-publicar-miniaplicativos-direto-no-google-sites/",
       "https://canaltech.com.br/hardware/o-que-sao-os-tops-dos-chips-de-ia/",
       "https://canaltech.com.br/inteligencia-artificial/como-compartilhar-perfil-chatgpt/",
-      "https://canaltech.com.br/seguranca/como-se-proteger-de-golpes-feitos-com-ia/"
+      "https://canaltech.com.br/seguranca/como-se-proteger-de-golpes-feitos-com-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/o-que-acontece-quando-envio-uma-foto-minha-para-uma-ia/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/flash/?c=6aac316bbe812c00373baa8c",
@@ -4358,27 +4358,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "cosmos",
-      "deploy",
-      "evaluate",
-      "models",
-      "nvidia",
-      "opens",
-      "tools",
-      "train",
-      "world"
-    ],
-    [
-      "before",
-      "days",
-      "exploited",
-      "hackers",
-      "patched",
-      "they",
-      "vulnerabilities",
-      "were"
-    ],
     [
       "alarm",
       "amazon",
@@ -6196,6 +6175,23 @@
       "robo",
       "unitree",
       "veja"
+    ],
+    [
+      "adiam",
+      "anthropic",
+      "bilionario",
+      "bolsa",
+      "empresas",
+      "enquanto",
+      "estreia",
+      "prepara"
+    ],
+    [
+      "acontece",
+      "envio",
+      "foto",
+      "minha",
+      "quando"
     ]
   ]
 }
