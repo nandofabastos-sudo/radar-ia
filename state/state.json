@@ -1100,11 +1100,6 @@
       "https://www.theverge.com/?p=1018205"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40216",
-      "https://the-decoder.com/?p=40220",
-      "https://the-decoder.com/?p=40223",
-      "https://the-decoder.com/?p=40226",
-      "https://the-decoder.com/?p=40230",
       "https://the-decoder.com/?p=40233",
       "https://the-decoder.com/?p=40237",
       "https://the-decoder.com/?p=40241",
@@ -1399,7 +1394,12 @@
       "https://the-decoder.com/?p=41908",
       "https://the-decoder.com/?p=41914",
       "https://the-decoder.com/?p=41919",
-      "https://the-decoder.com/?p=41928"
+      "https://the-decoder.com/?p=41928",
+      "https://the-decoder.com/?p=41933",
+      "https://the-decoder.com/?p=41946",
+      "https://the-decoder.com/?p=41950",
+      "https://the-decoder.com/?p=41955",
+      "https://the-decoder.com/?p=41963"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2253,7 +2253,8 @@
       "https://news.ycombinator.com/item?id=50202217",
       "https://news.ycombinator.com/item?id=50200997",
       "https://news.ycombinator.com/item?id=50212065",
-      "https://news.ycombinator.com/item?id=50224463"
+      "https://news.ycombinator.com/item?id=50224463",
+      "https://news.ycombinator.com/item?id=50226419"
     ]
   },
   "mercado": {
@@ -2886,10 +2887,10 @@
       "https://mittechreview.com.br/?p=283000",
       "https://mittechreview.com.br/?p=283272",
       "https://mittechreview.com.br/?p=283725",
-      "https://mittechreview.com.br/?p=283812"
+      "https://mittechreview.com.br/?p=283812",
+      "https://mittechreview.com.br/?p=283730"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371633",
       "https://olhardigital.com.br/?p=1371657",
       "https://olhardigital.com.br/?p=1371727",
       "https://olhardigital.com.br/?p=1371742",
@@ -3188,7 +3189,8 @@
       "https://olhardigital.com.br/?p=1384005",
       "https://olhardigital.com.br/?p=1383684",
       "https://olhardigital.com.br/?p=1384152",
-      "https://olhardigital.com.br/?p=1384167"
+      "https://olhardigital.com.br/?p=1384167",
+      "https://olhardigital.com.br/?p=1383976"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3675,7 +3677,6 @@
       "https://canaltech.com.br/seguranca/como-se-proteger-de-golpes-feitos-com-ia/"
     ],
     "tilt_uol": [
-      "https://tilt.uol.com.br/colunas/iagora/2026/09/20/medo-de-ia-ser-destruidora-de-empregos-e-global-o-que-mostram-novas-pesquisas.htm",
       "https://www.uol.com.br/flash/?c=6aac316bbe812c00373baa8c",
       "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/09/20/ia-nao-esta-afetando-apenas-o-numero-de-empregos-mas-como-trabalhamos.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/20/medo-de-ia-ser-destruidora-de-empregos-e-global-o-que-mostram-novas-pesquisas.htm",
@@ -3974,7 +3975,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/23/minimax-conclui-registro-de-exportacao-para-modelos-de-ia-de-codigo-aberto-no-exterior.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/10/23/agentes-de-ia-comecam-a-invadir-contas-e-bancos-correm-para-mudar-seguranca.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/23/orgao-regulador-de-wall-street-vai-focar-fiscalizacao-sobre-ia-e-tokens.htm",
-      "https://tilt.uol.com.br/colunas/iagora/2026/10/23/agentes-de-ia-comecam-a-invadir-contas-e-bancos-correm-para-mudar-seguranca.htm"
+      "https://tilt.uol.com.br/colunas/iagora/2026/10/23/agentes-de-ia-comecam-a-invadir-contas-e-bancos-correm-para-mudar-seguranca.htm",
+      "https://www.uol.com.br/flash/?c=6ada535cec8e2e27cbdc165c"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4353,84 +4355,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "adiciona",
-      "blackrock",
-      "crescente",
-      "foco",
-      "gama",
-      "produtos",
-      "robotica"
-    ],
-    [
-      "anos",
-      "capacidades",
-      "chefao",
-      "google",
-      "humanas",
-      "preve"
-    ],
-    [
-      "altera",
-      "comerciais",
-      "criticas",
-      "meta",
-      "sites",
-      "termos",
-      "treino"
-    ],
-    [
-      "ampliar",
-      "comercial",
-      "equipe",
-      "gestor",
-      "vendas",
-      "visao"
-    ],
-    [
-      "access",
-      "broad",
-      "consistent",
-      "standards",
-      "through"
-    ],
-    [
-      "after",
-      "blacksmith",
-      "hits",
-      "leads",
-      "sequoia",
-      "series",
-      "unicorn",
-      "valuation"
-    ],
-    [
-      "ancient",
-      "armageddon",
-      "find",
-      "google",
-      "holes",
-      "internet",
-      "openai",
-      "panicking"
-    ],
-    [
-      "blackstone",
-      "buildout",
-      "debt",
-      "fears",
-      "khaira",
-      "over",
-      "overblown"
-    ],
-    [
-      "class",
-      "create",
-      "fund",
-      "meta",
-      "push",
-      "shares"
-    ],
     [
       "centers",
       "could",
@@ -6171,6 +6095,106 @@
       "keeping",
       "planet",
       "rough"
+    ],
+    [
+      "agents",
+      "models",
+      "open",
+      "openmobile",
+      "proprietary",
+      "proves",
+      "rival",
+      "smartphone",
+      "source"
+    ],
+    [
+      "anthropic",
+      "biggest",
+      "customers",
+      "discounts",
+      "offers",
+      "openai",
+      "percent",
+      "poach"
+    ],
+    [
+      "anthropic",
+      "calls",
+      "colonial",
+      "companies",
+      "eric",
+      "google",
+      "modern",
+      "openai",
+      "schmidt",
+      "trading"
+    ],
+    [
+      "agent",
+      "alone",
+      "anthropic",
+      "beats",
+      "complexity",
+      "handle",
+      "many",
+      "models",
+      "subagents"
+    ],
+    [
+      "2027",
+      "anthropic",
+      "clark",
+      "forward",
+      "founder",
+      "improving",
+      "jack",
+      "moves",
+      "prediction",
+      "self"
+    ],
+    [
+      "200k",
+      "america",
+      "arts",
+      "film",
+      "jobs",
+      "lost",
+      "media",
+      "much"
+    ],
+    [
+      "agentes",
+      "internet",
+      "melhor",
+      "mundo",
+      "pior",
+      "pode",
+      "todo",
+      "torna",
+      "tornar"
+    ],
+    [
+      "2026",
+      "bolsonaro",
+      "center",
+      "clima",
+      "data",
+      "eleicoes",
+      "energia",
+      "flavio",
+      "lula",
+      "planos",
+      "raras",
+      "soberania",
+      "terras"
+    ],
+    [
+      "acha",
+      "brechas",
+      "criticas",
+      "derrubar",
+      "internet",
+      "poderiam"
     ]
   ]
 }
