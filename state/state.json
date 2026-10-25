@@ -798,7 +798,6 @@
       "https://techcrunch.com/?p=3162590"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=988518",
       "https://www.theverge.com/?p=988742",
       "https://www.theverge.com/?p=985474",
       "https://www.theverge.com/?p=988921",
@@ -1097,7 +1096,8 @@
       "https://www.theverge.com/?p=1017447",
       "https://www.theverge.com/?p=1017906",
       "https://www.theverge.com/?p=1018021",
-      "https://www.theverge.com/?p=1018187"
+      "https://www.theverge.com/?p=1018187",
+      "https://www.theverge.com/?p=1018205"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40216",
@@ -4354,15 +4354,6 @@
   },
   "_titulos_recentes": [
     [
-      "celebra",
-      "cercado",
-      "europa",
-      "nvidia",
-      "patos",
-      "potencial",
-      "robos"
-    ],
-    [
       "adiciona",
       "blackrock",
       "crescente",
@@ -6173,6 +6164,13 @@
       "feitos",
       "golpes",
       "proteger"
+    ],
+    [
+      "blue",
+      "edges",
+      "keeping",
+      "planet",
+      "rough"
     ]
   ]
 }
