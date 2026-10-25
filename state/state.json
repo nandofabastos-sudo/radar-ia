@@ -496,7 +496,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3167991",
       "https://techcrunch.com/?p=3167584",
       "https://techcrunch.com/?p=3168131",
       "https://techcrunch.com/?p=3168211",
@@ -795,7 +794,8 @@
       "https://techcrunch.com/?p=3181243",
       "https://techcrunch.com/?p=3181490",
       "https://techcrunch.com/?p=3162590",
-      "https://techcrunch.com/?p=3067743"
+      "https://techcrunch.com/?p=3067743",
+      "https://techcrunch.com/?p=3181532"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=988921",
@@ -2255,7 +2255,9 @@
       "https://news.ycombinator.com/item?id=50200997",
       "https://news.ycombinator.com/item?id=50212065",
       "https://news.ycombinator.com/item?id=50224463",
-      "https://news.ycombinator.com/item?id=50226419"
+      "https://news.ycombinator.com/item?id=50226419",
+      "https://news.ycombinator.com/item?id=50219700",
+      "https://news.ycombinator.com/item?id=50227356"
     ]
   },
   "mercado": {
@@ -2892,7 +2894,6 @@
       "https://mittechreview.com.br/?p=283730"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371742",
       "https://olhardigital.com.br/?p=1371781",
       "https://olhardigital.com.br/?p=1371816",
       "https://olhardigital.com.br/?p=1371826",
@@ -3191,7 +3192,8 @@
       "https://olhardigital.com.br/?p=1384167",
       "https://olhardigital.com.br/?p=1383976",
       "https://olhardigital.com.br/?p=1384215",
-      "https://olhardigital.com.br/?p=1384219"
+      "https://olhardigital.com.br/?p=1384219",
+      "https://olhardigital.com.br/?p=1384222"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4356,51 +4358,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "european",
-      "models",
-      "nvidia",
-      "open",
-      "power",
-      "projects",
-      "public",
-      "sector",
-      "wave"
-    ],
-    [
-      "across",
-      "climate",
-      "deploy",
-      "earth",
-      "europe",
-      "models",
-      "nvidia",
-      "open",
-      "pioneers",
-      "power",
-      "prediction",
-      "real",
-      "weather",
-      "world"
-    ],
-    [
-      "digital",
-      "discovery",
-      "european",
-      "nvidia",
-      "operations",
-      "physical",
-      "retail",
-      "transforms"
-    ],
-    [
-      "bottleneck",
-      "break",
-      "companies",
-      "nvidia",
-      "power",
-      "using"
-    ],
     [
       "cosmos",
       "deploy",
@@ -6200,6 +6157,45 @@
       "quer",
       "supercomputador",
       "testar"
+    ],
+    [
+      "apollo",
+      "companies",
+      "delivers",
+      "economist",
+      "financial",
+      "most",
+      "payoff",
+      "zero"
+    ],
+    [
+      "3000",
+      "bf16",
+      "cards",
+      "instruction",
+      "issue",
+      "nvidia",
+      "rate",
+      "unlock"
+    ],
+    [
+      "cerebras",
+      "deploys",
+      "models",
+      "parameter",
+      "trillion"
+    ],
+    [
+      "apresenta",
+      "costas",
+      "executa",
+      "guarda",
+      "humanoide",
+      "kung",
+      "movimentos",
+      "robo",
+      "unitree",
+      "veja"
     ]
   ]
 }
