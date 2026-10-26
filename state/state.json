@@ -2263,7 +2263,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108358020",
       "108358966",
       "108358678",
       "108359403",
@@ -2562,7 +2561,8 @@
       "108452461",
       "108451107",
       "108433772",
-      "108452247"
+      "108452247",
+      "108461509"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4359,12 +4359,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "aware",
-      "case",
-      "context",
-      "making"
-    ],
     [
       "biology",
       "chat",
@@ -6187,6 +6181,16 @@
       "comprar",
       "levanta",
       "nvidia",
+      "spacex"
+    ],
+    [
+      "billion",
+      "chips",
+      "closes",
+      "deal",
+      "debt",
+      "elon",
+      "musk",
       "spacex"
     ]
   ]
