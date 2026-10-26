@@ -2263,7 +2263,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108358966",
       "108358678",
       "108359403",
       "108359469",
@@ -2562,7 +2561,8 @@
       "108451107",
       "108433772",
       "108452247",
-      "108461509"
+      "108461509",
+      "108462306"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4359,14 +4359,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "biology",
-      "chat",
-      "face",
-      "hugging",
-      "lets",
-      "model"
-    ],
     [
       "claude",
       "duet"
@@ -6192,6 +6184,17 @@
       "elon",
       "musk",
       "spacex"
+    ],
+    [
+      "aspiring",
+      "billion",
+      "investment",
+      "malaysia",
+      "nation",
+      "plans",
+      "reportedly",
+      "softbank",
+      "tech"
     ]
   ]
 }
