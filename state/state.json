@@ -2006,7 +2006,8 @@
       "6ada485dbf3ea47f4d281be1",
       "6adf4b6dcf87963da16e83cd",
       "6adf5a4c0708bfb551f92f1c",
-      "6adf7ed1ef12fa802abfb0e0"
+      "6adf7ed1ef12fa802abfb0e0",
+      "6adb5ab42c4105a738fd25ca"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2286,7 +2287,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108359735",
       "108359227",
       "108357925",
       "108360049",
@@ -2585,7 +2585,8 @@
       "108455794",
       "108464652",
       "108465772",
-      "108360561"
+      "108360561",
+      "108467883"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2918,10 +2919,10 @@
       "https://mittechreview.com.br/?p=283725",
       "https://mittechreview.com.br/?p=283812",
       "https://mittechreview.com.br/?p=283730",
-      "https://mittechreview.com.br/?p=283734"
+      "https://mittechreview.com.br/?p=283734",
+      "https://mittechreview.com.br/?p=284567"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1372056",
       "https://olhardigital.com.br/?p=1372119",
       "https://olhardigital.com.br/?p=1372199",
       "https://olhardigital.com.br/?p=1372239",
@@ -3220,7 +3221,8 @@
       "https://olhardigital.com.br/?p=1384413",
       "https://olhardigital.com.br/?p=1384548",
       "https://olhardigital.com.br/?p=1384590",
-      "https://olhardigital.com.br/?p=1384622"
+      "https://olhardigital.com.br/?p=1384622",
+      "https://olhardigital.com.br/?p=1384625"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3709,7 +3711,6 @@
       "https://canaltech.com.br/mercado/itau-anuncia-compra-de-startup-brasileira-de-ia-por-r-29-bilhoes/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/21/chinesa-zai-desativa-recursos-de-assistente-de-programacao-com-ia-apos-problema-de-seguranca.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/21/google-inicia-pre-venda-denotebook-equipado-com-ia-gemini.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/21/eua-propoem-a-china-troca-de-alertas-sobre-incidentes-de-ia.ghtm",
       "https://economia.uol.com.br/noticias/afp/2026/09/21/amd-atinge-us-1-trilhao-em-valor-de-mercado-com-boom-de-ia.htm",
@@ -4008,7 +4009,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/26/dona-do-claude-busca-bolsa-sob-alertas-sobre-seguranca-da-ia.ghtm",
       "https://tilt.uol.com.br/colunas/iagora/2026/10/26/ipo-da-anthropic-tem-ia-mais-transformadora-que-eletricidade-e-prejuizos.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/26/anthropic-deve-integrar-grupo-de-maiores-ipos-do-mundo.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/26/ipo-da-anthropic-tem-ia-mais-transformadora-que-eletricidade-e-prejuizos.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/26/ipo-da-anthropic-tem-ia-mais-transformadora-que-eletricidade-e-prejuizos.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/27/nao-e-golpe-nem-tigrinho-empresa-defende-app-de-videos-para-ia.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4393,49 +4395,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "gods",
-      "introducing",
-      "machine"
-    ],
-    [
-      "bans",
-      "etsy",
-      "generated",
-      "marketplace",
-      "online",
-      "patterns",
-      "recipes"
-    ],
-    [
-      "agentes",
-      "bancaria",
-      "cabeca",
-      "enorme",
-      "seguranca"
-    ],
-    [
-      "3t26",
-      "bilhoes",
-      "euros",
-      "faturamento",
-      "fecha",
-      "impulsionada",
-      "nokia",
-      "nuvem"
-    ],
-    [
-      "anthropic",
-      "aplicacoes",
-      "claude",
-      "duet",
-      "executa",
-      "lanca",
-      "monitora",
-      "pelo",
-      "tarefas",
-      "usuario"
-    ],
     [
       "advance",
       "nask",
@@ -6207,6 +6166,47 @@
       "eletricidade",
       "prejuizos",
       "transformadora"
+    ],
+    [
+      "agent",
+      "best",
+      "every",
+      "here",
+      "major",
+      "tested"
+    ],
+    [
+      "billion",
+      "deepen",
+      "giants",
+      "invest",
+      "meta",
+      "nvidia",
+      "partnership",
+      "tech"
+    ],
+    [
+      "arrumacao",
+      "cartel",
+      "desacelerar",
+      "dilema",
+      "freio"
+    ],
+    [
+      "alibaba",
+      "anthropic",
+      "ciencia",
+      "openai",
+      "registra",
+      "resumo",
+      "suspeita"
+    ],
+    [
+      "defende",
+      "empresa",
+      "golpe",
+      "tigrinho",
+      "treinamento"
     ]
   ]
 }
