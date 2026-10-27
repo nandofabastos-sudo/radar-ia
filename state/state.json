@@ -504,8 +504,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3168393",
-      "https://techcrunch.com/?p=3168463",
       "https://techcrunch.com/?p=3168626",
       "https://techcrunch.com/?p=3168692",
       "https://techcrunch.com/?p=3168527",
@@ -803,10 +801,11 @@
       "https://techcrunch.com/?p=3181514",
       "https://techcrunch.com/?p=3181633",
       "https://techcrunch.com/?p=3181659",
-      "https://techcrunch.com/?p=3181689"
+      "https://techcrunch.com/?p=3181689",
+      "https://techcrunch.com/?p=3181989",
+      "https://techcrunch.com/?p=3181218"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=990051",
       "https://www.theverge.com/?p=989376",
       "https://www.theverge.com/?p=989617",
       "https://www.theverge.com/?p=990149",
@@ -1105,7 +1104,8 @@
       "https://www.theverge.com/?p=1018666",
       "https://www.theverge.com/?p=1018738",
       "https://www.theverge.com/?p=1018713",
-      "https://www.theverge.com/?p=1018994"
+      "https://www.theverge.com/?p=1018994",
+      "https://www.theverge.com/?p=1019143"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40269",
@@ -2279,7 +2279,9 @@
       "https://news.ycombinator.com/item?id=50227356",
       "https://news.ycombinator.com/item?id=50233779",
       "https://news.ycombinator.com/item?id=50242939",
-      "https://news.ycombinator.com/item?id=50248124"
+      "https://news.ycombinator.com/item?id=50248124",
+      "https://news.ycombinator.com/item?id=50251344",
+      "https://news.ycombinator.com/item?id=50251661"
     ]
   },
   "mercado": {
@@ -2919,8 +2921,6 @@
       "https://mittechreview.com.br/?p=283734"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1371854",
-      "https://olhardigital.com.br/?p=1372024",
       "https://olhardigital.com.br/?p=1372056",
       "https://olhardigital.com.br/?p=1372119",
       "https://olhardigital.com.br/?p=1372199",
@@ -3218,7 +3218,9 @@
       "https://olhardigital.com.br/?p=1384307",
       "https://olhardigital.com.br/?p=1384408",
       "https://olhardigital.com.br/?p=1384413",
-      "https://olhardigital.com.br/?p=1384548"
+      "https://olhardigital.com.br/?p=1384548",
+      "https://olhardigital.com.br/?p=1384590",
+      "https://olhardigital.com.br/?p=1384622"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3405,7 +3407,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=943234"
     ],
     "canaltech": [
-      "https://canaltech.com.br/eletro/xiaomi-cria-fogao-com-ia-que-desliga-o-gas-se-voce-esquecer-a-panela/",
       "https://canaltech.com.br/inteligencia-artificial/meat-proxy-porque-usar-ia-todos-os-dias-nao-significa-maturidade-para-trabalhar-com-ela/",
       "https://canaltech.com.br/inteligencia-artificial/robos-da-openai-criaram-rede-clandestina-para-se-comunicarem-sem-autorizacao/",
       "https://canaltech.com.br/mercado/hotmart-fire-2026-com-launchpad-plataforma-aposta-em-ia-que-cria-aplicativos-e-vira-equipe-do-empreendedor/",
@@ -3704,10 +3705,10 @@
       "https://canaltech.com.br/smartphone/ia-esta-sugando-chips-samsung-pode-fabricar-20-menos-galaxy-a/",
       "https://canaltech.com.br/apps/atualize-ja-apple-libera-ios-272-com-siri-ai-em-portugues/",
       "https://canaltech.com.br/inteligencia-artificial/faxina-no-gemini-google-testa-exclusao-de-varias-conversas-ao-mesmo-tempo/",
-      "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-61-terra-mais-rapido-50-mais-barato-e-focado-em-controlar-pcs/"
+      "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-61-terra-mais-rapido-50-mais-barato-e-focado-em-controlar-pcs/",
+      "https://canaltech.com.br/mercado/itau-anuncia-compra-de-startup-brasileira-de-ia-por-r-29-bilhoes/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/21/dez-dias-que-mudaram-o-rumo-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/21/chinesa-zai-desativa-recursos-de-assistente-de-programacao-com-ia-apos-problema-de-seguranca.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/21/google-inicia-pre-venda-denotebook-equipado-com-ia-gemini.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/21/eua-propoem-a-china-troca-de-alertas-sobre-incidentes-de-ia.ghtm",
@@ -4006,7 +4007,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/26/pedido-de-ipo-daanthropic-revela-crescimento-explosivo-riscos-e-custos-astronomicos.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/26/dona-do-claude-busca-bolsa-sob-alertas-sobre-seguranca-da-ia.ghtm",
       "https://tilt.uol.com.br/colunas/iagora/2026/10/26/ipo-da-anthropic-tem-ia-mais-transformadora-que-eletricidade-e-prejuizos.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/26/anthropic-deve-integrar-grupo-de-maiores-ipos-do-mundo.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/26/anthropic-deve-integrar-grupo-de-maiores-ipos-do-mundo.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/26/ipo-da-anthropic-tem-ia-mais-transformadora-que-eletricidade-e-prejuizos.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4391,80 +4393,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "back",
-      "meta",
-      "muse",
-      "sharing",
-      "turns"
-    ],
-    [
-      "8217",
-      "could",
-      "experts",
-      "legal",
-      "meta",
-      "news",
-      "scrape",
-      "sites",
-      "still"
-    ],
-    [
-      "built",
-      "designing",
-      "harness",
-      "last",
-      "serving"
-    ],
-    [
-      "boom",
-      "helping",
-      "join",
-      "social",
-      "society",
-      "women"
-    ],
-    [
-      "billion",
-      "funding",
-      "investors",
-      "nears",
-      "openai",
-      "round",
-      "trillion",
-      "valuation"
-    ],
-    [
-      "arabes",
-      "bilhoes",
-      "emirados",
-      "investidores",
-      "negocia",
-      "openai",
-      "rodada"
-    ],
-    [
-      "diagnostico",
-      "medicos",
-      "microsoft",
-      "superou",
-      "testes"
-    ],
-    [
-      "desabam",
-      "empresas",
-      "nasdaq",
-      "tecnologia",
-      "temores"
-    ],
-    [
-      "agents",
-      "alone",
-      "left",
-      "nothing",
-      "playing",
-      "started"
-    ],
     [
       "gods",
       "introducing",
@@ -6200,6 +6128,85 @@
       "lancam",
       "strawberry",
       "suecos"
+    ],
+    [
+      "alibaba",
+      "beijing",
+      "cohere",
+      "file",
+      "model",
+      "qwen",
+      "send",
+      "tried"
+    ],
+    [
+      "always",
+      "assistant",
+      "coding",
+      "dots",
+      "into",
+      "openai",
+      "personal",
+      "tools",
+      "turned"
+    ],
+    [
+      "academics",
+      "announces",
+      "discoveries",
+      "openai",
+      "science",
+      "three",
+      "work"
+    ],
+    [
+      "computer",
+      "discoveries",
+      "mathematics",
+      "physics",
+      "science",
+      "three"
+    ],
+    [
+      "exponential",
+      "false",
+      "hypothesis",
+      "time"
+    ],
+    [
+      "anuncia",
+      "cientificas",
+      "descobertas",
+      "especialistas",
+      "openai",
+      "resultados",
+      "tres",
+      "verificarao"
+    ],
+    [
+      "alibaba",
+      "arquivo",
+      "china",
+      "durante",
+      "enviar",
+      "rival",
+      "servidor",
+      "tentou",
+      "teste"
+    ],
+    [
+      "anuncia",
+      "bilhoes",
+      "brasileira",
+      "compra",
+      "itau",
+      "startup"
+    ],
+    [
+      "anthropic",
+      "eletricidade",
+      "prejuizos",
+      "transformadora"
     ]
   ]
 }
