@@ -334,7 +334,8 @@
       "https://about.fb.com/?p=50558",
       "https://about.fb.com/?p=50588",
       "https://about.fb.com/?p=50697",
-      "https://about.fb.com/?p=50690"
+      "https://about.fb.com/?p=50690",
+      "https://about.fb.com/?p=50759"
     ],
     "nvidia_blog": [
       "https://blogs.nvidia.com/?p=96644",
@@ -511,7 +512,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3169009",
       "https://techcrunch.com/?p=3169077",
       "https://techcrunch.com/?p=3169128",
       "https://techcrunch.com/?p=3169215",
@@ -810,7 +810,8 @@
       "https://techcrunch.com/?p=3182153",
       "https://techcrunch.com/?p=3182297",
       "https://techcrunch.com/?p=3181301",
-      "https://techcrunch.com/?p=3182387"
+      "https://techcrunch.com/?p=3182387",
+      "https://techcrunch.com/?p=3182406"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=991133",
@@ -2058,7 +2059,8 @@
       "6acec3f2d4d23400011cc862",
       "6ac92d517ce9570001c9d80b",
       "6ad7e7171eff6a0001bb99df",
-      "6ada9854c7124400012a82b0"
+      "6ada9854c7124400012a82b0",
+      "6ae1370c482765000141e5cc"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2738,7 +2740,8 @@
       "https://techcrunch.com/?p=3180778",
       "https://techcrunch.com/?p=3180936",
       "https://techcrunch.com/?p=3181625",
-      "https://techcrunch.com/?p=3182018"
+      "https://techcrunch.com/?p=3182018",
+      "https://techcrunch.com/?p=3182406"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -2947,9 +2950,6 @@
       "https://mittechreview.com.br/?p=284567"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1372347",
-      "https://olhardigital.com.br/?p=1372351",
-      "https://olhardigital.com.br/?p=1370856",
       "https://olhardigital.com.br/?p=1372451",
       "https://olhardigital.com.br/?p=1372475",
       "https://olhardigital.com.br/?p=1372612",
@@ -3246,7 +3246,10 @@
       "https://olhardigital.com.br/?p=1384751",
       "https://olhardigital.com.br/?p=1384871",
       "https://olhardigital.com.br/?p=1384861",
-      "https://olhardigital.com.br/?p=1384932"
+      "https://olhardigital.com.br/?p=1384932",
+      "https://olhardigital.com.br/?p=1384935",
+      "https://olhardigital.com.br/?p=1384913",
+      "https://olhardigital.com.br/?p=1384973"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4428,62 +4431,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "calls",
-      "colonial",
-      "companies",
-      "eric",
-      "google",
-      "modern",
-      "openai",
-      "schmidt",
-      "trading"
-    ],
-    [
-      "agent",
-      "alone",
-      "anthropic",
-      "beats",
-      "complexity",
-      "handle",
-      "many",
-      "models",
-      "subagents"
-    ],
-    [
-      "2027",
-      "anthropic",
-      "clark",
-      "forward",
-      "founder",
-      "improving",
-      "jack",
-      "moves",
-      "prediction",
-      "self"
-    ],
-    [
-      "200k",
-      "america",
-      "arts",
-      "film",
-      "jobs",
-      "lost",
-      "media",
-      "much"
-    ],
-    [
-      "agentes",
-      "internet",
-      "melhor",
-      "mundo",
-      "pior",
-      "pode",
-      "todo",
-      "torna",
-      "tornar"
-    ],
     [
       "2026",
       "bolsonaro",
@@ -6215,6 +6162,46 @@
       "horario",
       "online",
       "venda"
+    ],
+    [
+      "agent",
+      "available",
+      "built",
+      "everyone",
+      "first",
+      "muse",
+      "personal",
+      "singapore",
+      "world"
+    ],
+    [
+      "amazon",
+      "anthropic",
+      "billions",
+      "make",
+      "more",
+      "much",
+      "will"
+    ],
+    [
+      "election",
+      "wasn"
+    ],
+    [
+      "corrida",
+      "enriquecendo",
+      "esta",
+      "fabricantes",
+      "tinta"
+    ],
+    [
+      "alternativa",
+      "busca",
+      "chips",
+      "google",
+      "mira",
+      "nvidia",
+      "openai"
     ]
   ]
 }
