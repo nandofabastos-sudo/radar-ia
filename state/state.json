@@ -2323,7 +2323,8 @@
       "https://news.ycombinator.com/item?id=50264853",
       "https://news.ycombinator.com/item?id=50265609",
       "https://news.ycombinator.com/item?id=50273396",
-      "https://news.ycombinator.com/item?id=50276792"
+      "https://news.ycombinator.com/item?id=50276792",
+      "https://news.ycombinator.com/item?id=50284255"
     ]
   },
   "mercado": {
@@ -2973,9 +2974,6 @@
       "https://mittechreview.com.br/?p=285098"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1372612",
-      "https://olhardigital.com.br/?p=1372625",
-      "https://olhardigital.com.br/?p=1372740",
       "https://olhardigital.com.br/?p=1372747",
       "https://olhardigital.com.br/?p=1372762",
       "https://olhardigital.com.br/?p=1372766",
@@ -3272,7 +3270,10 @@
       "https://olhardigital.com.br/?p=1384913",
       "https://olhardigital.com.br/?p=1384973",
       "https://olhardigital.com.br/?p=1384982",
-      "https://olhardigital.com.br/?p=1385211"
+      "https://olhardigital.com.br/?p=1385211",
+      "https://olhardigital.com.br/?p=1385274",
+      "https://olhardigital.com.br/?p=1385285",
+      "https://olhardigital.com.br/?p=1385298"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3765,9 +3766,6 @@
       "https://canaltech.com.br/inteligencia-artificial/nem-robo-pega-robo-ias-falham-em-identificar-outras-ias-no-teste-de-turing/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/22/trump-e-xi-disputam-e-investidores-apostam-nos-dois-lados-em-torno-da-ia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/22/openai-amplia-linha-gpt-6-com-modelos-sol-e-luna-mais-acessiveis.htm",
-      "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/22/peter-thiel-o-bilionario-que-conecta-trump-anticristo-e-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/22/openai-e-anthropic-lancam-novas-ias-no-mesmo-dia-e-reforcam-hipocrisia.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/22/anthropic-lanca-nova-versao-de-claude-em-meio-a-debate-sobre-a-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/23/o-que-e-nova-ia-criada-por-jovem-de-23-anos-e-que-ja-vale-bilhoes-nos-eua.htm",
@@ -4064,7 +4062,10 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/28/pais-acusam-gpt-4o-de-orientar-filha-a-cortar-remedio-contra-epilepsia.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/28/onu-inteligencia-artificial-nao-pode-alimentar-estereotipos-de-genero-br.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/28/nova-york-veta-chatbots-que-fingem-ser-amigos-de-menores.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/28/oracle-ameniza-preocupacoes-com-gastos-em-ia-com-plano-para-tornar-fluxo-de-caixa-positivo.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/28/oracle-ameniza-preocupacoes-com-gastos-em-ia-com-plano-para-tornar-fluxo-de-caixa-positivo.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/29/catastrofe-gerada-por-ia-e-tida-como-inevitavel-setor-e-bancos-se-armam.htm",
+      "https://www.uol.com.br/flash/?c=6ae0c3e58fae8c409fb0df4f",
+      "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/10/29/parlamentar-tem-voz-recriada-com-ia-e-faz-discurso-historico-no-reino-unido.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4464,65 +4465,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "across",
-      "codebases",
-      "coderabbit",
-      "complex",
-      "helps",
-      "security",
-      "strengthen"
-    ],
-    [
-      "academic",
-      "build",
-      "communities",
-      "scientific",
-      "understanding",
-      "working"
-    ],
-    [
-      "astra",
-      "beyond",
-      "code",
-      "detection",
-      "greptile",
-      "review",
-      "takes"
-    ],
-    [
-      "anthropic",
-      "boom",
-      "burning",
-      "feed"
-    ],
-    [
-      "gains",
-      "ground",
-      "halves",
-      "larger",
-      "models",
-      "openai",
-      "prices",
-      "still",
-      "terra"
-    ],
-    [
-      "apple",
-      "features",
-      "logo",
-      "macos",
-      "music",
-      "releases",
-      "siri"
-    ],
-    [
-      "anthropic",
-      "figures",
-      "many",
-      "missing",
-      "prospectus"
-    ],
     [
       "terra"
     ],
@@ -6252,6 +6194,69 @@
       "ferramenta",
       "moto",
       "taboola"
+    ],
+    [
+      "agent",
+      "background",
+      "claude",
+      "code",
+      "each",
+      "model",
+      "regularly",
+      "sends",
+      "transcript"
+    ],
+    [
+      "abandonar",
+      "antes",
+      "chatgpt",
+      "morte",
+      "mulher",
+      "orientado",
+      "processo",
+      "remedio",
+      "teria"
+    ],
+    [
+      "anthropic",
+      "consegue",
+      "dizem",
+      "especialistas",
+      "lucrar",
+      "provar",
+      "tera"
+    ],
+    [
+      "disparar",
+      "lucro",
+      "quase",
+      "samsung",
+      "trimestre"
+    ],
+    [
+      "armam",
+      "bancos",
+      "catastrofe",
+      "gerada",
+      "inevitavel",
+      "setor",
+      "tida"
+    ],
+    [
+      "custa",
+      "ferramentas",
+      "mercado",
+      "pagar",
+      "principais",
+      "quanto"
+    ],
+    [
+      "degenerativa",
+      "discursar",
+      "doenca",
+      "parlamentar",
+      "recupera",
+      "volta"
     ]
   ]
 }
