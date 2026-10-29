@@ -821,7 +821,6 @@
       "https://techcrunch.com/?p=3182841"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=991809",
       "https://www.theverge.com/?p=992359",
       "https://www.theverge.com/?p=992766",
       "https://www.theverge.com/?p=992919",
@@ -1120,7 +1119,8 @@
       "https://www.theverge.com/?p=1020626",
       "https://www.theverge.com/?p=1021143",
       "https://www.theverge.com/?p=1021339",
-      "https://www.theverge.com/?p=1021405"
+      "https://www.theverge.com/?p=1021405",
+      "https://www.theverge.com/?p=1021644"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40348",
@@ -2328,7 +2328,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108360920",
       "108361026",
       "108361100",
       "108361203",
@@ -2627,7 +2626,8 @@
       "108464173",
       "108470517",
       "108470432",
-      "108471057"
+      "108471057",
+      "108475753"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4459,34 +4459,11 @@
       "https://www.mobiletime.com.br/?p=867351",
       "https://www.mobiletime.com.br/?p=867379",
       "https://www.mobiletime.com.br/?p=867369",
-      "https://www.mobiletime.com.br/?p=867378"
+      "https://www.mobiletime.com.br/?p=867378",
+      "https://www.mobiletime.com.br/?p=867421"
     ]
   },
   "_titulos_recentes": [
-    [
-      "alertas",
-      "bolsa",
-      "busca",
-      "claude",
-      "dona",
-      "estreia",
-      "seguranca"
-    ],
-    [
-      "anthropic",
-      "eletricidade",
-      "prejuizos",
-      "transformadora"
-    ],
-    [
-      "anthropic",
-      "deve",
-      "grupo",
-      "integrar",
-      "ipos",
-      "maiores",
-      "mundo"
-    ],
     [
       "across",
       "codebases",
@@ -6250,6 +6227,31 @@
       "menos",
       "pelo",
       "prepare"
+    ],
+    [
+      "adam",
+      "around",
+      "going",
+      "mosseri",
+      "negativity",
+      "worse"
+    ],
+    [
+      "cramer",
+      "home",
+      "hynix",
+      "implications",
+      "major",
+      "quarter",
+      "sees"
+    ],
+    [
+      "celulares",
+      "colocara",
+      "conteudo",
+      "ferramenta",
+      "moto",
+      "taboola"
     ]
   ]
 }
