@@ -523,7 +523,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3170334",
       "https://techcrunch.com/?p=3170341",
       "https://techcrunch.com/?p=3170483",
       "https://techcrunch.com/?p=3169782",
@@ -822,7 +821,8 @@
       "https://techcrunch.com/?p=3183122",
       "https://techcrunch.com/?p=3183214",
       "https://techcrunch.com/?p=3183253",
-      "https://techcrunch.com/?p=3183224"
+      "https://techcrunch.com/?p=3183224",
+      "https://techcrunch.com/?p=3183387"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=992141",
@@ -2337,7 +2337,8 @@
       "https://news.ycombinator.com/item?id=50276792",
       "https://news.ycombinator.com/item?id=50284255",
       "https://news.ycombinator.com/item?id=50251200",
-      "https://news.ycombinator.com/item?id=50289418"
+      "https://news.ycombinator.com/item?id=50289418",
+      "https://news.ycombinator.com/item?id=50290177"
     ]
   },
   "mercado": {
@@ -2992,8 +2993,6 @@
       "https://mittechreview.com.br/?p=285362"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1372799",
-      "https://olhardigital.com.br/?p=1372793",
       "https://olhardigital.com.br/?p=1372829",
       "https://olhardigital.com.br/?p=1372920",
       "https://olhardigital.com.br/?p=1373015",
@@ -3291,7 +3290,9 @@
       "https://olhardigital.com.br/?p=1385420",
       "https://olhardigital.com.br/?p=1385501",
       "https://olhardigital.com.br/?p=1385515",
-      "https://olhardigital.com.br/?p=1385514"
+      "https://olhardigital.com.br/?p=1385514",
+      "https://olhardigital.com.br/?p=1385552",
+      "https://olhardigital.com.br/?p=1385592"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3488,8 +3489,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=943860"
     ],
     "canaltech": [
-      "https://canaltech.com.br/apps/como-gravar-transcrever-e-resumir-reunioes-com-ia/",
-      "https://canaltech.com.br/mercado/justica-e-acionada-para-barrar-data-center-do-tiktok-no-ceara-entenda-os-motivos/",
       "https://canaltech.com.br/mercado/algoritmo-do-mal-84-das-bets-mais-recomendadas-pelo-instagram-sao-ilegais-no-brasil/",
       "https://canaltech.com.br/inteligencia-artificial/mais-rapido-e-com-dominio-proprio-openai-turbina-criador-de-sites-do-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/acoes-de-ia-despencam-apos-ceos-pedirem-pausa-contra-ameaca-a-humanidade/",
@@ -3787,7 +3786,9 @@
       "https://canaltech.com.br/apps/gemini-notebook-agora-grava-reunioes-e-aulas-direto-no-celular-sem-precisar-de-upload/",
       "https://canaltech.com.br/apps/gemini-e-busca-do-google-agora-rodam-apps-de-terceiros-sem-voce-sair-da-tela/",
       "https://canaltech.com.br/inteligencia-artificial/google-lanca-gemini-4-carbon-com-foco-em-ciberseguranca-e-tarefas-que-duram-dias/",
-      "https://canaltech.com.br/inteligencia-artificial/mais-rapido-e-inteligente-google-planilhas-com-ia-processa-ate-3000-dados-de-uma-vez/"
+      "https://canaltech.com.br/inteligencia-artificial/mais-rapido-e-inteligente-google-planilhas-com-ia-processa-ate-3000-dados-de-uma-vez/",
+      "https://canaltech.com.br/inteligencia-artificial/gemini-comeca-a-ensinar-ciencias-em-camadas-interativas-veja-como-funciona/",
+      "https://canaltech.com.br/mercado/fim-da-busca-limpa-google-vai-colocar-anuncios-no-modo-ia-e-brasil-esta-na-lista/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/ia-muda-forma-como-norte-americanos-escolhem-seus-lanches-diz-conagra.htm",
@@ -4164,7 +4165,8 @@
       "https://neofeed.com.br/?p=242620",
       "https://neofeed.com.br/?p=242570",
       "https://neofeed.com.br/?p=242971",
-      "https://neofeed.com.br/?p=242995"
+      "https://neofeed.com.br/?p=242995",
+      "https://neofeed.com.br/?p=242255"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -4490,86 +4492,11 @@
       "https://www.mobiletime.com.br/?p=867379",
       "https://www.mobiletime.com.br/?p=867369",
       "https://www.mobiletime.com.br/?p=867378",
-      "https://www.mobiletime.com.br/?p=867421"
+      "https://www.mobiletime.com.br/?p=867421",
+      "https://www.mobiletime.com.br/?p=867476"
     ]
   },
   "_titulos_recentes": [
-    [
-      "adds",
-      "filling",
-      "firefox",
-      "form",
-      "monitoring",
-      "smart",
-      "webpage",
-      "window"
-    ],
-    [
-      "anthropic",
-      "elaborate",
-      "keep",
-      "plan",
-      "street",
-      "wall"
-    ],
-    [
-      "goes",
-      "happens",
-      "really",
-      "rogue",
-      "visionquest",
-      "what",
-      "when"
-    ],
-    [
-      "agent",
-      "deepmind",
-      "designs",
-      "genie",
-      "google",
-      "llms",
-      "modern",
-      "predate",
-      "puts",
-      "spin"
-    ],
-    [
-      "alibaba",
-      "company",
-      "find",
-      "latest",
-      "models",
-      "qwen",
-      "requests",
-      "researchers",
-      "routed",
-      "servers",
-      "some",
-      "through"
-    ],
-    [
-      "deepmind",
-      "genie",
-      "humans",
-      "model",
-      "more",
-      "physics",
-      "promising",
-      "realistic",
-      "unveils",
-      "world"
-    ],
-    [
-      "comes",
-      "design",
-      "genes",
-      "genome",
-      "language",
-      "natural",
-      "protein",
-      "software",
-      "vibe"
-    ],
     [
       "anthropic",
       "biology",
@@ -6289,6 +6216,65 @@
       "existe",
       "melhor",
       "operacao"
+    ],
+    [
+      "business",
+      "first",
+      "jassy",
+      "spend",
+      "will"
+    ],
+    [
+      "voice"
+    ],
+    [
+      "afundar",
+      "amazon",
+      "caixa",
+      "decepciona",
+      "gastos",
+      "lucro"
+    ],
+    [
+      "anuncios",
+      "brasil",
+      "esta",
+      "google",
+      "leva",
+      "lista",
+      "modo",
+      "novos",
+      "paises"
+    ],
+    [
+      "camadas",
+      "ciencias",
+      "comeca",
+      "ensinar",
+      "funciona",
+      "gemini",
+      "interativas",
+      "veja"
+    ],
+    [
+      "artificial",
+      "economia",
+      "global",
+      "inteligencia",
+      "juros",
+      "motor",
+      "petroleo",
+      "verdadeiro",
+      "virou"
+    ],
+    [
+      "apps",
+      "conversas",
+      "gemini",
+      "notebook",
+      "passa",
+      "real",
+      "tempo"
     ]
   ]
 }
