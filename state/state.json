@@ -523,7 +523,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3170341",
       "https://techcrunch.com/?p=3170483",
       "https://techcrunch.com/?p=3169782",
       "https://techcrunch.com/?p=3170338",
@@ -822,7 +821,8 @@
       "https://techcrunch.com/?p=3183214",
       "https://techcrunch.com/?p=3183253",
       "https://techcrunch.com/?p=3183224",
-      "https://techcrunch.com/?p=3183387"
+      "https://techcrunch.com/?p=3183387",
+      "https://techcrunch.com/?p=3183095"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=992141",
@@ -2086,7 +2086,8 @@
       "6ac92d517ce9570001c9d80b",
       "6ad7e7171eff6a0001bb99df",
       "6ada9854c7124400012a82b0",
-      "6ae1370c482765000141e5cc"
+      "6ae1370c482765000141e5cc",
+      "6ad9050dfc71fb0001d96bc8"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2343,7 +2344,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108361552",
       "108361537",
       "108361623",
       "108361659",
@@ -2642,7 +2642,8 @@
       "108477335",
       "108477600",
       "108480820",
-      "108481080"
+      "108481080",
+      "108482232"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2993,7 +2994,6 @@
       "https://mittechreview.com.br/?p=285362"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1372829",
       "https://olhardigital.com.br/?p=1372920",
       "https://olhardigital.com.br/?p=1373015",
       "https://olhardigital.com.br/?p=1373044",
@@ -3292,7 +3292,8 @@
       "https://olhardigital.com.br/?p=1385515",
       "https://olhardigital.com.br/?p=1385514",
       "https://olhardigital.com.br/?p=1385552",
-      "https://olhardigital.com.br/?p=1385592"
+      "https://olhardigital.com.br/?p=1385592",
+      "https://olhardigital.com.br/?p=1385613"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4497,22 +4498,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "biology",
-      "revolutionize",
-      "some",
-      "will"
-    ],
-    [
-      "cleanup",
-      "content",
-      "generated",
-      "wikipedia"
-    ],
-    [
-      "genie"
-    ],
     [
       "about",
       "amazon",
@@ -6275,6 +6260,31 @@
       "passa",
       "real",
       "tempo"
+    ],
+    [
+      "believe",
+      "exemption",
+      "need",
+      "religious",
+      "using",
+      "work"
+    ],
+    [
+      "common",
+      "days",
+      "google",
+      "have",
+      "reddit",
+      "what"
+    ],
+    [
+      "billion",
+      "buildout",
+      "debt",
+      "microsoft",
+      "plans",
+      "pursues",
+      "raise"
     ]
   ]
 }
