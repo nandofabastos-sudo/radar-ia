@@ -202,7 +202,8 @@
       "https://openai.com/index/updated-model-spec",
       "https://openai.com/index/credit-saison",
       "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "https://openai.com/index/helping-websites-express-ai-training-preferences"
+      "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "https://openai.com/index/fair-use-benefits-everyone"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -527,11 +528,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3170653",
-      "https://techcrunch.com/?p=3170628",
-      "https://techcrunch.com/?p=3170736",
-      "https://techcrunch.com/?p=3170644",
-      "https://techcrunch.com/?p=3170647",
       "https://techcrunch.com/?p=3170763",
       "https://techcrunch.com/?p=3170932",
       "https://techcrunch.com/?p=3170936",
@@ -826,13 +822,14 @@
       "https://techcrunch.com/?p=3183526",
       "https://techcrunch.com/?p=3183613",
       "https://techcrunch.com/?p=3183584",
-      "https://techcrunch.com/?p=3183083"
+      "https://techcrunch.com/?p=3183083",
+      "https://techcrunch.com/?p=3183832",
+      "https://techcrunch.com/?p=3183738",
+      "https://techcrunch.com/?p=3183715",
+      "https://techcrunch.com/?p=3183862",
+      "https://techcrunch.com/?p=3183846"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=994064",
-      "https://www.theverge.com/?p=994207",
-      "https://www.theverge.com/?p=994255",
-      "https://www.theverge.com/?p=994112",
       "https://www.theverge.com/?p=994337",
       "https://www.theverge.com/?p=994384",
       "https://www.theverge.com/?p=994383",
@@ -1128,10 +1125,13 @@
       "https://www.theverge.com/?p=1023054",
       "https://www.theverge.com/?p=1023070",
       "https://www.theverge.com/?p=1023188",
-      "https://www.theverge.com/?p=1023440"
+      "https://www.theverge.com/?p=1023440",
+      "https://www.theverge.com/?p=1023528",
+      "https://www.theverge.com/?p=1023763",
+      "https://www.theverge.com/?p=1023820",
+      "https://www.theverge.com/?p=1023974"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40398",
       "https://the-decoder.com/?p=40409",
       "https://the-decoder.com/?p=40414",
       "https://the-decoder.com/?p=40420",
@@ -1430,7 +1430,8 @@
       "https://the-decoder.com/?p=42165",
       "https://the-decoder.com/?p=42185",
       "https://the-decoder.com/?p=42173",
-      "https://the-decoder.com/?p=42191"
+      "https://the-decoder.com/?p=42191",
+      "https://the-decoder.com/?p=42199"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1635,7 +1636,11 @@
       "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
       "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
       "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-      "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+      "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -2055,7 +2060,8 @@
       "6ac53d249637ad55744650f4",
       "6ae2117191edfe18440518da",
       "6adf749c866c48a82946e7f2",
-      "6adf41f52b5fc20f5f0e3547"
+      "6adf41f52b5fc20f5f0e3547",
+      "6ae2572fb8b2eb024a124f0c"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2790,7 +2796,8 @@
       "https://techcrunch.com/?p=3182406",
       "https://techcrunch.com/?p=3183106",
       "https://techcrunch.com/?p=3183295",
-      "https://techcrunch.com/?p=3183083"
+      "https://techcrunch.com/?p=3183083",
+      "https://techcrunch.com/?p=3183733"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -3007,10 +3014,10 @@
       "https://mittechreview.com.br/?p=285070",
       "https://mittechreview.com.br/?p=284841",
       "https://mittechreview.com.br/?p=285362",
-      "https://mittechreview.com.br/?p=285602"
+      "https://mittechreview.com.br/?p=285602",
+      "https://mittechreview.com.br/?p=275298"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1373178",
       "https://olhardigital.com.br/?p=1373140",
       "https://olhardigital.com.br/?p=1373208",
       "https://olhardigital.com.br/?p=1373322",
@@ -3309,7 +3316,8 @@
       "https://olhardigital.com.br/?p=1384950",
       "https://olhardigital.com.br/?p=1385718",
       "https://olhardigital.com.br/?p=1385807",
-      "https://olhardigital.com.br/?p=1385824"
+      "https://olhardigital.com.br/?p=1385824",
+      "https://olhardigital.com.br/?p=1385845"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3508,7 +3516,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=944059"
     ],
     "canaltech": [
-      "https://canaltech.com.br/software/galaxy-s24-ganha-recursos-de-ia-do-s26-e-z-fold-8-em-novo-beta-da-one-ui-9/",
       "https://canaltech.com.br/carros/radares-com-inteligencia-artificial-aplicam-mais-de-2-mil-multas-em-um-mes-em-sp/",
       "https://canaltech.com.br/inteligencia-artificial/criminosos-precisam-so-de-10-segundos-para-clonar-sua-voz-com-ia-e-aplicar-golpes/",
       "https://canaltech.com.br/mercado/brasileiros-aceitam-ia-nas-compras-mas-querem-manter-controle-revela-estudo/",
@@ -3807,10 +3814,10 @@
       "https://canaltech.com.br/tv/google-assistente-ja-foi-agora-tvs-da-lg-tambem-vao-perder-o-copilot/",
       "https://canaltech.com.br/inteligencia-artificial/agente-de-ia-invade-orgaos-do-governo-brasileiro-em-novos-ataques/",
       "https://canaltech.com.br/carros/carros-da-gm-comecam-a-receber-ia-do-google/",
-      "https://canaltech.com.br/hardware/ia-engole-producao-de-placas-de-circuito-e-ameaca-ainda-mais-os-precos-dos-pcs/"
+      "https://canaltech.com.br/hardware/ia-engole-producao-de-placas-de-circuito-e-ameaca-ainda-mais-os-precos-dos-pcs/",
+      "https://canaltech.com.br/apps/meta-passa-a-monitorar-conversas-de-adolescentes-com-ia-para-alertar-familias-sobre-riscos/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/23/meta-lanca-ray-ban-com-ia-sem-camera-e-visor-de-realidade-virtual.ghtm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/24/nova-era-e-corrida-de-ia-acabou-de-comecar---e-zuckerberg-renasce-das-cinzas.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/24/meta-anuncia-oculos-de-vr-leves-e-ray-ban-sem-camera-no-connect-2026.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/24/ceo-da-anthropic-promete-desacelerar-ia-para-garantir-seguranca.htm",
@@ -4109,7 +4116,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/30/wikipedia-entra-no-caso-nyt-contra-openai-para-defender-conteudo-aberto.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/10/30/papa-afirma-que-agentes-de-ia-sao-ferramentas-nao-pessoas.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/30/openai-vai-limitar-acesso-de-adolescentes-a-informacoes-sobre-armas-nochatgpt.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/30/google-liga-1-tpu-no-espaco-e-ia-escreve-haicai.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/30/google-liga-1-tpu-no-espaco-e-ia-escreve-haicai.ghtm",
+      "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/30/mulher-diz-ter-relacionamento-com-ia-e-defende-reconhecimento-legal-de-direitos-em-sp.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4519,202 +4527,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "cyberattacks",
-      "financial",
-      "fresh",
-      "industry",
-      "korea",
-      "south",
-      "wave"
-    ],
-    [
-      "build",
-      "execs",
-      "general",
-      "public",
-      "touch"
-    ],
-    [
-      "autofill",
-      "chrome",
-      "fill",
-      "forms",
-      "gmail",
-      "powered",
-      "through",
-      "your"
-    ],
-    [
-      "agents",
-      "apps",
-      "gemini",
-      "google",
-      "more",
-      "opens",
-      "reshape",
-      "search"
-    ],
-    [
-      "agree",
-      "centers",
-      "data",
-      "hate",
-      "texas",
-      "they",
-      "voters"
-    ],
-    [
-      "buying",
-      "center",
-      "data",
-      "homeowners",
-      "noise",
-      "over",
-      "promise"
-    ],
-    [
-      "8217",
-      "again",
-      "business",
-      "controversial",
-      "delay",
-      "meta",
-      "probably",
-      "terms"
-    ],
-    [
-      "analysis",
-      "artificial",
-      "between",
-      "closed",
-      "index",
-      "models",
-      "open",
-      "widens"
-    ],
-    [
-      "combines",
-      "nemotron",
-      "nvidia",
-      "open",
-      "recognition",
-      "speaker",
-      "transcribe",
-      "transcription",
-      "translation"
-    ],
-    [
-      "automatically",
-      "claude",
-      "file",
-      "hands",
-      "lawyer",
-      "legal",
-      "sources",
-      "then",
-      "verifies"
-    ],
-    [
-      "about",
-      "berlin",
-      "building",
-      "devday",
-      "dots",
-      "europe",
-      "openai",
-      "platform",
-      "really",
-      "teases"
-    ],
-    [
-      "agents",
-      "android",
-      "apis",
-      "development",
-      "gemini",
-      "google",
-      "opens",
-      "party",
-      "third",
-      "unveils"
-    ],
-    [
-      "2020",
-      "asked",
-      "cagey",
-      "elections",
-      "gets",
-      "google",
-      "when"
-    ],
-    [
-      "autonomy",
-      "control",
-      "human",
-      "industrial",
-      "pairing"
-    ],
-    [
-      "accelerating",
-      "claude",
-      "development",
-      "drug",
-      "early",
-      "progress"
-    ],
-    [
-      "after",
-      "alphabet",
-      "bell",
-      "earnings",
-      "looks",
-      "report",
-      "shaky",
-      "signs",
-      "strength",
-      "trade"
-    ],
-    [
-      "business",
-      "calls",
-      "exclusive",
-      "keep",
-      "label",
-      "legitimate",
-      "numeracle",
-      "raises",
-      "spam"
-    ],
-    [
-      "agora",
-      "audio",
-      "gemini",
-      "gravador",
-      "notebook",
-      "palestras",
-      "reunioes"
-    ],
-    [
-      "apple",
-      "chip",
-      "foco",
-      "imac",
-      "lanca",
-      "macbook",
-      "pesado"
-    ],
-    [
-      "anthropic",
-      "claude",
-      "criptomoedas",
-      "falso",
-      "golpe",
-      "oficial",
-      "roubar",
-      "senhas",
-      "site"
-    ],
     [
       "6300",
       "aikon",
@@ -6325,6 +6137,177 @@
       "responde",
       "robo",
       "satelite"
+    ],
+    [
+      "benefits",
+      "everyone",
+      "fair"
+    ],
+    [
+      "boom",
+      "cracks",
+      "emerging",
+      "spending"
+    ],
+    [
+      "costumes",
+      "halloween",
+      "last",
+      "minute",
+      "nerds",
+      "tech"
+    ],
+    [
+      "agencies",
+      "anthropic",
+      "credit",
+      "expected",
+      "following",
+      "high",
+      "junk",
+      "rating",
+      "receive",
+      "report"
+    ],
+    [
+      "crashes",
+      "government",
+      "intel",
+      "knocking",
+      "stake",
+      "stock"
+    ],
+    [
+      "assistant",
+      "down",
+      "focused",
+      "ollie",
+      "privacy",
+      "shutting"
+    ],
+    [
+      "8217",
+      "earth",
+      "first",
+      "google",
+      "response",
+      "satellite",
+      "server",
+      "transmits"
+    ],
+    [
+      "backing",
+      "biggest",
+      "names",
+      "scraping"
+    ],
+    [
+      "altman",
+      "better",
+      "center",
+      "data",
+      "desk",
+      "than",
+      "your"
+    ],
+    [
+      "apple",
+      "china",
+      "coming",
+      "finally",
+      "intelligence"
+    ],
+    [
+      "autonomously",
+      "brain",
+      "chose",
+      "claude",
+      "decision",
+      "gene",
+      "human",
+      "making",
+      "model",
+      "mouse",
+      "operated",
+      "therapy"
+    ],
+    [
+      "agents",
+      "basically",
+      "doordash",
+      "orders",
+      "their",
+      "using"
+    ],
+    [
+      "about",
+      "cheating",
+      "cost",
+      "dartmouth",
+      "provost",
+      "warned"
+    ],
+    [
+      "anthropic",
+      "backdoored",
+      "code",
+      "cursor",
+      "extension",
+      "hours",
+      "nearly"
+    ],
+    [
+      "airliner",
+      "centers",
+      "company",
+      "data",
+      "doubt",
+      "powering",
+      "shifts",
+      "supersonic"
+    ],
+    [
+      "bids",
+      "crosby",
+      "disintegrating",
+      "famed",
+      "firm",
+      "gotshal",
+      "weil"
+    ],
+    [
+      "disputa",
+      "poder",
+      "quem",
+      "tambem",
+      "testa"
+    ],
+    [
+      "acendem",
+      "alerta",
+      "bolha",
+      "perdem",
+      "quase",
+      "techs",
+      "trilhoes"
+    ],
+    [
+      "adolescentes",
+      "alertar",
+      "conversas",
+      "familias",
+      "meta",
+      "monitorar",
+      "passa",
+      "riscos"
+    ],
+    [
+      "defende",
+      "direitos",
+      "legal",
+      "mulher",
+      "reconhecimento",
+      "relacionamento"
     ]
   ]
 }
