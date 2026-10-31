@@ -528,7 +528,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3170763",
       "https://techcrunch.com/?p=3170932",
       "https://techcrunch.com/?p=3170936",
       "https://techcrunch.com/?p=3170771",
@@ -827,7 +826,8 @@
       "https://techcrunch.com/?p=3183738",
       "https://techcrunch.com/?p=3183715",
       "https://techcrunch.com/?p=3183862",
-      "https://techcrunch.com/?p=3183846"
+      "https://techcrunch.com/?p=3183846",
+      "https://techcrunch.com/?p=3183989"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=994337",
@@ -2797,7 +2797,8 @@
       "https://techcrunch.com/?p=3183106",
       "https://techcrunch.com/?p=3183295",
       "https://techcrunch.com/?p=3183083",
-      "https://techcrunch.com/?p=3183733"
+      "https://techcrunch.com/?p=3183733",
+      "https://techcrunch.com/?p=3183846"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -3018,8 +3019,6 @@
       "https://mittechreview.com.br/?p=275298"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1373140",
-      "https://olhardigital.com.br/?p=1373208",
       "https://olhardigital.com.br/?p=1373322",
       "https://olhardigital.com.br/?p=1373394",
       "https://olhardigital.com.br/?p=1373425",
@@ -3317,7 +3316,9 @@
       "https://olhardigital.com.br/?p=1385718",
       "https://olhardigital.com.br/?p=1385807",
       "https://olhardigital.com.br/?p=1385824",
-      "https://olhardigital.com.br/?p=1385845"
+      "https://olhardigital.com.br/?p=1385845",
+      "https://olhardigital.com.br/?p=1385952",
+      "https://olhardigital.com.br/?p=1385988"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3516,7 +3517,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=944059"
     ],
     "canaltech": [
-      "https://canaltech.com.br/carros/radares-com-inteligencia-artificial-aplicam-mais-de-2-mil-multas-em-um-mes-em-sp/",
       "https://canaltech.com.br/inteligencia-artificial/criminosos-precisam-so-de-10-segundos-para-clonar-sua-voz-com-ia-e-aplicar-golpes/",
       "https://canaltech.com.br/mercado/brasileiros-aceitam-ia-nas-compras-mas-querem-manter-controle-revela-estudo/",
       "https://canaltech.com.br/smartphone/celulares-devem-ficar-ainda-mais-caros-em-2027-devido-a-crise-causada-pela-ia/",
@@ -3815,7 +3815,8 @@
       "https://canaltech.com.br/inteligencia-artificial/agente-de-ia-invade-orgaos-do-governo-brasileiro-em-novos-ataques/",
       "https://canaltech.com.br/carros/carros-da-gm-comecam-a-receber-ia-do-google/",
       "https://canaltech.com.br/hardware/ia-engole-producao-de-placas-de-circuito-e-ameaca-ainda-mais-os-precos-dos-pcs/",
-      "https://canaltech.com.br/apps/meta-passa-a-monitorar-conversas-de-adolescentes-com-ia-para-alertar-familias-sobre-riscos/"
+      "https://canaltech.com.br/apps/meta-passa-a-monitorar-conversas-de-adolescentes-com-ia-para-alertar-familias-sobre-riscos/",
+      "https://canaltech.com.br/inteligencia-artificial/openai-cede-a-pressao-de-usuarios-e-dobra-limites-de-uso-do-chatgpt-pro/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/24/nova-era-e-corrida-de-ia-acabou-de-comecar---e-zuckerberg-renasce-das-cinzas.htm",
@@ -4527,41 +4528,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "6300",
-      "aikon",
-      "anos",
-      "aplicativo",
-      "chatgpt",
-      "gemini",
-      "leva",
-      "nokia"
-    ],
-    [
-      "acusam",
-      "chatgpt",
-      "epilepsia",
-      "filha",
-      "mandar",
-      "pais",
-      "parar",
-      "remedio"
-    ],
-    [
-      "alerta",
-      "alimentarem",
-      "genero",
-      "risco",
-      "violencia"
-    ],
-    [
-      "amizade",
-      "chatbots",
-      "criancas",
-      "fingem",
-      "namoro",
-      "veta"
-    ],
     [
       "brasileiras",
       "encontrar",
@@ -6308,6 +6274,44 @@
       "mulher",
       "reconhecimento",
       "relacionamento"
+    ],
+    [
+      "center",
+      "cosigner",
+      "data",
+      "nscale",
+      "nvidia",
+      "playing",
+      "virginia",
+      "weighs",
+      "west"
+    ],
+    [
+      "avanca",
+      "centers",
+      "data",
+      "espaciais",
+      "google",
+      "projeto",
+      "satelite",
+      "testa"
+    ],
+    [
+      "acendem",
+      "alerta",
+      "anthropic",
+      "financeiro",
+      "gastos",
+      "meta"
+    ],
+    [
+      "cede",
+      "chatgpt",
+      "dobra",
+      "limites",
+      "openai",
+      "pressao",
+      "usuarios"
     ]
   ]
 }
