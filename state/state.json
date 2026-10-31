@@ -528,7 +528,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3170932",
       "https://techcrunch.com/?p=3170936",
       "https://techcrunch.com/?p=3170771",
       "https://techcrunch.com/?p=3171035",
@@ -827,10 +826,10 @@
       "https://techcrunch.com/?p=3183715",
       "https://techcrunch.com/?p=3183862",
       "https://techcrunch.com/?p=3183846",
-      "https://techcrunch.com/?p=3183989"
+      "https://techcrunch.com/?p=3183989",
+      "https://techcrunch.com/?p=3184004"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=994337",
       "https://www.theverge.com/?p=994384",
       "https://www.theverge.com/?p=994383",
       "https://www.theverge.com/?p=994441",
@@ -1129,11 +1128,10 @@
       "https://www.theverge.com/?p=1023528",
       "https://www.theverge.com/?p=1023763",
       "https://www.theverge.com/?p=1023820",
-      "https://www.theverge.com/?p=1023974"
+      "https://www.theverge.com/?p=1023974",
+      "https://www.theverge.com/?p=1013375"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40426",
-      "https://the-decoder.com/?p=40434",
       "https://the-decoder.com/?p=40440",
       "https://the-decoder.com/?p=40450",
       "https://the-decoder.com/?p=40459",
@@ -1431,7 +1429,9 @@
       "https://the-decoder.com/?p=42208",
       "https://the-decoder.com/?p=42211",
       "https://the-decoder.com/?p=42195",
-      "https://the-decoder.com/?p=42229"
+      "https://the-decoder.com/?p=42229",
+      "https://the-decoder.com/?p=42238",
+      "https://the-decoder.com/?p=42243"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2364,7 +2364,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108359719",
       "108358074",
       "108362160",
       "108362179",
@@ -2663,7 +2662,8 @@
       "108476958",
       "108483425",
       "108485767",
-      "108488216"
+      "108488216",
+      "108492612"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3022,7 +3022,6 @@
       "https://mittechreview.com.br/?p=275298"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1373322",
       "https://olhardigital.com.br/?p=1373394",
       "https://olhardigital.com.br/?p=1373425",
       "https://olhardigital.com.br/?p=1373536",
@@ -3321,7 +3320,8 @@
       "https://olhardigital.com.br/?p=1385824",
       "https://olhardigital.com.br/?p=1385845",
       "https://olhardigital.com.br/?p=1385952",
-      "https://olhardigital.com.br/?p=1385988"
+      "https://olhardigital.com.br/?p=1385988",
+      "https://olhardigital.com.br/?p=1386061"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3520,10 +3520,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=944059"
     ],
     "canaltech": [
-      "https://canaltech.com.br/mercado/brasileiros-aceitam-ia-nas-compras-mas-querem-manter-controle-revela-estudo/",
-      "https://canaltech.com.br/smartphone/celulares-devem-ficar-ainda-mais-caros-em-2027-devido-a-crise-causada-pela-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/bill-gates-propoe-acordo-inusitado-para-evitar-caos-com-ia-nao-estamos-preparados/",
-      "https://canaltech.com.br/inteligencia-artificial/na-era-da-ia-colaborar-sera-mais-importante-do-que-centralizar-dados/",
       "https://canaltech.com.br/inteligencia-artificial/novo-gmail-com-gemini-responde-perguntas-exatas-sobre-seus-e-mails/",
       "https://canaltech.com.br/inteligencia-artificial/precisamos-humanizar-a-tecnologia-ou-recuperar-a-nossa-propria-humanidade/",
       "https://canaltech.com.br/inteligencia-artificial/novo-gemini-raciocina-enquanto-conversa-por-voz-com-usuario/",
@@ -3819,7 +3815,11 @@
       "https://canaltech.com.br/hardware/ia-engole-producao-de-placas-de-circuito-e-ameaca-ainda-mais-os-precos-dos-pcs/",
       "https://canaltech.com.br/apps/meta-passa-a-monitorar-conversas-de-adolescentes-com-ia-para-alertar-familias-sobre-riscos/",
       "https://canaltech.com.br/inteligencia-artificial/openai-cede-a-pressao-de-usuarios-e-dobra-limites-de-uso-do-chatgpt-pro/",
-      "https://canaltech.com.br/inteligencia-artificial/como-usar-youtube-com-gemini-notebook-para-estudar/"
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-youtube-com-gemini-notebook-para-estudar/",
+      "https://canaltech.com.br/notebook/nvidia-rtx-spark-tudo-que-voce-precisa-saber-antes-do-1-review-do-canaltech/",
+      "https://canaltech.com.br/inteligencia-artificial/o-que-sao-parametros-de-modelos-de-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-chatgpt-para-transformar-pdfs-em-audiobooks/",
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-o-claude-no-google-planilhas-para-criar-graficos-interativos-sem-formulas-dificeis/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/24/nova-era-e-corrida-de-ia-acabou-de-comecar---e-zuckerberg-renasce-das-cinzas.htm",
@@ -4532,87 +4532,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "breaking",
-      "hits",
-      "microsoft",
-      "quarters",
-      "record",
-      "revenue"
-    ],
-    [
-      "billion",
-      "microsoft",
-      "openai",
-      "recorded",
-      "revenue"
-    ],
-    [
-      "core",
-      "expands",
-      "globally",
-      "google",
-      "growth",
-      "search",
-      "slows"
-    ],
-    [
-      "copilot",
-      "ending",
-      "microsoft",
-      "smart",
-      "support"
-    ],
-    [
-      "carbon",
-      "cybersecurity",
-      "gemini",
-      "google",
-      "launches",
-      "leap",
-      "significant"
-    ],
-    [
-      "akai",
-      "coded",
-      "embracing",
-      "mods",
-      "open",
-      "source",
-      "vibe"
-    ],
-    [
-      "across",
-      "after",
-      "argon",
-      "board",
-      "carbon",
-      "deepmind",
-      "gains",
-      "gemini",
-      "google",
-      "just",
-      "releases",
-      "weeks"
-    ],
-    [
-      "context",
-      "creating",
-      "enterprise",
-      "value"
-    ],
-    [
-      "agents",
-      "better",
-      "bunch",
-      "charge",
-      "fantasy",
-      "humans",
-      "soccer",
-      "team",
-      "than",
-      "they"
-    ],
     [
       "becomes",
       "exemption",
@@ -6331,6 +6250,88 @@
       "pulsos",
       "sete",
       "vanguart"
+    ],
+    [
+      "funding",
+      "lowers",
+      "openai",
+      "reportedly",
+      "round",
+      "target"
+    ],
+    [
+      "before",
+      "built",
+      "could",
+      "meta",
+      "tamagotchi"
+    ],
+    [
+      "blue",
+      "cybersecurity",
+      "data",
+      "daybreak",
+      "limits",
+      "models",
+      "openai",
+      "plans",
+      "previously",
+      "session",
+      "train"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "leaves",
+      "loophole",
+      "models",
+      "older",
+      "rollout",
+      "watermark"
+    ],
+    [
+      "center",
+      "data",
+      "lawsuit",
+      "loses",
+      "memphis",
+      "naacp",
+      "over",
+      "pollution",
+      "spacex",
+      "toss"
+    ],
+    [
+      "antes",
+      "canaltech",
+      "nvidia",
+      "precisa",
+      "review",
+      "saber",
+      "spark",
+      "tudo",
+      "voce"
+    ],
+    [
+      "modelos",
+      "parametros"
+    ],
+    [
+      "audiobooks",
+      "chatgpt",
+      "pdfs",
+      "transformar"
+    ],
+    [
+      "claude",
+      "criar",
+      "dificeis",
+      "formulas",
+      "google",
+      "graficos",
+      "interativos",
+      "planilhas",
+      "usar"
     ]
   ]
 }
