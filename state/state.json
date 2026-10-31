@@ -528,9 +528,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3170936",
-      "https://techcrunch.com/?p=3170771",
-      "https://techcrunch.com/?p=3171035",
       "https://techcrunch.com/?p=3170634",
       "https://techcrunch.com/?p=3171132",
       "https://techcrunch.com/?p=3170733",
@@ -827,7 +824,10 @@
       "https://techcrunch.com/?p=3183862",
       "https://techcrunch.com/?p=3183846",
       "https://techcrunch.com/?p=3183989",
-      "https://techcrunch.com/?p=3184004"
+      "https://techcrunch.com/?p=3184004",
+      "https://techcrunch.com/?p=3184013",
+      "https://techcrunch.com/?p=3184015",
+      "https://techcrunch.com/?p=3184023"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=994384",
@@ -2364,7 +2364,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108358074",
       "108362160",
       "108362179",
       "108358080",
@@ -2663,7 +2662,8 @@
       "108483425",
       "108485767",
       "108488216",
-      "108492612"
+      "108492612",
+      "108493066"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3022,7 +3022,6 @@
       "https://mittechreview.com.br/?p=275298"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1373394",
       "https://olhardigital.com.br/?p=1373425",
       "https://olhardigital.com.br/?p=1373536",
       "https://olhardigital.com.br/?p=1373587",
@@ -3321,7 +3320,8 @@
       "https://olhardigital.com.br/?p=1385845",
       "https://olhardigital.com.br/?p=1385952",
       "https://olhardigital.com.br/?p=1385988",
-      "https://olhardigital.com.br/?p=1386061"
+      "https://olhardigital.com.br/?p=1386061",
+      "https://olhardigital.com.br/?p=1386088"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4532,34 +4532,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "becomes",
-      "exemption",
-      "first",
-      "granted",
-      "humanist",
-      "kentucky",
-      "religious"
-    ],
-    [
-      "carbon",
-      "gemini"
-    ],
-    [
-      "anthropic",
-      "benefit",
-      "creates",
-      "investors",
-      "public",
-      "risks",
-      "structure",
-      "unusual"
-    ],
-    [
-      "agentes",
-      "comecam",
-      "transformar"
-    ],
     [
       "abaixo",
       "acende",
@@ -6332,6 +6304,45 @@
       "interativos",
       "planilhas",
       "usar"
+    ],
+    [
+      "connections",
+      "days",
+      "founder",
+      "helps",
+      "left",
+      "make",
+      "more",
+      "scale",
+      "summit",
+      "techcrunch",
+      "useful"
+    ],
+    [
+      "apple",
+      "company",
+      "doesn",
+      "sake",
+      "ship",
+      "want"
+    ],
+    [
+      "billion",
+      "fundraising",
+      "goal",
+      "latest",
+      "openai",
+      "pares",
+      "round",
+      "seeking"
+    ],
+    [
+      "altman",
+      "chips",
+      "discutir",
+      "futuro",
+      "samsung",
+      "visita"
     ]
   ]
 }
