@@ -1132,10 +1132,6 @@
       "https://www.theverge.com/?p=1023974"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40409",
-      "https://the-decoder.com/?p=40414",
-      "https://the-decoder.com/?p=40420",
-      "https://the-decoder.com/?p=40423",
       "https://the-decoder.com/?p=40426",
       "https://the-decoder.com/?p=40434",
       "https://the-decoder.com/?p=40440",
@@ -1431,7 +1427,11 @@
       "https://the-decoder.com/?p=42185",
       "https://the-decoder.com/?p=42173",
       "https://the-decoder.com/?p=42191",
-      "https://the-decoder.com/?p=42199"
+      "https://the-decoder.com/?p=42199",
+      "https://the-decoder.com/?p=42208",
+      "https://the-decoder.com/?p=42211",
+      "https://the-decoder.com/?p=42195",
+      "https://the-decoder.com/?p=42229"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2061,7 +2061,10 @@
       "6ae2117191edfe18440518da",
       "6adf749c866c48a82946e7f2",
       "6adf41f52b5fc20f5f0e3547",
-      "6ae2572fb8b2eb024a124f0c"
+      "6ae2572fb8b2eb024a124f0c",
+      "6ae3cd3d378f1dacd59d6cc7",
+      "6ae4e6ac964b916949bd58ed",
+      "6ae370037389580e6da942a4"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2361,7 +2364,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108361921",
       "108359719",
       "108358074",
       "108362160",
@@ -2660,7 +2662,8 @@
       "108484895",
       "108476958",
       "108483425",
-      "108485767"
+      "108485767",
+      "108488216"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3517,7 +3520,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=944059"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/criminosos-precisam-so-de-10-segundos-para-clonar-sua-voz-com-ia-e-aplicar-golpes/",
       "https://canaltech.com.br/mercado/brasileiros-aceitam-ia-nas-compras-mas-querem-manter-controle-revela-estudo/",
       "https://canaltech.com.br/smartphone/celulares-devem-ficar-ainda-mais-caros-em-2027-devido-a-crise-causada-pela-ia/",
       "https://canaltech.com.br/inteligencia-artificial/bill-gates-propoe-acordo-inusitado-para-evitar-caos-com-ia-nao-estamos-preparados/",
@@ -3816,7 +3818,8 @@
       "https://canaltech.com.br/carros/carros-da-gm-comecam-a-receber-ia-do-google/",
       "https://canaltech.com.br/hardware/ia-engole-producao-de-placas-de-circuito-e-ameaca-ainda-mais-os-precos-dos-pcs/",
       "https://canaltech.com.br/apps/meta-passa-a-monitorar-conversas-de-adolescentes-com-ia-para-alertar-familias-sobre-riscos/",
-      "https://canaltech.com.br/inteligencia-artificial/openai-cede-a-pressao-de-usuarios-e-dobra-limites-de-uso-do-chatgpt-pro/"
+      "https://canaltech.com.br/inteligencia-artificial/openai-cede-a-pressao-de-usuarios-e-dobra-limites-de-uso-do-chatgpt-pro/",
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-youtube-com-gemini-notebook-para-estudar/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/24/nova-era-e-corrida-de-ia-acabou-de-comecar---e-zuckerberg-renasce-das-cinzas.htm",
@@ -4194,7 +4197,8 @@
       "https://neofeed.com.br/?p=242570",
       "https://neofeed.com.br/?p=242971",
       "https://neofeed.com.br/?p=242995",
-      "https://neofeed.com.br/?p=242255"
+      "https://neofeed.com.br/?p=242255",
+      "https://neofeed.com.br/?p=242136"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -4528,87 +4532,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "brasileiras",
-      "encontrar",
-      "endeavor",
-      "funil",
-      "geracao",
-      "quer",
-      "reabre",
-      "startups"
-    ],
-    [
-      "assistente",
-      "avanca",
-      "eletronico",
-      "investimento",
-      "pactual",
-      "pregao"
-    ],
-    [
-      "empreendedores",
-      "endeavor",
-      "entre",
-      "romance",
-      "tinder"
-    ],
-    [
-      "agora",
-      "endeavor",
-      "foco",
-      "relanca",
-      "scale"
-    ],
-    [
-      "2050",
-      "armazenamento",
-      "energia",
-      "minerais",
-      "quais",
-      "serao",
-      "tendencias"
-    ],
-    [
-      "across",
-      "enterprise",
-      "expand",
-      "openai",
-      "partnership",
-      "servicenow",
-      "workflows"
-    ],
-    [
-      "expands",
-      "foundations",
-      "institutions",
-      "research",
-      "science"
-    ],
-    [
-      "aging",
-      "code",
-      "coming",
-      "internet",
-      "vulnpocalypse"
-    ],
-    [
-      "coming",
-      "php2shell",
-      "vulnpocalypse"
-    ],
-    [
-      "anthropic",
-      "buying",
-      "companies",
-      "just",
-      "launched",
-      "show",
-      "spending",
-      "their",
-      "tools",
-      "what"
-    ],
     [
       "breaking",
       "hits",
@@ -6312,6 +6235,102 @@
       "openai",
       "pressao",
       "usuarios"
+    ],
+    [
+      "appetite",
+      "billion",
+      "investors",
+      "just",
+      "lose",
+      "openai",
+      "raises",
+      "target",
+      "their"
+    ],
+    [
+      "creates",
+      "data",
+      "deepmind",
+      "forests",
+      "global",
+      "google",
+      "satellite"
+    ],
+    [
+      "critical",
+      "microsoft",
+      "offers",
+      "quarter",
+      "severance",
+      "shielding",
+      "teams",
+      "voluntary",
+      "while",
+      "workforce"
+    ],
+    [
+      "advice",
+      "beekeeping",
+      "models",
+      "oversight",
+      "sabotage",
+      "tips",
+      "train",
+      "wrestling"
+    ],
+    [
+      "agent",
+      "brain",
+      "drugs",
+      "injected",
+      "into",
+      "live",
+      "mouse"
+    ],
+    [
+      "businesses",
+      "could",
+      "hasn",
+      "kinds",
+      "meta",
+      "muse",
+      "upend"
+    ],
+    [
+      "autodox",
+      "infostealer",
+      "malware",
+      "spooky",
+      "uses",
+      "victims"
+    ],
+    [
+      "agents",
+      "behind",
+      "doing",
+      "humans",
+      "some",
+      "still",
+      "work"
+    ],
+    [
+      "acelerar",
+      "aprenda",
+      "estudos",
+      "gemini",
+      "notebook",
+      "seus",
+      "usar",
+      "youtube"
+    ],
+    [
+      "analogica",
+      "conquistou",
+      "grupo",
+      "openai",
+      "pulsos",
+      "sete",
+      "vanguart"
     ]
   ]
 }
