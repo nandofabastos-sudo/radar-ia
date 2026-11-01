@@ -1132,12 +1132,6 @@
       "https://www.theverge.com/?p=1013375"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40440",
-      "https://the-decoder.com/?p=40450",
-      "https://the-decoder.com/?p=40459",
-      "https://the-decoder.com/?p=40464",
-      "https://the-decoder.com/?p=40465",
-      "https://the-decoder.com/?p=40466",
       "https://the-decoder.com/?p=40474",
       "https://the-decoder.com/?p=40476",
       "https://the-decoder.com/?p=40481",
@@ -1431,7 +1425,13 @@
       "https://the-decoder.com/?p=42195",
       "https://the-decoder.com/?p=42229",
       "https://the-decoder.com/?p=42238",
-      "https://the-decoder.com/?p=42243"
+      "https://the-decoder.com/?p=42243",
+      "https://the-decoder.com/?p=42251",
+      "https://the-decoder.com/?p=42254",
+      "https://the-decoder.com/?p=42269",
+      "https://the-decoder.com/?p=42177",
+      "https://the-decoder.com/?p=42274",
+      "https://the-decoder.com/?p=42278"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2064,7 +2064,8 @@
       "6ae2572fb8b2eb024a124f0c",
       "6ae3cd3d378f1dacd59d6cc7",
       "6ae4e6ac964b916949bd58ed",
-      "6ae370037389580e6da942a4"
+      "6ae370037389580e6da942a4",
+      "6ae100238620da29e32c576d"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2365,8 +2366,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108362179",
-      "108358080",
       "108362191",
       "108362188",
       "108362230",
@@ -2664,7 +2663,9 @@
       "108488216",
       "108492612",
       "108493066",
-      "108485906"
+      "108485906",
+      "108483056",
+      "108465397"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3521,7 +3522,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=944059"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/novo-gmail-com-gemini-responde-perguntas-exatas-sobre-seus-e-mails/",
       "https://canaltech.com.br/inteligencia-artificial/precisamos-humanizar-a-tecnologia-ou-recuperar-a-nossa-propria-humanidade/",
       "https://canaltech.com.br/inteligencia-artificial/novo-gemini-raciocina-enquanto-conversa-por-voz-com-usuario/",
       "https://canaltech.com.br/mercado/entidades-pedem-paralisacao-imediata-das-obras-do-data-center-do-tiktok-no-ceara/",
@@ -3820,7 +3820,8 @@
       "https://canaltech.com.br/notebook/nvidia-rtx-spark-tudo-que-voce-precisa-saber-antes-do-1-review-do-canaltech/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-sao-parametros-de-modelos-de-ia/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-chatgpt-para-transformar-pdfs-em-audiobooks/",
-      "https://canaltech.com.br/inteligencia-artificial/como-usar-o-claude-no-google-planilhas-para-criar-graficos-interativos-sem-formulas-dificeis/"
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-o-claude-no-google-planilhas-para-criar-graficos-interativos-sem-formulas-dificeis/",
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-o-chatgpt-direto-na-barra-lateral-do-chrome-e-edge/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/24/ceo-da-anthropic-promete-desacelerar-ia-para-garantir-seguranca.htm",
@@ -4535,93 +4536,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bolso",
-      "caixa",
-      "menos",
-      "pelo",
-      "prepare"
-    ],
-    [
-      "adam",
-      "around",
-      "going",
-      "mosseri",
-      "negativity",
-      "worse"
-    ],
-    [
-      "cramer",
-      "home",
-      "hynix",
-      "implications",
-      "major",
-      "quarter",
-      "sees"
-    ],
-    [
-      "celulares",
-      "colocara",
-      "conteudo",
-      "ferramenta",
-      "moto",
-      "taboola"
-    ],
-    [
-      "agent",
-      "background",
-      "claude",
-      "code",
-      "each",
-      "model",
-      "regularly",
-      "sends",
-      "transcript"
-    ],
-    [
-      "abandonar",
-      "antes",
-      "chatgpt",
-      "morte",
-      "mulher",
-      "orientado",
-      "processo",
-      "remedio",
-      "teria"
-    ],
-    [
-      "anthropic",
-      "consegue",
-      "dizem",
-      "especialistas",
-      "lucrar",
-      "provar",
-      "tera"
-    ],
-    [
-      "disparar",
-      "lucro",
-      "quase",
-      "samsung",
-      "trimestre"
-    ],
-    [
-      "armam",
-      "bancos",
-      "catastrofe",
-      "gerada",
-      "inevitavel",
-      "setor",
-      "tida"
-    ],
-    [
-      "custa",
-      "ferramentas",
-      "mercado",
-      "pagar",
-      "principais",
-      "quanto"
-    ],
     [
       "degenerativa",
       "discursar",
@@ -6338,6 +6252,111 @@
       "coragem",
       "isso",
       "opiniao"
+    ],
+    [
+      "chat",
+      "chatgpt",
+      "merger",
+      "openai",
+      "pricing",
+      "prompt",
+      "signals",
+      "upcoming",
+      "work"
+    ],
+    [
+      "google",
+      "need",
+      "people",
+      "they",
+      "understand",
+      "video",
+      "wants",
+      "what",
+      "work"
+    ],
+    [
+      "chatgpt",
+      "more",
+      "openai",
+      "paid",
+      "steering",
+      "toward",
+      "usage",
+      "users"
+    ],
+    [
+      "chinese",
+      "complex",
+      "finds",
+      "government",
+      "just",
+      "models",
+      "mouthpieces",
+      "politically",
+      "study"
+    ],
+    [
+      "chatbots",
+      "conversational",
+      "empathetic",
+      "into",
+      "partners",
+      "prompts",
+      "seemingly",
+      "traumatized",
+      "turn"
+    ],
+    [
+      "adobe",
+      "agents",
+      "editing",
+      "like",
+      "photoshop",
+      "professional",
+      "testing",
+      "tools",
+      "well",
+      "would"
+    ],
+    [
+      "astray",
+      "chatbots",
+      "consequences",
+      "dangerous",
+      "hikers",
+      "leading"
+    ],
+    [
+      "boosting",
+      "business",
+      "google",
+      "hurting",
+      "meta",
+      "search",
+      "while"
+    ],
+    [
+      "amazon",
+      "bots",
+      "fighting",
+      "jpmorgan",
+      "like",
+      "long",
+      "meta",
+      "muse",
+      "strategy",
+      "term",
+      "winning"
+    ],
+    [
+      "barra",
+      "chatgpt",
+      "chrome",
+      "direto",
+      "edge",
+      "lateral",
+      "usar"
     ]
   ]
 }
