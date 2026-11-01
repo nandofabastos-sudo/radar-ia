@@ -528,8 +528,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3170634",
-      "https://techcrunch.com/?p=3171132",
       "https://techcrunch.com/?p=3170733",
       "https://techcrunch.com/?p=3171141",
       "https://techcrunch.com/?p=3171208",
@@ -827,7 +825,9 @@
       "https://techcrunch.com/?p=3184004",
       "https://techcrunch.com/?p=3184013",
       "https://techcrunch.com/?p=3184015",
-      "https://techcrunch.com/?p=3184023"
+      "https://techcrunch.com/?p=3184023",
+      "https://techcrunch.com/?p=3184041",
+      "https://techcrunch.com/?p=3184048"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=994384",
@@ -4538,22 +4538,6 @@
   },
   "_titulos_recentes": [
     [
-      "after",
-      "agent",
-      "apps",
-      "builds",
-      "latest",
-      "mini",
-      "round",
-      "valued",
-      "wabi"
-    ],
-    [
-      "arizona",
-      "come",
-      "water"
-    ],
-    [
       "anthropic",
       "build",
       "business",
@@ -6363,6 +6347,26 @@
       "onde",
       "suas",
       "treinar"
+    ],
+    [
+      "about",
+      "ceos",
+      "easier",
+      "else",
+      "everyone",
+      "lives",
+      "make",
+      "tech",
+      "what"
+    ],
+    [
+      "campuses",
+      "centers",
+      "compute",
+      "data",
+      "might",
+      "openai",
+      "rebrand"
     ]
   ]
 }
