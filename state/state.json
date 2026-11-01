@@ -2365,7 +2365,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108362160",
       "108362179",
       "108358080",
       "108362191",
@@ -2664,7 +2663,8 @@
       "108485767",
       "108488216",
       "108492612",
-      "108493066"
+      "108493066",
+      "108485906"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3823,8 +3823,6 @@
       "https://canaltech.com.br/inteligencia-artificial/como-usar-o-claude-no-google-planilhas-para-criar-graficos-interativos-sem-formulas-dificeis/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/09/24/nova-era-e-corrida-de-ia-acabou-de-comecar---e-zuckerberg-renasce-das-cinzas.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/24/meta-anuncia-oculos-de-vr-leves-e-ray-ban-sem-camera-no-connect-2026.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/09/24/ceo-da-anthropic-promete-desacelerar-ia-para-garantir-seguranca.htm",
       "https://economia.uol.com.br/colunas/junior-borneli/2026/09/24/empreender-com-ia-o-novo-startup-way.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/24/youtube-e-processado-em-r-100-milhoes-por-falsos-medicos-criados-por-ia.ghtm",
@@ -4122,7 +4120,9 @@
       "https://www.uol.com.br/tilt/noticias/afp/2026/10/30/papa-afirma-que-agentes-de-ia-sao-ferramentas-nao-pessoas.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/30/openai-vai-limitar-acesso-de-adolescentes-a-informacoes-sobre-armas-nochatgpt.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/30/google-liga-1-tpu-no-espaco-e-ia-escreve-haicai.ghtm",
-      "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/30/mulher-diz-ter-relacionamento-com-ia-e-defende-reconhecimento-legal-de-direitos-em-sp.htm"
+      "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/30/mulher-diz-ter-relacionamento-com-ia-e-defende-reconhecimento-legal-de-direitos-em-sp.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/11/01/pesquisas-sobre-ia.htm",
+      "https://www.uol.com.br/flash/?c=6ae39f50a1b903c4feaac22c"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4247,7 +4247,9 @@
       "/ceqUQrcKhO at https://braziljournal.com",
       "/ceqKnZdEjw at https://braziljournal.com",
       "/ceFKBAWJwh at https://braziljournal.com",
-      "/cegmRFc4Am at https://braziljournal.com"
+      "/cegmRFc4Am at https://braziljournal.com",
+      "/ceeHAud0M5 at https://braziljournal.com",
+      "/cenVdBe91B at https://braziljournal.com"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -4533,41 +4535,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "extensoes",
-      "libera",
-      "opera",
-      "proprio",
-      "roda",
-      "sites",
-      "usar"
-    ],
-    [
-      "pode",
-      "poucos",
-      "privilegio",
-      "resiliencia"
-    ],
-    [
-      "falham",
-      "identificar",
-      "outras",
-      "pega",
-      "robo",
-      "teste",
-      "turing"
-    ],
-    [
-      "ameniza",
-      "caixa",
-      "fluxo",
-      "gastos",
-      "oracle",
-      "plano",
-      "positivo",
-      "preocupacoes",
-      "tornar"
-    ],
     [
       "bolso",
       "caixa",
@@ -6341,6 +6308,36 @@
       "math",
       "over",
       "took"
+    ],
+    [
+      "companies",
+      "earnings",
+      "gains",
+      "here",
+      "payoff",
+      "promised",
+      "showed"
+    ],
+    [
+      "alunos",
+      "baixas",
+      "dizem",
+      "notas",
+      "pesquisas",
+      "recentes",
+      "tiram",
+      "usam"
+    ],
+    [
+      "colecionador",
+      "item",
+      "produz"
+    ],
+    [
+      "brasil",
+      "coragem",
+      "isso",
+      "opiniao"
     ]
   ]
 }
