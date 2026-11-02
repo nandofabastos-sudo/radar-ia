@@ -2362,12 +2362,12 @@
       "https://news.ycombinator.com/item?id=50300683",
       "https://news.ycombinator.com/item?id=50305693",
       "https://news.ycombinator.com/item?id=50314699",
-      "https://news.ycombinator.com/item?id=50326118"
+      "https://news.ycombinator.com/item?id=50326118",
+      "https://news.ycombinator.com/item?id=50323088"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108362191",
       "108362188",
       "108362230",
       "108362277",
@@ -2666,7 +2666,8 @@
       "108493066",
       "108485906",
       "108483056",
-      "108465397"
+      "108465397",
+      "108500668"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4538,19 +4539,6 @@
   },
   "_titulos_recentes": [
     [
-      "anthropic",
-      "build",
-      "business",
-      "plan",
-      "trying"
-    ],
-    [
-      "cooking",
-      "modifications",
-      "recipe",
-      "testing"
-    ],
-    [
       "believe",
       "earnings",
       "finally",
@@ -6367,6 +6355,23 @@
       "might",
       "openai",
       "rebrand"
+    ],
+    [
+      "cost",
+      "frameworks",
+      "javascript"
+    ],
+    [
+      "altman",
+      "builds",
+      "chip",
+      "korea",
+      "makes",
+      "openai",
+      "partnerships",
+      "south",
+      "surprise",
+      "visit"
     ]
   ]
 }
