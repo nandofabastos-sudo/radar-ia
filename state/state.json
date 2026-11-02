@@ -285,7 +285,8 @@
       "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
       "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+      "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
     ],
     "google_ai_blog": [
       "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -1132,8 +1133,6 @@
       "https://www.theverge.com/?p=1013375"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40474",
-      "https://the-decoder.com/?p=40476",
       "https://the-decoder.com/?p=40481",
       "https://the-decoder.com/?p=40487",
       "https://the-decoder.com/?p=40491",
@@ -1431,7 +1430,9 @@
       "https://the-decoder.com/?p=42269",
       "https://the-decoder.com/?p=42177",
       "https://the-decoder.com/?p=42274",
-      "https://the-decoder.com/?p=42278"
+      "https://the-decoder.com/?p=42278",
+      "https://the-decoder.com/?p=42293",
+      "https://the-decoder.com/?p=42296"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1818,7 +1819,8 @@
       "https://www.technologyreview.com/?p=1147142",
       "https://www.technologyreview.com/?p=1147637",
       "https://www.technologyreview.com/?p=1147709",
-      "https://www.technologyreview.com/?p=1147824"
+      "https://www.technologyreview.com/?p=1147824",
+      "https://www.technologyreview.com/?p=1147846"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -2065,7 +2067,9 @@
       "6ae3cd3d378f1dacd59d6cc7",
       "6ae4e6ac964b916949bd58ed",
       "6ae370037389580e6da942a4",
-      "6ae100238620da29e32c576d"
+      "6ae100238620da29e32c576d",
+      "6ace3a4387812505ce91e493",
+      "6ad7d51fa4cc6513f80c0e64"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2368,8 +2372,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108362188",
-      "108362230",
       "108362277",
       "108362283",
       "108362285",
@@ -2667,7 +2669,9 @@
       "108485906",
       "108483056",
       "108465397",
-      "108500668"
+      "108500668",
+      "108500929",
+      "108502453"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3023,7 +3027,8 @@
       "https://mittechreview.com.br/?p=284841",
       "https://mittechreview.com.br/?p=285362",
       "https://mittechreview.com.br/?p=285602",
-      "https://mittechreview.com.br/?p=275298"
+      "https://mittechreview.com.br/?p=275298",
+      "https://mittechreview.com.br/?p=285611"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1373587",
@@ -4538,101 +4543,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "believe",
-      "earnings",
-      "finally",
-      "google",
-      "investors",
-      "problem",
-      "report",
-      "search",
-      "shows",
-      "some"
-    ],
-    [
-      "after",
-      "anthropic",
-      "astra",
-      "becomes",
-      "chinese",
-      "defenses",
-      "labs",
-      "main",
-      "openai",
-      "target",
-      "tightens"
-    ],
-    [
-      "according",
-      "chinese",
-      "huang",
-      "jensen",
-      "nvidia",
-      "spies",
-      "targeted",
-      "times",
-      "york"
-    ],
-    [
-      "antitrust",
-      "deal",
-      "face",
-      "hugging",
-      "nvidia",
-      "practices",
-      "regulators",
-      "sales",
-      "scrutinizing"
-    ],
-    [
-      "based",
-      "china",
-      "chonk",
-      "coding",
-      "mistral",
-      "model",
-      "overall",
-      "paris",
-      "releases",
-      "still",
-      "strong",
-      "trails"
-    ],
-    [
-      "actions",
-      "agents",
-      "monitor",
-      "need",
-      "real",
-      "time",
-      "urgently"
-    ],
-    [
-      "blood",
-      "clock",
-      "death",
-      "gave"
-    ],
-    [
-      "china",
-      "chonk",
-      "leapfrogged",
-      "mistral",
-      "model",
-      "open",
-      "race",
-      "weight"
-    ],
-    [
-      "coding",
-      "could",
-      "itself",
-      "math",
-      "pain",
-      "save",
-      "vibe"
-    ],
     [
       "agents",
       "cache",
@@ -6372,6 +6282,87 @@
       "south",
       "surprise",
       "visit"
+    ],
+    [
+      "decisions",
+      "planning",
+      "speeding"
+    ],
+    [
+      "blitz",
+      "lobbying",
+      "midterm",
+      "openai",
+      "post",
+      "prepares",
+      "washington"
+    ],
+    [
+      "aramco",
+      "billion",
+      "deal",
+      "firm",
+      "humain",
+      "percent",
+      "saudi",
+      "stake",
+      "takes"
+    ],
+    [
+      "agentic",
+      "here"
+    ],
+    [
+      "abusive",
+      "apps",
+      "deepfake",
+      "features",
+      "hiding",
+      "hundreds",
+      "mundane",
+      "sexually"
+    ],
+    [
+      "search",
+      "should",
+      "shouldn",
+      "when"
+    ],
+    [
+      "budget",
+      "highest",
+      "korea",
+      "model",
+      "performance",
+      "record",
+      "south",
+      "sovereign",
+      "targets",
+      "world"
+    ],
+    [
+      "altman",
+      "deals",
+      "deepens",
+      "dhabi",
+      "energy",
+      "foothold",
+      "government",
+      "inks",
+      "investment",
+      "openai",
+      "spanning"
+    ],
+    [
+      "ajudar",
+      "demanda",
+      "energia",
+      "estado",
+      "expansao",
+      "poderiam",
+      "solido",
+      "suprir",
+      "transformadores"
     ]
   ]
 }
