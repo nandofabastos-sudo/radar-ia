@@ -206,7 +206,11 @@
       "https://openai.com/index/fair-use-benefits-everyone",
       "https://openai.com/index/qodo-codex-plugin",
       "https://openai.com/index/lifeval",
-      "https://openai.com/index/grid-protectors-program"
+      "https://openai.com/index/grid-protectors-program",
+      "https://openai.com/index/dan-driscoll-joins-openai",
+      "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "https://openai.com/index/scaling-git-at-openai"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -534,10 +538,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3171312",
-      "https://techcrunch.com/?p=3171209",
-      "https://techcrunch.com/?p=3171437",
-      "https://techcrunch.com/?p=3171280",
       "https://techcrunch.com/?p=3171020",
       "https://techcrunch.com/?p=3171634",
       "https://techcrunch.com/?p=3171583",
@@ -833,7 +833,11 @@
       "https://techcrunch.com/?p=3184087",
       "https://techcrunch.com/?p=3184280",
       "https://techcrunch.com/?p=3184239",
-      "https://techcrunch.com/?p=3184332"
+      "https://techcrunch.com/?p=3184332",
+      "https://techcrunch.com/?p=3184455",
+      "https://techcrunch.com/?p=3184485",
+      "https://techcrunch.com/?p=3184506",
+      "https://techcrunch.com/?p=3184353"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=994566",
@@ -2381,7 +2385,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108362207",
       "108361683",
       "108362212",
       "108362582",
@@ -2680,7 +2683,8 @@
       "108502453",
       "108503877",
       "108504297",
-      "108505005"
+      "108505005",
+      "108507194"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2819,7 +2823,9 @@
       "https://techcrunch.com/?p=3183083",
       "https://techcrunch.com/?p=3183733",
       "https://techcrunch.com/?p=3183846",
-      "https://techcrunch.com/?p=3184108"
+      "https://techcrunch.com/?p=3184108",
+      "https://techcrunch.com/?p=3184455",
+      "https://techcrunch.com/?p=3184485"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -3041,7 +3047,6 @@
       "https://mittechreview.com.br/?p=285611"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1373587",
       "https://olhardigital.com.br/?p=1373589",
       "https://olhardigital.com.br/?p=1373574",
       "https://olhardigital.com.br/?p=1373603",
@@ -3340,7 +3345,8 @@
       "https://olhardigital.com.br/?p=1386061",
       "https://olhardigital.com.br/?p=1386088",
       "https://olhardigital.com.br/?p=1386165",
-      "https://olhardigital.com.br/?p=1386175"
+      "https://olhardigital.com.br/?p=1386175",
+      "https://olhardigital.com.br/?p=1386355"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4270,7 +4276,8 @@
       "/ceFKBAWJwh at https://braziljournal.com",
       "/cegmRFc4Am at https://braziljournal.com",
       "/ceeHAud0M5 at https://braziljournal.com",
-      "/cenVdBe91B at https://braziljournal.com"
+      "/cenVdBe91B at https://braziljournal.com",
+      "/cempt6e5EJ at https://braziljournal.com"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -4556,110 +4563,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "chats",
-      "directly",
-      "docs",
-      "edit",
-      "files",
-      "gemini",
-      "generate",
-      "google"
-    ],
-    [
-      "adopt",
-      "agent",
-      "anthropic",
-      "experts",
-      "finds",
-      "opinions",
-      "random",
-      "study",
-      "their",
-      "they",
-      "think"
-    ],
-    [
-      "anthropic",
-      "competition",
-      "doubles",
-      "heats",
-      "limits",
-      "openai",
-      "plans",
-      "usage"
-    ],
-    [
-      "admits",
-      "fixing",
-      "google",
-      "less",
-      "makes",
-      "money",
-      "more",
-      "search"
-    ],
-    [
-      "declares",
-      "imports",
-      "national",
-      "robot",
-      "security",
-      "threat",
-      "trump"
-    ],
-    [
-      "access",
-      "agent",
-      "contractor",
-      "defense",
-      "gave",
-      "pentagon",
-      "personal",
-      "secure",
-      "system",
-      "their"
-    ],
-    [
-      "galinha",
-      "jornalismo",
-      "ouro",
-      "ovos"
-    ],
-    [
-      "china",
-      "espionagem",
-      "executiva",
-      "jornal",
-      "ligada",
-      "nvidia",
-      "suspeita"
-    ],
-    [
-      "alerta",
-      "anthropic",
-      "criar",
-      "mesma",
-      "pode",
-      "riscos"
-    ],
-    [
-      "aberta",
-      "ataques",
-      "ciberneticos",
-      "contra",
-      "defesa",
-      "mistral",
-      "promete",
-      "reforcar"
-    ],
-    [
-      "amazon",
-      "melhor",
-      "significa",
-      "trabalhar",
-      "usar"
-    ],
     [
       "agora",
       "documentos",
@@ -6395,6 +6298,102 @@
       "escala",
       "inovam",
       "terceira"
+    ],
+    [
+      "appoints",
+      "counselor",
+      "driscoll",
+      "modernization",
+      "national",
+      "openai",
+      "security",
+      "senior"
+    ],
+    [
+      "harden",
+      "next",
+      "openai",
+      "preparing",
+      "security",
+      "sprint"
+    ],
+    [
+      "bigger",
+      "bounties",
+      "defenders",
+      "rewarding"
+    ],
+    [
+      "openai",
+      "scaling"
+    ],
+    [
+      "accessible",
+      "experts",
+      "make",
+      "model",
+      "nontechnical",
+      "raises",
+      "training",
+      "trajectory"
+    ],
+    [
+      "200k",
+      "agents",
+      "combinator",
+      "garry",
+      "much",
+      "spends",
+      "tokens",
+      "uses",
+      "year"
+    ],
+    [
+      "apple",
+      "apps",
+      "doing",
+      "increase",
+      "party",
+      "revenue",
+      "something",
+      "third"
+    ],
+    [
+      "bring",
+      "dreambeans",
+      "generated",
+      "google",
+      "india",
+      "masses",
+      "personal",
+      "stories",
+      "takes"
+    ],
+    [
+      "army",
+      "driscoll",
+      "former",
+      "hires",
+      "national",
+      "openai",
+      "role",
+      "secretary",
+      "security"
+    ],
+    [
+      "anthropic",
+      "bilhoes",
+      "chega",
+      "fatura",
+      "prejuizo",
+      "trimestre"
+    ],
+    [
+      "brasil",
+      "coragem",
+      "isso",
+      "opiniao",
+      "porque"
     ]
   ]
 }
