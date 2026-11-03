@@ -210,7 +210,8 @@
       "https://openai.com/index/dan-driscoll-joins-openai",
       "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "https://openai.com/index/scaling-git-at-openai"
+      "https://openai.com/index/scaling-git-at-openai",
+      "https://openai.com/index/heimstaden"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -450,7 +451,8 @@
       "https://blogs.nvidia.com/?p=99413",
       "https://blogs.nvidia.com/?p=99512",
       "https://blogs.nvidia.com/?p=99523",
-      "https://blogs.nvidia.com/?p=99597"
+      "https://blogs.nvidia.com/?p=99597",
+      "https://blogs.nvidia.com/?p=99615"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -538,7 +540,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3171020",
       "https://techcrunch.com/?p=3171634",
       "https://techcrunch.com/?p=3171583",
       "https://techcrunch.com/?p=3171681",
@@ -837,7 +838,8 @@
       "https://techcrunch.com/?p=3184455",
       "https://techcrunch.com/?p=3184485",
       "https://techcrunch.com/?p=3184506",
-      "https://techcrunch.com/?p=3184353"
+      "https://techcrunch.com/?p=3184353",
+      "https://techcrunch.com/?p=3184378"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=994566",
@@ -1142,8 +1144,6 @@
       "https://www.theverge.com/?p=1024632"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40505",
-      "https://the-decoder.com/?p=40514",
       "https://the-decoder.com/?p=40517",
       "https://the-decoder.com/?p=40530",
       "https://the-decoder.com/?p=40537",
@@ -1441,7 +1441,9 @@
       "https://the-decoder.com/?p=42313",
       "https://the-decoder.com/?p=42305",
       "https://the-decoder.com/?p=42009",
-      "https://the-decoder.com/?p=42323"
+      "https://the-decoder.com/?p=42323",
+      "https://the-decoder.com/?p=42327",
+      "https://the-decoder.com/?p=42331"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1833,7 +1835,9 @@
       "https://www.technologyreview.com/?p=1147824",
       "https://www.technologyreview.com/?p=1147846",
       "https://www.technologyreview.com/?p=1147702",
-      "https://www.technologyreview.com/?p=1147660"
+      "https://www.technologyreview.com/?p=1147660",
+      "https://www.technologyreview.com/?p=1147932",
+      "https://www.technologyreview.com/?p=1147934"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -2082,7 +2086,8 @@
       "6ae370037389580e6da942a4",
       "6ae100238620da29e32c576d",
       "6ace3a4387812505ce91e493",
-      "6ad7d51fa4cc6513f80c0e64"
+      "6ad7d51fa4cc6513f80c0e64",
+      "6ae37585b7cef7207a0617e3"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2385,9 +2390,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108361683",
-      "108362212",
-      "108362582",
       "108362653",
       "108362696",
       "108362673",
@@ -2684,7 +2686,10 @@
       "108503877",
       "108504297",
       "108505005",
-      "108507194"
+      "108507194",
+      "108508168",
+      "108509042",
+      "108509300"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3044,7 +3049,8 @@
       "https://mittechreview.com.br/?p=285362",
       "https://mittechreview.com.br/?p=285602",
       "https://mittechreview.com.br/?p=275298",
-      "https://mittechreview.com.br/?p=285611"
+      "https://mittechreview.com.br/?p=285611",
+      "https://mittechreview.com.br/?p=285628"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1373589",
@@ -4226,7 +4232,8 @@
       "https://neofeed.com.br/?p=242995",
       "https://neofeed.com.br/?p=242255",
       "https://neofeed.com.br/?p=242136",
-      "https://neofeed.com.br/?p=241860"
+      "https://neofeed.com.br/?p=241860",
+      "https://neofeed.com.br/?p=243020"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -4563,122 +4570,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agora",
-      "documentos",
-      "editar",
-      "gemini",
-      "interface",
-      "pdfs",
-      "permite",
-      "propria"
-    ],
-    [
-      "dados",
-      "google",
-      "inteligente",
-      "planilhas",
-      "processa",
-      "rapido"
-    ],
-    [
-      "aparelhos",
-      "brasil",
-      "compativeis",
-      "siri",
-      "usar",
-      "veja"
-    ],
-    [
-      "caixa",
-      "chips",
-      "desafio",
-      "fluxo",
-      "google",
-      "impulsiona",
-      "nuvem",
-      "nvidia",
-      "prejudica",
-      "relacao",
-      "vendas"
-    ],
-    [
-      "alphabet",
-      "bilionaria",
-      "buscas",
-      "gera",
-      "google",
-      "modo",
-      "perda",
-      "provoca",
-      "queda",
-      "receita"
-    ],
-    [
-      "microsoft",
-      "openai",
-      "quase",
-      "receita",
-      "trimestral",
-      "vinda"
-    ],
-    [
-      "cada",
-      "certa",
-      "existe",
-      "melhor",
-      "operacao"
-    ],
-    [
-      "business",
-      "first",
-      "jassy",
-      "spend",
-      "will"
-    ],
-    [
-      "voice"
-    ],
-    [
-      "afundar",
-      "amazon",
-      "caixa",
-      "decepciona",
-      "gastos",
-      "lucro"
-    ],
-    [
-      "anuncios",
-      "brasil",
-      "esta",
-      "google",
-      "leva",
-      "lista",
-      "modo",
-      "novos",
-      "paises"
-    ],
-    [
-      "camadas",
-      "ciencias",
-      "comeca",
-      "ensinar",
-      "funciona",
-      "gemini",
-      "interativas",
-      "veja"
-    ],
-    [
-      "artificial",
-      "economia",
-      "global",
-      "inteligencia",
-      "juros",
-      "motor",
-      "petroleo",
-      "verdadeiro",
-      "virou"
-    ],
     [
       "apps",
       "conversas",
@@ -6394,6 +6285,133 @@
       "isso",
       "opiniao",
       "porque"
+    ],
+    [
+      "changing",
+      "estate",
+      "heimstaden",
+      "management",
+      "real",
+      "residential"
+    ],
+    [
+      "agentic",
+      "build",
+      "cities",
+      "nvidia",
+      "physical",
+      "scale",
+      "services",
+      "worldwide"
+    ],
+    [
+      "apple",
+      "begin",
+      "beta",
+      "conversations",
+      "features",
+      "recapping",
+      "rewinding",
+      "testing",
+      "watch"
+    ],
+    [
+      "after",
+      "anthropic",
+      "built",
+      "claude",
+      "cloning",
+      "code",
+      "cracks",
+      "down",
+      "game",
+      "knockoffs",
+      "wave"
+    ],
+    [
+      "company",
+      "earn",
+      "hunters",
+      "openai",
+      "ramps",
+      "security"
+    ],
+    [
+      "falling",
+      "here",
+      "intelligence",
+      "line",
+      "loyalty",
+      "super",
+      "test",
+      "trump"
+    ],
+    [
+      "agents",
+      "check",
+      "could",
+      "game",
+      "keep",
+      "reverse",
+      "theory"
+    ],
+    [
+      "centers",
+      "data",
+      "mamdani",
+      "reward",
+      "risk",
+      "their",
+      "zohran"
+    ],
+    [
+      "blackstone",
+      "buildout",
+      "calls",
+      "debt",
+      "equity",
+      "fund",
+      "more",
+      "mount",
+      "president",
+      "risks"
+    ],
+    [
+      "billion",
+      "brookfield",
+      "center",
+      "data",
+      "plans",
+      "power",
+      "station"
+    ],
+    [
+      "after",
+      "apple",
+      "earnings",
+      "margin",
+      "outlook",
+      "palantir",
+      "shares",
+      "slide",
+      "slumps",
+      "weak"
+    ],
+    [
+      "artificial",
+      "inteligencia",
+      "novas",
+      "nuvens",
+      "tempestade"
+    ],
+    [
+      "apresenta",
+      "artificial",
+      "capitulo",
+      "empresas",
+      "inteligencia",
+      "proximo",
+      "zoox"
     ]
   ]
 }
