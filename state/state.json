@@ -847,7 +847,6 @@
       "https://techcrunch.com/?p=3184891"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=996321",
       "https://www.theverge.com/?p=996470",
       "https://www.theverge.com/?p=996499",
       "https://www.theverge.com/?p=996078",
@@ -1146,7 +1145,8 @@
       "https://www.theverge.com/?p=1025002",
       "https://www.theverge.com/?p=1025694",
       "https://www.theverge.com/?p=1025745",
-      "https://www.theverge.com/?p=1025826"
+      "https://www.theverge.com/?p=1025826",
+      "https://www.theverge.com/?p=1026085"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40562",
@@ -2133,7 +2133,8 @@
       "6ad7e7171eff6a0001bb99df",
       "6ada9854c7124400012a82b0",
       "6ae1370c482765000141e5cc",
-      "6ad9050dfc71fb0001d96bc8"
+      "6ad9050dfc71fb0001d96bc8",
+      "6aea7a8eb1fc8f0001faf888"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2396,12 +2397,12 @@
       "https://news.ycombinator.com/item?id=50323088",
       "https://news.ycombinator.com/item?id=50353192",
       "https://news.ycombinator.com/item?id=50354960",
-      "https://news.ycombinator.com/item?id=50336918"
+      "https://news.ycombinator.com/item?id=50336918",
+      "https://news.ycombinator.com/item?id=50358582"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108362965",
       "108362883",
       "108362993",
       "108363119",
@@ -2700,7 +2701,8 @@
       "108511433",
       "108512039",
       "108506116",
-      "108511899"
+      "108511899",
+      "108513230"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3067,9 +3069,6 @@
       "https://mittechreview.com.br/?p=286478"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1373711",
-      "https://olhardigital.com.br/?p=1373805",
-      "https://olhardigital.com.br/?p=1373828",
       "https://olhardigital.com.br/?p=1373862",
       "https://olhardigital.com.br/?p=1373875",
       "https://olhardigital.com.br/?p=1373877",
@@ -3366,7 +3365,10 @@
       "https://olhardigital.com.br/?p=1386625",
       "https://olhardigital.com.br/?p=1386642",
       "https://olhardigital.com.br/?p=1386719",
-      "https://olhardigital.com.br/?p=1386722"
+      "https://olhardigital.com.br/?p=1386722",
+      "https://olhardigital.com.br/?p=1386740",
+      "https://olhardigital.com.br/?p=1386696",
+      "https://olhardigital.com.br/?p=1386743"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4583,81 +4585,12 @@
       "https://www.mobiletime.com.br/?p=867421",
       "https://www.mobiletime.com.br/?p=867476",
       "https://www.mobiletime.com.br/?p=867511",
-      "https://www.mobiletime.com.br/?p=867515"
+      "https://www.mobiletime.com.br/?p=867515",
+      "https://www.mobiletime.com.br/?p=867629",
+      "https://www.mobiletime.com.br/?p=867615"
     ]
   },
   "_titulos_recentes": [
-    [
-      "8217",
-      "earth",
-      "first",
-      "google",
-      "response",
-      "satellite",
-      "server",
-      "transmits"
-    ],
-    [
-      "backing",
-      "biggest",
-      "names",
-      "scraping"
-    ],
-    [
-      "altman",
-      "better",
-      "center",
-      "data",
-      "desk",
-      "than",
-      "your"
-    ],
-    [
-      "apple",
-      "china",
-      "coming",
-      "finally",
-      "intelligence"
-    ],
-    [
-      "autonomously",
-      "brain",
-      "chose",
-      "claude",
-      "decision",
-      "gene",
-      "human",
-      "making",
-      "model",
-      "mouse",
-      "operated",
-      "therapy"
-    ],
-    [
-      "agents",
-      "basically",
-      "doordash",
-      "orders",
-      "their",
-      "using"
-    ],
-    [
-      "about",
-      "cheating",
-      "cost",
-      "dartmouth",
-      "provost",
-      "warned"
-    ],
-    [
-      "anthropic",
-      "backdoored",
-      "code",
-      "cursor",
-      "extension",
-      "hours",
-      "nearly"
-    ],
     [
       "airliner",
       "centers",
@@ -6430,6 +6363,77 @@
       "funcionarios",
       "openai",
       "seguranca"
+    ],
+    [
+      "biggest",
+      "gaming",
+      "modding",
+      "site",
+      "stance",
+      "taking"
+    ],
+    [
+      "election",
+      "frontier",
+      "labs",
+      "launch",
+      "rooms"
+    ],
+    [
+      "book",
+      "foundations",
+      "generative",
+      "intuitive",
+      "little",
+      "mathematical",
+      "primer"
+    ],
+    [
+      "backlash",
+      "google",
+      "over",
+      "political",
+      "removing",
+      "responds",
+      "schools",
+      "search"
+    ],
+    [
+      "anthropic",
+      "empresas",
+      "escondam",
+      "estao",
+      "impedir",
+      "qual",
+      "quer",
+      "usando"
+    ],
+    [
+      "ataques",
+      "binance",
+      "caso",
+      "fala",
+      "hackers",
+      "revela"
+    ],
+    [
+      "anatel",
+      "center",
+      "data",
+      "falta",
+      "pagamento",
+      "parar",
+      "pode"
+    ],
+    [
+      "centers",
+      "data",
+      "dizem",
+      "energia",
+      "especialistas",
+      "exige",
+      "infraestrutura",
+      "refrigeracao"
     ]
   ]
 }
