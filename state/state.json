@@ -550,7 +550,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3172717",
       "https://techcrunch.com/?p=3172744",
       "https://techcrunch.com/?p=3172737",
       "https://techcrunch.com/?p=3172746",
@@ -849,7 +848,8 @@
       "https://techcrunch.com/?p=3185205",
       "https://techcrunch.com/?p=3185172",
       "https://techcrunch.com/?p=3185268",
-      "https://techcrunch.com/?p=3185305"
+      "https://techcrunch.com/?p=3185305",
+      "https://techcrunch.com/?p=3185307"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=997358",
@@ -2415,7 +2415,9 @@
       "https://news.ycombinator.com/item?id=50358582",
       "https://news.ycombinator.com/item?id=50362905",
       "https://news.ycombinator.com/item?id=50364336",
-      "https://news.ycombinator.com/item?id=50363461"
+      "https://news.ycombinator.com/item?id=50363461",
+      "https://news.ycombinator.com/item?id=50366117",
+      "https://news.ycombinator.com/item?id=50372929"
     ]
   },
   "mercado": {
@@ -3091,7 +3093,6 @@
       "https://mittechreview.com.br/?p=286495"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1373880",
       "https://olhardigital.com.br/?p=1373926",
       "https://olhardigital.com.br/?p=1373928",
       "https://olhardigital.com.br/?p=1374015",
@@ -3390,7 +3391,8 @@
       "https://olhardigital.com.br/?p=1386881",
       "https://olhardigital.com.br/?p=1386977",
       "https://olhardigital.com.br/?p=1386992",
-      "https://olhardigital.com.br/?p=1386997"
+      "https://olhardigital.com.br/?p=1386997",
+      "https://olhardigital.com.br/?p=1387023"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3897,7 +3899,6 @@
       "https://canaltech.com.br/inteligencia-artificial/skyone-lanca-plataforma-corporativa-com-acesso-a-mais-de-400-modelos-de-ia/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/09/25/microsoft-redesenha-copilot-e-aposta-em-super-app-para-trabalho.ghtm",
       "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/25/ia-bajuladora-pode-ampliar-a-polarizacao-da-sociedade-diz-pesquisa.htm",
       "https://www.uol.com.br/flash/?c=6ab691eced223c3f8d522422",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/25/importante-premio-literario-frances-tira-romance-da-competicao-apos-autor-ser-acusado-de-usar-ia.htm",
@@ -4196,7 +4197,8 @@
       "https://www.uol.com.br/tilt/colunas/iagora/2026/11/04/tsunami-azul-abala-musk-ia-e-data-centers-nos-eua-o-que-pode-acontecer.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/04/openai-vai-aposentar-chatgpt-classic-em-2027-e-unificar-aplicativo-no-pc.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/04/pioneiro-da-ia-alerta-para-incidente-grave-ate-2027.ghtm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/11/04/google-vai-desativar-ferramentas-de-ia-e-mecanismo-de-busca-para-estudantes.htm"
+      "https://www.uol.com.br/tilt/noticias/afp/2026/11/04/google-vai-desativar-ferramentas-de-ia-e-mecanismo-de-busca-para-estudantes.htm",
+      "https://tilt.uol.com.br/colunas/iagora/2026/11/04/tsunami-azul-abala-musk-ia-e-data-centers-nos-eua-o-que-pode-acontecer.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4619,51 +4621,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "address",
-      "boston",
-      "build",
-      "days",
-      "founder",
-      "founders",
-      "need",
-      "silicon",
-      "something",
-      "summit",
-      "techcrunch",
-      "till",
-      "valley"
-    ],
-    [
-      "acquisition",
-      "adds",
-      "aquatic",
-      "know",
-      "labs",
-      "liquid",
-      "million",
-      "omen"
-    ],
-    [
-      "costs",
-      "elon",
-      "grok",
-      "high",
-      "limits",
-      "musk",
-      "throttles",
-      "unsustainably"
-    ],
-    [
-      "42ai",
-      "behavior",
-      "comes",
-      "human",
-      "model",
-      "predict",
-      "stealth",
-      "world"
-    ],
     [
       "alleged",
       "brave",
@@ -6461,6 +6418,39 @@
       "data",
       "destinacao",
       "kits"
+    ],
+    [
+      "after",
+      "bigger",
+      "centers",
+      "clash",
+      "coming",
+      "could",
+      "data",
+      "midterms",
+      "over"
+    ],
+    [
+      "agentic",
+      "current",
+      "setup",
+      "what",
+      "your"
+    ],
+    [
+      "fewer",
+      "paths",
+      "root",
+      "thousand"
+    ],
+    [
+      "amanha",
+      "congresso",
+      "impacto",
+      "lado",
+      "muda",
+      "olhar",
+      "sentir"
     ]
   ]
 }
