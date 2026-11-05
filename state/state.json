@@ -216,7 +216,10 @@
       "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
       "https://openai.com/index/cisco-cyber",
       "https://openai.com/index/daybreak-red-aws-govcloud",
-      "https://openai.com/index/openai-to-acquire-pierre"
+      "https://openai.com/index/openai-to-acquire-pierre",
+      "https://openai.com/index/devrev-enterprise-self-service",
+      "https://openai.com/index/introducing-images-2-6",
+      "https://openai.com/index/a-thousand-fewer-paths-to-root"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -547,10 +550,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3172360",
-      "https://techcrunch.com/?p=3169890",
-      "https://techcrunch.com/?p=3172101",
-      "https://techcrunch.com/?p=3172692",
       "https://techcrunch.com/?p=3172717",
       "https://techcrunch.com/?p=3172744",
       "https://techcrunch.com/?p=3172737",
@@ -846,11 +845,13 @@
       "https://techcrunch.com/?p=3185129",
       "https://techcrunch.com/?post_type=tc_video&p=3185186",
       "https://techcrunch.com/?p=3185181",
-      "https://techcrunch.com/?p=3185152"
+      "https://techcrunch.com/?p=3185152",
+      "https://techcrunch.com/?p=3185205",
+      "https://techcrunch.com/?p=3185172",
+      "https://techcrunch.com/?p=3185268",
+      "https://techcrunch.com/?p=3185305"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=997083",
-      "https://www.theverge.com/?p=997444",
       "https://www.theverge.com/?p=997358",
       "https://www.theverge.com/?p=997516",
       "https://www.theverge.com/?p=997573",
@@ -1148,7 +1149,9 @@
       "https://www.theverge.com/?p=1026474",
       "https://www.theverge.com/?p=1026464",
       "https://www.theverge.com/?p=1026586",
-      "https://www.theverge.com/?p=1026787"
+      "https://www.theverge.com/?p=1026787",
+      "https://www.theverge.com/?p=1026878",
+      "https://www.theverge.com/?p=1026867"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40603",
@@ -2105,7 +2108,8 @@
       "6ae4a246273b3c41ba93a346",
       "6ad2762c3bafd52c8d60c16a",
       "6aea8abd2504267f05e6e0f2",
-      "6ae4a770bd1058bb39c86ec2"
+      "6ae4a770bd1058bb39c86ec2",
+      "6aeb5a0c899aefeeb033196c"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2416,8 +2420,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108363003",
-      "108362990",
       "108363352",
       "108363282",
       "108363344",
@@ -2715,7 +2717,9 @@
       "108513230",
       "108515963",
       "108514385",
-      "108519618"
+      "108519618",
+      "108519620",
+      "108520467"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -2859,7 +2863,8 @@
       "https://techcrunch.com/?p=3184485",
       "https://techcrunch.com/?p=3184774",
       "https://techcrunch.com/?post_type=tc_podcast&p=3185167",
-      "https://techcrunch.com/?post_type=tc_video&p=3185186"
+      "https://techcrunch.com/?post_type=tc_video&p=3185186",
+      "https://techcrunch.com/?p=3185172"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -3590,7 +3595,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=944806"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/openai-foi-invadida-por-hackers-que-usaram-rival-do-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/ias-chinesas-tambem-sao-perigosas-como-o-chatgpt-e-o-claude/",
       "https://canaltech.com.br/inteligencia-artificial/openai-diz-que-brasil-e-laboratorio-do-mundo-e-o-grande-teste-de-ia-em-eleicoes/",
       "https://canaltech.com.br/inteligencia-artificial/nvidia-declara-guerra-ao-discurso-do-apocalipse-de-ia-0-de-chance/",
@@ -3889,10 +3893,10 @@
       "https://canaltech.com.br/inteligencia-artificial/golpe-de-um-clique-falha-no-chatgpt-expunha-conversas-privadas-em-4-segundos/",
       "https://canaltech.com.br/inteligencia-artificial/google-empurra-ia-para-escolas-a-todo-custo-e-ameaca-cortar-acesso-a-busca/",
       "https://canaltech.com.br/hardware/intel-pode-descontinuar-arc-b580-para-focar-em-modelos-voltados-para-ia/",
-      "https://canaltech.com.br/inteligencia-artificial/sua-empresa-esta-ganhando-produtividade-com-ia-ou-apenas-gastando-mais-com-tecnologia/"
+      "https://canaltech.com.br/inteligencia-artificial/sua-empresa-esta-ganhando-produtividade-com-ia-ou-apenas-gastando-mais-com-tecnologia/",
+      "https://canaltech.com.br/inteligencia-artificial/skyone-lanca-plataforma-corporativa-com-acesso-a-mais-de-400-modelos-de-ia/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/25/microsoft-amplia-recursos-do-copilot-com-ferramenta-de-programacao-e-agente-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/25/microsoft-redesenha-copilot-e-aposta-em-super-app-para-trabalho.ghtm",
       "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/25/ia-bajuladora-pode-ampliar-a-polarizacao-da-sociedade-diz-pesquisa.htm",
       "https://www.uol.com.br/flash/?c=6ab691eced223c3f8d522422",
@@ -4191,7 +4195,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/04/openai-testa-ia-para-projetar-hardware-com-mazda-e-equipe-de-corrida.ghtm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/11/04/tsunami-azul-abala-musk-ia-e-data-centers-nos-eua-o-que-pode-acontecer.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/04/openai-vai-aposentar-chatgpt-classic-em-2027-e-unificar-aplicativo-no-pc.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/04/pioneiro-da-ia-alerta-para-incidente-grave-ate-2027.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/04/pioneiro-da-ia-alerta-para-incidente-grave-ate-2027.ghtm",
+      "https://www.uol.com.br/tilt/noticias/afp/2026/11/04/google-vai-desativar-ferramentas-de-ia-e-mecanismo-de-busca-para-estudantes.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4609,128 +4614,11 @@
       "https://www.mobiletime.com.br/?p=867511",
       "https://www.mobiletime.com.br/?p=867515",
       "https://www.mobiletime.com.br/?p=867629",
-      "https://www.mobiletime.com.br/?p=867615"
+      "https://www.mobiletime.com.br/?p=867615",
+      "https://www.mobiletime.com.br/?p=867678"
     ]
   },
   "_titulos_recentes": [
-    [
-      "decisions",
-      "planning",
-      "speeding"
-    ],
-    [
-      "blitz",
-      "lobbying",
-      "midterm",
-      "openai",
-      "post",
-      "prepares",
-      "washington"
-    ],
-    [
-      "aramco",
-      "billion",
-      "deal",
-      "firm",
-      "humain",
-      "percent",
-      "saudi",
-      "stake",
-      "takes"
-    ],
-    [
-      "agentic",
-      "here"
-    ],
-    [
-      "abusive",
-      "apps",
-      "deepfake",
-      "features",
-      "hiding",
-      "hundreds",
-      "mundane",
-      "sexually"
-    ],
-    [
-      "search",
-      "should",
-      "shouldn",
-      "when"
-    ],
-    [
-      "budget",
-      "highest",
-      "korea",
-      "model",
-      "performance",
-      "record",
-      "south",
-      "sovereign",
-      "targets",
-      "world"
-    ],
-    [
-      "altman",
-      "deals",
-      "deepens",
-      "dhabi",
-      "energy",
-      "foothold",
-      "government",
-      "inks",
-      "investment",
-      "openai",
-      "spanning"
-    ],
-    [
-      "ajudar",
-      "demanda",
-      "energia",
-      "estado",
-      "expansao",
-      "poderiam",
-      "solido",
-      "suprir",
-      "transformadores"
-    ],
-    [
-      "builds",
-      "code",
-      "codex",
-      "context",
-      "into",
-      "qodo",
-      "review"
-    ],
-    [
-      "lifeval"
-    ],
-    [
-      "grid",
-      "introducing",
-      "program",
-      "protectors"
-    ],
-    [
-      "2026",
-      "announced",
-      "latest",
-      "news",
-      "october"
-    ],
-    [
-      "grok"
-    ],
-    [
-      "chat",
-      "chatgpt",
-      "finally",
-      "merging",
-      "openai",
-      "tabs",
-      "work"
-    ],
     [
       "address",
       "boston",
@@ -6439,6 +6327,140 @@
       "esta",
       "mercado",
       "transformando"
+    ],
+    [
+      "autonomous",
+      "delivers",
+      "devrev",
+      "self",
+      "service"
+    ],
+    [
+      "images",
+      "introducing"
+    ],
+    [
+      "fewer",
+      "paths",
+      "root",
+      "thousand"
+    ],
+    [
+      "agents",
+      "almost",
+      "book",
+      "company",
+      "their",
+      "uber",
+      "uses"
+    ],
+    [
+      "company",
+      "device",
+      "dropping",
+      "first",
+      "month",
+      "mysterious",
+      "next",
+      "nothing"
+    ],
+    [
+      "congress",
+      "fared",
+      "here",
+      "millions",
+      "pacs",
+      "shape",
+      "spent",
+      "they",
+      "trying"
+    ],
+    [
+      "apple",
+      "budgets",
+      "cutting",
+      "internal",
+      "reportedly",
+      "usage"
+    ],
+    [
+      "better",
+      "could",
+      "elon",
+      "have",
+      "million",
+      "musk",
+      "wasted",
+      "ways"
+    ],
+    [
+      "betting",
+      "centers",
+      "data",
+      "qualcomm",
+      "sales",
+      "sink",
+      "smartphone"
+    ],
+    [
+      "blue",
+      "bros",
+      "centers",
+      "data",
+      "scrambling",
+      "space",
+      "tech",
+      "wave"
+    ],
+    [
+      "after",
+      "beat",
+      "changes",
+      "company",
+      "earnings",
+      "figma",
+      "growth",
+      "long",
+      "prioritizes",
+      "sinks",
+      "term"
+    ],
+    [
+      "cramer",
+      "election",
+      "into",
+      "investors",
+      "much",
+      "post",
+      "rally",
+      "reading",
+      "street",
+      "wall",
+      "warns"
+    ],
+    [
+      "acesso",
+      "corporativa",
+      "lanca",
+      "modelos",
+      "plataforma",
+      "skyone"
+    ],
+    [
+      "busca",
+      "desativar",
+      "estudantes",
+      "ferramentas",
+      "google",
+      "mecanismo"
+    ],
+    [
+      "anatel",
+      "aprova",
+      "center",
+      "data",
+      "destinacao",
+      "kits"
     ]
   ]
 }
