@@ -563,7 +563,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3173313",
       "https://techcrunch.com/?p=3173395",
       "https://techcrunch.com/?p=3173444",
       "https://techcrunch.com/?p=3173132",
@@ -862,7 +861,8 @@
       "https://techcrunch.com/?p=3185414",
       "https://techcrunch.com/?p=3185548",
       "https://techcrunch.com/?p=3185610",
-      "https://techcrunch.com/?p=3185656"
+      "https://techcrunch.com/?p=3185656",
+      "https://techcrunch.com/?p=3185713"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=998078",
@@ -1167,8 +1167,6 @@
       "https://www.theverge.com/?p=1028454"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40654",
-      "https://the-decoder.com/?p=40652",
       "https://the-decoder.com/?p=40672",
       "https://the-decoder.com/?p=40676",
       "https://the-decoder.com/?p=40679",
@@ -1466,7 +1464,9 @@
       "https://the-decoder.com/?p=42443",
       "https://the-decoder.com/?p=42451",
       "https://the-decoder.com/?p=42457",
-      "https://the-decoder.com/?p=42471"
+      "https://the-decoder.com/?p=42471",
+      "https://the-decoder.com/?p=42478",
+      "https://the-decoder.com/?p=42480"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1868,7 +1868,8 @@
       "https://www.technologyreview.com/?p=1147932",
       "https://www.technologyreview.com/?p=1147934",
       "https://www.technologyreview.com/?p=1147596",
-      "https://www.technologyreview.com/?p=1148043"
+      "https://www.technologyreview.com/?p=1148043",
+      "https://www.technologyreview.com/?p=1148090"
     ],
     "wired_ai": [
       "6a6cbc5c2bba9f4c44a51581",
@@ -2442,7 +2443,9 @@
       "https://news.ycombinator.com/item?id=50366117",
       "https://news.ycombinator.com/item?id=50372929",
       "https://news.ycombinator.com/item?id=50376313",
-      "https://news.ycombinator.com/item?id=50385272"
+      "https://news.ycombinator.com/item?id=50385272",
+      "https://news.ycombinator.com/item?id=50383057",
+      "https://news.ycombinator.com/item?id=50385870"
     ]
   },
   "mercado": {
@@ -3122,10 +3125,11 @@
       "https://mittechreview.com.br/?p=286478",
       "https://mittechreview.com.br/?p=286495",
       "https://mittechreview.com.br/?p=287036",
-      "https://mittechreview.com.br/?p=287070"
+      "https://mittechreview.com.br/?p=287070",
+      "https://mittechreview.com.br/?p=286793",
+      "https://mittechreview.com.br/?p=287089"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1374085",
       "https://olhardigital.com.br/?p=1374096",
       "https://olhardigital.com.br/?p=1374159",
       "https://olhardigital.com.br/?p=1374183",
@@ -3424,7 +3428,8 @@
       "https://olhardigital.com.br/?p=1387387",
       "https://olhardigital.com.br/?p=1387355",
       "https://olhardigital.com.br/?p=1387402",
-      "https://olhardigital.com.br/?p=1387405"
+      "https://olhardigital.com.br/?p=1387405",
+      "https://olhardigital.com.br/?p=1387424"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4494,7 +4499,8 @@
       "https://startups.com.br/?p=342855",
       "https://startups.com.br/?p=342797",
       "https://startups.com.br/?p=342891",
-      "https://startups.com.br/?p=342902"
+      "https://startups.com.br/?p=342902",
+      "https://startups.com.br/?p=342920"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -4661,92 +4667,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "eleicoes",
-      "esta",
-      "futuro",
-      "hoje",
-      "jogo"
-    ],
-    [
-      "chatgpt",
-      "conversas",
-      "link",
-      "permitia",
-      "privadas",
-      "usuarios"
-    ],
-    [
-      "acoes",
-      "bancar",
-      "expansao",
-      "levanta",
-      "oracle",
-      "titulos"
-    ],
-    [
-      "affairs",
-      "appoints",
-      "chief",
-      "corporate",
-      "hazelbaker",
-      "jill",
-      "officer",
-      "openai"
-    ],
-    [
-      "cisco",
-      "defends",
-      "machine",
-      "openai",
-      "speed"
-    ],
-    [
-      "demand",
-      "doubles",
-      "inference",
-      "startup",
-      "surges",
-      "valuation"
-    ],
-    [
-      "foreboding",
-      "hiding",
-      "inside",
-      "palantir",
-      "quarter",
-      "signal",
-      "skyrocketing"
-    ],
-    [
-      "490m",
-      "amid",
-      "ballistic",
-      "boom",
-      "cybersecurity",
-      "driven",
-      "funds",
-      "schlein",
-      "seeks",
-      "ventures"
-    ],
-    [
-      "centers",
-      "data",
-      "engines",
-      "grows",
-      "power",
-      "turning",
-      "wait"
-    ],
-    [
-      "anthropic",
-      "identity",
-      "models",
-      "prove",
-      "system",
-      "working"
-    ],
     [
       "access",
       "apple",
@@ -6482,6 +6402,101 @@
       "mpmg",
       "produzindo",
       "reduz"
+    ],
+    [
+      "500m",
+      "agent",
+      "alto",
+      "clutch",
+      "networks",
+      "palo",
+      "security",
+      "startup",
+      "talks"
+    ],
+    [
+      "access",
+      "account",
+      "adds",
+      "anthropic",
+      "bank",
+      "claude",
+      "spending",
+      "their",
+      "track",
+      "users"
+    ],
+    [
+      "anthropic",
+      "balk",
+      "hits",
+      "investors",
+      "resistance",
+      "trillion",
+      "valuation"
+    ],
+    [
+      "apartment",
+      "clean",
+      "felt",
+      "future",
+      "humanoid",
+      "like",
+      "robot",
+      "taste",
+      "watched"
+    ],
+    [
+      "hackintosh",
+      "reborn"
+    ],
+    [
+      "cuban",
+      "deepfake",
+      "docs",
+      "facebook",
+      "fraud",
+      "knowingly",
+      "revenue",
+      "runs",
+      "scam"
+    ],
+    [
+      "alinhando",
+      "esta",
+      "lealdade",
+      "quem",
+      "superinteligencia",
+      "teste",
+      "trump",
+      "veja"
+    ],
+    [
+      "artificial",
+      "ensinar",
+      "inteligencia",
+      "jornalismo",
+      "preco"
+    ],
+    [
+      "americanos",
+      "blue",
+      "eleitores",
+      "industria",
+      "origin",
+      "planos",
+      "recado",
+      "resumo",
+      "sarampo"
+    ],
+    [
+      "agente",
+      "caixa",
+      "fase",
+      "inicia",
+      "inner",
+      "reforcado",
+      "whatsapp"
     ]
   ]
 }
