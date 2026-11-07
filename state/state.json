@@ -566,7 +566,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3173520",
       "https://techcrunch.com/?p=3173591",
       "https://techcrunch.com/?p=3173705",
       "https://techcrunch.com/?p=3173563",
@@ -865,10 +864,10 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3185898",
       "https://techcrunch.com/?p=3185929",
       "https://techcrunch.com/?p=3185905",
-      "https://techcrunch.com/?p=3186034"
+      "https://techcrunch.com/?p=3186034",
+      "https://techcrunch.com/?p=3186051"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=998813",
       "https://www.theverge.com/?p=999094",
       "https://www.theverge.com/?p=999167",
       "https://www.theverge.com/?p=999249",
@@ -1167,7 +1166,8 @@
       "https://www.theverge.com/?p=1028609",
       "https://www.theverge.com/?p=1028871",
       "https://www.theverge.com/?post_type=vm_stream&p=902546",
-      "https://www.theverge.com/?p=1029338"
+      "https://www.theverge.com/?p=1029338",
+      "https://www.theverge.com/?p=1029380"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40688",
@@ -2452,7 +2452,9 @@
       "https://news.ycombinator.com/item?id=50376313",
       "https://news.ycombinator.com/item?id=50385272",
       "https://news.ycombinator.com/item?id=50383057",
-      "https://news.ycombinator.com/item?id=50385870"
+      "https://news.ycombinator.com/item?id=50385870",
+      "https://news.ycombinator.com/item?id=50392118",
+      "https://news.ycombinator.com/item?id=50397429"
     ]
   },
   "mercado": {
@@ -3140,7 +3142,6 @@
       "https://mittechreview.com.br/?p=287089"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1374183",
       "https://olhardigital.com.br/?p=1374250",
       "https://olhardigital.com.br/?p=1374258",
       "https://olhardigital.com.br/?p=1374279",
@@ -3439,7 +3440,8 @@
       "https://olhardigital.com.br/?p=1387405",
       "https://olhardigital.com.br/?p=1387424",
       "https://olhardigital.com.br/?p=1387580",
-      "https://olhardigital.com.br/?p=1387615"
+      "https://olhardigital.com.br/?p=1387615",
+      "https://olhardigital.com.br/?p=1387766"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3950,7 +3952,6 @@
       "https://canaltech.com.br/inteligencia-artificial/novo-gpt-6-cyber-encontra-falhas-de-seguranca-mais-rapido-que-qualquer-hacker/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/09/27/openai-suspende-treinamento-apos-agentes-de-ia-agirem-por-conta-propria.htm",
       "https://economia.uol.com.br/noticias/redacao/2026/09/27/bill-gates-inteligencia-artifical.ghtm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/09/27/medo-de-ia-por-brasileiros-e-maior-do-que-a-media-mundial-veja-ultimas-pesquisas.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/27/bill-gates-faz-coro-aos-apelos-por-medidas-de-protecao-relacionadas-a-ia.htm",
@@ -4249,7 +4250,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/06/trump-chama-ia-de-ouro-e-ataca-lideres-que-tentam-frear-data-centers.ghtm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/11/06/bolha-da-ia-comeca-a-desinflar-revolta-das-urnas-nos-eua-atinge-mercados.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/11/06/governo-trump-cancela-reuniao-de-influente-conselho-de-tecnologia.htm",
-      "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/11/06/governo-lula-aprova-r-463-mi-para-rede-nacional-de-data-center.htm"
+      "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/11/06/governo-lula-aprova-r-463-mi-para-rede-nacional-de-data-center.htm",
+      "https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/11/06/meta-adia-regra-que-permite-uso-de-conteudo-jornalistico-por-ia-sem-licenca.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4678,74 +4680,11 @@
       "https://www.mobiletime.com.br/?p=867728",
       "https://www.mobiletime.com.br/?p=867723",
       "https://www.mobiletime.com.br/?p=867721",
-      "https://www.mobiletime.com.br/?p=867811"
+      "https://www.mobiletime.com.br/?p=867811",
+      "https://www.mobiletime.com.br/?p=867840"
     ]
   },
   "_titulos_recentes": [
-    [
-      "amazon",
-      "chuck",
-      "frontier",
-      "should",
-      "therapist",
-      "thinks",
-      "window"
-    ],
-    [
-      "ahead",
-      "device",
-      "free",
-      "launch",
-      "month",
-      "next",
-      "nothing",
-      "screen",
-      "teases"
-    ],
-    [
-      "gemini",
-      "home",
-      "into",
-      "plugs",
-      "security",
-      "smart",
-      "system"
-    ],
-    [
-      "anthropic",
-      "exposing",
-      "model",
-      "prototype",
-      "proves",
-      "response",
-      "weights",
-      "which",
-      "without",
-      "wrote"
-    ],
-    [
-      "astra",
-      "directly",
-      "matrix",
-      "models",
-      "other",
-      "reprograms",
-      "sees",
-      "their",
-      "through",
-      "weights"
-    ],
-    [
-      "benchmark",
-      "biggest",
-      "bottleneck",
-      "cloud",
-      "open",
-      "operations",
-      "reasoning",
-      "reveals",
-      "source"
-    ],
     [
       "anti",
       "backlash",
@@ -6505,6 +6444,53 @@
       "gera",
       "quintoandar",
       "valor"
+    ],
+    [
+      "anthropic",
+      "nears",
+      "openai",
+      "rival",
+      "trillion",
+      "valued"
+    ],
+    [
+      "flash",
+      "gemini",
+      "omni"
+    ],
+    [
+      "accuracy",
+      "cost",
+      "gives",
+      "help",
+      "lower",
+      "opus"
+    ],
+    [
+      "aponta",
+      "china",
+      "empresaria",
+      "espionar",
+      "inteligencia",
+      "nvidia",
+      "recrutou"
+    ],
+    [
+      "adia",
+      "conteudo",
+      "jornalistico",
+      "licenca",
+      "meta",
+      "permite",
+      "regra"
+    ],
+    [
+      "agentes",
+      "bull",
+      "dados",
+      "forte",
+      "manter",
+      "nuvem"
     ]
   ]
 }
