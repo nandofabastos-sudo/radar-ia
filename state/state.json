@@ -1170,9 +1170,6 @@
       "https://www.theverge.com/?p=1029380"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40688",
-      "https://the-decoder.com/?p=40698",
-      "https://the-decoder.com/?p=40706",
       "https://the-decoder.com/?p=40709",
       "https://the-decoder.com/?p=40713",
       "https://the-decoder.com/?p=40719",
@@ -1469,7 +1466,10 @@
       "https://the-decoder.com/?p=42495",
       "https://the-decoder.com/?p=42507",
       "https://the-decoder.com/?p=42486",
-      "https://the-decoder.com/?p=42519"
+      "https://the-decoder.com/?p=42519",
+      "https://the-decoder.com/?p=42525",
+      "https://the-decoder.com/?p=42463",
+      "https://the-decoder.com/?p=42532"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2139,7 +2139,8 @@
       "6ad27b839e1279e3a28f38db",
       "6aecb226aada98abfcc68c76",
       "6aeccdd60e08160b7fc2e8b1",
-      "6aeb76b2899aefeeb033197b"
+      "6aeb76b2899aefeeb033197b",
+      "6ae8fcff93d0a10b8d7f1f15"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2454,7 +2455,8 @@
       "https://news.ycombinator.com/item?id=50383057",
       "https://news.ycombinator.com/item?id=50385870",
       "https://news.ycombinator.com/item?id=50392118",
-      "https://news.ycombinator.com/item?id=50397429"
+      "https://news.ycombinator.com/item?id=50397429",
+      "https://news.ycombinator.com/item?id=50397994"
     ]
   },
   "mercado": {
@@ -3142,7 +3144,6 @@
       "https://mittechreview.com.br/?p=287089"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1374250",
       "https://olhardigital.com.br/?p=1374258",
       "https://olhardigital.com.br/?p=1374279",
       "https://olhardigital.com.br/?p=1374304",
@@ -3441,7 +3442,8 @@
       "https://olhardigital.com.br/?p=1387424",
       "https://olhardigital.com.br/?p=1387580",
       "https://olhardigital.com.br/?p=1387615",
-      "https://olhardigital.com.br/?p=1387766"
+      "https://olhardigital.com.br/?p=1387766",
+      "https://olhardigital.com.br/?p=1387113"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3650,7 +3652,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=945313"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/quando-a-ia-passa-a-agir-por-voce-quem-passa-a-cuidar-dos-seus-dados/",
       "https://canaltech.com.br/inteligencia-artificial/whatsapp-copia-o-telegram-e-testa-integracao-com-bots-de-ia-no-iphone/",
       "https://canaltech.com.br/inteligencia-artificial/mais-de-50-dos-brasileiros-tem-medo-da-ia-acima-da-media-mundial/",
       "https://canaltech.com.br/produtos/robo-humanoide-da-xpeng-nasce-e-ja-sai-andando-sozinho-da-fabrica/",
@@ -3949,7 +3950,8 @@
       "https://canaltech.com.br/inteligencia-artificial/perplexity-lanca-agentes-de-ia-que-trabalham-247-e-ate-usam-o-slack/",
       "https://canaltech.com.br/inteligencia-artificial/claude-ganha-ferramenta-que-acessa-contas-bancarias-e-analisa-os-seus-gastos/",
       "https://canaltech.com.br/inteligencia-artificial/whatsapp-comeca-a-usar-ia-para-completar-fotos-e-evitar-bordas-pretas-em-tela-cheia/",
-      "https://canaltech.com.br/inteligencia-artificial/novo-gpt-6-cyber-encontra-falhas-de-seguranca-mais-rapido-que-qualquer-hacker/"
+      "https://canaltech.com.br/inteligencia-artificial/novo-gpt-6-cyber-encontra-falhas-de-seguranca-mais-rapido-que-qualquer-hacker/",
+      "https://canaltech.com.br/inteligencia-artificial/como-a-ia-vai-criar-o-carro-de-f1-do-futuro-antes-mesmo-de-coloca-lo-nas-pistas/"
     ],
     "tilt_uol": [
       "https://economia.uol.com.br/noticias/redacao/2026/09/27/bill-gates-inteligencia-artifical.ghtm",
@@ -4685,65 +4687,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anti",
-      "backlash",
-      "claims",
-      "tech",
-      "trump",
-      "voters"
-    ],
-    [
-      "buildout",
-      "center",
-      "data",
-      "epicenter",
-      "kaput",
-      "might",
-      "texas"
-    ],
-    [
-      "centers",
-      "data",
-      "hate",
-      "results",
-      "voters"
-    ],
-    [
-      "close",
-      "doom",
-      "face",
-      "hugging",
-      "zero"
-    ],
-    [
-      "classrooms",
-      "forcing",
-      "google",
-      "overviews",
-      "schools",
-      "searching"
-    ],
-    [
-      "biggest",
-      "didn",
-      "impact",
-      "midterms",
-      "network",
-      "really",
-      "super"
-    ],
-    [
-      "accounts",
-      "chat",
-      "even",
-      "gemini",
-      "history",
-      "personal",
-      "subscribers",
-      "tell",
-      "trains"
-    ],
     [
       "after",
       "apple",
@@ -6491,6 +6434,71 @@
       "forte",
       "manter",
       "nuvem"
+    ],
+    [
+      "billion",
+      "capital",
+      "court",
+      "dentists",
+      "funding",
+      "lands",
+      "more",
+      "openai",
+      "round"
+    ],
+    [
+      "blood",
+      "cuff",
+      "detects",
+      "google",
+      "high",
+      "pressure",
+      "regular",
+      "smartwatch",
+      "without"
+    ],
+    [
+      "agents",
+      "autonomous",
+      "experts",
+      "labs",
+      "national",
+      "nine",
+      "none",
+      "open",
+      "passed",
+      "questions",
+      "research",
+      "tried"
+    ],
+    [
+      "apps",
+      "caregivers",
+      "dose",
+      "enough",
+      "might"
+    ],
+    [
+      "accelerating",
+      "dramatically",
+      "research"
+    ],
+    [
+      "automacao",
+      "avancam",
+      "empresas",
+      "esta",
+      "medindo",
+      "quem"
+    ],
+    [
+      "antes",
+      "carro",
+      "coloca",
+      "criar",
+      "futuro",
+      "mesmo",
+      "pistas"
     ]
   ]
 }
