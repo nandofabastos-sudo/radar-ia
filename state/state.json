@@ -566,7 +566,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3173591",
       "https://techcrunch.com/?p=3173705",
       "https://techcrunch.com/?p=3173563",
       "https://techcrunch.com/?p=3173723",
@@ -865,7 +864,8 @@
       "https://techcrunch.com/?p=3185929",
       "https://techcrunch.com/?p=3185905",
       "https://techcrunch.com/?p=3186034",
-      "https://techcrunch.com/?p=3186051"
+      "https://techcrunch.com/?p=3186051",
+      "https://techcrunch.com/?p=3186087"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=999443",
@@ -1170,7 +1170,6 @@
       "https://www.theverge.com/1029489/nyt-cookings-ai-assistant-saved-my-weeknight-chicken-but-almost-ruined-my-cake"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40728",
       "https://the-decoder.com/?p=40733",
       "https://the-decoder.com/?p=40738",
       "https://the-decoder.com/?p=40741",
@@ -1469,7 +1468,8 @@
       "https://the-decoder.com/?p=42545",
       "https://the-decoder.com/?p=42554",
       "https://the-decoder.com/?p=42561",
-      "https://the-decoder.com/?p=42569"
+      "https://the-decoder.com/?p=42569",
+      "https://the-decoder.com/?p=42579"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2462,7 +2462,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108364434",
       "108363889",
       "108364460",
       "108362832",
@@ -2761,7 +2760,8 @@
       "108513422",
       "108533374",
       "108534551",
-      "108504895"
+      "108504895",
+      "108544579"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3145,7 +3145,6 @@
       "https://mittechreview.com.br/?p=287089"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1374279",
       "https://olhardigital.com.br/?p=1374304",
       "https://olhardigital.com.br/?p=1374313",
       "https://olhardigital.com.br/?p=1373951",
@@ -3444,7 +3443,8 @@
       "https://olhardigital.com.br/?p=1387615",
       "https://olhardigital.com.br/?p=1387766",
       "https://olhardigital.com.br/?p=1387113",
-      "https://olhardigital.com.br/?p=1387815"
+      "https://olhardigital.com.br/?p=1387815",
+      "https://olhardigital.com.br/?p=1387824"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4688,44 +4688,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agents",
-      "almost",
-      "book",
-      "company",
-      "their",
-      "uber",
-      "uses"
-    ],
-    [
-      "company",
-      "device",
-      "dropping",
-      "first",
-      "month",
-      "mysterious",
-      "next",
-      "nothing"
-    ],
-    [
-      "congress",
-      "fared",
-      "here",
-      "millions",
-      "pacs",
-      "shape",
-      "spent",
-      "they",
-      "trying"
-    ],
-    [
-      "apple",
-      "budgets",
-      "cutting",
-      "internal",
-      "reportedly",
-      "usage"
-    ],
     [
       "better",
       "could",
@@ -6527,6 +6489,49 @@
       "mapa",
       "novos",
       "usar"
+    ],
+    [
+      "according",
+      "exec",
+      "intelligence",
+      "megaspeed",
+      "memo",
+      "nvidia",
+      "recruited"
+    ],
+    [
+      "accepts",
+      "ahead",
+      "anthropic",
+      "despite",
+      "lower",
+      "pushes",
+      "selloff",
+      "tech",
+      "thanksgiving",
+      "valuation"
+    ],
+    [
+      "chief",
+      "dave",
+      "fireworks",
+      "infrastructure",
+      "join",
+      "leaves",
+      "meta",
+      "officer",
+      "startup",
+      "strategy",
+      "wehner"
+    ],
+    [
+      "china",
+      "chips",
+      "deixou",
+      "empresa",
+      "fantasma",
+      "nvidia",
+      "vender"
     ]
   ]
 }
