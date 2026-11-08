@@ -2458,13 +2458,12 @@
       "https://news.ycombinator.com/item?id=50397429",
       "https://news.ycombinator.com/item?id=50397994",
       "https://news.ycombinator.com/item?id=50403097",
-      "https://news.ycombinator.com/item?id=50406563"
+      "https://news.ycombinator.com/item?id=50406563",
+      "https://news.ycombinator.com/item?id=50407882"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108363889",
-      "108364460",
       "108362832",
       "108363793",
       "108364666",
@@ -2762,7 +2761,9 @@
       "108533374",
       "108534551",
       "108504895",
-      "108544579"
+      "108544579",
+      "108525058",
+      "108532441"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4690,42 +4691,6 @@
   },
   "_titulos_recentes": [
     [
-      "blue",
-      "bros",
-      "centers",
-      "data",
-      "scrambling",
-      "space",
-      "tech",
-      "wave"
-    ],
-    [
-      "after",
-      "beat",
-      "changes",
-      "company",
-      "earnings",
-      "figma",
-      "growth",
-      "long",
-      "prioritizes",
-      "sinks",
-      "term"
-    ],
-    [
-      "cramer",
-      "election",
-      "into",
-      "investors",
-      "much",
-      "post",
-      "rally",
-      "reading",
-      "street",
-      "wall",
-      "warns"
-    ],
-    [
       "acesso",
       "corporativa",
       "lanca",
@@ -6531,6 +6496,36 @@
       "group",
       "microsoft",
       "research"
+    ],
+    [
+      "again",
+      "claude",
+      "code",
+      "exposes",
+      "files",
+      "github",
+      "passwords",
+      "public"
+    ],
+    [
+      "agency",
+      "fees",
+      "pressure",
+      "putting",
+      "recruitment",
+      "speeding",
+      "under"
+    ],
+    [
+      "always",
+      "better",
+      "cathie",
+      "feels",
+      "here",
+      "market",
+      "when",
+      "wood",
+      "worried"
     ]
   ]
 }
