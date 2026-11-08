@@ -868,8 +868,6 @@
       "https://techcrunch.com/?p=3186091"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=999443",
-      "https://www.theverge.com/?p=999470",
       "https://www.theverge.com/?p=999412",
       "https://www.theverge.com/?p=999526",
       "https://www.theverge.com/?p=998457",
@@ -1167,7 +1165,9 @@
       "https://www.theverge.com/?p=1029126",
       "https://www.theverge.com/?p=1029038",
       "https://www.theverge.com/?p=1029483",
-      "https://www.theverge.com/1029489/nyt-cookings-ai-assistant-saved-my-weeknight-chicken-but-almost-ruined-my-cake"
+      "https://www.theverge.com/1029489/nyt-cookings-ai-assistant-saved-my-weeknight-chicken-but-almost-ruined-my-cake",
+      "https://www.theverge.com/?p=1029533",
+      "https://www.theverge.com/?p=1029552"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40762",
@@ -2468,7 +2468,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108363793",
       "108364666",
       "108364385",
       "108363758",
@@ -2767,7 +2766,8 @@
       "108544579",
       "108525058",
       "108532441",
-      "108505013"
+      "108505013",
+      "108545247"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3152,8 +3152,6 @@
       "https://mittechreview.com.br/?p=287434"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1373951",
-      "https://olhardigital.com.br/?p=1374070",
       "https://olhardigital.com.br/?p=1373467",
       "https://olhardigital.com.br/?p=1374422",
       "https://olhardigital.com.br/?p=1374426",
@@ -3451,7 +3449,9 @@
       "https://olhardigital.com.br/?p=1387815",
       "https://olhardigital.com.br/?p=1387824",
       "https://olhardigital.com.br/?p=1387441",
-      "https://olhardigital.com.br/?p=1387114"
+      "https://olhardigital.com.br/?p=1387114",
+      "https://olhardigital.com.br/?p=1387868",
+      "https://olhardigital.com.br/?p=1387872"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3660,7 +3660,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=945313"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/como-usar-chatgpt-e-gemini-sem-entregar-seus-maiores-segredos/",
       "https://canaltech.com.br/inteligencia-artificial/grok-47-estreia-como-a-3-melhor-ia-do-mundo-cobrando-menos/",
       "https://canaltech.com.br/caixa-de-som/lg-xboom-power-chega-ao-brasil-com-440-w-e-karaoke-com-ia/",
       "https://canaltech.com.br/inteligencia-artificial/samsung-notes-passa-a-avisar-quando-texto-e-criado-por-ia-veja-como-sera/",
@@ -3959,7 +3958,8 @@
       "https://canaltech.com.br/inteligencia-artificial/como-a-ia-vai-criar-o-carro-de-f1-do-futuro-antes-mesmo-de-coloca-lo-nas-pistas/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-como-funciona-chatgpt-dots/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-o-mapa-do-gemini-para-encontrar-novos-lugares/",
-      "https://canaltech.com.br/inteligencia-artificial/ferramentas-para-descobrir-texto-foto-video-feito-por-ia/"
+      "https://canaltech.com.br/inteligencia-artificial/ferramentas-para-descobrir-texto-foto-video-feito-por-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/guia-definitivo-qual-versao-gemini-usar/"
     ],
     "tilt_uol": [
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/28/usar-ia-para-responder-ao-parceiro-e-traicao.ghtm",
@@ -4696,57 +4696,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agent",
-      "content",
-      "first",
-      "nemotron",
-      "nvidia",
-      "retrieval",
-      "system",
-      "taps"
-    ],
-    [
-      "agents",
-      "aina",
-      "joystick",
-      "ring",
-      "screen",
-      "smart",
-      "talk"
-    ],
-    [
-      "350m",
-      "acquires",
-      "bolster",
-      "data",
-      "dropbox",
-      "infrastructure",
-      "tigris"
-    ],
-    [
-      "axiom",
-      "keep",
-      "math",
-      "mathematics",
-      "slop",
-      "wants"
-    ],
-    [
-      "buildout",
-      "someone",
-      "stops",
-      "tech",
-      "until",
-      "will"
-    ],
-    [
-      "elevenlabs",
-      "music",
-      "post",
-      "soundcloud",
-      "straight"
-    ],
     [
       "boom",
       "chain",
@@ -6546,6 +6495,62 @@
       "recorre",
       "seus",
       "silvestre"
+    ],
+    [
+      "elvis",
+      "eminem",
+      "holders",
+      "rights",
+      "suing",
+      "suno"
+    ],
+    [
+      "agentic",
+      "apple",
+      "make",
+      "more",
+      "racing",
+      "siri"
+    ],
+    [
+      "bipartisan",
+      "china",
+      "congressional",
+      "faces",
+      "huang",
+      "jensen",
+      "link",
+      "nvidia",
+      "over",
+      "reported",
+      "scrutiny"
+    ],
+    [
+      "anthropic",
+      "bilhoes",
+      "centers",
+      "data",
+      "geradores",
+      "investe"
+    ],
+    [
+      "avancam",
+      "empregos",
+      "expostos",
+      "homens",
+      "mulheres"
+    ],
+    [
+      "definitivo",
+      "deve",
+      "gemini",
+      "guia",
+      "qual",
+      "realmente",
+      "saiba",
+      "usar",
+      "versao",
+      "voce"
     ]
   ]
 }
