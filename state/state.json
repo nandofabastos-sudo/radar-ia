@@ -566,7 +566,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3173705",
       "https://techcrunch.com/?p=3173563",
       "https://techcrunch.com/?p=3173723",
       "https://techcrunch.com/?p=3173686",
@@ -865,7 +864,8 @@
       "https://techcrunch.com/?p=3185905",
       "https://techcrunch.com/?p=3186034",
       "https://techcrunch.com/?p=3186051",
-      "https://techcrunch.com/?p=3186087"
+      "https://techcrunch.com/?p=3186087",
+      "https://techcrunch.com/?p=3186091"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=999443",
@@ -2457,7 +2457,8 @@
       "https://news.ycombinator.com/item?id=50392118",
       "https://news.ycombinator.com/item?id=50397429",
       "https://news.ycombinator.com/item?id=50397994",
-      "https://news.ycombinator.com/item?id=50403097"
+      "https://news.ycombinator.com/item?id=50403097",
+      "https://news.ycombinator.com/item?id=50406563"
     ]
   },
   "mercado": {
@@ -4689,25 +4690,6 @@
   },
   "_titulos_recentes": [
     [
-      "better",
-      "could",
-      "elon",
-      "have",
-      "million",
-      "musk",
-      "wasted",
-      "ways"
-    ],
-    [
-      "betting",
-      "centers",
-      "data",
-      "qualcomm",
-      "sales",
-      "sink",
-      "smartphone"
-    ],
-    [
       "blue",
       "bros",
       "centers",
@@ -6532,6 +6514,23 @@
       "fantasma",
       "nvidia",
       "vender"
+    ],
+    [
+      "after",
+      "centers",
+      "data",
+      "elon",
+      "looking",
+      "midterms",
+      "musk",
+      "rocky",
+      "things"
+    ],
+    [
+      "frontiers",
+      "group",
+      "microsoft",
+      "research"
     ]
   ]
 }
