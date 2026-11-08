@@ -1170,10 +1170,6 @@
       "https://www.theverge.com/1029489/nyt-cookings-ai-assistant-saved-my-weeknight-chicken-but-almost-ruined-my-cake"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40733",
-      "https://the-decoder.com/?p=40738",
-      "https://the-decoder.com/?p=40741",
-      "https://the-decoder.com/?p=40752",
       "https://the-decoder.com/?p=40762",
       "https://the-decoder.com/?p=40765",
       "https://the-decoder.com/?p=40766",
@@ -1469,7 +1465,11 @@
       "https://the-decoder.com/?p=42554",
       "https://the-decoder.com/?p=42561",
       "https://the-decoder.com/?p=42569",
-      "https://the-decoder.com/?p=42579"
+      "https://the-decoder.com/?p=42579",
+      "https://the-decoder.com/?p=42583",
+      "https://the-decoder.com/?p=42596",
+      "https://the-decoder.com/?p=42602",
+      "https://the-decoder.com/?p=42607"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2140,7 +2140,9 @@
       "6aecb226aada98abfcc68c76",
       "6aeccdd60e08160b7fc2e8b1",
       "6aeb76b2899aefeeb033197b",
-      "6ae8fcff93d0a10b8d7f1f15"
+      "6ae8fcff93d0a10b8d7f1f15",
+      "6ae4b7e754bf7a084fa1ea61",
+      "6aed1403f979e2b672d1308c"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2459,12 +2461,13 @@
       "https://news.ycombinator.com/item?id=50397994",
       "https://news.ycombinator.com/item?id=50403097",
       "https://news.ycombinator.com/item?id=50406563",
-      "https://news.ycombinator.com/item?id=50407882"
+      "https://news.ycombinator.com/item?id=50407882",
+      "https://news.ycombinator.com/item?id=50406222",
+      "https://news.ycombinator.com/item?id=50410107"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108362832",
       "108363793",
       "108364666",
       "108364385",
@@ -2763,7 +2766,8 @@
       "108504895",
       "108544579",
       "108525058",
-      "108532441"
+      "108532441",
+      "108505013"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3144,11 +3148,10 @@
       "https://mittechreview.com.br/?p=287036",
       "https://mittechreview.com.br/?p=287070",
       "https://mittechreview.com.br/?p=286793",
-      "https://mittechreview.com.br/?p=287089"
+      "https://mittechreview.com.br/?p=287089",
+      "https://mittechreview.com.br/?p=287434"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1374304",
-      "https://olhardigital.com.br/?p=1374313",
       "https://olhardigital.com.br/?p=1373951",
       "https://olhardigital.com.br/?p=1374070",
       "https://olhardigital.com.br/?p=1373467",
@@ -3446,7 +3449,9 @@
       "https://olhardigital.com.br/?p=1387766",
       "https://olhardigital.com.br/?p=1387113",
       "https://olhardigital.com.br/?p=1387815",
-      "https://olhardigital.com.br/?p=1387824"
+      "https://olhardigital.com.br/?p=1387824",
+      "https://olhardigital.com.br/?p=1387441",
+      "https://olhardigital.com.br/?p=1387114"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3655,7 +3660,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=945313"
     ],
     "canaltech": [
-      "https://canaltech.com.br/produtos/robo-humanoide-da-xpeng-nasce-e-ja-sai-andando-sozinho-da-fabrica/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-chatgpt-e-gemini-sem-entregar-seus-maiores-segredos/",
       "https://canaltech.com.br/inteligencia-artificial/grok-47-estreia-como-a-3-melhor-ia-do-mundo-cobrando-menos/",
       "https://canaltech.com.br/caixa-de-som/lg-xboom-power-chega-ao-brasil-com-440-w-e-karaoke-com-ia/",
@@ -3954,10 +3958,10 @@
       "https://canaltech.com.br/inteligencia-artificial/novo-gpt-6-cyber-encontra-falhas-de-seguranca-mais-rapido-que-qualquer-hacker/",
       "https://canaltech.com.br/inteligencia-artificial/como-a-ia-vai-criar-o-carro-de-f1-do-futuro-antes-mesmo-de-coloca-lo-nas-pistas/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-e-como-funciona-chatgpt-dots/",
-      "https://canaltech.com.br/inteligencia-artificial/como-usar-o-mapa-do-gemini-para-encontrar-novos-lugares/"
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-o-mapa-do-gemini-para-encontrar-novos-lugares/",
+      "https://canaltech.com.br/inteligencia-artificial/ferramentas-para-descobrir-texto-foto-video-feito-por-ia/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/09/27/bill-gates-faz-coro-aos-apelos-por-medidas-de-protecao-relacionadas-a-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/09/28/usar-ia-para-responder-ao-parceiro-e-traicao.ghtm",
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/28/nvidia-amplia-recompra-de-acoes-para-us-235-bilhoes-e-lanca-plataforma-de-seguranca-para-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/09/28/autorregulacao-nao-basta-diz-bill-gates-sobre-seguranca-de-ia.htm",
@@ -4256,7 +4260,8 @@
       "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/11/06/governo-lula-aprova-r-463-mi-para-rede-nacional-de-data-center.htm",
       "https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/11/06/meta-adia-regra-que-permite-uso-de-conteudo-jornalistico-por-ia-sem-licenca.htm",
       "https://tilt.uol.com.br/colunas/iagora/2026/11/06/bolha-da-ia-comeca-a-desinflar-revolta-das-urnas-nos-eua-atinge-mercados.htm",
-      "https://tilt.uol.com.br/colunas/helton-simoes-gomes/2026/11/06/governo-lula-aprova-r-463-mi-para-rede-nacional-de-data-center.htm"
+      "https://tilt.uol.com.br/colunas/helton-simoes-gomes/2026/11/06/governo-lula-aprova-r-463-mi-para-rede-nacional-de-data-center.htm",
+      "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/11/08/k-pop-vira-laboratorio-de-artistas-clonados-com-inteligencia-artificial.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4336,7 +4341,8 @@
       "https://neofeed.com.br/?p=242136",
       "https://neofeed.com.br/?p=241860",
       "https://neofeed.com.br/?p=243020",
-      "https://neofeed.com.br/?p=244017"
+      "https://neofeed.com.br/?p=244017",
+      "https://neofeed.com.br/?p=243999"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -4690,135 +4696,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acesso",
-      "corporativa",
-      "lanca",
-      "modelos",
-      "plataforma",
-      "skyone"
-    ],
-    [
-      "busca",
-      "desativar",
-      "estudantes",
-      "ferramentas",
-      "google",
-      "mecanismo"
-    ],
-    [
-      "anatel",
-      "aprova",
-      "center",
-      "data",
-      "destinacao",
-      "kits"
-    ],
-    [
-      "after",
-      "bigger",
-      "centers",
-      "clash",
-      "coming",
-      "could",
-      "data",
-      "midterms",
-      "over"
-    ],
-    [
-      "agentic",
-      "current",
-      "setup",
-      "what",
-      "your"
-    ],
-    [
-      "fewer",
-      "paths",
-      "root",
-      "thousand"
-    ],
-    [
-      "amanha",
-      "congresso",
-      "impacto",
-      "lado",
-      "muda",
-      "olhar",
-      "sentir"
-    ],
-    [
-      "infrastructure",
-      "responsible",
-      "setting",
-      "standard"
-    ],
-    [
-      "clips",
-      "cost",
-      "effective",
-      "fast",
-      "flash",
-      "gemini",
-      "longer",
-      "omni"
-    ],
-    [
-      "dlss",
-      "geforce",
-      "gets",
-      "hogwarts",
-      "legacy",
-      "magical",
-      "nvidia",
-      "upgrade"
-    ],
-    [
-      "byte",
-      "challenge",
-      "codesign",
-      "every",
-      "full",
-      "memory",
-      "more",
-      "performance",
-      "solves",
-      "stack"
-    ],
-    [
-      "alexiuk",
-      "chris",
-      "easy",
-      "makes",
-      "models",
-      "open",
-      "weights",
-      "wizard"
-    ],
-    [
-      "mistral"
-    ],
-    [
-      "agility",
-      "buying",
-      "company",
-      "first",
-      "humanoid",
-      "market",
-      "pure",
-      "robot",
-      "stock"
-    ],
-    [
-      "behind",
-      "five",
-      "materials",
-      "problems",
-      "putting",
-      "science",
-      "startup",
-      "unsolved"
-    ],
     [
       "agent",
       "content",
@@ -6526,6 +6403,149 @@
       "when",
       "wood",
       "worried"
+    ],
+    [
+      "agents",
+      "cleanup",
+      "coding",
+      "four",
+      "human",
+      "nearly",
+      "need",
+      "real",
+      "still",
+      "tasks",
+      "test",
+      "three",
+      "world"
+    ],
+    [
+      "bitter",
+      "enthusiasts",
+      "inventor",
+      "lesson",
+      "scaling"
+    ],
+    [
+      "brain",
+      "computer",
+      "consciousness",
+      "debate",
+      "metaphor",
+      "misleading",
+      "modern",
+      "shaped"
+    ],
+    [
+      "andrej",
+      "built",
+      "claude",
+      "curated",
+      "hacker",
+      "karpathy",
+      "news",
+      "platform",
+      "using",
+      "video",
+      "weekend",
+      "years"
+    ],
+    [
+      "here",
+      "inescapable",
+      "know",
+      "models",
+      "need",
+      "soon",
+      "what",
+      "will",
+      "world"
+    ],
+    [
+      "actually",
+      "cooking",
+      "good",
+      "modifier",
+      "powered",
+      "pretty",
+      "recipe",
+      "used"
+    ],
+    [
+      "deepswe",
+      "maxxbench",
+      "nice",
+      "score",
+      "true"
+    ],
+    [
+      "claude",
+      "goodbye",
+      "hello"
+    ],
+    [
+      "agent",
+      "corporations",
+      "experiments",
+      "future",
+      "inside",
+      "machine",
+      "recent",
+      "reveal",
+      "risky",
+      "teamwork"
+    ],
+    [
+      "agentes",
+      "controle",
+      "jogos",
+      "manter",
+      "poderia",
+      "reversa",
+      "teoria"
+    ],
+    [
+      "caes",
+      "china",
+      "competicao",
+      "degraus",
+      "enfrentam",
+      "robos"
+    ],
+    [
+      "automacao",
+      "inteligente",
+      "objetivo",
+      "pode",
+      "unico",
+      "volume"
+    ],
+    [
+      "descobrir",
+      "feitos",
+      "ferramentas",
+      "foram",
+      "foto",
+      "texto",
+      "video"
+    ],
+    [
+      "artificial",
+      "artistas",
+      "clonados",
+      "inteligencia",
+      "laboratorio",
+      "vira"
+    ],
+    [
+      "artificial",
+      "centenaria",
+      "corredores",
+      "inteligencia",
+      "preparar",
+      "recorre",
+      "seus",
+      "silvestre"
     ]
   ]
 }
