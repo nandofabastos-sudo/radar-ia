@@ -868,7 +868,6 @@
       "https://techcrunch.com/?p=3186128"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=999526",
       "https://www.theverge.com/?p=998457",
       "https://www.theverge.com/?post_type=vm_stream&p=998480",
       "https://www.theverge.com/?p=999454",
@@ -1167,7 +1166,8 @@
       "https://www.theverge.com/1029489/nyt-cookings-ai-assistant-saved-my-weeknight-chicken-but-almost-ruined-my-cake",
       "https://www.theverge.com/?p=1029533",
       "https://www.theverge.com/?p=1029552",
-      "https://www.theverge.com/?p=1029562"
+      "https://www.theverge.com/?p=1029562",
+      "https://www.theverge.com/?p=1029595"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40762",
@@ -2465,7 +2465,9 @@
       "https://news.ycombinator.com/item?id=50406222",
       "https://news.ycombinator.com/item?id=50410107",
       "https://news.ycombinator.com/item?id=50411961",
-      "https://news.ycombinator.com/item?id=50415628"
+      "https://news.ycombinator.com/item?id=50415628",
+      "https://news.ycombinator.com/item?id=50416801",
+      "https://news.ycombinator.com/item?id=50418016"
     ]
   },
   "mercado": {
@@ -4699,29 +4701,6 @@
   },
   "_titulos_recentes": [
     [
-      "after",
-      "communities",
-      "expansion",
-      "midterm",
-      "needs",
-      "openai",
-      "over",
-      "rout",
-      "tries"
-    ],
-    [
-      "among",
-      "chinese",
-      "claims",
-      "computer",
-      "models",
-      "place",
-      "releases",
-      "second",
-      "tencent",
-      "vision"
-    ],
-    [
       "above",
       "agent",
       "benchmark",
@@ -6550,6 +6529,24 @@
       "crise",
       "pode",
       "resolver"
+    ],
+    [
+      "full",
+      "here",
+      "huang",
+      "jensen",
+      "memo",
+      "nvidia",
+      "text"
+    ],
+    [
+      "about",
+      "affair",
+      "huang",
+      "jensen",
+      "letter",
+      "nvidia",
+      "staff"
     ]
   ]
 }
