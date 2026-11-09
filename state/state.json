@@ -477,7 +477,12 @@
       "https://blogs.nvidia.com/?p=99635",
       "https://blogs.nvidia.com/?p=99648",
       "https://blogs.nvidia.com/?p=99663",
-      "https://blogs.nvidia.com/?p=99702"
+      "https://blogs.nvidia.com/?p=99702",
+      "https://blogs.nvidia.com/?p=99731",
+      "https://blogs.nvidia.com/?p=99721",
+      "https://blogs.nvidia.com/?p=99736",
+      "https://blogs.nvidia.com/?p=99712",
+      "https://blogs.nvidia.com/?p=99744"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -566,7 +571,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3173723",
       "https://techcrunch.com/?p=3173686",
       "https://techcrunch.com/?p=3173232",
       "https://techcrunch.com/?p=3173828",
@@ -865,7 +869,8 @@
       "https://techcrunch.com/?p=3186051",
       "https://techcrunch.com/?p=3186087",
       "https://techcrunch.com/?p=3186091",
-      "https://techcrunch.com/?p=3186128"
+      "https://techcrunch.com/?p=3186128",
+      "https://techcrunch.com/?p=3186150"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=998457",
@@ -2142,7 +2147,8 @@
       "6aeb76b2899aefeeb033197b",
       "6ae8fcff93d0a10b8d7f1f15",
       "6ae4b7e754bf7a084fa1ea61",
-      "6aed1403f979e2b672d1308c"
+      "6aed1403f979e2b672d1308c",
+      "6ae50d5754bf7a084fa1ee9b"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2467,13 +2473,12 @@
       "https://news.ycombinator.com/item?id=50411961",
       "https://news.ycombinator.com/item?id=50415628",
       "https://news.ycombinator.com/item?id=50416801",
-      "https://news.ycombinator.com/item?id=50418016"
+      "https://news.ycombinator.com/item?id=50418016",
+      "https://news.ycombinator.com/item?id=50418975"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108363758",
-      "108364783",
       "108364568",
       "108364890",
       "108364882",
@@ -2771,7 +2776,9 @@
       "108505013",
       "108545247",
       "108545259",
-      "108545261"
+      "108545261",
+      "108545725",
+      "108545608"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3153,11 +3160,10 @@
       "https://mittechreview.com.br/?p=287070",
       "https://mittechreview.com.br/?p=286793",
       "https://mittechreview.com.br/?p=287089",
-      "https://mittechreview.com.br/?p=287434"
+      "https://mittechreview.com.br/?p=287434",
+      "https://mittechreview.com.br/?p=287442"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1374422",
-      "https://olhardigital.com.br/?p=1374426",
       "https://olhardigital.com.br/?p=1374441",
       "https://olhardigital.com.br/?p=1374454",
       "https://olhardigital.com.br/?p=1374463",
@@ -3455,7 +3461,9 @@
       "https://olhardigital.com.br/?p=1387114",
       "https://olhardigital.com.br/?p=1387868",
       "https://olhardigital.com.br/?p=1387872",
-      "https://olhardigital.com.br/?p=1387956"
+      "https://olhardigital.com.br/?p=1387956",
+      "https://olhardigital.com.br/?p=1387985",
+      "https://olhardigital.com.br/?p=1387987"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3661,7 +3669,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=945020",
       "https://tecnoblog.net/?post_type=noticias&p=945205",
       "https://tecnoblog.net/?post_type=noticias&p=945220",
-      "https://tecnoblog.net/?post_type=noticias&p=945313"
+      "https://tecnoblog.net/?post_type=noticias&p=945313",
+      "https://tecnoblog.net/?post_type=noticias&p=945419"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/samsung-notes-passa-a-avisar-quando-texto-e-criado-por-ia-veja-como-sera/",
@@ -4700,136 +4709,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "above",
-      "agent",
-      "benchmark",
-      "percent",
-      "real",
-      "scores",
-      "semianalysis",
-      "work",
-      "world"
-    ],
-    [
-      "agility",
-      "debut",
-      "humanoid",
-      "invites",
-      "market",
-      "nasdaq",
-      "robot",
-      "robotics",
-      "scrutiny"
-    ],
-    [
-      "labs",
-      "living",
-      "they",
-      "trolls",
-      "want",
-      "work"
-    ],
-    [
-      "dolphin",
-      "next",
-      "speaking",
-      "trick"
-    ],
-    [
-      "drugs",
-      "finding",
-      "laborious",
-      "skipping",
-      "startup",
-      "work"
-    ],
-    [
-      "agent",
-      "aina",
-      "control",
-      "exclusive",
-      "remote",
-      "ring",
-      "smart",
-      "wants",
-      "your"
-    ],
-    [
-      "anymore",
-      "apps",
-      "building",
-      "cool",
-      "founder",
-      "media",
-      "reddit",
-      "social"
-    ],
-    [
-      "after",
-      "center",
-      "data",
-      "election",
-      "halt",
-      "ndas",
-      "openai",
-      "pledges",
-      "policy",
-      "proposal",
-      "rebuke"
-    ],
-    [
-      "could",
-      "fuel",
-      "midterms",
-      "shaped",
-      "trade"
-    ],
-    [
-      "access",
-      "amid",
-      "blackwell",
-      "china",
-      "chinese",
-      "cnbc",
-      "curbs",
-      "europe",
-      "moonshot",
-      "nvidia",
-      "sources",
-      "tell",
-      "turned"
-    ],
-    [
-      "away",
-      "correction",
-      "cramer",
-      "enters",
-      "going",
-      "nasdaq",
-      "trade"
-    ],
-    [
-      "construction",
-      "funding",
-      "peak",
-      "previous",
-      "robotics",
-      "sector",
-      "snapshot",
-      "soars",
-      "tripling"
-    ],
-    [
-      "350m",
-      "acquisition",
-      "biggest",
-      "deal",
-      "dropbox",
-      "infrastructure",
-      "plans",
-      "tigris"
-    ],
     [
       "desculpa",
       "polemica",
@@ -6547,6 +6426,128 @@
       "letter",
       "nvidia",
       "staff"
+    ],
+    [
+      "bring",
+      "dynamo",
+      "korea",
+      "leading",
+      "models",
+      "nvidia",
+      "open",
+      "production",
+      "recipes"
+    ],
+    [
+      "chips",
+      "collaboration",
+      "expand",
+      "korea",
+      "nvidia",
+      "skills",
+      "sovereign"
+    ],
+    [
+      "advances",
+      "agentic",
+      "ecosystem",
+      "korea",
+      "nvidia",
+      "secures"
+    ],
+    [
+      "across",
+      "advances",
+      "industries",
+      "korea",
+      "nvidia",
+      "physical"
+    ],
+    [
+      "announces",
+      "forum",
+      "investments",
+      "korean",
+      "msit",
+      "nvidia",
+      "partnership",
+      "planned",
+      "startup",
+      "startups"
+    ],
+    [
+      "about",
+      "estimates",
+      "huang",
+      "jeffrey",
+      "jensen",
+      "line",
+      "sonnenfeld",
+      "yale"
+    ],
+    [
+      "bikers",
+      "center",
+      "data",
+      "fight",
+      "forces",
+      "google",
+      "join",
+      "lovers"
+    ],
+    [
+      "bubble",
+      "convinced",
+      "exists"
+    ],
+    [
+      "affair",
+      "after",
+      "buyer",
+      "chip",
+      "haung",
+      "jensen",
+      "megaspeed",
+      "nvidia",
+      "spotlight",
+      "what"
+    ],
+    [
+      "centros",
+      "chegado",
+      "dados",
+      "epicentro",
+      "expansao",
+      "isso",
+      "pode",
+      "texas"
+    ],
+    [
+      "china",
+      "espionagem",
+      "geopolitica",
+      "novela",
+      "nvidia",
+      "traicao"
+    ],
+    [
+      "astronautas",
+      "comeco",
+      "crise",
+      "nvidia",
+      "procuram",
+      "resumo",
+      "teoria",
+      "universo"
+    ],
+    [
+      "agentes",
+      "corridas",
+      "dona",
+      "insignificante",
+      "numero",
+      "solicitadas",
+      "teve"
     ]
   ]
 }
