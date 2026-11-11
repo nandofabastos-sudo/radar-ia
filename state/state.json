@@ -236,7 +236,11 @@
       "https://openai.com/index/closing-ai-guidance-gap-education",
       "https://openai.com/index/ai-effect-on-freelance-work",
       "https://openai.com/index/introducing-businesses-chatgpt",
-      "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+      "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "https://openai.com/index/cogent-security",
+      "https://openai.com/index/singapore-airlines-travel-work",
+      "https://openai.com/index/chatgpt-plus-for-veterans",
+      "https://openai.com/index/gilbert-tobin-sam-nickless"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -498,7 +502,8 @@
       "https://blogs.nvidia.com/?p=99712",
       "https://blogs.nvidia.com/?p=99744",
       "https://blogs.nvidia.com/?p=99751",
-      "https://blogs.nvidia.com/?p=99797"
+      "https://blogs.nvidia.com/?p=99797",
+      "https://blogs.nvidia.com/?p=99833"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -587,7 +592,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3174749",
       "https://techcrunch.com/?p=3175219",
       "https://techcrunch.com/?p=3175232",
       "https://techcrunch.com/?p=3175292",
@@ -886,7 +890,8 @@
       "https://techcrunch.com/?p=3187050",
       "https://techcrunch.com/?p=3187028",
       "https://techcrunch.com/?p=3187145",
-      "https://techcrunch.com/?p=3187116"
+      "https://techcrunch.com/?p=3187116",
+      "https://techcrunch.com/?p=3187258"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=1000321",
@@ -2222,7 +2227,8 @@
       "6ae1370c482765000141e5cc",
       "6ad9050dfc71fb0001d96bc8",
       "6aea7a8eb1fc8f0001faf888",
-      "6aecf6db72f2d40001289c29"
+      "6aecf6db72f2d40001289c29",
+      "6af3b04d41212900011ace33"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49157930",
@@ -2515,13 +2521,12 @@
       "https://news.ycombinator.com/item?id=50429024",
       "https://news.ycombinator.com/item?id=50429068",
       "https://news.ycombinator.com/item?id=50439193",
-      "https://news.ycombinator.com/item?id=50438318"
+      "https://news.ycombinator.com/item?id=50438318",
+      "https://news.ycombinator.com/item?id=50447074"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108366047",
-      "108362200",
       "108366914",
       "108367188",
       "108367213",
@@ -2819,7 +2824,9 @@
       "108546775",
       "108548366",
       "108548309",
-      "108548391"
+      "108548391",
+      "108548645",
+      "108548701"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3216,8 +3223,6 @@
       "https://mittechreview.com.br/?p=287463"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1374897",
-      "https://olhardigital.com.br/?p=1374971",
       "https://olhardigital.com.br/?p=1375033",
       "https://olhardigital.com.br/?p=1375105",
       "https://olhardigital.com.br/?p=1375229",
@@ -3515,7 +3520,9 @@
       "https://olhardigital.com.br/?p=1388618",
       "https://olhardigital.com.br/?p=1388654",
       "https://olhardigital.com.br/?p=1388663",
-      "https://olhardigital.com.br/?p=1388673"
+      "https://olhardigital.com.br/?p=1388673",
+      "https://olhardigital.com.br/?p=1388704",
+      "https://olhardigital.com.br/?p=1388610"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3728,7 +3735,9 @@
       "https://tecnoblog.net/?post_type=noticias&p=945636",
       "https://tecnoblog.net/?post_type=noticias&p=945659",
       "https://tecnoblog.net/?post_type=achados&p=945716",
-      "https://tecnoblog.net/?post_type=noticias&p=945806"
+      "https://tecnoblog.net/?post_type=noticias&p=945806",
+      "https://tecnoblog.net/?post_type=noticias&p=945857",
+      "https://tecnoblog.net/?post_type=noticias&p=945900"
     ],
     "canaltech": [
       "https://canaltech.com.br/carros/jeep-lanca-edicoes-comemorativas-de-suvs-com-chatgpt-e-motor-hibrido-leve/",
@@ -4780,119 +4789,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "bikers",
-      "center",
-      "data",
-      "fight",
-      "forces",
-      "google",
-      "join",
-      "lovers"
-    ],
-    [
-      "bubble",
-      "convinced",
-      "exists"
-    ],
-    [
-      "affair",
-      "after",
-      "buyer",
-      "chip",
-      "haung",
-      "jensen",
-      "megaspeed",
-      "nvidia",
-      "spotlight",
-      "what"
-    ],
-    [
-      "centros",
-      "chegado",
-      "dados",
-      "epicentro",
-      "expansao",
-      "isso",
-      "pode",
-      "texas"
-    ],
-    [
-      "china",
-      "espionagem",
-      "geopolitica",
-      "novela",
-      "nvidia",
-      "traicao"
-    ],
-    [
-      "astronautas",
-      "comeco",
-      "crise",
-      "nvidia",
-      "procuram",
-      "resumo",
-      "teoria",
-      "universo"
-    ],
-    [
-      "agentes",
-      "corridas",
-      "dona",
-      "insignificante",
-      "numero",
-      "solicitadas",
-      "teve"
-    ],
-    [
-      "drawings",
-      "industries",
-      "kuken",
-      "minutes",
-      "searches",
-      "years"
-    ],
-    [
-      "available",
-      "chatgpt",
-      "enterprise",
-      "marketplace"
-    ],
-    [
-      "corl",
-      "delicate",
-      "makes",
-      "nvidia",
-      "partners",
-      "practice",
-      "precise",
-      "rehearse",
-      "reveal",
-      "robots",
-      "simulation",
-      "work"
-    ],
-    [
-      "amid",
-      "apps",
-      "automattic",
-      "changing",
-      "coding",
-      "debuts",
-      "deploy",
-      "internet",
-      "platform",
-      "vibe"
-    ],
-    [
-      "assistance",
-      "brings",
-      "directly",
-      "into",
-      "medium",
-      "process",
-      "writing"
-    ],
     [
       "anthropic",
       "buys",
@@ -6651,6 +6547,105 @@
       "comportamento",
       "consumidor",
       "startup"
+    ],
+    [
+      "build",
+      "cogent",
+      "cyber",
+      "defense",
+      "enterprises",
+      "factories",
+      "openai"
+    ],
+    [
+      "airlines",
+      "elevates",
+      "openai",
+      "singapore",
+      "technology",
+      "travel",
+      "work"
+    ],
+    [
+      "chatgpt",
+      "plus",
+      "servicemembers",
+      "veterans"
+    ],
+    [
+      "business",
+      "gilbert",
+      "rethinks",
+      "tobin"
+    ],
+    [
+      "helps",
+      "into",
+      "material",
+      "mixed",
+      "recyclers",
+      "reusable",
+      "turn",
+      "waste"
+    ],
+    [
+      "corporate",
+      "crisis",
+      "experts",
+      "governance",
+      "nvidia",
+      "popcorn",
+      "reaching"
+    ],
+    [
+      "anthropic",
+      "discovered",
+      "tracking",
+      "vulnerabilities"
+    ],
+    [
+      "anthropic",
+      "australian",
+      "intensifies",
+      "offering",
+      "opens",
+      "retail",
+      "scrutiny"
+    ],
+    [
+      "bessent",
+      "china",
+      "compete",
+      "cooperate",
+      "harbor",
+      "illusions",
+      "should",
+      "they"
+    ],
+    [
+      "bilhoes",
+      "chega",
+      "fatura",
+      "openai",
+      "prejuizo",
+      "quase"
+    ],
+    [
+      "agentes",
+      "carbon",
+      "equipes",
+      "gemini",
+      "google",
+      "libera",
+      "publico",
+      "recurso"
+    ],
+    [
+      "adobe",
+      "anunciam",
+      "desenvolvimento",
+      "disney",
+      "parceria"
     ]
   ]
 }
