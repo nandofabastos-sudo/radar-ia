@@ -597,9 +597,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3175311",
-      "https://techcrunch.com/?p=3175777",
-      "https://techcrunch.com/?p=3175776",
       "https://techcrunch.com/?p=3175754",
       "https://techcrunch.com/?p=3175734",
       "https://techcrunch.com/?p=3175682",
@@ -896,10 +893,12 @@
       "https://techcrunch.com/?p=3187437",
       "https://techcrunch.com/?post_type=tc_podcast&p=3187346",
       "https://techcrunch.com/?p=3187471",
-      "https://techcrunch.com/?post_type=tc_video&p=3187347"
+      "https://techcrunch.com/?post_type=tc_video&p=3187347",
+      "https://techcrunch.com/?p=3187540",
+      "https://techcrunch.com/?p=3187556",
+      "https://techcrunch.com/?p=3187615"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1000344",
       "https://www.theverge.com/?p=1001049",
       "https://www.theverge.com/?p=1001178",
       "https://www.theverge.com/?p=1001193",
@@ -1198,7 +1197,8 @@
       "https://www.theverge.com/?p=1031505",
       "https://www.theverge.com/?p=1031524",
       "https://www.theverge.com/?p=1031526",
-      "https://www.theverge.com/?p=1031623"
+      "https://www.theverge.com/?p=1031623",
+      "https://www.theverge.com/?p=1031652"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40909",
@@ -2538,14 +2538,14 @@
       "https://news.ycombinator.com/item?id=50447074",
       "https://news.ycombinator.com/item?id=50446520",
       "https://news.ycombinator.com/item?id=50452455",
-      "https://news.ycombinator.com/item?id=50455394"
+      "https://news.ycombinator.com/item?id=50455394",
+      "https://news.ycombinator.com/item?id=50456791",
+      "https://news.ycombinator.com/item?id=50458900",
+      "https://news.ycombinator.com/item?id=50459703"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108367241",
-      "108366877",
-      "108366749",
       "108367403",
       "108367513",
       "108367951",
@@ -2842,7 +2842,10 @@
       "108548766",
       "108548802",
       "108548821",
-      "108548643"
+      "108548643",
+      "108549304",
+      "108549476",
+      "108549274"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3242,10 +3245,6 @@
       "https://mittechreview.com.br/?p=288340"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1375241",
-      "https://olhardigital.com.br/?p=1375310",
-      "https://olhardigital.com.br/?p=1375312",
-      "https://olhardigital.com.br/?p=1375293",
       "https://olhardigital.com.br/?p=1375333",
       "https://olhardigital.com.br/?p=1375338",
       "https://olhardigital.com.br/?p=1375356",
@@ -3541,7 +3540,11 @@
       "https://olhardigital.com.br/?p=1388816",
       "https://olhardigital.com.br/?p=1388846",
       "https://olhardigital.com.br/?p=1388963",
-      "https://olhardigital.com.br/?p=1388971"
+      "https://olhardigital.com.br/?p=1388971",
+      "https://olhardigital.com.br/?p=1389001",
+      "https://olhardigital.com.br/?p=1389003",
+      "https://olhardigital.com.br/?p=1389026",
+      "https://olhardigital.com.br/?p=1389030"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4815,93 +4818,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alertou",
-      "antes",
-      "espionagem",
-      "investidor",
-      "meses",
-      "nvidia",
-      "relacao",
-      "suspeita"
-    ],
-    [
-      "bastidores",
-      "chips",
-      "crise",
-      "espionagem",
-      "nvidia",
-      "poder",
-      "spotlight"
-    ],
-    [
-      "cria",
-      "links",
-      "organizar",
-      "perdidos",
-      "prints",
-      "samsung"
-    ],
-    [
-      "antes",
-      "anthropic",
-      "apresenta",
-      "bolsa",
-      "estreia",
-      "versao"
-    ],
-    [
-      "closing",
-      "education",
-      "guidance"
-    ],
-    [
-      "anthropic",
-      "initial",
-      "launches",
-      "offering",
-      "proposed",
-      "public",
-      "roadshow"
-    ],
-    [
-      "alphaproof",
-      "breakthrough",
-      "code",
-      "complex",
-      "depth",
-      "introducing",
-      "software",
-      "verifying"
-    ],
-    [
-      "across",
-      "conversations",
-      "follow",
-      "languages",
-      "otter"
-    ],
-    [
-      "anthropic",
-      "dollar",
-      "kicks",
-      "offering",
-      "roadshow",
-      "shares",
-      "targeting",
-      "trillion",
-      "valuation"
-    ],
-    [
-      "center",
-      "data",
-      "demand",
-      "drones",
-      "fiber",
-      "optic",
-      "squeezed",
-      "ukraine"
-    ],
     [
       "deepmind",
       "google",
@@ -6679,6 +6595,98 @@
       "lanca",
       "plataforma",
       "zendesk"
+    ],
+    [
+      "accused",
+      "affair",
+      "another",
+      "exec",
+      "having",
+      "huang",
+      "jensen",
+      "nvidia"
+    ],
+    [
+      "board",
+      "drops",
+      "huang",
+      "jensen",
+      "nvidia",
+      "oust",
+      "preps",
+      "reportedly",
+      "stock"
+    ],
+    [
+      "could",
+      "highly",
+      "huang",
+      "jensen",
+      "list",
+      "possible",
+      "replace",
+      "successors",
+      "unscientific"
+    ],
+    [
+      "decisions",
+      "gemini"
+    ],
+    [
+      "agents",
+      "airlines",
+      "bans",
+      "behalf",
+      "booking",
+      "flights",
+      "travelers",
+      "united"
+    ],
+    [
+      "affair",
+      "calls",
+      "china",
+      "exports",
+      "huang",
+      "jensen",
+      "moves",
+      "nvidia",
+      "resignation",
+      "tighten"
+    ],
+    [
+      "anthropic",
+      "cramer",
+      "making"
+    ],
+    [
+      "escandalo",
+      "huang",
+      "jensen",
+      "jornal",
+      "nvidia",
+      "prepara",
+      "saida"
+    ],
+    [
+      "agencia",
+      "contrata",
+      "empresa",
+      "encontrar",
+      "huang",
+      "jensen",
+      "nvidia",
+      "substituto"
+    ],
+    [
+      "apple",
+      "carplay",
+      "chega",
+      "conversar",
+      "dirige",
+      "enquanto",
+      "gemini",
+      "permite"
     ]
   ]
 }
