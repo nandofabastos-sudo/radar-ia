@@ -2264,12 +2264,10 @@
       "6ad9050dfc71fb0001d96bc8",
       "6aea7a8eb1fc8f0001faf888",
       "6aecf6db72f2d40001289c29",
-      "6af3b04d41212900011ace33"
+      "6af3b04d41212900011ace33",
+      "6aecef3d72f2d40001289bc0"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49161518",
-      "https://news.ycombinator.com/item?id=49167113",
-      "https://news.ycombinator.com/item?id=49241679",
       "https://news.ycombinator.com/item?id=49243880",
       "https://news.ycombinator.com/item?id=49246804",
       "https://news.ycombinator.com/item?id=49250836",
@@ -2566,15 +2564,14 @@
       "https://news.ycombinator.com/item?id=50459703",
       "https://news.ycombinator.com/item?id=50465829",
       "https://news.ycombinator.com/item?id=50467087",
-      "https://news.ycombinator.com/item?id=50471431"
+      "https://news.ycombinator.com/item?id=50471431",
+      "https://news.ycombinator.com/item?id=50468888",
+      "https://news.ycombinator.com/item?id=50472260",
+      "https://news.ycombinator.com/item?id=50477231"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108368656",
-      "108368537",
-      "108368707",
-      "108368770",
       "108368921",
       "108368848",
       "108368945",
@@ -2870,7 +2867,11 @@
       "108549502",
       "108550469",
       "108550446",
-      "108550609"
+      "108550609",
+      "108550737",
+      "108550439",
+      "108550709",
+      "108550802"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3276,8 +3277,6 @@
       "https://mittechreview.com.br/?p=288622"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1375564",
-      "https://olhardigital.com.br/?p=1375563",
       "https://olhardigital.com.br/?p=1375609",
       "https://olhardigital.com.br/?p=1375651",
       "https://olhardigital.com.br/?p=1375658",
@@ -3575,7 +3574,9 @@
       "https://olhardigital.com.br/?p=1389054",
       "https://olhardigital.com.br/?p=1389330",
       "https://olhardigital.com.br/?p=1389348",
-      "https://olhardigital.com.br/?p=1389435"
+      "https://olhardigital.com.br/?p=1389435",
+      "https://olhardigital.com.br/?p=1389463",
+      "https://olhardigital.com.br/?p=1389393"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4103,9 +4104,6 @@
       "https://canaltech.com.br/hardware/grupo-abl-estreia-data-center-de-35-mw-em-curitiba-mirando-soberania-de-dados/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/02/chatgpt-lanca-provador-virtual-de-roupas-veja-como-testar.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/02/openai-alerta-mais-de-100-organizacoes-sobre-acao-indevida-de-agentes-de-ia.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/02/juiz-dos-eua-rejeita-acoes-de-chegg-e-penske-contra-ia-do-google.ghtm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/10/02/dario-amodei-da-anthropic-o-homem-que-virou-a-voz-dos-riscos-da-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/02/empresas-da-zona-do-euro-utilizam-recursos-proprios-em-ia-diz-blog-do-bce.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/02/anthropic-alerta-que-atitudes-do-governo-dos-eua-podem-prejudicar-lacos-com-clientes-mostra-prospecto-de-ipo.htm",
@@ -4402,7 +4400,10 @@
       "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/12/reuters-diz-que-ex-ceo-da-nvidia-teve-relacao-com-segunda-funcionaria.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/11/12/ex-presidente-da-nvidia-teve-relacionamento-com-uma-2-funcionaria-dizem-fontes.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/11/12/industria-da-ia-reavalia-futuro-sem-jensen-huang-a-frente-da-nvidia.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/12/saiba-mais-tim-cook-como-ceo-da-nvidia-trump-e-o-mundo-se-perguntam-quem-sera-o-escolhido.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/12/saiba-mais-tim-cook-como-ceo-da-nvidia-trump-e-o-mundo-se-perguntam-quem-sera-o-escolhido.htm",
+      "https://tilt.uol.com.br/colunas/lilian-cintra-de-melo/2026/11/13/na-escola-ia-deve-ser-andaime-nao-muleta-em-casa-sob-olhar-da-familia.htm",
+      "https://www.uol.com.br/vida/noticias/redacao/2026/11/13/familias-recriam-vozes-de-quem-morreu-com-ia-para-lidar-com-o-luto.ghtm",
+      "https://www.uol.com.br/flash/?c=6af376391c2b096f27b605f9"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4866,131 +4867,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "anthropic",
-      "australian",
-      "intensifies",
-      "offering",
-      "opens",
-      "retail",
-      "scrutiny"
-    ],
-    [
-      "bessent",
-      "china",
-      "compete",
-      "cooperate",
-      "harbor",
-      "illusions",
-      "should",
-      "they"
-    ],
-    [
-      "bilhoes",
-      "chega",
-      "fatura",
-      "openai",
-      "prejuizo",
-      "quase"
-    ],
-    [
-      "agentes",
-      "carbon",
-      "equipes",
-      "gemini",
-      "google",
-      "libera",
-      "publico",
-      "recurso"
-    ],
-    [
-      "adobe",
-      "anunciam",
-      "desenvolvimento",
-      "disney",
-      "parceria"
-    ],
-    [
-      "alphagenome",
-      "better",
-      "cells",
-      "deciphering",
-      "disease",
-      "read",
-      "understand"
-    ],
-    [
-      "agents",
-      "approach",
-      "better",
-      "cars",
-      "driving",
-      "help",
-      "helped",
-      "plurai",
-      "roads",
-      "same",
-      "self",
-      "using",
-      "wants",
-      "work"
-    ],
-    [
-      "agent",
-      "databricks",
-      "ghodsi",
-      "tells",
-      "truth",
-      "unvarnished"
-    ],
-    [
-      "adobe",
-      "around",
-      "characters",
-      "experiments",
-      "interview",
-      "photos",
-      "walk",
-      "your"
-    ],
-    [
-      "adopt",
-      "exam",
-      "formats",
-      "proof",
-      "regulator",
-      "sanctions",
-      "they",
-      "threatens",
-      "universities",
-      "unless"
-    ],
-    [
-      "anthropic",
-      "billion",
-      "enterprise",
-      "openai",
-      "push",
-      "quarterly",
-      "revenue",
-      "sales",
-      "still",
-      "though",
-      "trails"
-    ],
-    [
-      "apps",
-      "built",
-      "data",
-      "exposed",
-      "grok",
-      "passwords",
-      "patient",
-      "pipeline",
-      "plaintext",
-      "sales",
-      "spacexsi"
-    ],
     [
       "capture",
       "deepl",
@@ -6751,6 +6627,120 @@
       "saiba",
       "sera",
       "trump"
+    ],
+    [
+      "american",
+      "huang",
+      "jensen",
+      "matters",
+      "nothing",
+      "politics"
+    ],
+    [
+      "devices",
+      "llms",
+      "making",
+      "small",
+      "work"
+    ],
+    [
+      "gemini",
+      "hydrogen",
+      "orchestrator"
+    ],
+    [
+      "back",
+      "bring",
+      "employees",
+      "huang",
+      "jensen",
+      "nvidia",
+      "petition"
+    ],
+    [
+      "across",
+      "chip",
+      "here",
+      "know",
+      "nvidia",
+      "prompting",
+      "rotation",
+      "stocks",
+      "turmoil",
+      "what"
+    ],
+    [
+      "2012",
+      "longest",
+      "losing",
+      "market",
+      "nvidia",
+      "since",
+      "sinks",
+      "streak",
+      "track",
+      "trillion",
+      "value",
+      "weekly"
+    ],
+    [
+      "china",
+      "chips",
+      "fight",
+      "keeps",
+      "nvidia",
+      "over",
+      "singapore",
+      "turning"
+    ],
+    [
+      "ahead",
+      "asian",
+      "chipmakers",
+      "huang",
+      "jensen",
+      "lies",
+      "nvidia",
+      "what",
+      "without"
+    ],
+    [
+      "amanha",
+      "corrida",
+      "huang",
+      "jensen",
+      "mudar",
+      "olhar",
+      "pode",
+      "saida"
+    ],
+    [
+      "andaime",
+      "casa",
+      "deve",
+      "escola",
+      "familia",
+      "muleta",
+      "olhar"
+    ],
+    [
+      "familias",
+      "lidar",
+      "luto",
+      "morreu",
+      "quem",
+      "recriam",
+      "vozes"
+    ],
+    [
+      "cauda",
+      "criada",
+      "evitarem",
+      "funciona",
+      "idosos",
+      "japao",
+      "quedas",
+      "robotica"
     ]
   ]
 }
