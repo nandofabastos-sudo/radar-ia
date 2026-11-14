@@ -246,7 +246,8 @@
       "https://openai.com/business/customer-stories/holidays-extras-codex",
       "https://openai.com/business/customer-stories/gondola",
       "https://openai.com/business/customer-stories/amplitude",
-      "https://openai.com/index/introducing-chatgpt-wallet"
+      "https://openai.com/index/introducing-chatgpt-wallet",
+      "https://openai.com/business/customer-stories/shield"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -607,7 +608,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3176490",
       "https://techcrunch.com/?p=3176520",
       "https://techcrunch.com/?p=3176499",
       "https://techcrunch.com/?p=3176454",
@@ -906,10 +906,10 @@
       "https://techcrunch.com/?p=3188328",
       "https://techcrunch.com/?p=3188368",
       "https://techcrunch.com/?p=3188067",
-      "https://techcrunch.com/?p=3188474"
+      "https://techcrunch.com/?p=3188474",
+      "https://techcrunch.com/?p=3188596"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?post_type=vm_stream&p=1001681",
       "https://www.theverge.com/?p=1002201",
       "https://www.theverge.com/?p=1002033",
       "https://www.theverge.com/?p=1002238",
@@ -1208,7 +1208,8 @@
       "https://www.theverge.com/?p=1032339",
       "https://www.theverge.com/?p=1032518",
       "https://www.theverge.com/?p=1032866",
-      "https://www.theverge.com/?p=1033425"
+      "https://www.theverge.com/?p=1033425",
+      "https://www.theverge.com/?p=1033697"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=40990",
@@ -2276,7 +2277,6 @@
       "6aecef3d72f2d40001289bc0"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49250109",
       "https://news.ycombinator.com/item?id=49257876",
       "https://news.ycombinator.com/item?id=49255710",
       "https://news.ycombinator.com/item?id=49257160",
@@ -2575,7 +2575,8 @@
       "https://news.ycombinator.com/item?id=50477231",
       "https://news.ycombinator.com/item?id=50473190",
       "https://news.ycombinator.com/item?id=50475713",
-      "https://news.ycombinator.com/item?id=50481187"
+      "https://news.ycombinator.com/item?id=50481187",
+      "https://news.ycombinator.com/item?id=50486748"
     ]
   },
   "mercado": {
@@ -3036,7 +3037,8 @@
       "https://techcrunch.com/?p=3187339",
       "https://techcrunch.com/?p=3185934",
       "https://techcrunch.com/?p=3187494",
-      "https://techcrunch.com/?p=3188474"
+      "https://techcrunch.com/?p=3188474",
+      "https://techcrunch.com/?p=3188596"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -3285,10 +3287,11 @@
       "https://mittechreview.com.br/?p=288340",
       "https://mittechreview.com.br/?p=288626",
       "https://mittechreview.com.br/?p=288936",
-      "https://mittechreview.com.br/?p=288622"
+      "https://mittechreview.com.br/?p=288622",
+      "https://mittechreview.com.br/?p=289111",
+      "https://mittechreview.com.br/?p=289131"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1375658",
       "https://olhardigital.com.br/?p=1375625",
       "https://olhardigital.com.br/?p=1375700",
       "https://olhardigital.com.br/?p=1375704",
@@ -3587,7 +3590,8 @@
       "https://olhardigital.com.br/?p=1389463",
       "https://olhardigital.com.br/?p=1389393",
       "https://olhardigital.com.br/?p=1389650",
-      "https://olhardigital.com.br/?p=1389665"
+      "https://olhardigital.com.br/?p=1389665",
+      "https://olhardigital.com.br/?p=1389884"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4118,8 +4122,6 @@
       "https://canaltech.com.br/apps/como-mudar-o-idioma-da-siri-ai-no-iphone/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/04/trump-nomeia-jay-clayton-chefe-de-inteligencia-como-czar-da-ia-para-liderar-forca-tarefa.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/04/trump-anuncia-forca-federal-de-ia-para-por-interesse-dos-eua-em-1-lugar.ghtm",
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/04/musk-diz-que-vai-renomear-spacexai-para-spacexsi-apos-trump-adotar-termo-superinteligencia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/05/altman-diz-que-mundo-deve-aceitar-riscos-para-colher-beneficios-da-ia.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/05/reino-unido-ve-alta-de-40-em-imagens-ilegais-de-abuso-infantil-feitas-por-ia.ghtm",
@@ -4417,7 +4419,9 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/13/saida-de-jensen-huang-da-nvidia-expoe-5-riscos-para-a-industria-de-ia.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/11/13/ex-presidente-da-nvidia-recorre-a-escritorio-de-advocacia-paul-weiss-que-fez-acordo-com-trump.htm",
       "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/11/13/muitos-gastos-lucros-dificeis-a-bolha-da-ia-esta-proxima-de-estourar.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/13/investidores-fazem-fila-por-ipo-da-anthropic-mas-tem-duvidas-sobre-lideranca-em-ia.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/13/investidores-fazem-fila-por-ipo-da-anthropic-mas-tem-duvidas-sobre-lideranca-em-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/13/eua-suspendem-voos-dias-apos-ampliar-ferramenta-de-ia-para-trafego-aereo.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/13/o-que-e-o-smart-sistema-de-ia-para-trafego-aereo-anunciado-esta-semana-nos-eua.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4882,77 +4886,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "conselho",
-      "escandalo",
-      "extraconjugal",
-      "huang",
-      "nvidia",
-      "podem",
-      "responsabilizados"
-    ],
-    [
-      "alzheimer",
-      "anos",
-      "cancer",
-      "claude",
-      "dono",
-      "marketing",
-      "milagre"
-    ],
-    [
-      "acessam",
-      "ataques",
-      "ferramenta",
-      "ligados",
-      "producao",
-      "segredos"
-    ],
-    [
-      "agentes",
-      "airlines",
-      "bloqueia",
-      "plataforma",
-      "united"
-    ],
-    [
-      "anthropic",
-      "atrair",
-      "compras",
-      "investidores",
-      "pode",
-      "recorde",
-      "varejo",
-      "volume"
-    ],
-    [
-      "baird",
-      "escandalo",
-      "morgan",
-      "mostram",
-      "nvidia",
-      "pessimismo",
-      "stanley"
-    ],
-    [
-      "anthropic",
-      "demais",
-      "fracassar",
-      "grande",
-      "trilhao"
-    ],
-    [
-      "esta",
-      "futuro",
-      "hardware",
-      "onde",
-      "software"
-    ],
-    [
-      "lanca",
-      "plataforma",
-      "zendesk"
-    ],
     [
       "accused",
       "affair",
@@ -6765,6 +6698,94 @@
       "mapa",
       "mostra",
       "quem"
+    ],
+    [
+      "hand",
+      "helps",
+      "legacy",
+      "openai",
+      "portal",
+      "shield",
+      "technicians",
+      "work"
+    ],
+    [
+      "blasts",
+      "departure",
+      "founders",
+      "funding",
+      "hole",
+      "huang",
+      "jensen",
+      "startup"
+    ],
+    [
+      "amazon",
+      "data",
+      "index",
+      "online",
+      "plan",
+      "shopping",
+      "world"
+    ],
+    [
+      "contain",
+      "godel",
+      "hundreds",
+      "notebooks",
+      "proved",
+      "said",
+      "theorems",
+      "unlocks"
+    ],
+    [
+      "colocam",
+      "complexos",
+      "digitais",
+      "pacientes",
+      "pela",
+      "perigo",
+      "problemas",
+      "simples",
+      "solucoes",
+      "tentacoes",
+      "turbinadas"
+    ],
+    [
+      "california",
+      "esta",
+      "pela",
+      "pronto",
+      "regulamentar",
+      "senador"
+    ],
+    [
+      "busca",
+      "comecou",
+      "formal",
+      "huang",
+      "jensen",
+      "nvidia",
+      "substituto"
+    ],
+    [
+      "descarta",
+      "entre",
+      "falha",
+      "relacao",
+      "secretario",
+      "sistema",
+      "suspendeu",
+      "voos"
+    ],
+    [
+      "aereo",
+      "anunciado",
+      "esta",
+      "semana",
+      "sistema",
+      "smart",
+      "trafego"
     ]
   ]
 }
