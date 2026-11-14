@@ -608,7 +608,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3176520",
       "https://techcrunch.com/?p=3176499",
       "https://techcrunch.com/?p=3176454",
       "https://techcrunch.com/?p=3176628",
@@ -907,7 +906,8 @@
       "https://techcrunch.com/?p=3188368",
       "https://techcrunch.com/?p=3188067",
       "https://techcrunch.com/?p=3188474",
-      "https://techcrunch.com/?p=3188596"
+      "https://techcrunch.com/?p=3188596",
+      "https://techcrunch.com/?p=3188720"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=1002238",
@@ -1212,9 +1212,6 @@
       "https://www.theverge.com/?p=1032907"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=41006",
-      "https://the-decoder.com/?p=41012",
-      "https://the-decoder.com/?p=41027",
       "https://the-decoder.com/?p=41035",
       "https://the-decoder.com/?p=41041",
       "https://the-decoder.com/?p=41046",
@@ -1511,7 +1508,10 @@
       "https://the-decoder.com/?p=42841",
       "https://the-decoder.com/?p=42846",
       "https://the-decoder.com/?p=42853",
-      "https://the-decoder.com/?p=42859"
+      "https://the-decoder.com/?p=42859",
+      "https://the-decoder.com/?p=42864",
+      "https://the-decoder.com/?p=42863",
+      "https://the-decoder.com/?p=42873"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2583,8 +2583,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108368901",
-      "108369015",
       "108369272",
       "108369361",
       "108369500",
@@ -2882,7 +2880,9 @@
       "108551327",
       "108550434",
       "108551030",
-      "108546778"
+      "108546778",
+      "108551582",
+      "108551165"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4515,7 +4515,8 @@
       "https://neofeed.com.br/?p=244856",
       "https://neofeed.com.br/?p=244693",
       "https://neofeed.com.br/?p=245201",
-      "https://neofeed.com.br/?p=244971"
+      "https://neofeed.com.br/?p=244971",
+      "https://neofeed.com.br/?p=245088"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -4890,84 +4891,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "alphagenome",
-      "bulk",
-      "cell",
-      "deepmind",
-      "genomics",
-      "google",
-      "predictions",
-      "resolution",
-      "shifts",
-      "single",
-      "tissue",
-      "type"
-    ],
-    [
-      "airlines",
-      "attendants",
-      "data",
-      "flight",
-      "found",
-      "google",
-      "spirit",
-      "wanted"
-    ],
-    [
-      "alex",
-      "here",
-      "karp",
-      "other",
-      "progressive",
-      "recently",
-      "said",
-      "some",
-      "stuff"
-    ],
-    [
-      "about",
-      "asia",
-      "footprint",
-      "know",
-      "megaspeed",
-      "nvidia",
-      "partner",
-      "what"
-    ],
-    [
-      "elon",
-      "hire",
-      "honor",
-      "huang",
-      "jensen",
-      "musk",
-      "nvidia",
-      "would"
-    ],
-    [
-      "affair",
-      "ahead",
-      "alleged",
-      "china",
-      "chip",
-      "curbs",
-      "huang",
-      "jensen",
-      "push",
-      "revives",
-      "summit",
-      "tighten",
-      "trump"
-    ],
-    [
-      "billable",
-      "coming",
-      "consulting",
-      "graduate",
-      "hours",
-      "pipeline"
-    ],
     [
       "await",
       "falls",
@@ -6788,6 +6711,84 @@
       "apagao",
       "escritorios",
       "videogame"
+    ],
+    [
+      "asian",
+      "exit",
+      "governments",
+      "huang",
+      "jensen",
+      "nvidia",
+      "react"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "down",
+      "habits",
+      "opus",
+      "outdated",
+      "prompting",
+      "slowing"
+    ],
+    [
+      "carbon",
+      "costs",
+      "crown",
+      "gemini",
+      "matharena",
+      "more",
+      "takes",
+      "than",
+      "times"
+    ],
+    [
+      "admits",
+      "amodei",
+      "anthropic",
+      "before",
+      "days",
+      "going",
+      "happen",
+      "huge",
+      "next",
+      "record",
+      "there",
+      "uncertainty",
+      "what",
+      "year"
+    ],
+    [
+      "board",
+      "consider",
+      "huang",
+      "investors",
+      "jensen",
+      "major",
+      "nvidia",
+      "potential",
+      "return",
+      "urged"
+    ],
+    [
+      "adjusting",
+      "crisis",
+      "here",
+      "leadership",
+      "nvidia",
+      "portfolio",
+      "rattles",
+      "trade"
+    ],
+    [
+      "alternativo",
+      "costura",
+      "invencoes",
+      "luxo",
+      "maquina",
+      "renzo",
+      "rosso",
+      "senhor"
     ]
   ]
 }
