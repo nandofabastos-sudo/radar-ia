@@ -910,8 +910,6 @@
       "https://techcrunch.com/?p=3188596"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1002201",
-      "https://www.theverge.com/?p=1002033",
       "https://www.theverge.com/?p=1002238",
       "https://www.theverge.com/?p=1002448",
       "https://www.theverge.com/?p=1002468",
@@ -1209,11 +1207,11 @@
       "https://www.theverge.com/?p=1032518",
       "https://www.theverge.com/?p=1032866",
       "https://www.theverge.com/?p=1033425",
-      "https://www.theverge.com/?p=1033697"
+      "https://www.theverge.com/?p=1033697",
+      "https://www.theverge.com/?p=1033781",
+      "https://www.theverge.com/?p=1032907"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=40997",
-      "https://the-decoder.com/?p=41000",
       "https://the-decoder.com/?p=41006",
       "https://the-decoder.com/?p=41012",
       "https://the-decoder.com/?p=41027",
@@ -1511,7 +1509,9 @@
       "https://the-decoder.com/?p=42826",
       "https://the-decoder.com/?p=42822",
       "https://the-decoder.com/?p=42841",
-      "https://the-decoder.com/?p=42846"
+      "https://the-decoder.com/?p=42846",
+      "https://the-decoder.com/?p=42853",
+      "https://the-decoder.com/?p=42859"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2232,7 +2232,9 @@
       "6af508af71a0e5889c82ff5f",
       "6af36771190ffd33e9467dde",
       "6af62d4ad0f1f44dad1a73ce",
-      "6af737b0981b066bb4e2d1ab"
+      "6af737b0981b066bb4e2d1ab",
+      "6aed23d9bbed27ba0f21394f",
+      "6af7247ac18c09c3056cf94f"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2277,7 +2279,6 @@
       "6aecef3d72f2d40001289bc0"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49257160",
       "https://news.ycombinator.com/item?id=49261133",
       "https://news.ycombinator.com/item?id=49261514",
       "https://news.ycombinator.com/item?id=49271994",
@@ -2576,12 +2577,12 @@
       "https://news.ycombinator.com/item?id=50481187",
       "https://news.ycombinator.com/item?id=50486748",
       "https://news.ycombinator.com/item?id=50487864",
-      "https://news.ycombinator.com/item?id=50493251"
+      "https://news.ycombinator.com/item?id=50493251",
+      "https://news.ycombinator.com/item?id=50484658"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108369074",
       "108368901",
       "108369015",
       "108369272",
@@ -2880,7 +2881,8 @@
       "108549585",
       "108551327",
       "108550434",
-      "108551030"
+      "108551030",
+      "108546778"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3820,7 +3822,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=946818"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/adeus-gems-google-vai-transformar-robos-do-gemini-em-skills-muito-mais-poderosas/",
       "https://canaltech.com.br/inteligencia-artificial/novo-recurso-do-gemini-faz-ligacoes-por-voce-para-marcar-compromissos/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-agora-tem-rosto-google-lanca-avatares-em-video-que-falam-97-idiomas/",
       "https://canaltech.com.br/inteligencia-artificial/openai-paralisa-treinos-de-ia-apos-botao-de-emergencia-falhar-e-agente-burlar-bloqueios/",
@@ -4119,7 +4120,8 @@
       "https://canaltech.com.br/inteligencia-artificial/google-lanca-modelo-de-ia-veloz-e-eficiente-conheca-o-gemini-4-hydrogen/",
       "https://canaltech.com.br/produtos/nothing-mostra-gadget-misterioso-com-ia-que-parece-um-gravador/",
       "https://canaltech.com.br/inteligencia-artificial/oficina-leva-treinamento-de-ia-para-pessoas-idosas-no-recnplay-2026/",
-      "https://canaltech.com.br/apps/como-mudar-o-idioma-da-siri-ai-no-iphone/"
+      "https://canaltech.com.br/apps/como-mudar-o-idioma-da-siri-ai-no-iphone/",
+      "https://canaltech.com.br/inteligencia-artificial/mec-adota-novas-diretrizes-de-uso-de-ia-na-educacao-o-que-muda-na-pratica/"
     ],
     "tilt_uol": [
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/04/musk-diz-que-vai-renomear-spacexai-para-spacexsi-apos-trump-adotar-termo-superinteligencia.htm",
@@ -4511,7 +4513,9 @@
       "https://neofeed.com.br/?p=244590",
       "https://neofeed.com.br/?p=244804",
       "https://neofeed.com.br/?p=244856",
-      "https://neofeed.com.br/?p=244693"
+      "https://neofeed.com.br/?p=244693",
+      "https://neofeed.com.br/?p=245201",
+      "https://neofeed.com.br/?p=244971"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -4886,101 +4890,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "agents",
-      "airlines",
-      "bans",
-      "behalf",
-      "booking",
-      "flights",
-      "travelers",
-      "united"
-    ],
-    [
-      "affair",
-      "calls",
-      "china",
-      "exports",
-      "huang",
-      "jensen",
-      "moves",
-      "nvidia",
-      "resignation",
-      "tighten"
-    ],
-    [
-      "anthropic",
-      "cramer",
-      "making"
-    ],
-    [
-      "escandalo",
-      "huang",
-      "jensen",
-      "jornal",
-      "nvidia",
-      "prepara",
-      "saida"
-    ],
-    [
-      "agencia",
-      "contrata",
-      "empresa",
-      "encontrar",
-      "huang",
-      "jensen",
-      "nvidia",
-      "substituto"
-    ],
-    [
-      "apple",
-      "carplay",
-      "chega",
-      "conversar",
-      "dirige",
-      "enquanto",
-      "gemini",
-      "permite"
-    ],
-    [
-      "children",
-      "research",
-      "safety",
-      "supporting"
-    ],
-    [
-      "build",
-      "codex",
-      "extras",
-      "holiday",
-      "rethinking",
-      "what"
-    ],
-    [
-      "agreements",
-      "bring",
-      "center",
-      "chains",
-      "clean",
-      "data",
-      "manufacturing",
-      "meta",
-      "supply"
-    ],
-    [
-      "australia",
-      "bill",
-      "force",
-      "frontier",
-      "independent",
-      "makers",
-      "model",
-      "open",
-      "proposed",
-      "safety",
-      "testing",
-      "would"
-    ],
     [
       "alphagenome",
       "bulk",
@@ -6786,6 +6695,99 @@
       "rockstar",
       "they",
       "until"
+    ],
+    [
+      "8217",
+      "altman",
+      "board",
+      "ceos",
+      "fired",
+      "member",
+      "openai",
+      "still",
+      "trust"
+    ],
+    [
+      "already",
+      "anthropic",
+      "compute",
+      "coxon",
+      "former",
+      "fraction",
+      "mythos",
+      "needed",
+      "originally",
+      "researcher",
+      "retrain"
+    ],
+    [
+      "general",
+      "make",
+      "might",
+      "models",
+      "openai",
+      "other",
+      "purpose",
+      "reassigns",
+      "researchers",
+      "robotics",
+      "specialized",
+      "teams",
+      "unnecessary"
+    ],
+    [
+      "controllers",
+      "could",
+      "pilots",
+      "traffic",
+      "what",
+      "wrong"
+    ],
+    [
+      "beware",
+      "boom",
+      "fueled",
+      "ransomware"
+    ],
+    [
+      "blow",
+      "coding",
+      "jonathan",
+      "same",
+      "software",
+      "solved",
+      "still",
+      "video"
+    ],
+    [
+      "anthropic",
+      "founders",
+      "meet",
+      "seven"
+    ],
+    [
+      "adota",
+      "diretrizes",
+      "educacao",
+      "muda",
+      "novas",
+      "pratica"
+    ],
+    [
+      "breaker",
+      "circuit",
+      "criptoativos",
+      "definir",
+      "financeiro",
+      "futuro",
+      "internacionalizacao",
+      "mercado"
+    ],
+    [
+      "alerta",
+      "apagao",
+      "escritorios",
+      "videogame"
     ]
   ]
 }
