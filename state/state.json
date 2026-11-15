@@ -608,8 +608,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3176499",
-      "https://techcrunch.com/?p=3176454",
       "https://techcrunch.com/?p=3176628",
       "https://techcrunch.com/?p=3175181",
       "https://techcrunch.com/?p=3176669",
@@ -907,7 +905,9 @@
       "https://techcrunch.com/?p=3188067",
       "https://techcrunch.com/?p=3188474",
       "https://techcrunch.com/?p=3188596",
-      "https://techcrunch.com/?p=3188720"
+      "https://techcrunch.com/?p=3188720",
+      "https://techcrunch.com/?p=3188741",
+      "https://techcrunch.com/?p=3188673"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=1002238",
@@ -3822,7 +3822,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=946818"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/novo-recurso-do-gemini-faz-ligacoes-por-voce-para-marcar-compromissos/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-agora-tem-rosto-google-lanca-avatares-em-video-que-falam-97-idiomas/",
       "https://canaltech.com.br/inteligencia-artificial/openai-paralisa-treinos-de-ia-apos-botao-de-emergencia-falhar-e-agente-burlar-bloqueios/",
       "https://canaltech.com.br/inteligencia-artificial/estudante-usa-bot-de-ia-e-invade-banco-da-microsoft-com-17-trilhoes-de-linhas-de-dados/",
@@ -4121,7 +4120,8 @@
       "https://canaltech.com.br/produtos/nothing-mostra-gadget-misterioso-com-ia-que-parece-um-gravador/",
       "https://canaltech.com.br/inteligencia-artificial/oficina-leva-treinamento-de-ia-para-pessoas-idosas-no-recnplay-2026/",
       "https://canaltech.com.br/apps/como-mudar-o-idioma-da-siri-ai-no-iphone/",
-      "https://canaltech.com.br/inteligencia-artificial/mec-adota-novas-diretrizes-de-uso-de-ia-na-educacao-o-que-muda-na-pratica/"
+      "https://canaltech.com.br/inteligencia-artificial/mec-adota-novas-diretrizes-de-uso-de-ia-na-educacao-o-que-muda-na-pratica/",
+      "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-para-que-o-gemini-lembre-de-informacoes-em-qualquer-conversa/"
     ],
     "tilt_uol": [
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/04/musk-diz-que-vai-renomear-spacexai-para-spacexsi-apos-trump-adotar-termo-superinteligencia.htm",
@@ -4891,40 +4891,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "await",
-      "falls",
-      "fate",
-      "huang",
-      "investors",
-      "jensen",
-      "nvidia",
-      "stock"
-    ],
-    [
-      "analysts",
-      "brace",
-      "dark",
-      "fate",
-      "here",
-      "huang",
-      "markets",
-      "news",
-      "nvidia",
-      "saying",
-      "what"
-    ],
-    [
-      "around",
-      "await",
-      "board",
-      "crisis",
-      "investors",
-      "meeting",
-      "nerves",
-      "nvidia",
-      "outcome"
-    ],
     [
       "before",
       "founders",
@@ -6789,6 +6755,35 @@
       "renzo",
       "rosso",
       "senhor"
+    ],
+    [
+      "calling",
+      "elon",
+      "execs",
+      "huang",
+      "jensen",
+      "musk",
+      "nvidia",
+      "other",
+      "petition",
+      "reinstate",
+      "sign",
+      "tech"
+    ],
+    [
+      "nvidia",
+      "security",
+      "team",
+      "where"
+    ],
+    [
+      "adicionar",
+      "conversa",
+      "gemini",
+      "informacoes",
+      "instrucoes",
+      "lembre",
+      "qualquer"
     ]
   ]
 }
