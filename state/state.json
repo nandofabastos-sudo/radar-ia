@@ -910,7 +910,6 @@
       "https://techcrunch.com/?p=3188673"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1002238",
       "https://www.theverge.com/?p=1002448",
       "https://www.theverge.com/?p=1002468",
       "https://www.theverge.com/?p=1002505",
@@ -1209,12 +1208,10 @@
       "https://www.theverge.com/?p=1033425",
       "https://www.theverge.com/?p=1033697",
       "https://www.theverge.com/?p=1033781",
-      "https://www.theverge.com/?p=1032907"
+      "https://www.theverge.com/?p=1032907",
+      "https://www.theverge.com/?p=1033943"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=41035",
-      "https://the-decoder.com/?p=41041",
-      "https://the-decoder.com/?p=41046",
       "https://the-decoder.com/?p=41053",
       "https://the-decoder.com/?p=41059",
       "https://the-decoder.com/?p=40782",
@@ -1511,7 +1508,10 @@
       "https://the-decoder.com/?p=42859",
       "https://the-decoder.com/?p=42864",
       "https://the-decoder.com/?p=42863",
-      "https://the-decoder.com/?p=42873"
+      "https://the-decoder.com/?p=42873",
+      "https://the-decoder.com/?p=42881",
+      "https://the-decoder.com/?p=42835",
+      "https://the-decoder.com/?p=42891"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2234,7 +2234,9 @@
       "6af62d4ad0f1f44dad1a73ce",
       "6af737b0981b066bb4e2d1ab",
       "6aed23d9bbed27ba0f21394f",
-      "6af7247ac18c09c3056cf94f"
+      "6af7247ac18c09c3056cf94f",
+      "6af356dc2c67abe2e828480b",
+      "6af740c47f77ca3a14ead016"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2279,7 +2281,6 @@
       "6aecef3d72f2d40001289bc0"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49261133",
       "https://news.ycombinator.com/item?id=49261514",
       "https://news.ycombinator.com/item?id=49271994",
       "https://news.ycombinator.com/item?id=49274600",
@@ -2578,13 +2579,12 @@
       "https://news.ycombinator.com/item?id=50486748",
       "https://news.ycombinator.com/item?id=50487864",
       "https://news.ycombinator.com/item?id=50493251",
-      "https://news.ycombinator.com/item?id=50484658"
+      "https://news.ycombinator.com/item?id=50484658",
+      "https://news.ycombinator.com/item?id=50502988"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108369272",
-      "108369361",
       "108369500",
       "108369387",
       "108369730",
@@ -2882,7 +2882,9 @@
       "108551030",
       "108546778",
       "108551582",
-      "108551165"
+      "108551165",
+      "108551621",
+      "108549714"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3294,7 +3296,6 @@
       "https://mittechreview.com.br/?p=289131"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1375625",
       "https://olhardigital.com.br/?p=1375700",
       "https://olhardigital.com.br/?p=1375704",
       "https://olhardigital.com.br/?p=1375708",
@@ -3593,7 +3594,8 @@
       "https://olhardigital.com.br/?p=1389393",
       "https://olhardigital.com.br/?p=1389650",
       "https://olhardigital.com.br/?p=1389665",
-      "https://olhardigital.com.br/?p=1389884"
+      "https://olhardigital.com.br/?p=1389884",
+      "https://olhardigital.com.br/?p=1389071"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3822,7 +3824,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=946818"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/gemini-agora-tem-rosto-google-lanca-avatares-em-video-que-falam-97-idiomas/",
       "https://canaltech.com.br/inteligencia-artificial/openai-paralisa-treinos-de-ia-apos-botao-de-emergencia-falhar-e-agente-burlar-bloqueios/",
       "https://canaltech.com.br/inteligencia-artificial/estudante-usa-bot-de-ia-e-invade-banco-da-microsoft-com-17-trilhoes-de-linhas-de-dados/",
       "https://canaltech.com.br/inteligencia-artificial/openai-prepara-nova-versao-do-chatgpt-que-nunca-dorme-e-cuida-do-seu-e-mail/",
@@ -4121,12 +4122,10 @@
       "https://canaltech.com.br/inteligencia-artificial/oficina-leva-treinamento-de-ia-para-pessoas-idosas-no-recnplay-2026/",
       "https://canaltech.com.br/apps/como-mudar-o-idioma-da-siri-ai-no-iphone/",
       "https://canaltech.com.br/inteligencia-artificial/mec-adota-novas-diretrizes-de-uso-de-ia-na-educacao-o-que-muda-na-pratica/",
-      "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-para-que-o-gemini-lembre-de-informacoes-em-qualquer-conversa/"
+      "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-para-que-o-gemini-lembre-de-informacoes-em-qualquer-conversa/",
+      "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-os-modelos-muse-wonder-muse-spark-e-muse-ember/"
     ],
     "tilt_uol": [
-      "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/04/musk-diz-que-vai-renomear-spacexai-para-spacexsi-apos-trump-adotar-termo-superinteligencia.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/05/altman-diz-que-mundo-deve-aceitar-riscos-para-colher-beneficios-da-ia.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/05/reino-unido-ve-alta-de-40-em-imagens-ilegais-de-abuso-infantil-feitas-por-ia.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/05/nvidia-e-broadcom-se-isolam-de-impacto-de-crise-de-energia-em-data-centers-dos-eua-diz-morgan-stanley.htm",
       "https://www.uol.com.br/flash/?c=6ac3d904ae32913f35872f56",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/05/startup-alema-de-robotica-robco-atinge-avaliacao-de-us1-bilhao.htm",
@@ -4423,7 +4422,10 @@
       "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/11/13/muitos-gastos-lucros-dificeis-a-bolha-da-ia-esta-proxima-de-estourar.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/11/13/investidores-fazem-fila-por-ipo-da-anthropic-mas-tem-duvidas-sobre-lideranca-em-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/13/eua-suspendem-voos-dias-apos-ampliar-ferramenta-de-ia-para-trafego-aereo.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/13/o-que-e-o-smart-sistema-de-ia-para-trafego-aereo-anunciado-esta-semana-nos-eua.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/13/o-que-e-o-smart-sistema-de-ia-para-trafego-aereo-anunciado-esta-semana-nos-eua.ghtm",
+      "https://www.uol.com.br/flash/?c=6af7271a6f0594164b7214d7",
+      "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/11/15/queda-do-ceo-da-nvidia-expoe-o-lado-humano-da-revolucao-da-ia.htm",
+      "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/15/primeiro-colocado-em-exame-na-coreia-do-sul-admite-fraude-com-ia.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4891,129 +4893,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "before",
-      "founders",
-      "growth",
-      "platform",
-      "reduce",
-      "risk",
-      "threatens"
-    ],
-    [
-      "angeles",
-      "finalmente",
-      "ganha",
-      "metro",
-      "subterraneo"
-    ],
-    [
-      "acoes",
-      "aumentam",
-      "caso",
-      "desvalorizacao",
-      "extraconjugal",
-      "novela",
-      "nvidia",
-      "pressao",
-      "suposto"
-    ],
-    [
-      "bytedance",
-      "estaria",
-      "muse",
-      "rival",
-      "trabalhando"
-    ],
-    [
-      "acelerar",
-      "criador",
-      "orkut",
-      "recorre",
-      "rede",
-      "retorno",
-      "social"
-    ],
-    [
-      "cancer",
-      "combate",
-      "pesquisa",
-      "reduz",
-      "semana",
-      "terapia"
-    ],
-    [
-      "amazon",
-      "chatgpt",
-      "esta",
-      "lojas",
-      "querer",
-      "rival",
-      "tras",
-      "verificadas"
-    ],
-    [
-      "capacidade",
-      "chinesas",
-      "chips",
-      "correm",
-      "devido",
-      "empresas",
-      "garantir",
-      "nvidia",
-      "receio",
-      "restricoes"
-    ],
-    [
-      "apoio",
-      "claint",
-      "escritorio",
-      "nasce",
-      "native"
-    ],
-    [
-      "gemini",
-      "hydrogen",
-      "introducing"
-    ],
-    [
-      "gemini",
-      "gets",
-      "google",
-      "hydrogen",
-      "major",
-      "search",
-      "upgrade"
-    ],
-    [
-      "apple",
-      "chairman",
-      "cook",
-      "floats",
-      "huang",
-      "jensen",
-      "successor",
-      "trump"
-    ],
-    [
-      "could",
-      "damage",
-      "five",
-      "huang",
-      "industry",
-      "jensen",
-      "nvidia",
-      "ouster",
-      "ways"
-    ],
-    [
-      "agrees",
-      "before",
-      "congress",
-      "huang",
-      "jensen",
-      "testify"
-    ],
     [
       "everyday",
       "into",
@@ -6784,6 +6663,148 @@
       "instrucoes",
       "lembre",
       "qualquer"
+    ],
+    [
+      "days",
+      "huang",
+      "jensen",
+      "messy",
+      "overview"
+    ],
+    [
+      "agent",
+      "meituan",
+      "model",
+      "never",
+      "nvidia",
+      "parameter",
+      "releases",
+      "touched",
+      "trillion"
+    ],
+    [
+      "australia",
+      "bank",
+      "central",
+      "customer",
+      "especially",
+      "finds",
+      "first",
+      "hitting",
+      "service",
+      "software",
+      "workers",
+      "young"
+    ],
+    [
+      "billion",
+      "brokered",
+      "china",
+      "chip",
+      "firm",
+      "huang",
+      "jensen",
+      "linked",
+      "lover",
+      "nearly",
+      "nvidia",
+      "orders",
+      "reportedly"
+    ],
+    [
+      "everyday",
+      "into",
+      "needy",
+      "objects",
+      "pets",
+      "tamagotchi",
+      "turns",
+      "virtual"
+    ],
+    [
+      "completely",
+      "groove",
+      "kill"
+    ],
+    [
+      "case",
+      "court",
+      "denies",
+      "dismiss",
+      "dram",
+      "fixing",
+      "motion",
+      "price"
+    ],
+    [
+      "2025",
+      "about",
+      "alice",
+      "business",
+      "huang",
+      "internal",
+      "into",
+      "launches",
+      "left",
+      "megaspeed",
+      "probe",
+      "reports"
+    ],
+    [
+      "anthropic",
+      "bright",
+      "embattled",
+      "lands",
+      "looks",
+      "much",
+      "needed",
+      "spot",
+      "trade"
+    ],
+    [
+      "artificial",
+      "atencao",
+      "empresas",
+      "inteligencia",
+      "inteligente",
+      "operacao",
+      "sinonimo"
+    ],
+    [
+      "diferenca",
+      "ember",
+      "entre",
+      "modelos",
+      "muse",
+      "qual",
+      "spark",
+      "wonder"
+    ],
+    [
+      "alzheimer",
+      "anos",
+      "cancer",
+      "claude",
+      "dono",
+      "marketing",
+      "milagre"
+    ],
+    [
+      "expoe",
+      "humano",
+      "lado",
+      "nvidia",
+      "queda",
+      "revolucao"
+    ],
+    [
+      "admite",
+      "colocado",
+      "coreia",
+      "exame",
+      "fraude",
+      "nacional",
+      "primeiro"
     ]
   ]
 }
