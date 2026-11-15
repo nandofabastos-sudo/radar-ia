@@ -608,7 +608,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3176628",
       "https://techcrunch.com/?p=3175181",
       "https://techcrunch.com/?p=3176669",
       "https://techcrunch.com/?p=3176752",
@@ -907,10 +906,10 @@
       "https://techcrunch.com/?p=3188596",
       "https://techcrunch.com/?p=3188720",
       "https://techcrunch.com/?p=3188741",
-      "https://techcrunch.com/?p=3188673"
+      "https://techcrunch.com/?p=3188673",
+      "https://techcrunch.com/?p=3188820"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1002448",
       "https://www.theverge.com/?p=1002468",
       "https://www.theverge.com/?p=1002505",
       "https://www.theverge.com/?p=1002584",
@@ -1209,10 +1208,10 @@
       "https://www.theverge.com/?p=1033697",
       "https://www.theverge.com/?p=1033781",
       "https://www.theverge.com/?p=1032907",
-      "https://www.theverge.com/?p=1033943"
+      "https://www.theverge.com/?p=1033943",
+      "https://www.theverge.com/?p=1033984"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=41053",
       "https://the-decoder.com/?p=41059",
       "https://the-decoder.com/?p=40782",
       "https://the-decoder.com/?p=41067",
@@ -1511,7 +1510,8 @@
       "https://the-decoder.com/?p=42873",
       "https://the-decoder.com/?p=42881",
       "https://the-decoder.com/?p=42835",
-      "https://the-decoder.com/?p=42891"
+      "https://the-decoder.com/?p=42891",
+      "https://the-decoder.com/?p=42896"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2281,7 +2281,6 @@
       "6aecef3d72f2d40001289bc0"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49261514",
       "https://news.ycombinator.com/item?id=49271994",
       "https://news.ycombinator.com/item?id=49274600",
       "https://news.ycombinator.com/item?id=49274027",
@@ -2580,12 +2579,12 @@
       "https://news.ycombinator.com/item?id=50487864",
       "https://news.ycombinator.com/item?id=50493251",
       "https://news.ycombinator.com/item?id=50484658",
-      "https://news.ycombinator.com/item?id=50502988"
+      "https://news.ycombinator.com/item?id=50502988",
+      "https://news.ycombinator.com/item?id=50507303"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108369500",
       "108369387",
       "108369730",
       "108369820",
@@ -2884,7 +2883,8 @@
       "108551582",
       "108551165",
       "108551621",
-      "108549714"
+      "108549714",
+      "108551643"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3296,7 +3296,6 @@
       "https://mittechreview.com.br/?p=289131"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1375700",
       "https://olhardigital.com.br/?p=1375704",
       "https://olhardigital.com.br/?p=1375708",
       "https://olhardigital.com.br/?p=1375772",
@@ -3595,7 +3594,8 @@
       "https://olhardigital.com.br/?p=1389650",
       "https://olhardigital.com.br/?p=1389665",
       "https://olhardigital.com.br/?p=1389884",
-      "https://olhardigital.com.br/?p=1389071"
+      "https://olhardigital.com.br/?p=1389071",
+      "https://olhardigital.com.br/?p=1390078"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4126,7 +4126,6 @@
       "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-os-modelos-muse-wonder-muse-spark-e-muse-ember/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/05/nvidia-e-broadcom-se-isolam-de-impacto-de-crise-de-energia-em-data-centers-dos-eua-diz-morgan-stanley.htm",
       "https://www.uol.com.br/flash/?c=6ac3d904ae32913f35872f56",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/05/startup-alema-de-robotica-robco-atinge-avaliacao-de-us1-bilhao.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/05/openai-comeca-a-marcar-textos-do-chatgpt-na-ue-com-marca-dagua-invisivel.ghtm",
@@ -4425,7 +4424,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/13/o-que-e-o-smart-sistema-de-ia-para-trafego-aereo-anunciado-esta-semana-nos-eua.ghtm",
       "https://www.uol.com.br/flash/?c=6af7271a6f0594164b7214d7",
       "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/11/15/queda-do-ceo-da-nvidia-expoe-o-lado-humano-da-revolucao-da-ia.htm",
-      "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/15/primeiro-colocado-em-exame-na-coreia-do-sul-admite-fraude-com-ia.ghtm"
+      "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/15/primeiro-colocado-em-exame-na-coreia-do-sul-admite-fraude-com-ia.ghtm",
+      "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2026/11/15/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4518,7 +4518,8 @@
       "https://neofeed.com.br/?p=244693",
       "https://neofeed.com.br/?p=245201",
       "https://neofeed.com.br/?p=244971",
-      "https://neofeed.com.br/?p=245088"
+      "https://neofeed.com.br/?p=245088",
+      "https://neofeed.com.br/?p=245139"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -4893,83 +4894,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "everyday",
-      "into",
-      "labs",
-      "looking",
-      "phota",
-      "photos",
-      "professional",
-      "shots",
-      "turn",
-      "uses"
-    ],
-    [
-      "ambitions",
-      "billion",
-      "dollar",
-      "have",
-      "loss",
-      "natural",
-      "softbank"
-    ],
-    [
-      "after",
-      "exit",
-      "face",
-      "fighting",
-      "huang",
-      "hugging",
-      "jensen",
-      "keep",
-      "open",
-      "source",
-      "vows"
-    ],
-    [
-      "exit",
-      "huang",
-      "jensen",
-      "nvidia",
-      "open",
-      "puts",
-      "question",
-      "source",
-      "support"
-    ],
-    [
-      "agent",
-      "automate",
-      "brands",
-      "creator",
-      "discovery",
-      "launches",
-      "nectar",
-      "outreach"
-    ],
-    [
-      "answers",
-      "better",
-      "complicated",
-      "google",
-      "latest",
-      "most",
-      "promises",
-      "questions",
-      "search",
-      "upgrade",
-      "your"
-    ],
-    [
-      "affair",
-      "amid",
-      "huang",
-      "jensen",
-      "nvidia",
-      "resigns",
-      "scandals"
-    ],
     [
       "anything",
       "apple",
@@ -6805,6 +6729,68 @@
       "fraude",
       "nacional",
       "primeiro"
+    ],
+    [
+      "dating",
+      "gathers",
+      "lesson",
+      "spycraft",
+      "tech",
+      "tycoons"
+    ],
+    [
+      "after",
+      "chips",
+      "congress",
+      "export",
+      "nvidia",
+      "rules",
+      "scandal",
+      "tighten",
+      "wants"
+    ],
+    [
+      "anthropic",
+      "claude",
+      "doesn",
+      "fable",
+      "generate",
+      "images",
+      "paints",
+      "them"
+    ],
+    [
+      "code",
+      "generated",
+      "open",
+      "should",
+      "source"
+    ],
+    [
+      "bessent",
+      "calls",
+      "dramatic",
+      "nvidia",
+      "outside",
+      "shakeup",
+      "urges"
+    ],
+    [
+      "combinacoes",
+      "criacao",
+      "esta",
+      "ineditas",
+      "mudando",
+      "perfumes"
+    ],
+    [
+      "assessora",
+      "branca",
+      "casa",
+      "destruir",
+      "mundo",
+      "salvar",
+      "visao"
     ]
   ]
 }
