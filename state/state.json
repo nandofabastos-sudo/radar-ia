@@ -411,7 +411,8 @@
       "https://about.fb.com/?p=50697",
       "https://about.fb.com/?p=50690",
       "https://about.fb.com/?p=50759",
-      "https://about.fb.com/?p=50895"
+      "https://about.fb.com/?p=50895",
+      "https://about.fb.com/?p=50951"
     ],
     "nvidia_blog": [
       "https://blogs.nvidia.com/?p=96644",
@@ -611,7 +612,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3176752",
       "https://techcrunch.com/?p=3176907",
       "https://techcrunch.com/?p=3175284",
       "https://techcrunch.com/?p=3176969",
@@ -910,10 +910,10 @@
       "https://techcrunch.com/?p=3188673",
       "https://techcrunch.com/?p=3188820",
       "https://techcrunch.com/?p=3188757",
-      "https://techcrunch.com/?p=3188782"
+      "https://techcrunch.com/?p=3188782",
+      "https://techcrunch.com/?p=3188803"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1002505",
       "https://www.theverge.com/?p=1002584",
       "https://www.theverge.com/?p=1002402",
       "https://www.theverge.com/?p=1002665",
@@ -1212,7 +1212,8 @@
       "https://www.theverge.com/?p=1032907",
       "https://www.theverge.com/?p=1033943",
       "https://www.theverge.com/?p=1033984",
-      "https://www.theverge.com/?p=1033999"
+      "https://www.theverge.com/?p=1033999",
+      "https://www.theverge.com/?p=1033355"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=41059",
@@ -2284,7 +2285,6 @@
       "6aecef3d72f2d40001289bc0"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49274600",
       "https://news.ycombinator.com/item?id=49274027",
       "https://news.ycombinator.com/item?id=49275385",
       "https://news.ycombinator.com/item?id=49281916",
@@ -2583,12 +2583,12 @@
       "https://news.ycombinator.com/item?id=50484658",
       "https://news.ycombinator.com/item?id=50502988",
       "https://news.ycombinator.com/item?id=50507303",
-      "https://news.ycombinator.com/item?id=50463399"
+      "https://news.ycombinator.com/item?id=50463399",
+      "https://news.ycombinator.com/item?id=50513215"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108369387",
       "108369730",
       "108369820",
       "108369419",
@@ -2887,7 +2887,8 @@
       "108551165",
       "108551621",
       "108549714",
-      "108551643"
+      "108551643",
+      "108551662"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -4899,41 +4900,6 @@
   },
   "_titulos_recentes": [
     [
-      "after",
-      "backlash",
-      "calls",
-      "faces",
-      "gemini",
-      "google",
-      "moratoriums",
-      "pilot",
-      "schools"
-    ],
-    [
-      "finally",
-      "flash",
-      "gemini",
-      "google",
-      "hydrogen",
-      "replacing",
-      "rolls"
-    ],
-    [
-      "centers",
-      "cloud",
-      "data",
-      "drone",
-      "live",
-      "strikes",
-      "survive"
-    ],
-    [
-      "huang",
-      "jensen",
-      "nvidia",
-      "resigns"
-    ],
-    [
       "colette",
       "interim",
       "kress",
@@ -6787,6 +6753,36 @@
       "nvidia",
       "renuncia",
       "volta"
+    ],
+    [
+      "business",
+      "guidance",
+      "more",
+      "needed",
+      "owners",
+      "singapore",
+      "small",
+      "surveyed"
+    ],
+    [
+      "apple",
+      "health",
+      "launches",
+      "people",
+      "study"
+    ],
+    [
+      "qwen4"
+    ],
+    [
+      "calls",
+      "growing",
+      "huang",
+      "jensen",
+      "nvidia",
+      "return",
+      "tech",
+      "world"
     ]
   ]
 }
