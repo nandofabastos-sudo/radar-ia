@@ -258,7 +258,9 @@
       "https://openai.com/business/customer-stories/holiday-extras-dots",
       "https://openai.com/index/science-at-the-frontier",
       "https://openai.com/index/strengthening-online-child-safety",
-      "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+      "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "https://openai.com/business/customer-stories/revolut",
+      "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -2613,8 +2615,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108370522",
-      "108370484",
       "108369903",
       "108364879",
       "108370760",
@@ -2912,7 +2912,9 @@
       "108552151",
       "108552091",
       "108552397",
-      "108552447"
+      "108552447",
+      "108552713",
+      "108551806"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3332,7 +3334,6 @@
       "https://mittechreview.com.br/?p=289808"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1375805",
       "https://olhardigital.com.br/?p=1375889",
       "https://olhardigital.com.br/?p=1375935",
       "https://olhardigital.com.br/?p=1376001",
@@ -3631,7 +3632,8 @@
       "https://olhardigital.com.br/?p=1390104",
       "https://olhardigital.com.br/?p=1390296",
       "https://olhardigital.com.br/?p=1390453",
-      "https://olhardigital.com.br/?p=1390475"
+      "https://olhardigital.com.br/?p=1390475",
+      "https://olhardigital.com.br/?p=1390408"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4165,7 +4167,6 @@
       "https://canaltech.com.br/inteligencia-artificial/cientistas-criam-ia-que-le-labios-em-silencio-absoluto-e-bate-recorde-de-precisao/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/anthropic-disponibiliza-seus-modelos-de-ia-mais-poderosos-para-mais-equipes-de-seguranca.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/06/samsung-deve-ver-lucro-do-3-tri-subir-nove-vezes-puxado-por-ia-segundo-analistas.htm",
       "https://tilt.uol.com.br/colunas/iagora/2026/10/06/ia-tem-consciencia-anthropic-quis-convencer-vaticano-e-ouviu-sonoro-nao.ghtm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/10/07/ceo-da-openai-diz-que-mundo-deve-aceitar-coisas-ruins-o-que-exatamente.htm",
@@ -4464,7 +4465,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/11/16/tensoes-sobre-chips-pairam-sobre-cupula-entre-trump-e-xi-enquanto-eua-e-china-promovem-medidas-de-seguranca-em-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/16/hackers-usam-ia-para-explorar-falhas-corrigidas-diz-google.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/16/chatgpt-tera-suspensao-de-24-horas-por-pedidos-de-abuso-infantil.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/16/fbi-alerta-para-ferramenta-de-ia-que-invade-redes-em-menos-de-3-horas.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/16/fbi-alerta-para-ferramenta-de-ia-que-invade-redes-em-menos-de-3-horas.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/17/china-recorre-a-modelos-de-ia-dos-eua-para-treinar-concorrentes-nacionais.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4942,77 +4944,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "grappling",
-      "huang",
-      "interviewed",
-      "jensenmania",
-      "later",
-      "nvidia",
-      "peak",
-      "three",
-      "weeks",
-      "without",
-      "world"
-    ],
-    [
-      "alphabet",
-      "apple",
-      "founder",
-      "harder",
-      "major",
-      "nvidia",
-      "survived",
-      "test",
-      "transitions",
-      "uber",
-      "will"
-    ],
-    [
-      "agents",
-      "allowing",
-      "chatgpt",
-      "dots",
-      "launches",
-      "make",
-      "openai",
-      "purchases",
-      "users",
-      "wallet"
-    ],
-    [
-      "copilot",
-      "falha",
-      "memes",
-      "outlook",
-      "redes",
-      "rende",
-      "sociais",
-      "teams"
-    ],
-    [
-      "agente",
-      "chatgpt",
-      "compras",
-      "confia",
-      "fara",
-      "openai",
-      "pelo",
-      "promete",
-      "seguranca",
-      "usuario",
-      "voce",
-      "wallet"
-    ],
-    [
-      "cada",
-      "chatgpt",
-      "claude",
-      "gemini",
-      "tres",
-      "usuarios",
-      "xinga"
-    ],
     [
       "agentes",
       "conversem",
@@ -6846,6 +6777,62 @@
       "reduz",
       "resolucao",
       "tempo"
+    ],
+    [
+      "ambition",
+      "lowering",
+      "raises",
+      "revolut",
+      "without"
+    ],
+    [
+      "allied",
+      "cyber",
+      "defenses",
+      "nato",
+      "strengthening"
+    ],
+    [
+      "2024",
+      "agencies",
+      "initiated",
+      "into",
+      "investigation",
+      "megaspeed",
+      "nvidia",
+      "partner",
+      "they"
+    ],
+    [
+      "access",
+      "buyers",
+      "china",
+      "chip",
+      "cnbc",
+      "legal",
+      "nvidia",
+      "risks",
+      "sources",
+      "tell",
+      "tied",
+      "warns"
+    ],
+    [
+      "crise",
+      "encontram",
+      "lacerda",
+      "nvidia",
+      "spotlight",
+      "trump",
+      "wharrysson"
+    ],
+    [
+      "china",
+      "concorrentes",
+      "modelos",
+      "nacionais",
+      "recorre",
+      "treinar"
     ]
   ]
 }
