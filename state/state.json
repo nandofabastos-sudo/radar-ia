@@ -264,7 +264,8 @@
       "https://openai.com/index/astra-law-6-2",
       "https://openai.com/index/introducing-openai-for-chile",
       "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "https://openai.com/index/introducing-chatgpt-for-sales"
+      "https://openai.com/index/introducing-chatgpt-for-sales",
+      "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -639,7 +640,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3178363",
       "https://techcrunch.com/?p=3178309",
       "https://techcrunch.com/?p=3178431",
       "https://techcrunch.com/?p=3178541",
@@ -938,7 +938,8 @@
       "https://techcrunch.com/?p=3189778",
       "https://techcrunch.com/?p=3189779",
       "https://techcrunch.com/?p=3189789",
-      "https://techcrunch.com/?p=3189812"
+      "https://techcrunch.com/?p=3189812",
+      "https://techcrunch.com/?p=3189878"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=1004096",
@@ -1982,7 +1983,6 @@
       "https://www.technologyreview.com/?p=1148203"
     ],
     "wired_ai": [
-      "6a6b52797f909c339868c2a0",
       "6a70bbe220d2b4e361aa7fe5",
       "6a691248a14f73606b399e44",
       "6a21cbb918920d19dd0adecd",
@@ -2281,7 +2281,8 @@
       "6af70b2466909349c1be422f",
       "6af5ff1c0b81f4a3e576433e",
       "6af3622682931ce68d5ff1c4",
-      "6afcbe818a3cb4ce2f9bb309"
+      "6afcbe818a3cb4ce2f9bb309",
+      "6afb86a52f410e459d337bcf"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2323,11 +2324,10 @@
       "6aea7a8eb1fc8f0001faf888",
       "6aecf6db72f2d40001289c29",
       "6af3b04d41212900011ace33",
-      "6aecef3d72f2d40001289bc0"
+      "6aecef3d72f2d40001289bc0",
+      "6afd00b2ee552b0001c3a34a"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49285244",
-      "https://news.ycombinator.com/item?id=49289112",
       "https://news.ycombinator.com/item?id=49289844",
       "https://news.ycombinator.com/item?id=49288889",
       "https://news.ycombinator.com/item?id=49294997",
@@ -2625,15 +2625,13 @@
       "https://news.ycombinator.com/item?id=50513215",
       "https://news.ycombinator.com/item?id=50512235",
       "https://news.ycombinator.com/item?id=50535230",
-      "https://news.ycombinator.com/item?id=50534631"
+      "https://news.ycombinator.com/item?id=50534631",
+      "https://news.ycombinator.com/item?id=50535885",
+      "https://news.ycombinator.com/item?id=50540178"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108371313",
-      "108370827",
-      "108367759",
-      "108371672",
       "108371273",
       "108371713",
       "108372007",
@@ -2929,7 +2927,11 @@
       "108553081",
       "108553187",
       "108552571",
-      "108553691"
+      "108553691",
+      "108553279",
+      "108553642",
+      "108553655",
+      "108553213"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3091,7 +3093,8 @@
       "https://techcrunch.com/?p=3188782",
       "https://techcrunch.com/?p=3188528",
       "https://techcrunch.com/?p=3189297",
-      "https://techcrunch.com/?p=3189612"
+      "https://techcrunch.com/?p=3189612",
+      "https://techcrunch.com/?p=3189878"
     ],
     "crunchbase_news": [
       "https://news.crunchbase.com/?p=93880",
@@ -3355,8 +3358,6 @@
       "https://mittechreview.com.br/?p=290047"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1376186",
-      "https://olhardigital.com.br/?p=1376197",
       "https://olhardigital.com.br/?p=1376209",
       "https://olhardigital.com.br/?p=1376304",
       "https://olhardigital.com.br/?p=1376312",
@@ -3654,7 +3655,9 @@
       "https://olhardigital.com.br/?p=1390830",
       "https://olhardigital.com.br/?p=1390840",
       "https://olhardigital.com.br/?p=1390845",
-      "https://olhardigital.com.br/?p=1390862"
+      "https://olhardigital.com.br/?p=1390862",
+      "https://olhardigital.com.br/?p=1390876",
+      "https://olhardigital.com.br/?p=1390802"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3884,7 +3887,9 @@
       "https://tecnoblog.net/?post_type=noticias&p=947147",
       "https://tecnoblog.net/?post_type=noticias&p=947192",
       "https://tecnoblog.net/?post_type=noticias&p=947308",
-      "https://tecnoblog.net/?post_type=noticias&p=947658"
+      "https://tecnoblog.net/?post_type=noticias&p=947658",
+      "https://tecnoblog.net/?post_type=noticias&p=947720",
+      "https://tecnoblog.net/?post_type=noticias&p=947755"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/como-a-ia-esta-transformando-as-experiencias-cotidianas-com-eletronicos-de-consumo/",
@@ -4972,130 +4977,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "also",
-      "huang",
-      "industry",
-      "jensen",
-      "news"
-    ],
-    [
-      "bharat",
-      "chip",
-      "eyes",
-      "global",
-      "indian",
-      "lands",
-      "market",
-      "round",
-      "seed",
-      "semi",
-      "sensor",
-      "startup"
-    ],
-    [
-      "drama",
-      "huang",
-      "jensen",
-      "latest",
-      "might",
-      "more",
-      "nvidia",
-      "plotting",
-      "return"
-    ],
-    [
-      "1994",
-      "arduino",
-      "claude",
-      "code",
-      "codex",
-      "engineered",
-      "jeep",
-      "over",
-      "reverse",
-      "video"
-    ],
-    [
-      "amoroso",
-      "articula",
-      "cargo",
-      "escandalo",
-      "nvidia",
-      "retorno"
-    ],
-    [
-      "aberta",
-      "ampliar",
-      "brasil",
-      "brics",
-      "china",
-      "ganhar",
-      "isso",
-      "pode",
-      "quer"
-    ],
-    [
-      "defende",
-      "empresa",
-      "escolha",
-      "fora",
-      "nvidia",
-      "secretario",
-      "trump"
-    ],
-    [
-      "articula",
-      "comando",
-      "empresa",
-      "jornal",
-      "nvidia",
-      "renuncia",
-      "volta"
-    ],
-    [
-      "business",
-      "guidance",
-      "more",
-      "needed",
-      "owners",
-      "singapore",
-      "small",
-      "surveyed"
-    ],
-    [
-      "apple",
-      "health",
-      "launches",
-      "people",
-      "study"
-    ],
-    [
-      "qwen4"
-    ],
-    [
-      "calls",
-      "growing",
-      "huang",
-      "jensen",
-      "nvidia",
-      "return",
-      "tech",
-      "world"
-    ],
-    [
-      "assessments",
-      "embedded",
-      "first",
-      "phase"
-    ],
-    [
-      "king",
-      "launch",
-      "openai",
-      "partnership",
-      "trust"
-    ],
     [
       "care",
       "chatgpt",
@@ -6813,6 +6694,133 @@
       "naturais",
       "novos",
       "twilio"
+    ],
+    [
+      "bring",
+      "chatgpt",
+      "figaro",
+      "groupe",
+      "journalism",
+      "openai",
+      "partner"
+    ],
+    [
+      "ballooned",
+      "deals",
+      "doubt",
+      "exit",
+      "future",
+      "huang",
+      "nvidia",
+      "puts",
+      "stakes",
+      "startup"
+    ],
+    [
+      "friendship",
+      "over",
+      "rely",
+      "third"
+    ],
+    [
+      "back",
+      "come",
+      "jensen",
+      "wants"
+    ],
+    [
+      "code",
+      "flash"
+    ],
+    [
+      "answers",
+      "google",
+      "reducing",
+      "search",
+      "traffic"
+    ],
+    [
+      "alfozan",
+      "bugging",
+      "case",
+      "defendant",
+      "january",
+      "openai",
+      "trial"
+    ],
+    [
+      "center",
+      "colette",
+      "gone",
+      "huang",
+      "jensen",
+      "kress",
+      "nvidia",
+      "shows",
+      "still"
+    ],
+    [
+      "analysts",
+      "beat",
+      "comes",
+      "despite",
+      "earnings",
+      "expect",
+      "investor",
+      "next",
+      "nvidia",
+      "uncertainty",
+      "what"
+    ],
+    [
+      "asia",
+      "boom",
+      "center",
+      "chinese",
+      "data",
+      "demand",
+      "leaned",
+      "pipeline",
+      "risk",
+      "rules",
+      "southeast"
+    ],
+    [
+      "descoberta",
+      "essencial",
+      "falha",
+      "grande",
+      "internet",
+      "java",
+      "software"
+    ],
+    [
+      "comportamento",
+      "esta",
+      "fala",
+      "mudar",
+      "observada",
+      "pena",
+      "pode",
+      "quando",
+      "sabe",
+      "sendo"
+    ],
+    [
+      "anotacoes",
+      "criar",
+      "gemini",
+      "interativos",
+      "notebook",
+      "partir",
+      "permite",
+      "sites",
+      "suas"
+    ],
+    [
+      "audiencia",
+      "despenca",
+      "reddit"
     ]
   ]
 }
