@@ -3381,8 +3381,6 @@
       "https://mittechreview.com.br/?p=290013"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1376312",
-      "https://olhardigital.com.br/?p=1376394",
       "https://olhardigital.com.br/?p=1376413",
       "https://olhardigital.com.br/?p=1376132",
       "https://olhardigital.com.br/?p=1375043",
@@ -3680,7 +3678,9 @@
       "https://olhardigital.com.br/?p=1390876",
       "https://olhardigital.com.br/?p=1390802",
       "https://olhardigital.com.br/?p=1391208",
-      "https://olhardigital.com.br/?p=1391254"
+      "https://olhardigital.com.br/?p=1391254",
+      "https://olhardigital.com.br/?p=1391284",
+      "https://olhardigital.com.br/?p=1391222"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4222,7 +4222,6 @@
       "https://canaltech.com.br/inteligencia-artificial/um-terco-dos-jovens-ja-usa-ia-como-amigo-estudo-aponta-70-mais-risco-de-solidao/"
     ],
     "tilt_uol": [
-      "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/08/trump-tratara-como-inimigo-quem-nao-disser-superinteligencia-em-vez-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/08/usa-today-processa-openai-por-violacao-de-direitos-autorais.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/08/processo-contra-mcdonalds-nos-eua-por-precificacao-baseada-em-ia-levanta-novas-questoes.htm",
       "https://www.uol.com.br/flash/?c=6ac7dd99989ca065b1f94bfd",
@@ -4521,7 +4520,8 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/11/18/ipo-da-anthropic-deve-criar-milhares-de-milionarios.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/11/18/anthropic-fixa-preco-de-ipo-em-us83-por-acao-diz-fonte.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/18/google-lanca-ia-para-tarefas-complexas-de-programacao-e-analise.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/18/anthropic-fixa-preco-de-ipo-em-us-83-por-acao-diz-fonte.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/18/anthropic-fixa-preco-de-ipo-em-us-83-por-acao-diz-fonte.htm",
+      "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/11/19/como-ia-pode-ir-de-vila-a-aliada-do-brasil-no-combate-a-mudancas-climaticas.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -5011,48 +5011,11 @@
       "https://www.mobiletime.com.br/?p=868225",
       "https://www.mobiletime.com.br/?p=868220",
       "https://www.mobiletime.com.br/?p=868257",
-      "https://www.mobiletime.com.br/?p=868274"
+      "https://www.mobiletime.com.br/?p=868274",
+      "https://www.mobiletime.com.br/?p=868285"
     ]
   },
   "_titulos_recentes": [
-    [
-      "candidates",
-      "clinical",
-      "drug",
-      "isomorphic",
-      "labs",
-      "looks",
-      "raises",
-      "take",
-      "trials"
-    ],
-    [
-      "assistant",
-      "labs",
-      "million",
-      "raises",
-      "specialized",
-      "travel",
-      "voyage"
-    ],
-    [
-      "acts",
-      "agent",
-      "daydream",
-      "personal",
-      "shop",
-      "stylist",
-      "your"
-    ],
-    [
-      "allowed",
-      "honored",
-      "huang",
-      "jensen",
-      "nvidia",
-      "return",
-      "would"
-    ],
     [
       "civilians",
       "game",
@@ -6845,6 +6808,44 @@
       "estreia",
       "nesta",
       "quinta"
+    ],
+    [
+      "analise",
+      "conheca",
+      "gemini",
+      "google",
+      "neon",
+      "programacao"
+    ],
+    [
+      "aguas",
+      "alvaro",
+      "amanha",
+      "anthropic",
+      "dias",
+      "divisor",
+      "machado",
+      "olhar"
+    ],
+    [
+      "aliada",
+      "brasil",
+      "climaticas",
+      "combate",
+      "mudancas",
+      "pode",
+      "vila"
+    ],
+    [
+      "avalia",
+      "bancos",
+      "dinheiro",
+      "estudo",
+      "fase",
+      "group",
+      "math",
+      "saem",
+      "testes"
     ]
   ]
 }
