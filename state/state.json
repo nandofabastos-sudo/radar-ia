@@ -659,7 +659,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3179067",
       "https://techcrunch.com/?p=3179571",
       "https://techcrunch.com/?p=3179569",
       "https://techcrunch.com/?p=3179291",
@@ -958,7 +957,8 @@
       "https://techcrunch.com/?p=3190534",
       "https://techcrunch.com/?p=3190572",
       "https://techcrunch.com/?p=3190594",
-      "https://techcrunch.com/?p=3190498"
+      "https://techcrunch.com/?p=3190498",
+      "https://techcrunch.com/?p=3190713"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=1005451",
@@ -2007,7 +2007,6 @@
       "https://www.technologyreview.com/?p=1148650"
     ],
     "wired_ai": [
-      "6a74a66abe18f73960cfccb3",
       "6a7267a652cbcac31bc24d69",
       "6a74f6a1acdf56f645ad2243",
       "69c6b4bc1e74f0a0c774a978",
@@ -2306,7 +2305,8 @@
       "6afda55081c12cf49a02c348",
       "6afe1975e2b495550e9a348e",
       "6aff3f190210333c753c757e",
-      "6afe116e564242f4569caa47"
+      "6afe116e564242f4569caa47",
+      "6af4d20cc0a9fcf888a73c56"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2349,7 +2349,8 @@
       "6aecf6db72f2d40001289c29",
       "6af3b04d41212900011ace33",
       "6aecef3d72f2d40001289bc0",
-      "6afd00b2ee552b0001c3a34a"
+      "6afd00b2ee552b0001c3a34a",
+      "6aff93fe62d8ed0001648c07"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49312845",
@@ -2656,10 +2657,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108373573",
-      "108373222",
-      "108373728",
-      "108373786",
       "108374094",
       "108373462",
       "108374395",
@@ -2955,7 +2952,11 @@
       "108555411",
       "108555826",
       "108555864",
-      "108556057"
+      "108556057",
+      "108556117",
+      "108556079",
+      "108555304",
+      "108553976"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3392,8 +3393,6 @@
       "https://mittechreview.com.br/?p=290013"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1376522",
-      "https://olhardigital.com.br/?p=1375044",
       "https://olhardigital.com.br/?p=1376672",
       "https://olhardigital.com.br/?p=1376970",
       "https://olhardigital.com.br/?p=1376976",
@@ -3691,7 +3690,9 @@
       "https://olhardigital.com.br/?p=1391533",
       "https://olhardigital.com.br/?p=1391536",
       "https://olhardigital.com.br/?p=1391647",
-      "https://olhardigital.com.br/?p=1391655"
+      "https://olhardigital.com.br/?p=1391655",
+      "https://olhardigital.com.br/?p=1391680",
+      "https://olhardigital.com.br/?p=1391682"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3933,7 +3934,8 @@
       "https://tecnoblog.net/?post_type=noticias&p=948033",
       "https://tecnoblog.net/?post_type=noticias&p=948068",
       "https://tecnoblog.net/?post_type=noticias&p=948121",
-      "https://tecnoblog.net/?post_type=noticias&p=948131"
+      "https://tecnoblog.net/?post_type=noticias&p=948131",
+      "https://tecnoblog.net/?post_type=noticias&p=948263"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/estreia-da-anthropic-na-bolsa-vira-aviso-sobre-o-fim-do-mundo-corremos-risco-de-extincao/",
@@ -5042,89 +5044,11 @@
       "https://www.mobiletime.com.br/?p=868293",
       "https://www.mobiletime.com.br/?p=868295",
       "https://www.mobiletime.com.br/?p=868310",
-      "https://www.mobiletime.com.br/?p=868323"
+      "https://www.mobiletime.com.br/?p=868323",
+      "https://www.mobiletime.com.br/?p=868344"
     ]
   },
   "_titulos_recentes": [
-    [
-      "audiencia",
-      "despenca",
-      "reddit"
-    ],
-    [
-      "advancing",
-      "chip",
-      "design",
-      "models",
-      "openai"
-    ],
-    [
-      "consensus",
-      "silent"
-    ],
-    [
-      "codex",
-      "inside",
-      "sandbox"
-    ],
-    [
-      "available",
-      "genie"
-    ],
-    [
-      "android",
-      "available",
-      "devices",
-      "gemini",
-      "lower",
-      "memory"
-    ],
-    [
-      "compact",
-      "desktops",
-      "nvidia",
-      "spark"
-    ],
-    [
-      "companies",
-      "data",
-      "feed",
-      "humyn",
-      "india",
-      "labs",
-      "need",
-      "raises",
-      "robotics",
-      "they"
-    ],
-    [
-      "agents",
-      "documents",
-      "enterprise",
-      "felicis",
-      "leads",
-      "make",
-      "unsiloed",
-      "usable"
-    ],
-    [
-      "clarifies",
-      "financing",
-      "keep",
-      "neoclouds",
-      "nvidia",
-      "when",
-      "will"
-    ],
-    [
-      "altman",
-      "hard",
-      "imagine",
-      "industry",
-      "jensen",
-      "openai",
-      "without"
-    ],
     [
       "against",
       "altman",
@@ -6800,6 +6724,97 @@
       "motorola",
       "qira",
       "smartphones"
+    ],
+    [
+      "agent",
+      "apple",
+      "developing",
+      "runs",
+      "your"
+    ],
+    [
+      "cost",
+      "founded",
+      "kill",
+      "missile",
+      "startup",
+      "targeting",
+      "year"
+    ],
+    [
+      "anthropic",
+      "goes",
+      "public"
+    ],
+    [
+      "asian",
+      "hits",
+      "over",
+      "sell",
+      "softbank",
+      "stocks",
+      "suffers",
+      "tech",
+      "worst",
+      "years"
+    ],
+    [
+      "analysts",
+      "anthropic",
+      "exactly",
+      "markets",
+      "need",
+      "volatility",
+      "warn",
+      "what"
+    ],
+    [
+      "baaja",
+      "backed",
+      "bill",
+      "energy",
+      "passes",
+      "permitting",
+      "reform",
+      "sectors",
+      "senate"
+    ],
+    [
+      "changing",
+      "developers",
+      "engineering",
+      "miss",
+      "software",
+      "some",
+      "struggle"
+    ],
+    [
+      "chinesas",
+      "chips",
+      "empresas",
+      "liberaram",
+      "quase"
+    ],
+    [
+      "chaveiro",
+      "colocar",
+      "internet",
+      "meta",
+      "quer"
+    ],
+    [
+      "google",
+      "historico",
+      "inicial",
+      "leva",
+      "pagina"
+    ],
+    [
+      "controle",
+      "ferramentas",
+      "lanca",
+      "seguranca",
+      "tiktok"
     ]
   ]
 }
