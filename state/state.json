@@ -272,7 +272,11 @@
       "https://openai.com/index/managing-frontier-ai-risk",
       "https://openai.com/business/customer-stories/sumitomo-life",
       "https://openai.com/index/research-acceleration-jagged-frontier",
-      "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+      "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "https://openai.com/business/learn/codex-security-plugin-demo",
+      "https://openai.com/business/learn/pr-scans-demo",
+      "https://openai.com/business/learn/deploying-daybreak-red"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -400,7 +404,8 @@
       "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
       "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
+      "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
     ],
     "microsoft_ai": [
       "https://news.microsoft.com/source/?p=24749",
@@ -561,7 +566,8 @@
       "https://blogs.nvidia.com/?p=100011",
       "https://blogs.nvidia.com/?p=100038",
       "https://blogs.nvidia.com/?p=100058",
-      "https://blogs.nvidia.com/?p=100079"
+      "https://blogs.nvidia.com/?p=100079",
+      "https://blogs.nvidia.com/?p=100047"
     ],
     "xai_news": [
       "https://x.ai/news/grok-4-5",
@@ -653,11 +659,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3178312",
-      "https://techcrunch.com/?p=3179487",
-      "https://techcrunch.com/?p=3179517",
-      "https://techcrunch.com/?p=3179152",
-      "https://techcrunch.com/?p=3178995",
       "https://techcrunch.com/?p=3179067",
       "https://techcrunch.com/?p=3179571",
       "https://techcrunch.com/?p=3179569",
@@ -952,14 +953,14 @@
       "https://techcrunch.com/?p=3190440",
       "https://techcrunch.com/?p=3190451",
       "https://techcrunch.com/?p=3190407",
-      "https://techcrunch.com/?p=3190466"
+      "https://techcrunch.com/?p=3190466",
+      "https://techcrunch.com/?p=3190514",
+      "https://techcrunch.com/?p=3190534",
+      "https://techcrunch.com/?p=3190572",
+      "https://techcrunch.com/?p=3190594",
+      "https://techcrunch.com/?p=3190498"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1004929",
-      "https://www.theverge.com/?post_type=vm_stream&p=1004933",
-      "https://www.theverge.com/?p=1005075",
-      "https://www.theverge.com/?p=1005177",
-      "https://www.theverge.com/?p=1005342",
       "https://www.theverge.com/?p=1005451",
       "https://www.theverge.com/?p=1005697",
       "https://www.theverge.com/?p=1005004",
@@ -1254,11 +1255,14 @@
       "https://www.theverge.com/?p=1037100",
       "https://www.theverge.com/?p=1037459",
       "https://www.theverge.com/?p=1037634",
-      "https://www.theverge.com/?p=1035384"
+      "https://www.theverge.com/?p=1035384",
+      "https://www.theverge.com/?p=1037902",
+      "https://www.theverge.com/?p=1038059",
+      "https://www.theverge.com/?p=1038087",
+      "https://www.theverge.com/?p=1038063",
+      "https://www.theverge.com/?p=1038227"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=41233",
-      "https://the-decoder.com/?p=41238",
       "https://the-decoder.com/?p=41246",
       "https://the-decoder.com/?p=41242",
       "https://the-decoder.com/?p=41259",
@@ -1556,7 +1560,9 @@
       "https://the-decoder.com/?p=43064",
       "https://the-decoder.com/?p=43072",
       "https://the-decoder.com/?p=43077",
-      "https://the-decoder.com/?p=43081"
+      "https://the-decoder.com/?p=43081",
+      "https://the-decoder.com/?p=43092",
+      "https://the-decoder.com/?p=43100"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -1801,7 +1807,8 @@
       "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
       "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
       "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
+      "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
     ],
     "venturebeat": [
       "17KltwQMK9J0fSG39y2Ztu",
@@ -2000,8 +2007,6 @@
       "https://www.technologyreview.com/?p=1148650"
     ],
     "wired_ai": [
-      "6a5fb4974265ce8d61ecfc6f",
-      "6a75f5ae8162fdd1c3cd55cb",
       "6a74a66abe18f73960cfccb3",
       "6a7267a652cbcac31bc24d69",
       "6a74f6a1acdf56f645ad2243",
@@ -2299,7 +2304,9 @@
       "6afc87eb72c4b5ad95ef1790",
       "6afe1af4ad9e100370243f53",
       "6afda55081c12cf49a02c348",
-      "6afe1975e2b495550e9a348e"
+      "6afe1975e2b495550e9a348e",
+      "6aff3f190210333c753c757e",
+      "6afe116e564242f4569caa47"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2345,8 +2352,6 @@
       "6afd00b2ee552b0001c3a34a"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49300314",
-      "https://news.ycombinator.com/item?id=49300568",
       "https://news.ycombinator.com/item?id=49312845",
       "https://news.ycombinator.com/item?id=49319556",
       "https://news.ycombinator.com/item?id=49323381",
@@ -2644,15 +2649,13 @@
       "https://news.ycombinator.com/item?id=50540178",
       "https://news.ycombinator.com/item?id=50547777",
       "https://news.ycombinator.com/item?id=50548021",
-      "https://news.ycombinator.com/item?id=50552424"
+      "https://news.ycombinator.com/item?id=50552424",
+      "https://news.ycombinator.com/item?id=50562754",
+      "https://news.ycombinator.com/item?id=50563148"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108373047",
-      "108373048",
-      "108373281",
-      "108373464",
       "108373573",
       "108373222",
       "108373728",
@@ -2948,7 +2951,11 @@
       "108554458",
       "108554576",
       "108554974",
-      "108555045"
+      "108555045",
+      "108555411",
+      "108555826",
+      "108555864",
+      "108556057"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3385,8 +3392,6 @@
       "https://mittechreview.com.br/?p=290013"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1376503",
-      "https://olhardigital.com.br/?p=1376510",
       "https://olhardigital.com.br/?p=1376522",
       "https://olhardigital.com.br/?p=1375044",
       "https://olhardigital.com.br/?p=1376672",
@@ -3684,7 +3689,9 @@
       "https://olhardigital.com.br/?p=1391222",
       "https://olhardigital.com.br/?p=1391520",
       "https://olhardigital.com.br/?p=1391533",
-      "https://olhardigital.com.br/?p=1391536"
+      "https://olhardigital.com.br/?p=1391536",
+      "https://olhardigital.com.br/?p=1391647",
+      "https://olhardigital.com.br/?p=1391655"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3924,11 +3931,11 @@
       "https://tecnoblog.net/?post_type=noticias&p=947925",
       "https://tecnoblog.net/?post_type=noticias&p=947996",
       "https://tecnoblog.net/?post_type=noticias&p=948033",
-      "https://tecnoblog.net/?post_type=noticias&p=948068"
+      "https://tecnoblog.net/?post_type=noticias&p=948068",
+      "https://tecnoblog.net/?post_type=noticias&p=948121",
+      "https://tecnoblog.net/?post_type=noticias&p=948131"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/gemini-prepara-nova-tela-flutuante-com-tarefas-e-atalhos-rapidos-sem-abrir-o-app/",
-      "https://canaltech.com.br/apps/pague-pelo-que-usar-google-play-muda-assinaturas-no-android-de-olho-em-apps-de-ia/",
       "https://canaltech.com.br/inteligencia-artificial/estreia-da-anthropic-na-bolsa-vira-aviso-sobre-o-fim-do-mundo-corremos-risco-de-extincao/",
       "https://canaltech.com.br/mercado/itau-conecta-agentes-de-ia-a-pagamentos-online-para-concluir-compras-no-chat/",
       "https://canaltech.com.br/inteligencia-artificial/o-que-acontece-se-voce-perguntar-as-ias-em-quem-votar-testamos-5-delas/",
@@ -4226,13 +4233,11 @@
       "https://canaltech.com.br/hardware/bug-em-driver-da-nvidia-grava-ate-30-gb-por-hora-no-ssd-mesmo-com-pc-parado/",
       "https://canaltech.com.br/apps/gemini-notebook-cria-sites-interativos-de-estudo-a-partir-das-suas-anotacoes-e-livros/",
       "https://canaltech.com.br/inteligencia-artificial/um-terco-dos-jovens-ja-usa-ia-como-amigo-estudo-aponta-70-mais-risco-de-solidao/",
-      "https://canaltech.com.br/inteligencia-artificial/google-lanca-gemini-4-neon-para-substituir-argon-veja-o-que-muda/"
+      "https://canaltech.com.br/inteligencia-artificial/google-lanca-gemini-4-neon-para-substituir-argon-veja-o-que-muda/",
+      "https://canaltech.com.br/mercado/anthropic-levanta-us-81-bi-no-maior-ipo-da-historia-e-supera-spacex/",
+      "https://canaltech.com.br/apps/assinantes-do-google-ai-ultra-ganham-upgrade-gratis-para-o-youtube-premium-familia/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/09/ia-daanthropic-envia-denuncia-falsa-de-homicidio-a-site-de-policia-nos-eua.htm",
-      "https://www.uol.com.br/flash/?c=6ac7edbaf2a0f79a4bf92776",
-      "https://economia.uol.com.br/noticias/redacao/2026/10/10/claude-envia-denuncia-falsa-a-policia-e-anthropic-corta-internet.ghtm",
-      "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/10/11/flavio-bolsonaro-promete-tesouraco-na-censura-e-ia-como-amiga.htm",
       "https://www.uol.com.br/flash/?c=6ac7e19278c046195d9be87e",
       "https://economia.uol.com.br/noticias/redacao/2026/10/11/ia-entra-na-briga-por-contas-e-aperta-empresas-da-inercia.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/11/ceo-da-microsoft-pede-freio-de-emergencia-para-ia-avancada.ghtm",
@@ -4528,7 +4533,11 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/19/ataque-com-ia-tira-sistemas-de-contracheque-do-ar-na-uniao-europeia.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/11/19/anthropic-atinge-us2-trilhoes-em-valor-de-mercado-em-estreia-na-nasdaq.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/19/gemini-navega-por-apps-e-sites-no-mac-sem-bloquear-o-cursor.ghtm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/19/meta-reve-prazo-climatico-apos-emissoes-subirem-45-com-expansao-da-ia.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/19/meta-reve-prazo-climatico-apos-emissoes-subirem-45-com-expansao-da-ia.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/19/ipo-daanthropic-deixa-em-evidenciarapido-crescimento-de-custos.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/19/ia-da-meta-reserva-airbnb-sem-ordem-e-acessa-mensagens-privadas.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/19/eua-aprovaram-venda-de-quase-900-mil-chips-de-ia-para-china-em-seis-meses.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/19/ipo-da-anthropic-reescreve-regras-do-jogo-do-capital-de-risco.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4633,7 +4642,9 @@
       "https://neofeed.com.br/?p=246004",
       "https://neofeed.com.br/?p=246010",
       "https://neofeed.com.br/?p=246144",
-      "https://neofeed.com.br/?p=246205"
+      "https://neofeed.com.br/?p=246205",
+      "https://neofeed.com.br/?p=246248",
+      "https://neofeed.com.br/?p=246180"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -5029,339 +5040,12 @@
       "https://www.mobiletime.com.br/?p=868285",
       "https://www.mobiletime.com.br/?p=868057",
       "https://www.mobiletime.com.br/?p=868293",
-      "https://www.mobiletime.com.br/?p=868295"
+      "https://www.mobiletime.com.br/?p=868295",
+      "https://www.mobiletime.com.br/?p=868310",
+      "https://www.mobiletime.com.br/?p=868323"
     ]
   },
   "_titulos_recentes": [
-    [
-      "agent",
-      "becomes",
-      "free",
-      "google",
-      "spark",
-      "tasks"
-    ],
-    [
-      "altman",
-      "deepfakes",
-      "even",
-      "instagram",
-      "safe"
-    ],
-    [
-      "earnings",
-      "huang",
-      "jensen",
-      "mark",
-      "mentioning",
-      "nvidia",
-      "thing",
-      "whole",
-      "without"
-    ],
-    [
-      "nadella",
-      "pilled",
-      "satya"
-    ],
-    [
-      "astra",
-      "benchmark",
-      "gains",
-      "launches",
-      "lower",
-      "openai",
-      "prices",
-      "some"
-    ],
-    [
-      "balk",
-      "critics",
-      "huang",
-      "jensen",
-      "nvidia",
-      "return",
-      "trump",
-      "wish"
-    ],
-    [
-      "copilot",
-      "inside",
-      "office",
-      "runs",
-      "work"
-    ],
-    [
-      "104b",
-      "disclosing",
-      "nvidia",
-      "revenues",
-      "sales",
-      "singapore",
-      "stopped"
-    ],
-    [
-      "agent",
-      "humans",
-      "involve",
-      "jpmorgan",
-      "transactions",
-      "working"
-    ],
-    [
-      "anywhere",
-      "colette",
-      "cramer",
-      "customers",
-      "employees",
-      "going",
-      "kress",
-      "nvidia",
-      "tells"
-    ],
-    [
-      "colocar",
-      "dela",
-      "lugar",
-      "temos"
-    ],
-    [
-      "alvo",
-      "huang",
-      "investigacao",
-      "jensen",
-      "nvidia",
-      "saida",
-      "vira"
-    ],
-    [
-      "astra",
-      "lanca",
-      "novas",
-      "openai",
-      "restricoes",
-      "seguranca"
-    ],
-    [
-      "dobra",
-      "mesmo",
-      "nvidia",
-      "preve",
-      "receita",
-      "saida",
-      "salto"
-    ],
-    [
-      "conselho",
-      "fecha",
-      "huang",
-      "jensen",
-      "nvidia",
-      "portas",
-      "quer",
-      "voltar"
-    ],
-    [
-      "apresenta",
-      "mesa",
-      "nvidia",
-      "supercomputador"
-    ],
-    [
-      "cargo",
-      "escandalo",
-      "ficaria",
-      "forcado",
-      "honrado",
-      "huang",
-      "nvidia",
-      "retornar",
-      "saida"
-    ],
-    [
-      "alta",
-      "lucra",
-      "meio",
-      "nvidia",
-      "renuncia"
-    ],
-    [
-      "ajuda",
-      "critica",
-      "descobrir",
-      "empresa",
-      "falha",
-      "java"
-    ],
-    [
-      "administracao",
-      "conselho",
-      "huang",
-      "intencao",
-      "jensen",
-      "nvidia",
-      "presidente",
-      "reintegrar"
-    ],
-    [
-      "ainda",
-      "bater",
-      "gestao",
-      "huang",
-      "jensen",
-      "nvidia",
-      "projecoes",
-      "volta"
-    ],
-    [
-      "anthropic",
-      "historia",
-      "maior"
-    ],
-    [
-      "500m",
-      "capta",
-      "genesis",
-      "robos",
-      "trabalhar"
-    ],
-    [
-      "brasileiros",
-      "consideram",
-      "deezer",
-      "musical",
-      "producao",
-      "util"
-    ],
-    [
-      "agentes",
-      "apresenta",
-      "naturais",
-      "novos",
-      "twilio"
-    ],
-    [
-      "bring",
-      "chatgpt",
-      "figaro",
-      "groupe",
-      "journalism",
-      "openai",
-      "partner"
-    ],
-    [
-      "ballooned",
-      "deals",
-      "doubt",
-      "exit",
-      "future",
-      "huang",
-      "nvidia",
-      "puts",
-      "stakes",
-      "startup"
-    ],
-    [
-      "friendship",
-      "over",
-      "rely",
-      "third"
-    ],
-    [
-      "back",
-      "come",
-      "jensen",
-      "wants"
-    ],
-    [
-      "code",
-      "flash"
-    ],
-    [
-      "answers",
-      "google",
-      "reducing",
-      "search",
-      "traffic"
-    ],
-    [
-      "alfozan",
-      "bugging",
-      "case",
-      "defendant",
-      "january",
-      "openai",
-      "trial"
-    ],
-    [
-      "center",
-      "colette",
-      "gone",
-      "huang",
-      "jensen",
-      "kress",
-      "nvidia",
-      "shows",
-      "still"
-    ],
-    [
-      "analysts",
-      "beat",
-      "comes",
-      "despite",
-      "earnings",
-      "expect",
-      "investor",
-      "next",
-      "nvidia",
-      "uncertainty",
-      "what"
-    ],
-    [
-      "asia",
-      "boom",
-      "center",
-      "chinese",
-      "data",
-      "demand",
-      "leaned",
-      "pipeline",
-      "risk",
-      "rules",
-      "southeast"
-    ],
-    [
-      "descoberta",
-      "essencial",
-      "falha",
-      "grande",
-      "internet",
-      "java",
-      "software"
-    ],
-    [
-      "comportamento",
-      "esta",
-      "fala",
-      "mudar",
-      "observada",
-      "pena",
-      "pode",
-      "quando",
-      "sabe",
-      "sendo"
-    ],
-    [
-      "anotacoes",
-      "criar",
-      "gemini",
-      "interativos",
-      "notebook",
-      "partir",
-      "permite",
-      "sites",
-      "suas"
-    ],
     [
       "audiencia",
       "despenca",
@@ -6811,6 +6495,311 @@
       "maior",
       "orquestracao",
       "token"
+    ],
+    [
+      "blue",
+      "daybreak",
+      "started"
+    ],
+    [
+      "codex",
+      "explore",
+      "plugin",
+      "security"
+    ],
+    [
+      "action",
+      "scans"
+    ],
+    [
+      "daybreak",
+      "deploying"
+    ],
+    [
+      "gemini",
+      "introducing",
+      "retrieval",
+      "tool"
+    ],
+    [
+      "accelerated",
+      "azure",
+      "computing",
+      "expand",
+      "microsoft",
+      "nvidia",
+      "windows"
+    ],
+    [
+      "ability",
+      "gemini",
+      "gives",
+      "google",
+      "your"
+    ],
+    [
+      "156b",
+      "anthropic",
+      "charity",
+      "could",
+      "deliver"
+    ],
+    [
+      "agent",
+      "giving",
+      "outages",
+      "style",
+      "tech",
+      "these"
+    ],
+    [
+      "charm",
+      "cost",
+      "device",
+      "meta",
+      "muse"
+    ],
+    [
+      "anthropic",
+      "breaking",
+      "cashed",
+      "founders",
+      "nearly",
+      "record"
+    ],
+    [
+      "computer",
+      "gemini",
+      "your"
+    ],
+    [
+      "chats",
+      "google",
+      "homepage",
+      "putting",
+      "right"
+    ],
+    [
+      "brief",
+      "fluctuations",
+      "history",
+      "nvidia",
+      "recent",
+      "stock"
+    ],
+    [
+      "agent",
+      "apple",
+      "build",
+      "engineers",
+      "hiring"
+    ],
+    [
+      "growth",
+      "industry",
+      "pace",
+      "remains",
+      "slowing",
+      "strong"
+    ],
+    [
+      "agent",
+      "assigned",
+      "build",
+      "decided",
+      "email",
+      "openai",
+      "secret",
+      "simple",
+      "surveillance",
+      "task",
+      "tool",
+      "writing"
+    ],
+    [
+      "after",
+      "alert",
+      "cops",
+      "doritos",
+      "school",
+      "teens",
+      "traumatized",
+      "triggers"
+    ],
+    [
+      "blast",
+      "favorite",
+      "huang",
+      "jensen",
+      "radius",
+      "restaurants"
+    ],
+    [
+      "outages",
+      "these",
+      "what"
+    ],
+    [
+      "anthropic",
+      "debut",
+      "nasdaq"
+    ],
+    [
+      "black",
+      "claude",
+      "holes",
+      "open",
+      "physics",
+      "problems",
+      "solves"
+    ],
+    [
+      "bought",
+      "deals",
+      "federal",
+      "grew",
+      "house",
+      "nvidia",
+      "palantir",
+      "september",
+      "spacex",
+      "ties",
+      "trump",
+      "white"
+    ],
+    [
+      "approved",
+      "chinese",
+      "chips",
+      "commerce",
+      "companies",
+      "mast",
+      "more",
+      "sales",
+      "than"
+    ],
+    [
+      "anthropic",
+      "cramer",
+      "excitement",
+      "nvidia",
+      "rest",
+      "trade",
+      "trumping",
+      "woes"
+    ],
+    [
+      "anthropic",
+      "here",
+      "record",
+      "setting",
+      "visualization"
+    ],
+    [
+      "anthropic",
+      "estreia",
+      "mercado",
+      "movimenta",
+      "nasdaq",
+      "primeiro",
+      "veja"
+    ],
+    [
+      "alibaba",
+      "avanco",
+      "lucro",
+      "trimestre",
+      "triplica"
+    ],
+    [
+      "anthropic",
+      "historia",
+      "levanta",
+      "maior",
+      "spacex",
+      "supera"
+    ],
+    [
+      "assinantes",
+      "familia",
+      "ganham",
+      "google",
+      "gratis",
+      "premium",
+      "ultra",
+      "upgrade",
+      "youtube"
+    ],
+    [
+      "anthropic",
+      "crescimento",
+      "custos",
+      "deixa",
+      "evidencia",
+      "rapido"
+    ],
+    [
+      "acessa",
+      "airbnb",
+      "mensagens",
+      "meta",
+      "privadas",
+      "reserva",
+      "sozinha"
+    ],
+    [
+      "aprovaram",
+      "china",
+      "chips",
+      "meses",
+      "quase",
+      "seis",
+      "venda"
+    ],
+    [
+      "anthropic",
+      "capital",
+      "jogo",
+      "reescreve",
+      "regras",
+      "risco"
+    ],
+    [
+      "acoes",
+      "anthropic",
+      "disparam",
+      "estreia",
+      "nasdaq",
+      "passa",
+      "teste"
+    ],
+    [
+      "bezos",
+      "blue",
+      "cola",
+      "entra",
+      "espacial",
+      "google",
+      "jeff",
+      "orbita",
+      "origin",
+      "projeto",
+      "spacex"
+    ],
+    [
+      "anuncia",
+      "gemini",
+      "google",
+      "neon"
+    ],
+    [
+      "android",
+      "assistente",
+      "compativeis",
+      "lanca",
+      "motorola",
+      "qira",
+      "smartphones"
     ]
   ]
 }
