@@ -664,8 +664,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3179763",
-      "https://techcrunch.com/?p=3179702",
       "https://techcrunch.com/?p=3179783",
       "https://techcrunch.com/?p=3179777",
       "https://techcrunch.com/?p=3179891",
@@ -963,11 +961,11 @@
       "https://techcrunch.com/?post_type=tc_podcast&p=3190825",
       "https://techcrunch.com/?p=3190857",
       "https://techcrunch.com/?p=3190908",
-      "https://techcrunch.com/?p=3190943"
+      "https://techcrunch.com/?p=3190943",
+      "https://techcrunch.com/?p=3188069",
+      "https://techcrunch.com/?p=3173132"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1005726",
-      "https://www.theverge.com/?p=1006766",
       "https://www.theverge.com/?p=1006813",
       "https://www.theverge.com/?p=1005194",
       "https://www.theverge.com/?p=1006915",
@@ -1265,12 +1263,11 @@
       "https://www.theverge.com/?p=1038390",
       "https://www.theverge.com/?p=1038419",
       "https://www.theverge.com/?p=1010051",
-      "https://www.theverge.com/?p=1038892"
+      "https://www.theverge.com/?p=1038892",
+      "https://www.theverge.com/?p=1038099",
+      "https://www.theverge.com/?p=1038701"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=41328",
-      "https://the-decoder.com/?p=41333",
-      "https://the-decoder.com/?p=41342",
       "https://the-decoder.com/?p=41360",
       "https://the-decoder.com/?p=41365",
       "https://the-decoder.com/?p=41370",
@@ -1567,7 +1564,10 @@
       "https://the-decoder.com/?p=43145",
       "https://the-decoder.com/?p=43153",
       "https://the-decoder.com/?p=43149",
-      "https://the-decoder.com/?p=43157"
+      "https://the-decoder.com/?p=43157",
+      "https://the-decoder.com/?p=43162",
+      "https://the-decoder.com/?p=43166",
+      "https://the-decoder.com/?p=43171"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2016,7 +2016,6 @@
       "https://www.technologyreview.com/?p=1149399"
     ],
     "wired_ai": [
-      "6a79e1a5df07565eeae29719",
       "6a70ce132c2386859193fdee",
       "6a763bc7d223b2324a2eae1c",
       "6a6b8204429e149eff9adc15",
@@ -2315,7 +2314,8 @@
       "6af775346a0ec56e5037a12c",
       "6af763c2b6bcd37d17807d64",
       "6b006eaa6873ef9746910ed7",
-      "6b0083c47020ceeb47169e93"
+      "6b0083c47020ceeb47169e93",
+      "6aff54f5dedf491d3bbcabcb"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2666,7 +2666,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108373038",
       "108378521",
       "108358430",
       "108374232",
@@ -2965,7 +2964,8 @@
       "108555967",
       "108556651",
       "108556573",
-      "108556722"
+      "108556722",
+      "108555422"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3408,8 +3408,6 @@
       "https://mittechreview.com.br/?p=290013"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1377075",
-      "https://olhardigital.com.br/?p=1377307",
       "https://olhardigital.com.br/?p=1377296",
       "https://olhardigital.com.br/?p=1377320",
       "https://olhardigital.com.br/?p=1377351",
@@ -3707,7 +3705,9 @@
       "https://olhardigital.com.br/?p=1391804",
       "https://olhardigital.com.br/?p=1391811",
       "https://olhardigital.com.br/?p=1391864",
-      "https://olhardigital.com.br/?p=1389070"
+      "https://olhardigital.com.br/?p=1389070",
+      "https://olhardigital.com.br/?p=1391913",
+      "https://olhardigital.com.br/?p=1391916"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3953,8 +3953,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=948263"
     ],
     "canaltech": [
-      "https://canaltech.com.br/telecom/vivo-estreia-no-chatgpt-com-promessa-de-recarga-e-2-via-no-futuro/",
-      "https://canaltech.com.br/mercado/openai-freia-abertura-de-capital-em-nome-da-seguranca-entenda-motivos/",
       "https://canaltech.com.br/inteligencia-artificial/meta-nega-que-sua-nova-ia-esta-espionando-mensagens-dos-usuarios-entenda-polemica/",
       "https://canaltech.com.br/inteligencia-artificial/deepfakes-como-saber-se-um-video-de-candidato-e-verdadeiro/",
       "https://canaltech.com.br/carros/prefeitura-de-sp-barra-radares-com-ia-entenda-o-motivo/",
@@ -4252,7 +4250,9 @@
       "https://canaltech.com.br/inteligencia-artificial/tarefas-pesadas-que-so-o-gemini-4-carbon-faz/",
       "https://canaltech.com.br/apps/google-vids-agora-cria-seu-avatar-com-ia-de-graca-veja-como-fazer/",
       "https://canaltech.com.br/inteligencia-artificial/como-criar-relatorios-interativos-no-gemini-notebook/",
-      "https://canaltech.com.br/inteligencia-artificial/como-usar-claude-code-tocar-negocio-sem-saber-programar/"
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-claude-code-tocar-negocio-sem-saber-programar/",
+      "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
+      "https://canaltech.com.br/hardware/como-montar-pc-para-rodar-ia-localmente/"
     ],
     "tilt_uol": [
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/12/microsoft-lanca-o-maia-300-novo-chip-de-inteligencia-artificial.htm",
@@ -5064,120 +5064,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "consider",
-      "districts",
-      "ditching",
-      "google",
-      "largest",
-      "nation",
-      "school",
-      "search"
-    ],
-    [
-      "alternatives",
-      "cheaper",
-      "house",
-      "microsoft",
-      "models",
-      "outside",
-      "products",
-      "replacing"
-    ],
-    [
-      "brings",
-      "chainable",
-      "community",
-      "deepmind",
-      "gallery",
-      "genie",
-      "google",
-      "project",
-      "remixing",
-      "update",
-      "worlds"
-    ],
-    [
-      "fourth",
-      "gemini",
-      "google",
-      "model",
-      "month",
-      "neon",
-      "ships"
-    ],
-    [
-      "chats",
-      "freaking",
-      "internal",
-      "invasions",
-      "meta",
-      "muse",
-      "privacy",
-      "show",
-      "staffers"
-    ],
-    [
-      "america",
-      "chip",
-      "dumbest",
-      "heating",
-      "possible",
-      "ways"
-    ],
-    [
-      "china",
-      "even",
-      "lead",
-      "officials",
-      "progress",
-      "think",
-      "trip",
-      "trump",
-      "will"
-    ],
-    [
-      "accountants",
-      "agents",
-      "audit",
-      "better",
-      "kpmg",
-      "questions",
-      "than",
-      "trial"
-    ],
-    [
-      "models",
-      "performance",
-      "price",
-      "scalable",
-      "seven"
-    ],
-    [
-      "gemini",
-      "neon"
-    ],
-    [
-      "anthropic",
-      "billions",
-      "doomers",
-      "make",
-      "most",
-      "notorious",
-      "stands"
-    ],
-    [
-      "alto",
-      "applied",
-      "billion",
-      "compute",
-      "deal",
-      "earnings",
-      "inks",
-      "palo",
-      "shares",
-      "startup"
-    ],
     [
       "calls",
       "here",
@@ -6881,6 +6767,108 @@
       "esta",
       "mundial",
       "perna"
+    ],
+    [
+      "face",
+      "future",
+      "hollywood",
+      "microdrama",
+      "selling",
+      "startup",
+      "version",
+      "your"
+    ],
+    [
+      "agents",
+      "here",
+      "live",
+      "messages",
+      "text",
+      "your"
+    ],
+    [
+      "chess",
+      "classic",
+      "games",
+      "mahjong",
+      "move",
+      "next",
+      "sudoku"
+    ],
+    [
+      "afford",
+      "anthropic",
+      "first",
+      "safety"
+    ],
+    [
+      "answers",
+      "astra",
+      "brief",
+      "openai",
+      "prompting",
+      "questions",
+      "shares",
+      "tips",
+      "unnecessary"
+    ],
+    [
+      "cult",
+      "devotion",
+      "doomsday",
+      "growing",
+      "industry",
+      "like",
+      "obsession",
+      "parts",
+      "silicon",
+      "tech",
+      "toward",
+      "turning",
+      "valley"
+    ],
+    [
+      "argue",
+      "context",
+      "dead",
+      "huge",
+      "nvidia",
+      "researchers",
+      "windows"
+    ],
+    [
+      "getting",
+      "just",
+      "outages",
+      "started"
+    ],
+    [
+      "acordo",
+      "armas",
+      "autonomas",
+      "chegam",
+      "paises"
+    ],
+    [
+      "anthropic",
+      "bilionario",
+      "paradoxo"
+    ],
+    [
+      "adocao",
+      "comprometer",
+      "empresas",
+      "falhas",
+      "governanca",
+      "podem",
+      "tecnologia"
+    ],
+    [
+      "completo",
+      "localmente",
+      "modelos",
+      "montar",
+      "rodar"
     ]
   ]
 }
