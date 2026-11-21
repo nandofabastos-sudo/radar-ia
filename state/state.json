@@ -2016,7 +2016,6 @@
       "https://www.technologyreview.com/?p=1149399"
     ],
     "wired_ai": [
-      "6a74a62bf37f16f349bca346",
       "6a79e1a5df07565eeae29719",
       "6a70ce132c2386859193fdee",
       "6a763bc7d223b2324a2eae1c",
@@ -2315,7 +2314,8 @@
       "6af4d20cc0a9fcf888a73c56",
       "6af775346a0ec56e5037a12c",
       "6af763c2b6bcd37d17807d64",
-      "6b006eaa6873ef9746910ed7"
+      "6b006eaa6873ef9746910ed7",
+      "6b0083c47020ceeb47169e93"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2362,7 +2362,6 @@
       "6aff93fe62d8ed0001648c07"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49324087",
       "https://news.ycombinator.com/item?id=49320611",
       "https://news.ycombinator.com/item?id=49336573",
       "https://news.ycombinator.com/item?id=49331423",
@@ -2661,7 +2660,8 @@
       "https://news.ycombinator.com/item?id=50563148",
       "https://news.ycombinator.com/item?id=50572503",
       "https://news.ycombinator.com/item?id=50574968",
-      "https://news.ycombinator.com/item?id=50581260"
+      "https://news.ycombinator.com/item?id=50581260",
+      "https://news.ycombinator.com/item?id=50572348"
     ]
   },
   "mercado": {
@@ -3408,7 +3408,6 @@
       "https://mittechreview.com.br/?p=290013"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1377045",
       "https://olhardigital.com.br/?p=1377061",
       "https://olhardigital.com.br/?p=1377075",
       "https://olhardigital.com.br/?p=1377307",
@@ -3707,7 +3706,8 @@
       "https://olhardigital.com.br/?p=1391798",
       "https://olhardigital.com.br/?p=1391801",
       "https://olhardigital.com.br/?p=1391804",
-      "https://olhardigital.com.br/?p=1391811"
+      "https://olhardigital.com.br/?p=1391811",
+      "https://olhardigital.com.br/?p=1391864"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4255,7 +4255,6 @@
       "https://canaltech.com.br/inteligencia-artificial/como-criar-relatorios-interativos-no-gemini-notebook/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/12/andrew-garfield-diz-que-filme-artificial-sobre-openai-volta-foco-para-criadores-de-novo-mundo.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/12/presidente-da-microsoft-diz-que-leite-tem-mais-regulamentacoes-do-que-ia.htm",
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/12/microsoft-lanca-o-maia-300-novo-chip-de-inteligencia-artificial.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/12/microsoft-planeja-grande-implantacao-de-chips-de-ia-proprios-para-reduzir-custos.htm",
@@ -4554,7 +4553,8 @@
       "https://www.uol.com.br/flash/?c=6afcafb08e67ae83e546c366",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/20/nyt-relata-ameacas-e-humilhacoes-atribuidas-a-jensen-huang-na-nvidia.ghtm",
       "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/20/anthropic-cai-mais-de-9-apos-estreia-espetacular-na-bolsa.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/20/matematico-da-anthropic-diz-ter-prova-da-hipotese-de-riemann-com-ajuda-de-ia.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/20/matematico-da-anthropic-diz-ter-prova-da-hipotese-de-riemann-com-ajuda-de-ia.ghtm",
+      "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/20/alibaba-e-tencent-veem-planos-de-ia-ameacados-por-restricao-dos-eua.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -5064,33 +5064,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "created",
-      "filing",
-      "intrigue",
-      "nvidia",
-      "report",
-      "routine",
-      "weird"
-    ],
-    [
-      "above",
-      "anthropic",
-      "prices",
-      "projected",
-      "range",
-      "reportedly",
-      "share"
-    ],
-    [
-      "agents",
-      "economics",
-      "nadella",
-      "predicts",
-      "reshuffle",
-      "satya",
-      "will"
-    ],
     [
       "after",
       "confident",
@@ -6868,6 +6841,34 @@
       "problema",
       "resolveu",
       "riemann"
+    ],
+    [
+      "auto",
+      "cops",
+      "corny",
+      "extremely",
+      "grand",
+      "pushing",
+      "slop",
+      "theft"
+    ],
+    [
+      "agents",
+      "capturing",
+      "data",
+      "mobile",
+      "operating",
+      "platforms",
+      "restricting",
+      "systems"
+    ],
+    [
+      "alibaba",
+      "ameacados",
+      "planos",
+      "restricao",
+      "tencent",
+      "veem"
     ]
   ]
 }
