@@ -966,7 +966,6 @@
       "https://techcrunch.com/?p=3191147"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1005194",
       "https://www.theverge.com/?p=1006915",
       "https://www.theverge.com/?p=1007113",
       "https://www.theverge.com/?post_type=vm_stream&p=1007147",
@@ -1265,15 +1264,10 @@
       "https://www.theverge.com/?p=1038892",
       "https://www.theverge.com/?p=1038099",
       "https://www.theverge.com/?p=1038701",
-      "https://www.theverge.com/?p=1039554"
+      "https://www.theverge.com/?p=1039554",
+      "https://www.theverge.com/?p=1039139"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=41360",
-      "https://the-decoder.com/?p=41365",
-      "https://the-decoder.com/?p=41370",
-      "https://the-decoder.com/?p=41313",
-      "https://the-decoder.com/?p=41386",
-      "https://the-decoder.com/?p=41390",
       "https://the-decoder.com/?p=41397",
       "https://the-decoder.com/?p=41402",
       "https://the-decoder.com/?p=41412",
@@ -1567,7 +1561,13 @@
       "https://the-decoder.com/?p=43157",
       "https://the-decoder.com/?p=43162",
       "https://the-decoder.com/?p=43166",
-      "https://the-decoder.com/?p=43171"
+      "https://the-decoder.com/?p=43171",
+      "https://the-decoder.com/?p=43130",
+      "https://the-decoder.com/?p=43181",
+      "https://the-decoder.com/?p=43182",
+      "https://the-decoder.com/?p=43190",
+      "https://the-decoder.com/?p=43193",
+      "https://the-decoder.com/?p=43203"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2016,7 +2016,6 @@
       "https://www.technologyreview.com/?p=1149399"
     ],
     "wired_ai": [
-      "6a70ce132c2386859193fdee",
       "6a763bc7d223b2324a2eae1c",
       "6a6b8204429e149eff9adc15",
       "6a7a5bf4e8bb799c3501e527",
@@ -2315,7 +2314,8 @@
       "6af763c2b6bcd37d17807d64",
       "6b006eaa6873ef9746910ed7",
       "6b0083c47020ceeb47169e93",
-      "6aff54f5dedf491d3bbcabcb"
+      "6aff54f5dedf491d3bbcabcb",
+      "6b0079848a18277ad68d6fd0"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2362,7 +2362,6 @@
       "6aff93fe62d8ed0001648c07"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49336573",
       "https://news.ycombinator.com/item?id=49331423",
       "https://news.ycombinator.com/item?id=49329575",
       "https://news.ycombinator.com/item?id=49337392",
@@ -2661,7 +2660,8 @@
       "https://news.ycombinator.com/item?id=50574968",
       "https://news.ycombinator.com/item?id=50581260",
       "https://news.ycombinator.com/item?id=50572348",
-      "https://news.ycombinator.com/item?id=50574383"
+      "https://news.ycombinator.com/item?id=50574383",
+      "https://news.ycombinator.com/item?id=50597612"
     ]
   },
   "mercado": {
@@ -3408,8 +3408,6 @@
       "https://mittechreview.com.br/?p=290013"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1377296",
-      "https://olhardigital.com.br/?p=1377320",
       "https://olhardigital.com.br/?p=1377351",
       "https://olhardigital.com.br/?p=1377355",
       "https://olhardigital.com.br/?p=1377360",
@@ -3707,7 +3705,9 @@
       "https://olhardigital.com.br/?p=1391864",
       "https://olhardigital.com.br/?p=1389070",
       "https://olhardigital.com.br/?p=1391913",
-      "https://olhardigital.com.br/?p=1391916"
+      "https://olhardigital.com.br/?p=1391916",
+      "https://olhardigital.com.br/?p=1391580",
+      "https://olhardigital.com.br/?p=1391939"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3953,9 +3953,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=948263"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/deepfakes-como-saber-se-um-video-de-candidato-e-verdadeiro/",
-      "https://canaltech.com.br/carros/prefeitura-de-sp-barra-radares-com-ia-entenda-o-motivo/",
-      "https://canaltech.com.br/inteligencia-artificial/google-apresenta-gemini-4-argon-nova-ia-para-peitar-chatgpt-e-claude/",
       "https://canaltech.com.br/seguranca/golpe-usa-site-oficial-do-chatgpt-para-infectar-pcs-com-windows/",
       "https://canaltech.com.br/apps/one-ui-9-liberada-em-todo-o-mundo-interface-chega-aos-galaxy-s26-com-foco-em-ia-e-mais/",
       "https://canaltech.com.br/inteligencia-artificial/ben-affleck-admite-que-usou-ia-para-fazer-novo-filme-da-netflix/",
@@ -4252,11 +4249,12 @@
       "https://canaltech.com.br/inteligencia-artificial/como-usar-claude-code-tocar-negocio-sem-saber-programar/",
       "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
       "https://canaltech.com.br/hardware/como-montar-pc-para-rodar-ia-localmente/",
-      "https://canaltech.com.br/inteligencia-artificial/veja-o-que-o-gemini-sabe-sobre-voce/"
+      "https://canaltech.com.br/inteligencia-artificial/veja-o-que-o-gemini-sabe-sobre-voce/",
+      "https://canaltech.com.br/inteligencia-artificial/cesar-school-detalha-os-passos-para-integrar-ia-em-todos-os-processos-de-ensino/",
+      "https://canaltech.com.br/inteligencia-artificial/gemini-intelligence-recursos-para-celulares-android/",
+      "https://canaltech.com.br/inteligencia-artificial/surge-um-novo-canal-comercial-operado-de-ponta-a-ponta-por-ia/"
     ],
     "tilt_uol": [
-      "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/12/microsoft-lanca-o-maia-300-novo-chip-de-inteligencia-artificial.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/12/microsoft-planeja-grande-implantacao-de-chips-de-ia-proprios-para-reduzir-custos.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/12/meta-lanca-ia-para-disputar-espaco-com-openai-e-anthropic.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/12/meta-lanca-modelos-de-ia-muse-wonder-em-desafio-a-anthropic-e-openai.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/13/characterai-entra-com-pedido-de-recuperacao-judicial-nos-eua.ghtm",
@@ -4554,7 +4552,9 @@
       "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/20/anthropic-cai-mais-de-9-apos-estreia-espetacular-na-bolsa.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/20/matematico-da-anthropic-diz-ter-prova-da-hipotese-de-riemann-com-ajuda-de-ia.ghtm",
       "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/20/alibaba-e-tencent-veem-planos-de-ia-ameacados-por-restricao-dos-eua.ghtm",
-      "https://www.uol.com.br/flash/?c=6afef05ece073840b00b50d1"
+      "https://www.uol.com.br/flash/?c=6afef05ece073840b00b50d1",
+      "https://www.uol.com.br/flash/?c=6afefea74e0f3af628524e2c",
+      "https://tilt.uol.com.br/colunas/iagora/2026/11/22/41-das-empresas-pagam-mais-a-quem-domina-ia-veja-ultimas-pesquisas.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4661,7 +4661,8 @@
       "https://neofeed.com.br/?p=246144",
       "https://neofeed.com.br/?p=246205",
       "https://neofeed.com.br/?p=246248",
-      "https://neofeed.com.br/?p=246180"
+      "https://neofeed.com.br/?p=246180",
+      "https://neofeed.com.br/?p=245680"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -5064,129 +5065,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "acoes",
-      "anthropic",
-      "bolsa",
-      "caras",
-      "chega",
-      "previsto"
-    ],
-    [
-      "agora",
-      "android",
-      "celulares",
-      "funciona",
-      "gemini",
-      "pouca"
-    ],
-    [
-      "driver",
-      "grava",
-      "hora",
-      "mesmo",
-      "nvidia",
-      "parado"
-    ],
-    [
-      "amigo",
-      "aponta",
-      "estudo",
-      "jovens",
-      "risco",
-      "solidao",
-      "terco"
-    ],
-    [
-      "anthropic",
-      "criar",
-      "deve",
-      "milhares",
-      "milionarios"
-    ],
-    [
-      "acao",
-      "anthropic",
-      "fixa",
-      "fonte",
-      "preco"
-    ],
-    [
-      "analise",
-      "complexas",
-      "google",
-      "lanca",
-      "programacao",
-      "tarefas"
-    ],
-    [
-      "decolar",
-      "fisicas",
-      "grupo",
-      "juntas",
-      "lojas",
-      "vende"
-    ],
-    [
-      "anthropic",
-      "fundadores",
-      "historia",
-      "maior",
-      "multibilionarios",
-      "sete",
-      "seus",
-      "transforma"
-    ],
-    [
-      "anthropic",
-      "brasileiras",
-      "concentra",
-      "empresas",
-      "gasto"
-    ],
-    [
-      "acontece",
-      "demais",
-      "facil",
-      "fica",
-      "produzir",
-      "quando",
-      "slop"
-    ],
-    [
-      "antes",
-      "anthropic",
-      "listagem",
-      "precisa",
-      "saber",
-      "tudo",
-      "voce"
-    ],
-    [
-      "anthropic",
-      "bolsa",
-      "estreia",
-      "nesta",
-      "quinta"
-    ],
-    [
-      "analise",
-      "conheca",
-      "gemini",
-      "google",
-      "neon",
-      "programacao"
-    ],
-    [
-      "aguas",
-      "alvaro",
-      "amanha",
-      "anthropic",
-      "dias",
-      "divisor",
-      "machado",
-      "olhar"
-    ],
     [
       "aliada",
       "brasil",
@@ -6859,6 +6737,157 @@
       "sabe",
       "veja",
       "voce"
+    ],
+    [
+      "coding",
+      "coming",
+      "gadgets",
+      "revolution",
+      "vibe"
+    ],
+    [
+      "astra",
+      "claude",
+      "faster",
+      "lower",
+      "point",
+      "score",
+      "than",
+      "transparency"
+    ],
+    [
+      "alpoge",
+      "community",
+      "confirms",
+      "correct",
+      "hypothesis",
+      "lean",
+      "levent",
+      "mathlib",
+      "officially",
+      "proof",
+      "riemann"
+    ],
+    [
+      "cheap",
+      "inference",
+      "keys",
+      "providers",
+      "researchers",
+      "security",
+      "show",
+      "snoop",
+      "steal",
+      "users"
+    ],
+    [
+      "better",
+      "experts",
+      "faster",
+      "getting",
+      "metr",
+      "reliably",
+      "safe",
+      "systems",
+      "test",
+      "than",
+      "warns",
+      "whether"
+    ],
+    [
+      "into",
+      "monitor",
+      "nonstop",
+      "perplexity",
+      "query",
+      "search",
+      "turns",
+      "watchdog"
+    ],
+    [
+      "agents",
+      "coding",
+      "complete",
+      "fewer",
+      "isolated",
+      "simulated",
+      "tasks",
+      "tests",
+      "than",
+      "workplace"
+    ],
+    [
+      "agent",
+      "banks",
+      "have",
+      "here",
+      "your"
+    ],
+    [
+      "2028",
+      "anthropic",
+      "coal",
+      "come",
+      "power",
+      "will"
+    ],
+    [
+      "agentes",
+      "dados",
+      "encontraram",
+      "geram",
+      "inedito",
+      "maia",
+      "revisao",
+      "ruido",
+      "sitio",
+      "veja"
+    ],
+    [
+      "alvo",
+      "contabilidade",
+      "estados",
+      "investigacao",
+      "nvidia",
+      "unidos"
+    ],
+    [
+      "cesar",
+      "detalha",
+      "ensino",
+      "integrar",
+      "passos",
+      "processos",
+      "school",
+      "todos"
+    ],
+    [
+      "canal",
+      "comercial",
+      "operado",
+      "ponta",
+      "surge"
+    ],
+    [
+      "domina",
+      "empresas",
+      "pagam",
+      "pesquisas",
+      "quem",
+      "ultimas",
+      "veja"
+    ],
+    [
+      "ainda",
+      "anos",
+      "claude",
+      "depois",
+      "genio",
+      "impressiona",
+      "impressionismo",
+      "mobiliza",
+      "monet",
+      "multidoes"
     ]
   ]
 }
