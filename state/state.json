@@ -279,7 +279,8 @@
       "https://openai.com/business/learn/deploying-daybreak-red",
       "https://openai.com/index/introducing-medchembench",
       "https://openai.com/business/customer-stories/hebbia",
-      "https://openai.com/index/combatting-adversarial-distillation"
+      "https://openai.com/index/combatting-adversarial-distillation",
+      "https://openai.com/index/perplexity-and-intelligence"
     ],
     "anthropic_news": [
       "https://www.anthropic.com/news/donation-public-first-action",
@@ -664,8 +665,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3179891",
-      "https://techcrunch.com/?p=3179822",
       "https://techcrunch.com/?p=3179755",
       "https://techcrunch.com/?p=3179644",
       "https://techcrunch.com/?p=3179812",
@@ -963,10 +962,11 @@
       "https://techcrunch.com/?p=3188069",
       "https://techcrunch.com/?p=3173132",
       "https://techcrunch.com/?p=3191145",
-      "https://techcrunch.com/?p=3191147"
+      "https://techcrunch.com/?p=3191147",
+      "https://techcrunch.com/?p=3191157",
+      "https://techcrunch.com/?p=3191164"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1006915",
       "https://www.theverge.com/?p=1007113",
       "https://www.theverge.com/?post_type=vm_stream&p=1007147",
       "https://www.theverge.com/?p=1007276",
@@ -1265,7 +1265,8 @@
       "https://www.theverge.com/?p=1038099",
       "https://www.theverge.com/?p=1038701",
       "https://www.theverge.com/?p=1039554",
-      "https://www.theverge.com/?p=1039139"
+      "https://www.theverge.com/?p=1039139",
+      "https://www.theverge.com/?p=1039770"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=41397",
@@ -2362,7 +2363,6 @@
       "6aff93fe62d8ed0001648c07"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49331423",
       "https://news.ycombinator.com/item?id=49329575",
       "https://news.ycombinator.com/item?id=49337392",
       "https://news.ycombinator.com/item?id=49337602",
@@ -2661,7 +2661,8 @@
       "https://news.ycombinator.com/item?id=50581260",
       "https://news.ycombinator.com/item?id=50572348",
       "https://news.ycombinator.com/item?id=50574383",
-      "https://news.ycombinator.com/item?id=50597612"
+      "https://news.ycombinator.com/item?id=50597612",
+      "https://news.ycombinator.com/item?id=50601525"
     ]
   },
   "mercado": {
@@ -3408,9 +3409,6 @@
       "https://mittechreview.com.br/?p=290013"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1377351",
-      "https://olhardigital.com.br/?p=1377355",
-      "https://olhardigital.com.br/?p=1377360",
       "https://olhardigital.com.br/?p=1377167",
       "https://olhardigital.com.br/?p=1377402",
       "https://olhardigital.com.br/?p=1377553",
@@ -3707,7 +3705,10 @@
       "https://olhardigital.com.br/?p=1391913",
       "https://olhardigital.com.br/?p=1391916",
       "https://olhardigital.com.br/?p=1391580",
-      "https://olhardigital.com.br/?p=1391939"
+      "https://olhardigital.com.br/?p=1391939",
+      "https://olhardigital.com.br/?p=1391955",
+      "https://olhardigital.com.br/?p=1391959",
+      "https://olhardigital.com.br/?p=1391966"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -3953,7 +3954,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=948263"
     ],
     "canaltech": [
-      "https://canaltech.com.br/seguranca/golpe-usa-site-oficial-do-chatgpt-para-infectar-pcs-com-windows/",
       "https://canaltech.com.br/apps/one-ui-9-liberada-em-todo-o-mundo-interface-chega-aos-galaxy-s26-com-foco-em-ia-e-mais/",
       "https://canaltech.com.br/inteligencia-artificial/ben-affleck-admite-que-usou-ia-para-fazer-novo-filme-da-netflix/",
       "https://canaltech.com.br/games/sony-libera-upscaler-de-ia-para-o-ps5-base-conheca-o-qssr/",
@@ -4252,10 +4252,10 @@
       "https://canaltech.com.br/inteligencia-artificial/veja-o-que-o-gemini-sabe-sobre-voce/",
       "https://canaltech.com.br/inteligencia-artificial/cesar-school-detalha-os-passos-para-integrar-ia-em-todos-os-processos-de-ensino/",
       "https://canaltech.com.br/inteligencia-artificial/gemini-intelligence-recursos-para-celulares-android/",
-      "https://canaltech.com.br/inteligencia-artificial/surge-um-novo-canal-comercial-operado-de-ponta-a-ponta-por-ia/"
+      "https://canaltech.com.br/inteligencia-artificial/surge-um-novo-canal-comercial-operado-de-ponta-a-ponta-por-ia/",
+      "https://canaltech.com.br/inteligencia-artificial/como-usar-dots-do-chatgpt/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/12/meta-lanca-ia-para-disputar-espaco-com-openai-e-anthropic.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/12/meta-lanca-modelos-de-ia-muse-wonder-em-desafio-a-anthropic-e-openai.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/13/characterai-entra-com-pedido-de-recuperacao-judicial-nos-eua.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/13/microsoft-aposta-no-maia-300-e-promete-mais-ia-por-megawatt-em-2027.ghtm",
@@ -4554,7 +4554,8 @@
       "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/20/alibaba-e-tencent-veem-planos-de-ia-ameacados-por-restricao-dos-eua.ghtm",
       "https://www.uol.com.br/flash/?c=6afef05ece073840b00b50d1",
       "https://www.uol.com.br/flash/?c=6afefea74e0f3af628524e2c",
-      "https://tilt.uol.com.br/colunas/iagora/2026/11/22/41-das-empresas-pagam-mais-a-quem-domina-ia-veja-ultimas-pesquisas.htm"
+      "https://tilt.uol.com.br/colunas/iagora/2026/11/22/41-das-empresas-pagam-mais-a-quem-domina-ia-veja-ultimas-pesquisas.htm",
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/11/22/41-das-empresas-pagam-mais-a-quem-domina-ia-veja-ultimas-pesquisas.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4662,7 +4663,8 @@
       "https://neofeed.com.br/?p=246205",
       "https://neofeed.com.br/?p=246248",
       "https://neofeed.com.br/?p=246180",
-      "https://neofeed.com.br/?p=245680"
+      "https://neofeed.com.br/?p=245680",
+      "https://neofeed.com.br/?p=246227"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -5065,93 +5067,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "aliada",
-      "brasil",
-      "climaticas",
-      "combate",
-      "mudancas",
-      "pode",
-      "vila"
-    ],
-    [
-      "avalia",
-      "bancos",
-      "dinheiro",
-      "estudo",
-      "fase",
-      "group",
-      "math",
-      "saem",
-      "testes"
-    ],
-    [
-      "chatgpt",
-      "factory",
-      "fast",
-      "keeps",
-      "openai",
-      "performance"
-    ],
-    [
-      "creativity",
-      "curiosity",
-      "isaacson",
-      "walter"
-    ],
-    [
-      "assistant",
-      "everywhere",
-      "pushes",
-      "superhuman"
-    ],
-    [
-      "anthropic",
-      "boom",
-      "circular",
-      "financing",
-      "puts",
-      "test"
-    ],
-    [
-      "anthropic",
-      "bell",
-      "development",
-      "nasdaq",
-      "opening",
-      "pacing",
-      "recommits"
-    ],
-    [
-      "above",
-      "anthropic",
-      "exchanges",
-      "hits",
-      "nasdaq",
-      "price"
-    ],
-    [
-      "alibaba",
-      "chinese",
-      "connect",
-      "everful",
-      "exec",
-      "factories",
-      "former",
-      "raises",
-      "retailers"
-    ],
-    [
-      "agent",
-      "conversations",
-      "data",
-      "exposing",
-      "meta",
-      "mixing",
-      "muse",
-      "private",
-      "report"
-    ],
     [
       "adds",
       "button",
@@ -6888,6 +6803,81 @@
       "mobiliza",
       "monet",
       "multidoes"
+    ],
+    [
+      "intelligence",
+      "perplexity"
+    ],
+    [
+      "backlash",
+      "center",
+      "centers",
+      "data",
+      "tech"
+    ],
+    [
+      "chief",
+      "development",
+      "limit",
+      "openai",
+      "scientist",
+      "thoughts"
+    ],
+    [
+      "binding",
+      "developer",
+      "isaac",
+      "music",
+      "plus",
+      "removes",
+      "repentance"
+    ],
+    [
+      "intelligence",
+      "perplexity"
+    ],
+    [
+      "acusado",
+      "ajudante",
+      "alice",
+      "china",
+      "chips",
+      "contrabandear",
+      "homem",
+      "huang",
+      "nvidia"
+    ],
+    [
+      "amodei",
+      "anthropic",
+      "cultura",
+      "excentrica",
+      "irmaos",
+      "moldaram"
+    ],
+    [
+      "anthropic",
+      "bancos",
+      "impuseram",
+      "incomuns",
+      "irritaram",
+      "regras",
+      "spacex"
+    ],
+    [
+      "chatgpt",
+      "dots",
+      "maneiras",
+      "usar"
+    ],
+    [
+      "1990",
+      "anos",
+      "artigo",
+      "ceticos",
+      "ensinam",
+      "internet",
+      "profetas"
     ]
   ]
 }
