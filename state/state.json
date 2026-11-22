@@ -664,8 +664,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3179783",
-      "https://techcrunch.com/?p=3179777",
       "https://techcrunch.com/?p=3179891",
       "https://techcrunch.com/?p=3179822",
       "https://techcrunch.com/?p=3179755",
@@ -963,10 +961,11 @@
       "https://techcrunch.com/?p=3190908",
       "https://techcrunch.com/?p=3190943",
       "https://techcrunch.com/?p=3188069",
-      "https://techcrunch.com/?p=3173132"
+      "https://techcrunch.com/?p=3173132",
+      "https://techcrunch.com/?p=3191145",
+      "https://techcrunch.com/?p=3191147"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1006813",
       "https://www.theverge.com/?p=1005194",
       "https://www.theverge.com/?p=1006915",
       "https://www.theverge.com/?p=1007113",
@@ -1265,7 +1264,8 @@
       "https://www.theverge.com/?p=1010051",
       "https://www.theverge.com/?p=1038892",
       "https://www.theverge.com/?p=1038099",
-      "https://www.theverge.com/?p=1038701"
+      "https://www.theverge.com/?p=1038701",
+      "https://www.theverge.com/?p=1039554"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=41360",
@@ -3953,7 +3953,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=948263"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/meta-nega-que-sua-nova-ia-esta-espionando-mensagens-dos-usuarios-entenda-polemica/",
       "https://canaltech.com.br/inteligencia-artificial/deepfakes-como-saber-se-um-video-de-candidato-e-verdadeiro/",
       "https://canaltech.com.br/carros/prefeitura-de-sp-barra-radares-com-ia-entenda-o-motivo/",
       "https://canaltech.com.br/inteligencia-artificial/google-apresenta-gemini-4-argon-nova-ia-para-peitar-chatgpt-e-claude/",
@@ -4252,7 +4251,8 @@
       "https://canaltech.com.br/inteligencia-artificial/como-criar-relatorios-interativos-no-gemini-notebook/",
       "https://canaltech.com.br/inteligencia-artificial/como-usar-claude-code-tocar-negocio-sem-saber-programar/",
       "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
-      "https://canaltech.com.br/hardware/como-montar-pc-para-rodar-ia-localmente/"
+      "https://canaltech.com.br/hardware/como-montar-pc-para-rodar-ia-localmente/",
+      "https://canaltech.com.br/inteligencia-artificial/veja-o-que-o-gemini-sabe-sobre-voce/"
     ],
     "tilt_uol": [
       "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/12/microsoft-lanca-o-maia-300-novo-chip-de-inteligencia-artificial.htm",
@@ -5064,47 +5064,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "calls",
-      "here",
-      "microsoft",
-      "nadella",
-      "outage",
-      "outlook",
-      "perfect",
-      "satya",
-      "storm",
-      "went",
-      "what",
-      "wrong"
-    ],
-    [
-      "cramer",
-      "earnings",
-      "nothing",
-      "nvidia",
-      "problem"
-    ],
-    [
-      "anthropic",
-      "debut",
-      "makes",
-      "numbers",
-      "watching"
-    ],
-    [
-      "brasileiro",
-      "centers",
-      "data",
-      "estar",
-      "isso",
-      "longe",
-      "piora",
-      "projeto",
-      "quer",
-      "resolver",
-      "voce"
-    ],
     [
       "acoes",
       "anthropic",
@@ -6869,6 +6828,37 @@
       "modelos",
       "montar",
       "rodar"
+    ],
+    [
+      "nvidias",
+      "tale"
+    ],
+    [
+      "confronts",
+      "existential",
+      "mobile",
+      "restricts",
+      "screenshots",
+      "signal",
+      "surveillance",
+      "threat"
+    ],
+    [
+      "agree",
+      "fails",
+      "killer",
+      "regulating",
+      "robots",
+      "rules"
+    ],
+    [
+      "acessar",
+      "apagar",
+      "gemini",
+      "memoria",
+      "sabe",
+      "veja",
+      "voce"
     ]
   ]
 }
