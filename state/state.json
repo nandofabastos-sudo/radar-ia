@@ -2017,7 +2017,6 @@
       "https://www.technologyreview.com/?p=1149399"
     ],
     "wired_ai": [
-      "6a763bc7d223b2324a2eae1c",
       "6a6b8204429e149eff9adc15",
       "6a7a5bf4e8bb799c3501e527",
       "6a763a712f828e528da6c06f",
@@ -2316,7 +2315,8 @@
       "6b006eaa6873ef9746910ed7",
       "6b0083c47020ceeb47169e93",
       "6aff54f5dedf491d3bbcabcb",
-      "6b0079848a18277ad68d6fd0"
+      "6b0079848a18277ad68d6fd0",
+      "6ac542d4d51334ec05dbdfb7"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2363,8 +2363,6 @@
       "6aff93fe62d8ed0001648c07"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49329575",
-      "https://news.ycombinator.com/item?id=49337392",
       "https://news.ycombinator.com/item?id=49337602",
       "https://news.ycombinator.com/item?id=49331220",
       "https://news.ycombinator.com/item?id=49343559",
@@ -2662,13 +2660,13 @@
       "https://news.ycombinator.com/item?id=50572348",
       "https://news.ycombinator.com/item?id=50574383",
       "https://news.ycombinator.com/item?id=50597612",
-      "https://news.ycombinator.com/item?id=50601525"
+      "https://news.ycombinator.com/item?id=50601525",
+      "https://news.ycombinator.com/item?id=50599762",
+      "https://news.ycombinator.com/item?id=50603845"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108378521",
-      "108358430",
       "108374232",
       "108382834",
       "108373971",
@@ -2966,7 +2964,9 @@
       "108556651",
       "108556573",
       "108556722",
-      "108555422"
+      "108555422",
+      "108557111",
+      "108557231"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3409,7 +3409,6 @@
       "https://mittechreview.com.br/?p=290013"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1377402",
       "https://olhardigital.com.br/?p=1377553",
       "https://olhardigital.com.br/?p=1377528",
       "https://olhardigital.com.br/?p=1377661",
@@ -3708,7 +3707,8 @@
       "https://olhardigital.com.br/?p=1391955",
       "https://olhardigital.com.br/?p=1391959",
       "https://olhardigital.com.br/?p=1391966",
-      "https://olhardigital.com.br/?p=1391977"
+      "https://olhardigital.com.br/?p=1391977",
+      "https://olhardigital.com.br/?p=1391988"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4256,8 +4256,6 @@
       "https://canaltech.com.br/inteligencia-artificial/como-usar-dots-do-chatgpt/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/12/meta-lanca-modelos-de-ia-muse-wonder-em-desafio-a-anthropic-e-openai.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/13/characterai-entra-com-pedido-de-recuperacao-judicial-nos-eua.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/13/microsoft-aposta-no-maia-300-e-promete-mais-ia-por-megawatt-em-2027.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/13/cientistas-pedem-criacao-de-orgao-internacional-para-supervisionar-ia-avancada.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/13/modelos-de-ia-podem-em-breve-seautorreplicar-em-dispositivos-domesticos-inteligentes-alerta-anthropic.htm",
@@ -4555,7 +4553,9 @@
       "https://www.uol.com.br/flash/?c=6afef05ece073840b00b50d1",
       "https://www.uol.com.br/flash/?c=6afefea74e0f3af628524e2c",
       "https://tilt.uol.com.br/colunas/iagora/2026/11/22/41-das-empresas-pagam-mais-a-quem-domina-ia-veja-ultimas-pesquisas.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/11/22/41-das-empresas-pagam-mais-a-quem-domina-ia-veja-ultimas-pesquisas.htm"
+      "https://www.uol.com.br/tilt/colunas/iagora/2026/11/22/41-das-empresas-pagam-mais-a-quem-domina-ia-veja-ultimas-pesquisas.htm",
+      "https://www.uol.com.br/vida/noticias/redacao/2026/11/23/as-facilidades-e-os-riscos-de-deixar-a-ia-pensar-por-voce.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/23/alice-huang-manteve-contato-com-agencia-de-espionagem-chinesa-durante-caso-com-ceo-da-nvidia-diz-nyt.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -5067,94 +5067,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "chatgpt",
-      "dictation",
-      "live",
-      "speak",
-      "transcribe"
-    ],
-    [
-      "anthropic",
-      "starts",
-      "street",
-      "trading",
-      "wall"
-    ],
-    [
-      "costs",
-      "digitize",
-      "drop",
-      "fivefold",
-      "million",
-      "models",
-      "months",
-      "pages",
-      "under"
-    ],
-    [
-      "cheaper",
-      "faster",
-      "flagship",
-      "google",
-      "just",
-      "latest",
-      "model",
-      "predecessor",
-      "smarter",
-      "than",
-      "weeks"
-    ],
-    [
-      "colleagues",
-      "half",
-      "more",
-      "nearly",
-      "openai",
-      "researchers",
-      "than",
-      "their",
-      "they",
-      "tools",
-      "value"
-    ],
-    [
-      "anthropic",
-      "billion",
-      "headwinds",
-      "political",
-      "rates",
-      "record",
-      "rising",
-      "sector",
-      "shake",
-      "shatters",
-      "spacex"
-    ],
-    [
-      "access",
-      "chinese",
-      "chip",
-      "cloud",
-      "disappears",
-      "double",
-      "face",
-      "firms",
-      "overseas",
-      "shipments",
-      "stop",
-      "tech"
-    ],
-    [
-      "anthropic",
-      "breaking",
-      "enemy",
-      "giant",
-      "highlights",
-      "itself",
-      "record",
-      "worst"
-    ],
     [
       "agents",
       "built",
@@ -6880,6 +6792,77 @@
       "evitar",
       "formulas",
       "pesquisadores"
+    ],
+    [
+      "goodbye",
+      "programmers",
+      "world"
+    ],
+    [
+      "built",
+      "game",
+      "show",
+      "subagent",
+      "where"
+    ],
+    [
+      "beginner",
+      "guide",
+      "inkling",
+      "local",
+      "qwen",
+      "unsloth"
+    ],
+    [
+      "alice",
+      "case",
+      "chip",
+      "emerges",
+      "figure",
+      "huang",
+      "megaspeed",
+      "nvidia",
+      "probes"
+    ],
+    [
+      "after",
+      "anthropic",
+      "major",
+      "nvidia",
+      "premarket",
+      "rise",
+      "selloff",
+      "shares",
+      "tech",
+      "trading"
+    ],
+    [
+      "anthropic",
+      "bastidores",
+      "espionagem",
+      "mercurio",
+      "nvidia",
+      "resumo",
+      "viagem"
+    ],
+    [
+      "decidir",
+      "deixar",
+      "facilidades",
+      "riscos",
+      "voce"
+    ],
+    [
+      "agencia",
+      "alice",
+      "caso",
+      "chinesa",
+      "contato",
+      "durante",
+      "espionagem",
+      "huang",
+      "manteve",
+      "nvidia"
     ]
   ]
 }
