@@ -665,7 +665,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3179755",
       "https://techcrunch.com/?p=3179644",
       "https://techcrunch.com/?p=3179812",
       "https://techcrunch.com/?p=3180139",
@@ -964,10 +963,10 @@
       "https://techcrunch.com/?p=3191145",
       "https://techcrunch.com/?p=3191147",
       "https://techcrunch.com/?p=3191157",
-      "https://techcrunch.com/?p=3191164"
+      "https://techcrunch.com/?p=3191164",
+      "https://techcrunch.com/?p=3191173"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1007113",
       "https://www.theverge.com/?post_type=vm_stream&p=1007147",
       "https://www.theverge.com/?p=1007276",
       "https://www.theverge.com/?p=1007132",
@@ -1266,7 +1265,8 @@
       "https://www.theverge.com/?p=1038701",
       "https://www.theverge.com/?p=1039554",
       "https://www.theverge.com/?p=1039139",
-      "https://www.theverge.com/?p=1039770"
+      "https://www.theverge.com/?p=1039770",
+      "https://www.theverge.com/?p=1039851"
     ],
     "the_decoder": [
       "https://the-decoder.com/?p=41397",
@@ -3409,7 +3409,6 @@
       "https://mittechreview.com.br/?p=290013"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1377167",
       "https://olhardigital.com.br/?p=1377402",
       "https://olhardigital.com.br/?p=1377553",
       "https://olhardigital.com.br/?p=1377528",
@@ -3708,7 +3707,8 @@
       "https://olhardigital.com.br/?p=1391939",
       "https://olhardigital.com.br/?p=1391955",
       "https://olhardigital.com.br/?p=1391959",
-      "https://olhardigital.com.br/?p=1391966"
+      "https://olhardigital.com.br/?p=1391966",
+      "https://olhardigital.com.br/?p=1391977"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -5067,27 +5067,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "adds",
-      "button",
-      "canva"
-    ],
-    [
-      "always",
-      "apple",
-      "life",
-      "listening",
-      "summarize",
-      "weeks"
-    ],
-    [
-      "anthropic",
-      "biggest",
-      "good",
-      "line",
-      "reputation",
-      "time"
-    ],
     [
       "chatgpt",
       "dictation",
@@ -6878,6 +6857,29 @@
       "ensinam",
       "internet",
       "profetas"
+    ],
+    [
+      "anthropic",
+      "baillie",
+      "before",
+      "capital",
+      "gifford",
+      "notable"
+    ],
+    [
+      "haven",
+      "last",
+      "major",
+      "outages",
+      "seen",
+      "tech"
+    ],
+    [
+      "apocalipse",
+      "buscam",
+      "evitar",
+      "formulas",
+      "pesquisadores"
     ]
   ]
 }
