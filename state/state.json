@@ -459,7 +459,8 @@
       "https://about.fb.com/?p=50951",
       "https://about.fb.com/?p=50971",
       "https://about.fb.com/?p=51022",
-      "https://about.fb.com/?p=50883"
+      "https://about.fb.com/?p=50883",
+      "https://about.fb.com/?p=51046"
     ],
     "nvidia_blog": [
       "https://blogs.nvidia.com/?p=96644",
@@ -2370,7 +2371,8 @@
       "6af3b04d41212900011ace33",
       "6aecef3d72f2d40001289bc0",
       "6afd00b2ee552b0001c3a34a",
-      "6aff93fe62d8ed0001648c07"
+      "6aff93fe62d8ed0001648c07",
+      "6b04e6d3d4b66900013a6407"
     ],
     "hacker_news_top": [
       "https://news.ycombinator.com/item?id=49343559",
@@ -2677,12 +2679,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108382078",
-      "108382211",
-      "108396483",
-      "108396813",
-      "108397241",
-      "108378719",
       "108398586",
       "108401893",
       "108401014",
@@ -2976,7 +2972,13 @@
       "108555668",
       "108557689",
       "108557818",
-      "108557527"
+      "108557527",
+      "108557782",
+      "108557040",
+      "108557954",
+      "108557968",
+      "108557945",
+      "108558036"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3420,9 +3422,6 @@
       "https://mittechreview.com.br/?p=290013"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1377691",
-      "https://olhardigital.com.br/?p=1377722",
-      "https://olhardigital.com.br/?p=1377725",
       "https://olhardigital.com.br/?p=1377701",
       "https://olhardigital.com.br/?p=1377711",
       "https://olhardigital.com.br/?p=1377921",
@@ -3719,7 +3718,10 @@
       "https://olhardigital.com.br/?p=1392213",
       "https://olhardigital.com.br/?p=1392215",
       "https://olhardigital.com.br/?p=1392230",
-      "https://olhardigital.com.br/?p=1392282"
+      "https://olhardigital.com.br/?p=1392282",
+      "https://olhardigital.com.br/?p=1392298",
+      "https://olhardigital.com.br/?p=1392301",
+      "https://olhardigital.com.br/?p=1392205"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -5088,90 +5090,11 @@
       "https://www.mobiletime.com.br/?p=868381",
       "https://www.mobiletime.com.br/?p=868377",
       "https://www.mobiletime.com.br/?p=868374",
-      "https://www.mobiletime.com.br/?p=868389"
+      "https://www.mobiletime.com.br/?p=868389",
+      "https://www.mobiletime.com.br/?p=868406"
     ]
   },
   "_titulos_recentes": [
-    [
-      "asian",
-      "hits",
-      "over",
-      "sell",
-      "softbank",
-      "stocks",
-      "suffers",
-      "tech",
-      "worst",
-      "years"
-    ],
-    [
-      "analysts",
-      "anthropic",
-      "exactly",
-      "markets",
-      "need",
-      "volatility",
-      "warn",
-      "what"
-    ],
-    [
-      "baaja",
-      "backed",
-      "bill",
-      "energy",
-      "passes",
-      "permitting",
-      "reform",
-      "sectors",
-      "senate"
-    ],
-    [
-      "changing",
-      "developers",
-      "engineering",
-      "miss",
-      "software",
-      "some",
-      "struggle"
-    ],
-    [
-      "chinesas",
-      "chips",
-      "empresas",
-      "liberaram",
-      "quase"
-    ],
-    [
-      "chaveiro",
-      "colocar",
-      "internet",
-      "meta",
-      "quer"
-    ],
-    [
-      "google",
-      "historico",
-      "inicial",
-      "leva",
-      "pagina"
-    ],
-    [
-      "controle",
-      "ferramentas",
-      "lanca",
-      "seguranca",
-      "tiktok"
-    ],
-    [
-      "could",
-      "gadgets",
-      "home",
-      "make",
-      "office",
-      "powered",
-      "smarter",
-      "your"
-    ],
     [
       "continues",
       "fallout",
@@ -6981,6 +6904,90 @@
       "ericsson",
       "foco",
       "testam"
+    ],
+    [
+      "agent",
+      "control",
+      "introducing",
+      "muse",
+      "personal"
+    ],
+    [
+      "back",
+      "jensen"
+    ],
+    [
+      "adoption",
+      "asia",
+      "gains",
+      "grows",
+      "measuring",
+      "remains",
+      "tricky"
+    ],
+    [
+      "after",
+      "asian",
+      "huang",
+      "jump",
+      "limits",
+      "near",
+      "nvidia",
+      "price",
+      "related",
+      "return",
+      "stocks",
+      "taiwan"
+    ],
+    [
+      "adds",
+      "amid",
+      "blacklist",
+      "concerns",
+      "control",
+      "controversy",
+      "export",
+      "megaspeed",
+      "nvidia",
+      "over",
+      "trade"
+    ],
+    [
+      "analysts",
+      "fire",
+      "focus",
+      "governance",
+      "huang",
+      "jensen",
+      "nvidia",
+      "putting"
+    ],
+    [
+      "acrescenta",
+      "bilhoes",
+      "fortuna",
+      "huang",
+      "jensen",
+      "nvidia",
+      "volta"
+    ],
+    [
+      "alteracoes",
+      "anthropic",
+      "aprova",
+      "codigos",
+      "corrige",
+      "lanca",
+      "revisa"
+    ],
+    [
+      "aposta",
+      "escalar",
+      "generativa",
+      "ifood",
+      "modelos",
+      "open",
+      "source"
     ]
   ]
 }
