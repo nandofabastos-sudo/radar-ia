@@ -680,8 +680,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3181633",
-      "https://techcrunch.com/?p=3181659",
       "https://techcrunch.com/?p=3181689",
       "https://techcrunch.com/?p=3181989",
       "https://techcrunch.com/?p=3181218",
@@ -979,7 +977,9 @@
       "https://techcrunch.com/?p=3192506",
       "https://techcrunch.com/?p=3192475",
       "https://techcrunch.com/?p=3192524",
-      "https://techcrunch.com/?p=3192614"
+      "https://techcrunch.com/?p=3192614",
+      "https://techcrunch.com/?p=3190829",
+      "https://techcrunch.com/?p=3192803"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=1009286",
@@ -1284,9 +1284,6 @@
       "https://www.theverge.com/?p=1042620"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=41600",
-      "https://the-decoder.com/?p=41608",
-      "https://the-decoder.com/?p=41607",
       "https://the-decoder.com/?p=41605",
       "https://the-decoder.com/?p=41620",
       "https://the-decoder.com/?p=41627",
@@ -1583,7 +1580,10 @@
       "https://the-decoder.com/?p=43322",
       "https://the-decoder.com/?p=43327",
       "https://the-decoder.com/?p=43328",
-      "https://the-decoder.com/?p=43336"
+      "https://the-decoder.com/?p=43336",
+      "https://the-decoder.com/?p=43340",
+      "https://the-decoder.com/?p=43343",
+      "https://the-decoder.com/?p=43346"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2696,7 +2696,6 @@
   },
   "mercado": {
     "cnbc_tech": [
-      "108407336",
       "108414423",
       "108409340",
       "108415347",
@@ -2995,7 +2994,8 @@
       "108559707",
       "108559706",
       "108559691",
-      "108550928"
+      "108550928",
+      "108559135"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3447,7 +3447,11 @@
       "https://mittechreview.com.br/?p=290013",
       "https://mittechreview.com.br/?p=291435",
       "https://mittechreview.com.br/?p=291638",
-      "https://mittechreview.com.br/?p=291873"
+      "https://mittechreview.com.br/?p=291873",
+      "https://mittechreview.com.br/?p=291625",
+      "https://mittechreview.com.br/?p=291882",
+      "https://mittechreview.com.br/?p=292104",
+      "https://mittechreview.com.br/?p=292120"
     ],
     "olhar_digital": [
       "https://olhardigital.com.br/?p=1378353",
@@ -4008,9 +4012,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=949950"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-chatgpt/",
-      "https://canaltech.com.br/inteligencia-artificial/por-que-a-openai-desistiu-dos-gpts-personalizados/",
-      "https://canaltech.com.br/inteligencia-artificial/como-migrar-gpts-personalizados-para-plugins-no-chatgpt/",
       "https://canaltech.com.br/inteligencia-artificial/guia-completo-como-substituir-gems-por-skills-gemini/",
       "https://canaltech.com.br/apps/youtube-muda-algoritmo-e-corta-alcance-de-videos-curtos-copiados/",
       "https://canaltech.com.br/inteligencia-artificial/google-rebaixa-gemini-gratis-e-corta-modelos-pro-do-plano-mais-barato/",
@@ -4307,12 +4308,12 @@
       "https://canaltech.com.br/inteligencia-artificial/como-criar-alertas-de-preco-no-chatgpt-para-monitorar-ofertas-na-black-friday/",
       "https://canaltech.com.br/inteligencia-artificial/adobe-revela-10-ferramentas-experimentais-de-ia-no-max-2026-veja-o-que-vem-por-ai/",
       "https://canaltech.com.br/software/one-ui-95-vai-ganhar-recurso-de-ia-que-melhora-fotos-com-zoom-no-celular/",
-      "https://canaltech.com.br/apps/novo-gemini-no-google-mensagens-avisa-sobre-entregas-e-promocoes-que-te-interessam/"
+      "https://canaltech.com.br/apps/novo-gemini-no-google-mensagens-avisa-sobre-entregas-e-promocoes-que-te-interessam/",
+      "https://canaltech.com.br/fone-de-ouvido/nothing-prepara-fones-de-ouvido-com-ia-que-transcrevem-ligacoes-e-reunioes/",
+      "https://canaltech.com.br/inteligencia-artificial/claude-agora-cria-programas-reais-para-pc-no-plano-gratis/",
+      "https://canaltech.com.br/internet-e-redes-sociais/google-comeca-a-mostrar-anuncios-nas-respostas-de-ia-da-busca-no-brasil/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/10/16/por-que-coreweave-esta-na-mira-do-panico-em-torno-da-ia.htm",
-      "https://www.uol.com.br/tilt/colunas/iagora/2026/10/17/apple-x-meta-como-ia-selou-tregua-em-guerra-historica-de-titas-dos-big-techs.htm",
-      "https://www.uol.com.br/flash/?c=6ad24bdb14ded93b561004f0",
       "https://tilt.uol.com.br/colunas/iagora/2026/10/17/apple-x-meta-como-ia-selou-tregua-em-guerra-historica-de-titas-dos-big-techs.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/10/19/bolha-ipo-da-anthropic-e-derrubado-e-wall-street-comeca-a-torcer-nariz-para-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/19/apps-de-nudez-por-ia-chegam-a-adolescentes-apesar-de-controles.ghtm",
@@ -4609,7 +4610,10 @@
       "https://www.uol.com.br/tilt/noticias/reuters/2026/11/25/sp-alerta-que-conselho-da-nvidia-pode-estar-comprometido-pode-cortar-nota.htm",
       "https://tilt.uol.com.br/colunas/helton-simoes-gomes/2026/11/26/jogo-mais-rentavel-da-historia-gta-vi-esnobou-ia-tudo-foi-feito-a-mao.htm",
       "https://tilt.uol.com.br/colunas/iagora/2026/11/26/anflopic-as-licoes-ao-mercado-de-ia-com-tombo-apos-ipo-historico.htm",
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/26/procuradores-tentam-barrar-venda-de-conversas-de-criancas-com-ia.ghtm"
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/26/procuradores-tentam-barrar-venda-de-conversas-de-criancas-com-ia.ghtm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/26/musk-promete-duas-acoes-da-spacex-para-cada-crianca-dos-eua-em-ofensiva-de-us18-bilhoes-por-apoio-a-ia.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/26/fusao-dos-modos-no-chatgpt-pode-estourar-limites-de-uso-mais-cedo.ghtm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/26/golpista-clona-voz-de-streamer-com-ia-e-pega-47-meses-de-prisao.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4722,7 +4726,9 @@
       "https://neofeed.com.br/?p=246403",
       "https://neofeed.com.br/?p=246406",
       "https://neofeed.com.br/?p=246599",
-      "https://neofeed.com.br/?p=246910"
+      "https://neofeed.com.br/?p=246910",
+      "https://neofeed.com.br/?p=247119",
+      "https://neofeed.com.br/?p=247325"
     ],
     "brazil_journal": [
       "https://braziljournal.com/?p=101004",
@@ -4948,7 +4954,8 @@
       "https://startups.com.br/?p=343694",
       "https://startups.com.br/?p=343699",
       "https://startups.com.br/?p=343781",
-      "https://startups.com.br/?p=343862"
+      "https://startups.com.br/?p=343862",
+      "https://startups.com.br/?p=343909"
     ],
     "mobile_time": [
       "https://www.mobiletime.com.br/?p=860203",
@@ -5141,196 +5148,12 @@
       "https://www.mobiletime.com.br/?p=868389",
       "https://www.mobiletime.com.br/?p=868406",
       "https://www.mobiletime.com.br/?p=868450",
-      "https://www.mobiletime.com.br/?p=868503"
+      "https://www.mobiletime.com.br/?p=868503",
+      "https://www.mobiletime.com.br/?p=868526",
+      "https://www.mobiletime.com.br/?p=868535"
     ]
   },
   "_titulos_recentes": [
-    [
-      "discurso",
-      "funcionarios",
-      "huang",
-      "jensen",
-      "melhor",
-      "nvidia",
-      "promete",
-      "serei"
-    ],
-    [
-      "colocam",
-      "comercial",
-      "empresa",
-      "escandalo",
-      "ligada",
-      "lista",
-      "nvidia",
-      "restrita"
-    ],
-    [
-      "botao",
-      "canva",
-      "ganha",
-      "isso",
-      "quer"
-    ],
-    [
-      "contra",
-      "golpes",
-      "ligacoes",
-      "prepara",
-      "recurso",
-      "samsung",
-      "telegram",
-      "whatsapp"
-    ],
-    [
-      "chinesa",
-      "escandalo",
-      "espionagem",
-      "huang",
-      "jensen",
-      "nvidia",
-      "volta"
-    ],
-    [
-      "anima",
-      "comando",
-      "huang",
-      "investidores",
-      "jensen",
-      "nvidia",
-      "volta"
-    ],
-    [
-      "ameaca",
-      "garantido",
-      "huang",
-      "jensen",
-      "nvidia",
-      "representa",
-      "seguranca",
-      "trump"
-    ],
-    [
-      "caminho",
-      "engenharia",
-      "presidente",
-      "seguranca"
-    ],
-    [
-      "acessadas",
-      "china",
-      "conversas",
-      "enviadas",
-      "minimax",
-      "podem",
-      "sido"
-    ],
-    [
-      "comprem",
-      "holanda",
-      "oculos",
-      "pede",
-      "pervertido"
-    ],
-    [
-      "abertos",
-      "defensor",
-      "dizem",
-      "fontes",
-      "modelos",
-      "nvidia",
-      "presidente",
-      "trump"
-    ],
-    [
-      "acelerar",
-      "anthropic",
-      "claude",
-      "desenvolvimento",
-      "lanca",
-      "ship",
-      "software"
-    ],
-    [
-      "caso",
-      "fonte",
-      "incluir",
-      "lista",
-      "megaspeed",
-      "nvidia",
-      "restricoes"
-    ],
-    [
-      "cargo",
-      "dias",
-      "fora",
-      "huang",
-      "jensen",
-      "nvidia",
-      "volta"
-    ],
-    [
-      "ciberseguranca",
-      "compra",
-      "cria",
-      "crowdstrike",
-      "enfrentar",
-      "gigante",
-      "riscos",
-      "zscaler"
-    ],
-    [
-      "aposta",
-      "bater",
-      "grandes",
-      "melhor",
-      "nada",
-      "strawberry",
-      "sueca"
-    ],
-    [
-      "compradores",
-      "mira",
-      "puro",
-      "questum",
-      "software",
-      "tira"
-    ],
-    [
-      "agua",
-      "ainwater",
-      "brasil",
-      "capta",
-      "levar",
-      "tratamento"
-    ],
-    [
-      "anima",
-      "congresso",
-      "desagrada",
-      "huang",
-      "jensen",
-      "mercado",
-      "volta"
-    ],
-    [
-      "brasil",
-      "criam",
-      "cubo",
-      "empreendedores",
-      "itau",
-      "native",
-      "primeiro",
-      "programa"
-    ],
-    [
-      "agente",
-      "brasileiros",
-      "compras",
-      "interessa",
-      "possuem",
-      "smartphone"
-    ],
     [
       "agente",
       "atendimento",
@@ -7019,6 +6842,212 @@
       "escalar",
       "pmes",
       "rodada"
+    ],
+    [
+      "auto",
+      "efficiency",
+      "grand",
+      "proves",
+      "theft",
+      "virtue"
+    ],
+    [
+      "asia",
+      "chip",
+      "hits",
+      "nvidia",
+      "pause",
+      "shipments",
+      "southeast"
+    ],
+    [
+      "after",
+      "anthropic",
+      "chinese",
+      "data",
+      "developer",
+      "door",
+      "google",
+      "instead",
+      "meta",
+      "openai",
+      "shut",
+      "their",
+      "turning"
+    ],
+    [
+      "after",
+      "astra",
+      "error",
+      "faster",
+      "limits",
+      "openai",
+      "patched",
+      "pricing",
+      "users"
+    ],
+    [
+      "fact",
+      "former",
+      "less",
+      "matters",
+      "openai",
+      "produce",
+      "proof",
+      "researcher",
+      "riemann",
+      "system",
+      "than"
+    ],
+    [
+      "buyers",
+      "chinese",
+      "chip",
+      "gpus",
+      "nvidia",
+      "purchase",
+      "renters",
+      "rule",
+      "sources",
+      "told"
+    ],
+    [
+      "afirma",
+      "esta",
+      "humano",
+      "nariz",
+      "quanto",
+      "startup"
+    ],
+    [
+      "aceita",
+      "anthropic",
+      "argumento",
+      "consciencia",
+      "filosofo",
+      "lendario"
+    ],
+    [
+      "artificial",
+      "cancer",
+      "cirurgia",
+      "combate",
+      "estao",
+      "genetica",
+      "inteligencia",
+      "prostata",
+      "robotica",
+      "transformando"
+    ],
+    [
+      "banco",
+      "carrefour",
+      "conectar",
+      "dados",
+      "negocio",
+      "pessoas",
+      "tecnologia"
+    ],
+    [
+      "fones",
+      "ligacoes",
+      "nothing",
+      "ouvido",
+      "prepara",
+      "reunioes",
+      "transcrevem"
+    ],
+    [
+      "agora",
+      "claude",
+      "cria",
+      "gratis",
+      "plano",
+      "programas",
+      "reais"
+    ],
+    [
+      "anuncios",
+      "brasil",
+      "busca",
+      "comeca",
+      "google",
+      "mostrar",
+      "respostas"
+    ],
+    [
+      "acoes",
+      "cada",
+      "crianca",
+      "duas",
+      "musk",
+      "promete",
+      "spacex"
+    ],
+    [
+      "cedo",
+      "chatgpt",
+      "estourar",
+      "fusao",
+      "limites",
+      "modos",
+      "pode"
+    ],
+    [
+      "clona",
+      "condenado",
+      "golpista",
+      "prisao",
+      "streamer"
+    ],
+    [
+      "agir",
+      "alerta",
+      "ficar",
+      "freio",
+      "mirabaud",
+      "pisa",
+      "quem",
+      "rali",
+      "tras"
+    ],
+    [
+      "aposta",
+      "carro",
+      "chinesa",
+      "eletrico",
+      "essa",
+      "humanoide",
+      "pelo",
+      "preco",
+      "robo",
+      "xpeng"
+    ],
+    [
+      "agora",
+      "bonde",
+      "europa",
+      "mira",
+      "perder",
+      "quantica",
+      "tecnologia"
+    ],
+    [
+      "agentes",
+      "entusiasmo",
+      "pagamentos",
+      "players",
+      "revelam",
+      "setor"
+    ],
+    [
+      "artificial",
+      "elife",
+      "horas",
+      "humano",
+      "inteligencia",
+      "reduz",
+      "trabalho"
     ]
   ]
 }
