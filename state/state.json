@@ -680,7 +680,6 @@
   },
   "imprensa": {
     "techcrunch_ai": [
-      "https://techcrunch.com/?p=3181514",
       "https://techcrunch.com/?p=3181633",
       "https://techcrunch.com/?p=3181659",
       "https://techcrunch.com/?p=3181689",
@@ -979,7 +978,8 @@
       "https://techcrunch.com/?p=3192412",
       "https://techcrunch.com/?p=3192506",
       "https://techcrunch.com/?p=3192475",
-      "https://techcrunch.com/?p=3192524"
+      "https://techcrunch.com/?p=3192524",
+      "https://techcrunch.com/?p=3192614"
     ],
     "the_verge_ai": [
       "https://www.theverge.com/?p=1009051",
@@ -2392,7 +2392,6 @@
       "6b04e6d3d4b66900013a6407"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49365443",
       "https://news.ycombinator.com/item?id=49378768",
       "https://news.ycombinator.com/item?id=49383026",
       "https://news.ycombinator.com/item?id=49385994",
@@ -2691,14 +2690,12 @@
       "https://news.ycombinator.com/item?id=50630809",
       "https://news.ycombinator.com/item?id=50637220",
       "https://news.ycombinator.com/item?id=50638503",
-      "https://news.ycombinator.com/item?id=50643065"
+      "https://news.ycombinator.com/item?id=50643065",
+      "https://news.ycombinator.com/item?id=50648050"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108408699",
-      "108413528",
-      "108410993",
       "108410598",
       "108403466",
       "108407336",
@@ -2995,7 +2992,10 @@
       "108559079",
       "108559469",
       "108559450",
-      "108559549"
+      "108559549",
+      "108559050",
+      "108559707",
+      "108559706"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3449,8 +3449,6 @@
       "https://mittechreview.com.br/?p=291638"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1378133",
-      "https://olhardigital.com.br/?p=1378137",
       "https://olhardigital.com.br/?p=1378143",
       "https://olhardigital.com.br/?p=1378161",
       "https://olhardigital.com.br/?p=1378192",
@@ -3748,7 +3746,9 @@
       "https://olhardigital.com.br/?p=1392636",
       "https://olhardigital.com.br/?p=1392643",
       "https://olhardigital.com.br/?p=1392692",
-      "https://olhardigital.com.br/?p=1392912"
+      "https://olhardigital.com.br/?p=1392912",
+      "https://olhardigital.com.br/?p=1393012",
+      "https://olhardigital.com.br/?p=1393040"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4306,7 +4306,6 @@
       "https://canaltech.com.br/apps/novo-gemini-no-google-mensagens-avisa-sobre-entregas-e-promocoes-que-te-interessam/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/afp/2026/10/16/ceo-da-nvidia-preve-que-todas-as-empresas-serao-companhias-de-ia.htm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/10/16/meta-pode-usar-noticias-de-sites-para-treinar-ia-sem-pagar.ghtm",
       "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/16/ia-ajuda-historiadores-a-decifrar-mensagens-napoleonicas-e-papiros-carbonizados.htm",
       "https://www.uol.com.br/tilt/noticias/afp/2026/10/16/china-estuda-proibir-exportacao-de-14-tecnologias-de-ia-e-biotecnologia.htm",
@@ -4605,7 +4604,8 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/25/agente-de-ia-invade-servidor-de-universidade-com-falha-inedita.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/25/ceo-da-nvidia-revela-que-faz-terapia-apos-pressao-e-escandalos.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/25/trump-considera-perdoar-ceo-da-nvidia-em-investigacao-nos-eua.ghtm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/25/saiba-mais-como-a-china-conseguiu-acesso-aos-chips-de-ia-da-nvidia-apesar-das-regras-para-impedir-isso.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/25/saiba-mais-como-a-china-conseguiu-acesso-aos-chips-de-ia-da-nvidia-apesar-das-regras-para-impedir-isso.htm",
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/25/sp-alerta-que-conselho-da-nvidia-pode-estar-comprometido-pode-cortar-nota.htm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -5135,114 +5135,11 @@
       "https://www.mobiletime.com.br/?p=868374",
       "https://www.mobiletime.com.br/?p=868389",
       "https://www.mobiletime.com.br/?p=868406",
-      "https://www.mobiletime.com.br/?p=868450"
+      "https://www.mobiletime.com.br/?p=868450",
+      "https://www.mobiletime.com.br/?p=868503"
     ]
   },
   "_titulos_recentes": [
-    [
-      "comeback",
-      "engineered",
-      "huang",
-      "jensen",
-      "risky",
-      "trump"
-    ],
-    [
-      "astra",
-      "could",
-      "crack",
-      "invented",
-      "math",
-      "other",
-      "proof",
-      "solved",
-      "strategy",
-      "then",
-      "theorem"
-    ],
-    [
-      "chinese",
-      "figure",
-      "intelligence",
-      "nvidia",
-      "over",
-      "scandal",
-      "spies",
-      "ties",
-      "tracked",
-      "year"
-    ],
-    [
-      "after",
-      "alexandr",
-      "breakthrough",
-      "coming",
-      "industry",
-      "meta",
-      "ready",
-      "riemann",
-      "wang",
-      "warns",
-      "what"
-    ],
-    [
-      "about",
-      "huang",
-      "jensen",
-      "lasted",
-      "life",
-      "nvidia",
-      "tried",
-      "weeks",
-      "without"
-    ],
-    [
-      "chinese",
-      "could",
-      "destroy",
-      "fears",
-      "find",
-      "military",
-      "missiles",
-      "nuclear"
-    ],
-    [
-      "750b",
-      "flagship",
-      "follows",
-      "into",
-      "loop",
-      "model",
-      "openai",
-      "territory",
-      "transformer"
-    ],
-    [
-      "agree",
-      "checks",
-      "could",
-      "limits",
-      "openai",
-      "outpace",
-      "rivals",
-      "safety",
-      "shared",
-      "systems",
-      "upcoming",
-      "urges",
-      "warns"
-    ],
-    [
-      "anthropic",
-      "appetite",
-      "build",
-      "compute",
-      "over",
-      "pushing",
-      "rent",
-      "strategy",
-      "toward"
-    ],
     [
       "chatgpt",
       "complex",
@@ -7036,6 +6933,95 @@
       "profissionais",
       "quem",
       "reune"
+    ],
+    [
+      "considers",
+      "credit",
+      "downgrade",
+      "governance",
+      "nvidia",
+      "over",
+      "risks"
+    ],
+    [
+      "anthropic",
+      "lean",
+      "much",
+      "shorter",
+      "verification",
+      "version"
+    ],
+    [
+      "bonds",
+      "boom",
+      "high",
+      "market",
+      "mispricing",
+      "most",
+      "risk",
+      "volatility",
+      "where",
+      "yield"
+    ],
+    [
+      "back",
+      "booth",
+      "denny",
+      "huang",
+      "jensen",
+      "nvidia",
+      "waiting",
+      "welcomes",
+      "your"
+    ],
+    [
+      "could",
+      "credit",
+      "governance",
+      "management",
+      "nvidia",
+      "over",
+      "rating",
+      "rising",
+      "risk",
+      "warns"
+    ],
+    [
+      "admite",
+      "congresso",
+      "fique",
+      "nvidia",
+      "pede",
+      "perdoar",
+      "silencio",
+      "trump"
+    ],
+    [
+      "amadores",
+      "dados",
+      "encontrar",
+      "nasa",
+      "planetas",
+      "possiveis",
+      "usam"
+    ],
+    [
+      "alerta",
+      "comprometido",
+      "conselho",
+      "cortar",
+      "estar",
+      "nota",
+      "nvidia",
+      "pode"
+    ],
+    [
+      "center",
+      "data",
+      "inaugura",
+      "primeiro",
+      "recife",
+      "tecto"
     ]
   ]
 }
