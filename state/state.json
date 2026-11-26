@@ -982,7 +982,6 @@
       "https://techcrunch.com/?p=3192614"
     ],
     "the_verge_ai": [
-      "https://www.theverge.com/?p=1009051",
       "https://www.theverge.com/?p=1009286",
       "https://www.theverge.com/?p=1009309",
       "https://www.theverge.com/?p=1009337",
@@ -1281,12 +1280,10 @@
       "https://www.theverge.com/?p=1042071",
       "https://www.theverge.com/?p=1042162",
       "https://www.theverge.com/?p=1042278",
-      "https://www.theverge.com/?p=1042221"
+      "https://www.theverge.com/?p=1042221",
+      "https://www.theverge.com/?p=1042620"
     ],
     "the_decoder": [
-      "https://the-decoder.com/?p=41575",
-      "https://the-decoder.com/?p=41558",
-      "https://the-decoder.com/?p=41595",
       "https://the-decoder.com/?p=41600",
       "https://the-decoder.com/?p=41608",
       "https://the-decoder.com/?p=41607",
@@ -1583,7 +1580,10 @@
       "https://the-decoder.com/?p=43312",
       "https://the-decoder.com/?p=43315",
       "https://the-decoder.com/?p=43318",
-      "https://the-decoder.com/?p=43322"
+      "https://the-decoder.com/?p=43322",
+      "https://the-decoder.com/?p=43327",
+      "https://the-decoder.com/?p=43328",
+      "https://the-decoder.com/?p=43336"
     ],
     "ars_technica_ai": [
       "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -2045,7 +2045,6 @@
       "https://www.technologyreview.com/?p=1149702"
     ],
     "wired_ai": [
-      "6a7f35587f588ccda7affc4f",
       "6a832c872b72af022841792b",
       "6a848674f787031f677590ed",
       "6a7dd1a1171ea6971cf1d2c1",
@@ -2344,7 +2343,8 @@
       "6b04860c53bb4d55d8bfbf94",
       "6b04eb5fff1e0201b5018edc",
       "6b059b8f77321780ff17d2de",
-      "6b0477f9f5de7b5e1546a250"
+      "6b0477f9f5de7b5e1546a250",
+      "6b07095da2c32fc4ddb30859"
     ],
     "platformer": [
       "6a43ccef91f68700015b8c17",
@@ -2392,9 +2392,6 @@
       "6b04e6d3d4b66900013a6407"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49378768",
-      "https://news.ycombinator.com/item?id=49383026",
-      "https://news.ycombinator.com/item?id=49385994",
       "https://news.ycombinator.com/item?id=49386163",
       "https://news.ycombinator.com/item?id=49386699",
       "https://news.ycombinator.com/item?id=49357530",
@@ -2691,13 +2688,14 @@
       "https://news.ycombinator.com/item?id=50637220",
       "https://news.ycombinator.com/item?id=50638503",
       "https://news.ycombinator.com/item?id=50643065",
-      "https://news.ycombinator.com/item?id=50648050"
+      "https://news.ycombinator.com/item?id=50648050",
+      "https://news.ycombinator.com/item?id=50601280",
+      "https://news.ycombinator.com/item?id=50647673",
+      "https://news.ycombinator.com/item?id=50651117"
     ]
   },
   "mercado": {
     "cnbc_tech": [
-      "108410598",
-      "108403466",
       "108407336",
       "108414423",
       "108409340",
@@ -2995,7 +2993,9 @@
       "108559549",
       "108559050",
       "108559707",
-      "108559706"
+      "108559706",
+      "108559691",
+      "108550928"
     ],
     "techcrunch_startups": [
       "https://techcrunch.com/?p=3147747",
@@ -3446,12 +3446,10 @@
       "https://mittechreview.com.br/?p=290005",
       "https://mittechreview.com.br/?p=290013",
       "https://mittechreview.com.br/?p=291435",
-      "https://mittechreview.com.br/?p=291638"
+      "https://mittechreview.com.br/?p=291638",
+      "https://mittechreview.com.br/?p=291873"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1378143",
-      "https://olhardigital.com.br/?p=1378161",
-      "https://olhardigital.com.br/?p=1378192",
       "https://olhardigital.com.br/?p=1378353",
       "https://olhardigital.com.br/?p=1378359",
       "https://olhardigital.com.br/?p=1378364",
@@ -3748,7 +3746,10 @@
       "https://olhardigital.com.br/?p=1392692",
       "https://olhardigital.com.br/?p=1392912",
       "https://olhardigital.com.br/?p=1393012",
-      "https://olhardigital.com.br/?p=1393040"
+      "https://olhardigital.com.br/?p=1393040",
+      "https://olhardigital.com.br/?p=1393060",
+      "https://olhardigital.com.br/?p=1393064",
+      "https://olhardigital.com.br/?p=1393067"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4001,7 +4002,10 @@
       "https://tecnoblog.net/?post_type=noticias&p=949450",
       "https://tecnoblog.net/?post_type=noticias&p=949483",
       "https://tecnoblog.net/?post_type=noticias&p=949649",
-      "https://tecnoblog.net/?post_type=noticias&p=949716"
+      "https://tecnoblog.net/?post_type=noticias&p=949716",
+      "https://tecnoblog.net/?post_type=noticias&p=949980",
+      "https://tecnoblog.net/?post_type=noticias&p=949796",
+      "https://tecnoblog.net/?post_type=noticias&p=949950"
     ],
     "canaltech": [
       "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-chatgpt/",
@@ -4306,9 +4310,6 @@
       "https://canaltech.com.br/apps/novo-gemini-no-google-mensagens-avisa-sobre-entregas-e-promocoes-que-te-interessam/"
     ],
     "tilt_uol": [
-      "https://www.uol.com.br/tilt/noticias/redacao/2026/10/16/meta-pode-usar-noticias-de-sites-para-treinar-ia-sem-pagar.ghtm",
-      "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/16/ia-ajuda-historiadores-a-decifrar-mensagens-napoleonicas-e-papiros-carbonizados.htm",
-      "https://www.uol.com.br/tilt/noticias/afp/2026/10/16/china-estuda-proibir-exportacao-de-14-tecnologias-de-ia-e-biotecnologia.htm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/10/16/por-que-coreweave-esta-na-mira-do-panico-em-torno-da-ia.htm",
       "https://www.uol.com.br/tilt/colunas/iagora/2026/10/17/apple-x-meta-como-ia-selou-tregua-em-guerra-historica-de-titas-dos-big-techs.htm",
       "https://www.uol.com.br/flash/?c=6ad24bdb14ded93b561004f0",
@@ -4605,7 +4606,10 @@
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/25/ceo-da-nvidia-revela-que-faz-terapia-apos-pressao-e-escandalos.ghtm",
       "https://www.uol.com.br/tilt/noticias/redacao/2026/11/25/trump-considera-perdoar-ceo-da-nvidia-em-investigacao-nos-eua.ghtm",
       "https://www.uol.com.br/tilt/noticias/reuters/2026/11/25/saiba-mais-como-a-china-conseguiu-acesso-aos-chips-de-ia-da-nvidia-apesar-das-regras-para-impedir-isso.htm",
-      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/25/sp-alerta-que-conselho-da-nvidia-pode-estar-comprometido-pode-cortar-nota.htm"
+      "https://www.uol.com.br/tilt/noticias/reuters/2026/11/25/sp-alerta-que-conselho-da-nvidia-pode-estar-comprometido-pode-cortar-nota.htm",
+      "https://tilt.uol.com.br/colunas/helton-simoes-gomes/2026/11/26/jogo-mais-rentavel-da-historia-gta-vi-esnobou-ia-tudo-foi-feito-a-mao.htm",
+      "https://tilt.uol.com.br/colunas/iagora/2026/11/26/anflopic-as-licoes-ao-mercado-de-ia-com-tombo-apos-ipo-historico.htm",
+      "https://www.uol.com.br/tilt/noticias/redacao/2026/11/26/procuradores-tentam-barrar-venda-de-conversas-de-criancas-com-ia.ghtm"
     ],
     "neofeed": [
       "https://neofeed.com.br/?p=232222",
@@ -4779,7 +4783,8 @@
       "/ceiqTPSMdm at https://braziljournal.com",
       "/ce36eNVzy1 at https://braziljournal.com",
       "/ceZJtUYk99 at https://braziljournal.com",
-      "/cedj50vaI8 at https://braziljournal.com"
+      "/cedj50vaI8 at https://braziljournal.com",
+      "/ceLzTOab3Y at https://braziljournal.com"
     ],
     "startups_com_br": [
       "https://startups.com.br/?p=339318",
@@ -5140,173 +5145,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "chatgpt",
-      "complex",
-      "everyday",
-      "handle",
-      "images",
-      "more",
-      "openai",
-      "questions",
-      "reliably",
-      "searches",
-      "updates"
-    ],
-    [
-      "asus",
-      "future",
-      "glimpse",
-      "local",
-      "offers",
-      "powered",
-      "proart",
-      "review"
-    ],
-    [
-      "child",
-      "generating",
-      "grok",
-      "images",
-      "porn",
-      "revenge",
-      "spacex",
-      "states",
-      "stop"
-    ],
-    [
-      "anthropic",
-      "argument",
-      "buying",
-      "consciousness",
-      "legendary",
-      "philosopher"
-    ],
-    [
-      "anyone",
-      "keep",
-      "questions",
-      "safe",
-      "submit",
-      "will",
-      "your"
-    ],
-    [
-      "brain",
-      "computer",
-      "interfaces",
-      "nvidia",
-      "powering"
-    ],
-    [
-      "back",
-      "huang",
-      "jensen",
-      "nvidia"
-    ],
-    [
-      "coding",
-      "first",
-      "generalized",
-      "loop",
-      "toward",
-      "transformer"
-    ],
-    [
-      "huang",
-      "jensen",
-      "nvidia",
-      "reinstates"
-    ],
-    [
-      "huang",
-      "jensen",
-      "nvidia",
-      "reinstated",
-      "skyrockets",
-      "stock"
-    ],
-    [
-      "billion",
-      "crowdstrike",
-      "cyberattacks",
-      "deal",
-      "supercharges",
-      "zscaler"
-    ],
-    [
-      "back",
-      "bring",
-      "character",
-      "congress",
-      "decision",
-      "failure",
-      "huang",
-      "nvidia",
-      "outrageous",
-      "shreds"
-    ],
-    [
-      "acquire",
-      "amazon",
-      "chip",
-      "decart",
-      "founders",
-      "hire",
-      "software",
-      "startup"
-    ],
-    [
-      "after",
-      "better",
-      "cheered",
-      "employees",
-      "huang",
-      "jensen",
-      "nvidia",
-      "pledges",
-      "return"
-    ],
-    [
-      "cnbc",
-      "deal",
-      "exclusive",
-      "huang",
-      "made",
-      "nvidia",
-      "reinstate",
-      "transcript",
-      "trump"
-    ],
-    [
-      "colette",
-      "huang",
-      "jensen",
-      "kress",
-      "means",
-      "nvidia",
-      "return",
-      "what"
-    ],
-    [
-      "ameaca",
-      "dados",
-      "grupo",
-      "hacker",
-      "investiga",
-      "nvidia",
-      "possivel",
-      "vazamento"
-    ],
-    [
-      "ensina",
-      "huang",
-      "jensen",
-      "novela",
-      "nvidia",
-      "poder",
-      "techs"
-    ],
     [
       "discurso",
       "funcionarios",
@@ -7022,6 +6860,165 @@
       "primeiro",
       "recife",
       "tecto"
+    ],
+    [
+      "character",
+      "chats",
+      "selling",
+      "state",
+      "stop",
+      "trying",
+      "users"
+    ],
+    [
+      "after",
+      "controls",
+      "export",
+      "halts",
+      "indonesia",
+      "malaysia",
+      "nvidia",
+      "server",
+      "shipments",
+      "singapore",
+      "thailand",
+      "tighter"
+    ],
+    [
+      "artex",
+      "automate",
+      "backed",
+      "cyberattacks",
+      "details",
+      "framework",
+      "hackers",
+      "microsoft",
+      "state"
+    ],
+    [
+      "complains",
+      "financial",
+      "meta",
+      "muse",
+      "refused",
+      "share",
+      "testing",
+      "watchdog"
+    ],
+    [
+      "astra",
+      "beat",
+      "code",
+      "first",
+      "golf",
+      "googlers",
+      "model",
+      "records"
+    ],
+    [
+      "astra",
+      "cuts",
+      "faster",
+      "hits",
+      "limits",
+      "openai",
+      "usage"
+    ],
+    [
+      "bargains",
+      "fish",
+      "global",
+      "investors",
+      "jitters",
+      "rally",
+      "shrug",
+      "stocks",
+      "tariffs"
+    ],
+    [
+      "america",
+      "build",
+      "copper",
+      "energy",
+      "infrastructure",
+      "latin",
+      "needs",
+      "test"
+    ],
+    [
+      "chorar",
+      "lagrimas"
+    ],
+    [
+      "1950",
+      "discutiu",
+      "nvidia",
+      "pentagono",
+      "pressionar",
+      "reconduzir",
+      "usar"
+    ],
+    [
+      "2027",
+      "atrasar",
+      "chineses",
+      "modelos",
+      "podem",
+      "restricoes"
+    ],
+    [
+      "asiaticos",
+      "envio",
+      "nvidia",
+      "paises",
+      "proibe",
+      "quatro",
+      "servidores"
+    ],
+    [
+      "agente",
+      "amazon",
+      "antes",
+      "avalia",
+      "impacto",
+      "liberar",
+      "muse",
+      "publicidade"
+    ],
+    [
+      "2023",
+      "comentarista",
+      "morto",
+      "recria"
+    ],
+    [
+      "esnobou",
+      "feito",
+      "historia",
+      "jogo",
+      "rentavel",
+      "tudo"
+    ],
+    [
+      "anflopic",
+      "historico",
+      "licoes",
+      "mercado",
+      "tombo"
+    ],
+    [
+      "barrar",
+      "chats",
+      "criancas",
+      "procuradores",
+      "tentam",
+      "venda"
+    ],
+    [
+      "avra",
+      "escalar",
+      "pmes",
+      "rodada"
     ]
   ]
 }
