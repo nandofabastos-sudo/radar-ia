@@ -2392,7 +2392,6 @@
       "6b04e6d3d4b66900013a6407"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49386163",
       "https://news.ycombinator.com/item?id=49386699",
       "https://news.ycombinator.com/item?id=49357530",
       "https://news.ycombinator.com/item?id=49388752",
@@ -2691,7 +2690,8 @@
       "https://news.ycombinator.com/item?id=50648050",
       "https://news.ycombinator.com/item?id=50601280",
       "https://news.ycombinator.com/item?id=50647673",
-      "https://news.ycombinator.com/item?id=50651117"
+      "https://news.ycombinator.com/item?id=50651117",
+      "https://news.ycombinator.com/item?id=50660180"
     ]
   },
   "mercado": {
@@ -3454,7 +3454,6 @@
       "https://mittechreview.com.br/?p=292120"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1378353",
       "https://olhardigital.com.br/?p=1378359",
       "https://olhardigital.com.br/?p=1378364",
       "https://olhardigital.com.br/?p=1378430",
@@ -3753,7 +3752,8 @@
       "https://olhardigital.com.br/?p=1393040",
       "https://olhardigital.com.br/?p=1393060",
       "https://olhardigital.com.br/?p=1393064",
-      "https://olhardigital.com.br/?p=1393067"
+      "https://olhardigital.com.br/?p=1393067",
+      "https://olhardigital.com.br/?p=1393428"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -4012,7 +4012,6 @@
       "https://tecnoblog.net/?post_type=noticias&p=949950"
     ],
     "canaltech": [
-      "https://canaltech.com.br/inteligencia-artificial/guia-completo-como-substituir-gems-por-skills-gemini/",
       "https://canaltech.com.br/apps/youtube-muda-algoritmo-e-corta-alcance-de-videos-curtos-copiados/",
       "https://canaltech.com.br/inteligencia-artificial/google-rebaixa-gemini-gratis-e-corta-modelos-pro-do-plano-mais-barato/",
       "https://canaltech.com.br/inteligencia-artificial/chatgpt-comeca-a-exibir-mais-anuncios-agora-no-gerador-de-imagens/",
@@ -4311,7 +4310,8 @@
       "https://canaltech.com.br/apps/novo-gemini-no-google-mensagens-avisa-sobre-entregas-e-promocoes-que-te-interessam/",
       "https://canaltech.com.br/fone-de-ouvido/nothing-prepara-fones-de-ouvido-com-ia-que-transcrevem-ligacoes-e-reunioes/",
       "https://canaltech.com.br/inteligencia-artificial/claude-agora-cria-programas-reais-para-pc-no-plano-gratis/",
-      "https://canaltech.com.br/internet-e-redes-sociais/google-comeca-a-mostrar-anuncios-nas-respostas-de-ia-da-busca-no-brasil/"
+      "https://canaltech.com.br/internet-e-redes-sociais/google-comeca-a-mostrar-anuncios-nas-respostas-de-ia-da-busca-no-brasil/",
+      "https://canaltech.com.br/games/ubisoft-exige-que-devs-justifiquem-por-que-nao-usam-ia-em-novos-jogos/"
     ],
     "tilt_uol": [
       "https://tilt.uol.com.br/colunas/iagora/2026/10/17/apple-x-meta-como-ia-selou-tregua-em-guerra-historica-de-titas-dos-big-techs.htm",
@@ -5150,44 +5150,12 @@
       "https://www.mobiletime.com.br/?p=868450",
       "https://www.mobiletime.com.br/?p=868503",
       "https://www.mobiletime.com.br/?p=868526",
-      "https://www.mobiletime.com.br/?p=868535"
+      "https://www.mobiletime.com.br/?p=868535",
+      "https://www.mobiletime.com.br/?p=868542",
+      "https://www.mobiletime.com.br/?p=868565"
     ]
   },
   "_titulos_recentes": [
-    [
-      "agente",
-      "atendimento",
-      "cliente",
-      "lanca",
-      "ticket"
-    ],
-    [
-      "altair",
-      "eredcap",
-      "ericsson",
-      "foco",
-      "testam"
-    ],
-    [
-      "agent",
-      "control",
-      "introducing",
-      "muse",
-      "personal"
-    ],
-    [
-      "back",
-      "jensen"
-    ],
-    [
-      "adoption",
-      "asia",
-      "gains",
-      "grows",
-      "measuring",
-      "remains",
-      "tricky"
-    ],
     [
       "after",
       "asian",
@@ -7048,6 +7016,47 @@
       "inteligencia",
       "reduz",
       "trabalho"
+    ],
+    [
+      "again",
+      "hosting",
+      "made",
+      "self"
+    ],
+    [
+      "apoio",
+      "cidade",
+      "nvidia",
+      "parana",
+      "quer",
+      "tera",
+      "tudo",
+      "usar"
+    ],
+    [
+      "devs",
+      "exige",
+      "jogos",
+      "justifiquem",
+      "novos",
+      "ubisoft",
+      "usam"
+    ],
+    [
+      "golpes",
+      "identifica",
+      "lancara",
+      "mensagens",
+      "solucao",
+      "whatsapp"
+    ],
+    [
+      "agentes",
+      "clientes",
+      "dois",
+      "lancara",
+      "picpay",
+      "seus"
     ]
   ]
 }
