@@ -2392,8 +2392,6 @@
       "6b04e6d3d4b66900013a6407"
     ],
     "hacker_news_top": [
-      "https://news.ycombinator.com/item?id=49402232",
-      "https://news.ycombinator.com/item?id=49412396",
       "https://news.ycombinator.com/item?id=49421554",
       "https://news.ycombinator.com/item?id=49421074",
       "https://news.ycombinator.com/item?id=49433292",
@@ -2691,7 +2689,9 @@
       "https://news.ycombinator.com/item?id=50660180",
       "https://news.ycombinator.com/item?id=50653477",
       "https://news.ycombinator.com/item?id=50663595",
-      "https://news.ycombinator.com/item?id=50664325"
+      "https://news.ycombinator.com/item?id=50664325",
+      "https://news.ycombinator.com/item?id=50643158",
+      "https://news.ycombinator.com/item?id=50670855"
     ]
   },
   "mercado": {
@@ -3457,7 +3457,6 @@
       "https://mittechreview.com.br/?p=292115"
     ],
     "olhar_digital": [
-      "https://olhardigital.com.br/?p=1378385",
       "https://olhardigital.com.br/?p=1375046",
       "https://olhardigital.com.br/?p=1378165",
       "https://olhardigital.com.br/?p=1377245",
@@ -3756,7 +3755,8 @@
       "https://olhardigital.com.br/?p=1393512",
       "https://olhardigital.com.br/?p=1393757",
       "https://olhardigital.com.br/?p=1393828",
-      "https://olhardigital.com.br/?p=1393879"
+      "https://olhardigital.com.br/?p=1393879",
+      "https://olhardigital.com.br/?p=1393908"
     ],
     "tecnoblog": [
       "https://tecnoblog.net/?post_type=noticias&p=916808",
@@ -5165,31 +5165,6 @@
     ]
   },
   "_titulos_recentes": [
-    [
-      "artificial",
-      "confianca",
-      "gera",
-      "inteligencia",
-      "vantagem",
-      "varejo"
-    ],
-    [
-      "avanco",
-      "estabelecer",
-      "limites",
-      "openai",
-      "quer",
-      "setor"
-    ],
-    [
-      "apenas",
-      "arquivos",
-      "horas",
-      "inicializado",
-      "tres",
-      "vazamento",
-      "xbox"
-    ],
     [
       "acordo",
       "bilionario",
@@ -7037,6 +7012,32 @@
       "quali",
       "receitas",
       "whatsapp"
+    ],
+    [
+      "astra",
+      "historical",
+      "mystery",
+      "solves"
+    ],
+    [
+      "child",
+      "generating",
+      "grok",
+      "images",
+      "porn",
+      "revenge",
+      "spacex",
+      "states",
+      "stop"
+    ],
+    [
+      "acessar",
+      "china",
+      "chips",
+      "encontra",
+      "maneira",
+      "mesmo",
+      "sancoes"
     ]
   ]
 }
